@@ -2,7 +2,7 @@
 layout: team
 title: Team
 hero:
-  image: https://res.cloudinary.com/spinme/image/upload/v1552398058/Team/logo-bord-breed.jpg
+  image: https://res.cloudinary.com/spinme/image/upload/v1539930513/sample.jpg
 intro:
   content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent, dat
     gaat verder dan alleen maar telefonie. Betrouwbaar internet en goede apparatuur
