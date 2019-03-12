@@ -10,8 +10,7 @@ menu:
     name: Team
     weight: 2
 hero:
-  image: >-
-    https://res.cloudinary.com/spinme/image/upload/c_scale,f_auto,q_auto,w_160/sample.jpg
+  image: /uploads/logo-bord-breed.jpg
 intro:
   content: >-
     Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent, dat gaat
