@@ -1,0 +1,53 @@
+{{ with .Params.hero}}
+<header class="mb-8 lg:mb-0 bg-white">
+  <div class="max-w-5xl xl:container mx-auto">
+    <div class="relative">
+      {{ with .image}}
+      {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" .)}}
+      {{ with $imageResource }}
+      {{ $crop1x := (.Fill "400x300 Center") }}
+      {{ $crop2x := (.Fill "800x600 Center") }}
+      {{ $cropxl1x := (.Fill "992x744 Center") }}
+      {{ $cropxl2x := (.Fill "1984x1488 Center") }}
+      {{ $small1x := (.Fill "1200x800 Top") }}
+      {{ $medium1x := (.Fill "1600x800 Top") }}
+      {{ $large1x := (.Fill "2000x1000 Top") }}
+
+
+      <picture class="block w-full h-full lg:h-screen-70">
+        <source media="(min-width: 1440px)" srcset="{{ $large1x.RelPermalink }}">
+        <source media="(min-width: 1200px)" srcset="{{ $medium1x.RelPermalink }}">
+        <source media="(min-width: 992px)" srcset="{{ $small1x.RelPermalink }}">
+        <source media="(min-width: 400px)" srcset="{{ $cropxl2x.RelPermalink }} 2x, {{ $cropxl1x.RelPermalink }} 1x" />
+        <source srcset="{{ $crop2x.RelPermalink }} 2x, {{ $crop1x.RelPermalink }} 1x" />
+        <img src="{{ $crop1x.RelPermalink }}" alt="" class="block w-full h-full" style="object-fit:cover;" />
+      </picture>
+
+      {{ end }}
+      {{ end }}
+      <div class="absolute pin-t pin-x bg-grey-25 h-full flex flex-col justify-end lg:justify-center  px-4 pb-8 text-white">
+        <div class="max-w-2xl lg:px-4 mx-auto w-full lg:flex lg:justify-end">
+          <div class="lg:bg-green lg:max-w-md  lg:rounded lg:p-8 xl:p-10 xl:pt-16 lg:text-white">
+            <h1 class="font-medium leading-none mb-2 text-2xl sm:text-3xl md:text-4xl lg:mb-4">{{.title}}</h1>
+            <p class="sm:text-lg xl:text-xl lg:opacity-85">{{.subtitle}}</p>
+            <p class="hidden lg:block lg:mt-6 xl:mt-8 xl:text-lg "><a href="#" class="btn">Bekijk ons aanbod</a></p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="bg-green text-white">
+      <div class="max-w-2xl xl:container mx-auto">
+        <div class="px-4 py-4 flex items-center justify-between">
+          <div class="lg:flex lg:items-center"><a href="#" class="btn btn-light mr-4">Bespaarcalculator</a>
+            <span class="hidden lg:block text-lg">Benieuwd hoeveel geld je kan besparen per maand?</span>
+          </div>
+          <p class="flex flex-row items-center">
+            <img src="/uploads/medewerker.jpg" class="hidden sm:block shadow-inner w-16 h-16 rounded-full mr-4" style="object-fit: cover;" alt="">
+            <span>Bel met onze specialisten <br /> <a href="tel:0508200000" class="no-underline text-white">050 - 820 00 00</a></span>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+{{ end }}

@@ -1,0 +1,7 @@
+{{ with .Site.Menus.footer }}
+  <nav class="md:flex md:justify-between items-cener">
+    {{ range . }}
+      <a class="no-underline mr-6 md:mr-0 md:ml-6 text-grey-dark hover:text-blue" href="{{.URL}}">{{.Name}}</a>
+    {{ end }}
+  </nav>
+{{ end }}

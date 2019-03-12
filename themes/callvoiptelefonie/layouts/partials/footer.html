@@ -1,0 +1,59 @@
+<footer class="bg-white ">
+
+  <div class="bg-grey-lightest">
+    <div class="container px-4">
+      <div class="bg-grey-dark rounded-lg text-white pt-16 md:pb-6 xl:pb-10 xxl:pb-12 md:pt-20 font-medium relative" style="bottom: -4rem;">
+        <div class="flex flex-wrap">
+          {{ with .Site.Data.footer.newclient }}
+          <div class="w-full md:w-1/2 lg:w-1/3 text-center border-r-2 mb-10 border-white-10 px-4 xl:px-8 ">
+            {{ with .title }}
+            <p class="lg:text-lg xl:text-xl opacity-75  mb-4">{{ . }}</p>
+            {{ end }}
+            {{ with .phonenumber }}
+            <p class="mb-8">
+              <a href="tel:{{ .number }}" class="text-white no-underline text-2xl xl:text-3xl flex items-center justify-center hover:text-blue "><i class="fal fa-phone mr-2 fa-flip-horizontal relative" style="font-size: 32px; top: .2rem; transform: rotate(97deg); "></i> {{ .pretty }}</a></p>
+            {{ end }}
+            {{ with .subtitle }}
+            <p class="opacity-75 mb-2 lg:text-lg">{{ . }}</p>
+            {{ end }}
+            {{ with .emailaddress }}
+            <p class="text-xl"><a href="mailto:{{ .email }}" class="text-white no-underline hover:text-blue">{{ .pretty }}</a></p>
+            {{ end }}
+          </div>
+          {{ end }}
+          <div class="w-full md:w-1/2 lg:w-1/3 text-center border-r-2 mb-10 border-white-10 px-4 xl:px-8">
+            <p class="lg:text-lg xl:text-xl opacity-75 mb-4  lg:mb-6">Of liever even met ons chatten?<br /> Geen probleem, dat kan hier.</p>
+            <a href="#" class="button-icon xl:text-lg"><i class="fal fa-comments fa-2x mr-4"></i> Chat met specialist starten</a>
+          </div>
+          <div class="w-full lg:w-1/3 text-center px-4 xl:px-8 mb-10">
+            <p class="lg:text-lg xl:text-xl opacity-75 mb-6  md:mb-10">Natuurlijk kan je ons ook <br/>volgen op je favorite social kanaal</p>
+            <nav>
+              <a href="#" class="mx-4 no-underline">
+                <img src="/images/facebook-f-brands.svg" alt="">
+              </a>
+              <a href="#" class="mx-4 no-underline">
+                <img src="/images/linkedin-in-brands.svg" alt="">
+              </a>
+              <a href="#" class="mx-4 no-underline">
+                <img src="/images/twitter-brands.svg" alt="">
+              </a>
+            </nav>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="container py-8 md:py-20 px-4 mt-16 ">
+    <div class="mb-2 md:mb-4">
+      {{- partial "logo.html" . -}}
+    </div>
+    <div class="md:flex md:justify-between md:items-start font-medium opacity-80">
+        <p class="mb-6 md:mb-0">Copyright Callvoip 2019 - Alle rechten voorbehouden</p>
+        {{- partial "nav-footer.html" . -}}
+    </div>
+  </div>
+
+</div>
+
+</footer>

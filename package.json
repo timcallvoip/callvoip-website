@@ -1,0 +1,31 @@
+{
+  "name": "callvoiptelefonie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run build",
+    "hugo": "hugo server --disableFastRender -p 1330",
+    "build:production": "rm -rf ./public && webpack -p && hugo && html-minifier --input-dir ./public --output-dir ./public --collapse-whitespace --file-ext html",
+    "build": "webpack --progress --colors --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fortawesome/fontawesome-pro": "^5.5.0",
+    "@fortawesome/fontawesome-svg-core": "^1.2.12",
+    "@fortawesome/pro-light-svg-icons": "^5.6.3",
+    "animate.css": "^3.7.0",
+    "css-loader": "^1.0.0",
+    "html-minifier": "^3.5.20",
+    "mini-css-extract-plugin": "^0.4.3",
+    "postcss": "^7.0.5",
+    "postcss-import": "^12.0.0",
+    "postcss-loader": "^3.0.0",
+    "style-loader": "^0.23.0",
+    "tailwindcss": "^0.6.6",
+    "tailwindcss-alpha": "^0.1.2",
+    "webpack": "^4.20.2",
+    "webpack-cli": "^3.1.2"
+  }
+}

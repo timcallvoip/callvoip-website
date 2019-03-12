@@ -1,0 +1,33 @@
+{{ define "main" }}
+<article>
+  {{ range first 1 (where (where .Site.Pages.ByDate.Reverse "Type" "testimonial")  "Params.featured" true) }}
+    {{- partial "post-featured.html" . -}}
+  {{ end }}
+
+  <div class="flex flex-col-reverse md:flex-col">
+
+  {{- partial "nav-onpage.html" . -}}
+  <div class="mb-12 md:mb-24">
+    <div class="container px-4">
+      {{- partial "page-intro.html" . -}}
+    </div>
+    <div class="">
+        {{ $paginator := .Paginate (where (where .Data.Pages.ByDate.Reverse "Type" "testimonial") "Params.featured" "!=" true  ) 6 }}
+        {{ range $i, $item := $paginator.Pages }}
+        {{if not (modBool $i 2)}}
+          {{- partial "testimonial-item.html" (dict "item" . "ctx" $ "type" "light") -}}
+        {{ else }}
+          {{- partial "testimonial-item.html" (dict "item" . "ctx" $ "type" "dark") -}}
+        {{ end }}
+      {{ end }}
+    </div>
+    {{ template "_internal/pagination.html" . }}
+  </div>
+
+  </div>
+
+
+
+
+</article>
+{{ end }}

@@ -1,0 +1,6 @@
+baseURL: "https://callvoiptelefoniewebsite.netlify.com"
+languageCode: "en-us"
+title: "callvoiptelefonie"
+theme: "callvoiptelefonie"
+menu:
+  main

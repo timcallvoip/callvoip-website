@@ -1,0 +1,9 @@
+newclient:
+  title: "Klant worden? Bel ons dan op:"
+  phonenumber:
+    pretty: 050 – 820 00 00
+    number: +31508200000
+  subtitle: "Of stuur ons een e-mail:"
+  emailaddress:
+    pretty: hallo@callvoip.nl
+    email: hallo@callvoip.nl
