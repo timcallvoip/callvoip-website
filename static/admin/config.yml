@@ -7,10 +7,10 @@ public_folder: uploads
 logo_url: "https://callvoiptelefoniewebsite.netlify.com/images/callvoip-logo.svg"
 media_library:
   name: cloudinary
+  output_filename_only: true
   config:
     cloud_name: spinme
     api_key: 189714876994414
-    output_filename_only: true
 collections:
   - name: blog
     label: Blog
