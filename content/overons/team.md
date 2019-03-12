@@ -32,7 +32,7 @@ team:
       Procesregisseur. Enthousiast en gedreven. Spin in het web. Organisator en
       teamwerker.
     function: Business Operations
-    image: /uploads/team-marieke.jpg
+    image: Team/team-marieke.jpg
     name: Marieke Timmer
   - content: >-
       Zorgvuldig en precies. Structuur en orde. Overzicht. Superieure
