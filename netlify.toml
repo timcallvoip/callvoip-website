@@ -1,5 +1,5 @@
 [build]
-  command = "hugo"
+  command = "npm run build:production"
   publish = "public"
 
-HUGO_VERSION = "0.54"
+HUGO_VERSION = "0.54.0"
