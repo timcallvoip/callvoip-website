@@ -3,14 +3,8 @@ backend:
   branch: master
 # publish_mode: editorial_workflow
 media_folder: content/uploads
-public_folder: https://res.cloudinary.com/spinme/image/
+public_folder: uploads
 logo_url: "https://callvoiptelefoniewebsite.netlify.com/images/callvoip-logo.svg"
-media_library:
-  name: cloudinary
-  output_filename_only: true
-  config:
-    cloud_name: spinme
-    api_key: 189714876994414
 collections:
   - name: blog
     label: Blog
