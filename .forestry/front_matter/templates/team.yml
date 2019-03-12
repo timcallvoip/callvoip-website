@@ -38,7 +38,7 @@ fields:
   label: Layout
   type: text
   hidden: false
-  default: ''
+  default: team
 - name: team
   label: Team
   type: field_group_list
@@ -53,15 +53,13 @@ fields:
     type: text
     hidden: false
     default: ''
-  - name: image
-    label: Image
-    type: text
-    hidden: false
-    default: ''
   - name: name
     label: Name
     type: text
     hidden: false
     default: ''
+  - type: file
+    name: image
+    label: Image
   hidden: false
   default: ''
