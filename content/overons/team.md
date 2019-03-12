@@ -10,7 +10,8 @@ menu:
     name: Team
     weight: 2
 hero:
-  image: /uploads/logo-bord-breed.jpg
+  image: >-
+    https://res.cloudinary.com/spinme/image/upload/v1552398058/Team/logo-bord-breed.jpg
 intro:
   content: >-
     Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent, dat gaat
@@ -23,7 +24,8 @@ team:
       Partnership. Klant op voetstuk. Lef en focus. Rots in de branding. No
       limits. Serviceminded.
     function: Algemeen Directeur
-    image: /uploads/team-robert.jpg
+    image: >-
+      https://res.cloudinary.com/spinme/image/upload/v1552398058/Team/team-robert.jpg
     name: Robert Tijdhof
   - content: >-
       Toegewijd en persoonlijk. Vertaalt techniek naar normale taal.
