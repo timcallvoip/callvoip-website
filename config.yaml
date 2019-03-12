@@ -3,5 +3,5 @@ languageCode: "en-us"
 title: "callvoiptelefonie"
 theme: "callvoiptelefonie"
 cloudinary_base_url: "https://res.cloudinary.com/spinme"
-menu:
-  main
+# menu:
+#   main
