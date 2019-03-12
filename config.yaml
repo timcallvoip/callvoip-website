@@ -2,6 +2,7 @@ baseURL: "https://callvoiptelefoniewebsite.netlify.com"
 languageCode: "en-us"
 title: "callvoiptelefonie"
 theme: "callvoiptelefonie"
-cloudinary_base_url: "https://res.cloudinary.com/spinme"
+params:
+  cloudinary_base_url: "https://res.cloudinary.com/spinme/image/upload"
 # menu:
 #   main

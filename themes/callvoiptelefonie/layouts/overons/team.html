@@ -5,21 +5,13 @@
   {{- partial "nav-onpage.html" . -}}
   <div class="container px-4 mb-12 md:mb-24">
     {{- partial "page-intro.html" . -}}
-
     {{ with .Params.team }}
     <div class="max-w-lg mx-auto">
 
       {{ range . }}
       <div class="flex mb-10">
         {{ with .image }}
-        {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) }}
-        {{ with $imageResource }}
-        {{ $src1x := (.Fill "200x200 Center") }}
-        {{ $src2x := (.Fill "400x400 Center") }}
-          <picture class="mr-6 md:mr-12">
-            <img src="{{ $src1x.RelPermalink }}" srcset="{{ $src1x.RelPermalink }} 1x, {{ $src2x.RelPermalink }} 2x" class="h-32 w-32 md:h-48 md:w-48" style="object-fit: cover;"  />
-          </picture>
-        {{ end }}
+          <img data-src="{{ $.Site.Params.cloudinary_base_url }}/w_auto,dpr_auto,c_scale,f_auto,q_auto/{{.}}" class="mr-6 md:mr-12 h-32 w-32 md:h-48 md:w-48 cld-responsive" style="object-fit: cover;" />
         {{ end }}
         <div class="flex-1 md:pt-4">
           {{ with .name }}

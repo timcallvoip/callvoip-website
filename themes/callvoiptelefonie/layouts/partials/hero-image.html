@@ -1,12 +1,5 @@
 {{ with .Params.hero.image}}
-{{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) }}
-{{ with $imageResource }}
-{{ $src1x := (.Fill "1920x550 Center") }}
-{{ $src2x := (.Fill "3840x1100 Center") }}
 <header class="h-64 md:h-96 bg-grey-lightest">
-  <picture class="h-full">
-    <img src="{{ $src1x.RelPermalink }}" srcset="{{ $src1x.RelPermalink }} 1x, {{ $src2x.RelPermalink }} 2x" class="h-full w-full" style="object-fit: cover;"  />
-  </picture>
+  <img data-src="{{ $.Site.Params.cloudinary_base_url }}/w_auto,dpr_auto,c_scale,f_auto,q_auto/{{.}}" class="h-full w-full cld-responsive" style="object-fit: cover;" />
 </header>
-{{ end }}
 {{ end }}

@@ -89,3 +89,6 @@ var activemenu = function () {
   });
 
 }();
+
+const cl = cloudinary.Cloudinary.new({ cloud_name: 'spinme' })
+cl.responsive()
