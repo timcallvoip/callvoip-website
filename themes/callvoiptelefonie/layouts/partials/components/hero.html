@@ -1,5 +1,6 @@
+{{$title := .Title }}
 {{ with .Params.hero.image}}
 <header class="h-64 md:h-96 bg-grey-lightest">
-  <img data-src="{{ $.Site.Params.cloudinary_base_url }}/w_auto,dpr_auto,c_scale,f_auto,q_auto{{.}}" class="h-full w-full cld-responsive" style="object-fit: cover;" />
+  <img data-src="{{ $.Site.Params.cloudinary_base_url }}/w_auto,dpr_auto,c_scale,f_auto,q_auto{{.}}" class="h-full w-full cld-responsive" style="object-fit: cover;" alt="{{$title}}" />
 </header>
 {{ end }}
