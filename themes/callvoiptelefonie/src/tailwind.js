@@ -49,7 +49,7 @@ let colors = {
   'grey-lightest': '#F3F7FB',
   'white': '#ffffff',
   'green': '#78B52E',
-  'blue': '#367CFF',
+  'blue': '#2069f3',
 }
 
 module.exports = {
