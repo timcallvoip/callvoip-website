@@ -3,7 +3,7 @@ title: Werken bij Callvoip
 layout: werkenbij
 type: oversons
 hero:
-  image: "/v1552467499/placeholder-team.jpg"
+  image: "/v1552398058/Team/logo-bord-breed.jpg"
 intro:
   title: Werken bij Callvoip
   content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent, dat
