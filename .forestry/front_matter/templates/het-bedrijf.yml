@@ -16,11 +16,9 @@ fields:
     type: text
     hidden: false
     default: ''
-  - name: content
+  - type: textarea
+    name: content
     label: Content
-    type: textarea
-    hidden: false
-    default: ''
   hidden: false
   default: ''
 - name: hero
@@ -37,8 +35,8 @@ fields:
 - name: layout
   label: Layout
   type: text
-  hidden: false
-  default: ''
+  hidden: true
+  default: hetbedrijf
 - name: blocks
   label: Blocks
   type: field_group_list
@@ -58,10 +56,14 @@ fields:
     type: file
     hidden: false
     default: ''
-  - name: position
+  - type: select
+    name: position
+    config:
+      source:
+        type: simple
+      options:
+      - image_left
+      - " image_right"
     label: Position
-    type: text
-    hidden: false
-    default: ''
   hidden: false
   default: ''
