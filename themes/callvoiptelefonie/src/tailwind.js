@@ -46,7 +46,7 @@ View the full documentation at https://tailwindcss.com.
 let colors = {
   'grey-dark': '#203476',
   'grey': '#223240',
-  'grey-lightest': '#F3F7FB',
+  'grey-lightest': '#EBF2F7',
   'white': '#ffffff',
   'green': '#78B52E',
   'blue': '#2069f3',

@@ -9,7 +9,8 @@
         {{ range .Params.blocks }}
         <div class="flex flex-col-reverse md:flex-row items-center {{ if eq .position "image_left"}} md:flex-row-reverse {{ end }} md:-mx-8 user-content mb-8 md:mb-24">
           <div class="md:w-1/2 md:px-8">
-            {{ with .title }}
+            {{ $title := .title }}
+            {{ with $title }}
             <h2 class="font-medium text-lg xxl:text-2xl block mb-1">{{ . }}</h2>
             {{ end }}
             {{ with .content }}
@@ -21,7 +22,7 @@
           <div class="md:w-1/2 md:px-8 mb-6">
             {{ with .image}}
             <img data-src="{{ $.Site.Params.cloudinary_base_url }}/w_auto,dpr_auto,c_scale,f_auto,q_auto/{{.}}" class="w-full cld-responsive"
-              style="object-fit: cover;" />
+              style="object-fit: cover;" alt="{{ $title }}" />
             {{ end }}
           </div>
         </div>
