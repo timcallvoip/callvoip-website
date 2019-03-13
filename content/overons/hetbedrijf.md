@@ -2,7 +2,7 @@
 layout: hetbedrijf
 title: Het bedrijf
 hero:
-  image: "/uploads/logo-bord-breed.jpg"
+  image: "/v1552398058/Team/logo-bord-breed.jpg"
 intro:
   content: "<strong>Even voorstellen:</strong> Wij zijn Callvoip, VoIP-provider voor
     de zakelijke markt. "
@@ -13,13 +13,13 @@ blocks:
     Daarbij leveren we de producten en internetverbindingen die nodig zijn om optimaal
     gebruik te kunnen maken van onze telefoniedienst. CallvoipTelefonie bestaat uit
     een gedreven team van 9 personen.</p>"
-  image: "/uploads/placeholder-werken1.jpg"
-  position: image_right
+  image: "/v1552466820/placeholder-werken2.jpg"
+  position: image_left
   title: Wie wij zijn
 - content: "<p>Callvoip is de zakelijke telefonieprovider waar persoonlijk contact
     centraal staat. Maak daarom kennis met [ons team](/team) en weet wie u aan de
     lijn heeft.</p>"
-  image: "/uploads/placeholder-werken2.jpg"
+  image: "/v1552466837/placeholder-werken1.jpg"
   position: image_left
   title: Met wie kom je te werken?
 menu:
