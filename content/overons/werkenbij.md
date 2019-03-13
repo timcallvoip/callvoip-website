@@ -1,7 +1,6 @@
 ---
 title: Werken bij Callvoip
 layout: werkenbij
-type: oversons
 hero:
   image: "/v1552398058/Team/logo-bord-breed.jpg"
 intro:
