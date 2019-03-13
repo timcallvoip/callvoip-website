@@ -20,7 +20,7 @@ blocks:
     centraal staat. Maak daarom kennis met [ons team](/team) en weet wie u aan de
     lijn heeft.</p>"
   image: "/v1552466837/placeholder-werken1.jpg"
-  position: image_left
+  position: " image_right"
   title: Met wie kom je te werken?
 menu:
   main:
