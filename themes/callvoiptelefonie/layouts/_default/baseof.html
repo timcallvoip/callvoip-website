@@ -1,18 +1,23 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        {{- partial "head.html" . -}}
-    </head>
-    <body class='text-base font-sans leading-normal text-grey-dark overflow-x-hidden'>
-        <div id="app" class="bg-no-repeat bg-right-top"  {{ if .IsHome }} style="background-image:url('/images/site-bg.svg')" {{ end }}>
-            {{- block "header" . }}{{- partial "header.html" . -}} {{ end }}
-            <div id="content">
-                {{- block "main" . }}{{- end }}
-            </div>
-            {{- partial "chat.html" . -}}
-            {{- partial "footer.html" . -}}
-        </div>
-        {{- partial "scripts.html" . -}}
-    </body>
 
+  <head>
+    {{- block "head" . -}}
+      <title>{{ block "title" . }}{{ with .Title }}{{ . }} | {{ end }}{{ .Site.Title }}{{ end }}</title>
+      {{- partial "head" . -}}
+    {{- end -}}
+  </head>
+
+  <body class='text-base font-sans leading-normal text-grey-dark overflow-x-hidden'>
+    <div id="app" class="bg-no-repeat bg-right-top" {{ if .IsHome }} style="background-image:url('/images/site-bg.svg')"
+      {{ end }}>
+      {{- block "header" . }}{{- partial "components/header.html" . -}} {{ end }}
+      <div id="content">
+        {{- block "main" . }}{{- end }}
+      </div>
+      {{- partial "components/chat.html" . -}}
+      {{- partial "components/footer.html" . -}}
+    </div>
+    {{- partial "scripts.html" . -}}
+  </body>
 </html>

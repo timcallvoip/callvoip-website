@@ -1,11 +1,11 @@
 {{ define "main" }}
 <article>
-  {{- partial "hero-image.html" . -}}
+  {{- partial "components/hero.html" . -}}
   <div class="flex flex-col-reverse md:flex-col">
-    {{- partial "nav-onpage.html" . -}}
+    {{- partial "components/nav/onpage.html" . -}}
     <div>
       <div class="container px-4">
-        {{- partial "page-intro.html" . -}}
+        {{- partial "components/page-intro.html" . -}}
         <div>
           {{ range .Params.blocks }}
           <div class="flex flex-col-reverse md:flex-row items-center {{ if eq .position "image_left"}} md:flex-row-reverse {{ end }} md:-mx-8 user-content mb-8 md:mb-24">

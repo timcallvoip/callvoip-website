@@ -18,7 +18,7 @@
       {{ with .items }}
       <div class="md:w-1/2 md:px-8 lg:px-12">
         {{ range . }}
-          {{- partial "card.html" . -}}
+          {{- partial "components/card.html" . -}}
         {{ end }}
       </div>
       {{ end }}
@@ -114,7 +114,7 @@
     <div class="md:flex md:flex-wrap md:-mx-4 lg:-mx-8">
       {{ range . }}
       <div class="md:w-1/2 md:px-4 lg:px-8">
-        {{- partial "card.html" . -}}
+        {{- partial "components/card.html" . -}}
       </div>
       {{ end }}
     </div>
@@ -141,7 +141,7 @@
       {{ with .Params.testimonial }}
       <div class="lg:mb-8 xl:mb-16">
         <div class="max-w-xl mx-auto">
-            {{- partial "testimonial.html" . -}}
+            {{- partial "components/testimonial.html" . -}}
         </div>
       </div>
       {{ end }}

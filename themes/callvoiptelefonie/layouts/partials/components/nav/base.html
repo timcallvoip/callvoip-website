@@ -13,9 +13,9 @@
       {{ $parent := . }}
       <!-- If the menu item has children, include this partial template again (recursively) -->
       {{ if $parent.Pre }}
-        {{ partial "nav-dropdown-large.html" (dict "menu" .Children "parent" $parent "page" $page "site" $site "dropdown" true) }}
+        {{ partial "components/nav/dropdown-large.html" (dict "menu" .Children "parent" $parent "page" $page "site" $site "dropdown" true) }}
       {{ else }}
-        {{ partial "nav-dropdown.html" (dict "menu" .Children "parent" $parent "page" $page "site" $site "dropdown" true) }}
+        {{ partial "components/nav/dropdown.html" (dict "menu" .Children "parent" $parent "page" $page "site" $site "dropdown" true) }}
       {{ end }}
     </li>
     {{ else }}

@@ -12,27 +12,27 @@
     <div class="flex justify-between items-center pt-3 pb-6">
       <div class="flex flex-1 items-center justify-between">
         <a href="/" class="logo">
-          {{- partial "logo.html" . -}}
+          <img src="/images/logo.svg" alt="">
         </a>
         <div class="hidden lg:block font-medium">
-
-          {{ partial "nav" (dict "menu" .Site.Menus.main "page" . "site" .Site) }}
+          {{ partial "components/nav/base" (dict "menu" .Site.Menus.main "page" . "site" .Site) }}
         </div>
 
         <div class="block lg:hidden">
-          {{- partial "nav-mobile.html" . -}}
+          {{- partial "components/nav/mobile.html" . -}}
         </div>
 
         <div class="flex items-center">
-
-            <p class=""> <a href="tel:+31508200000" class="text-grey-dark no-underline text-lg font-medium flex items-center justify-center "><i class="fal fa-phone sm:mr-2 fa-flip-horizontal relative" style="font-size: 1.6rem; top: .2rem; transform: rotate(97deg); "></i> <span class="hidden sm:block">050 – 820 00 00</span></a></p>
-            <div class="hidden lg:block">
-              <a href="#" class="button-outline ml-6 text-lg">Offerte</a>
-            </div>
-            <button class="block lg:hidden ml-4 bg-grey-dark-10 p-2 px-3 rounded-lg">
-                <i class="fal text-xl fa-bars text-grey-dark"></i>
-              </button>
+          <p class=""> <a href="tel:+31508200000" class="text-grey-dark no-underline text-lg font-medium flex items-center justify-center "><i
+                class="fal fa-phone sm:mr-2 fa-flip-horizontal relative" style="font-size: 1.6rem; top: .2rem; transform: rotate(97deg); "></i>
+              <span class="hidden sm:block">050 – 820 00 00</span></a></p>
+          <div class="hidden lg:block">
+            <a href="#" class="button-outline ml-6 text-lg">Offerte</a>
           </div>
+          <button class="block lg:hidden ml-4 bg-grey-dark-10 p-2 px-3 rounded-lg">
+            <i class="fal text-xl fa-bars text-grey-dark"></i>
+          </button>
+        </div>
       </div>
     </div>
   </div>
