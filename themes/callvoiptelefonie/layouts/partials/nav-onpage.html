@@ -3,7 +3,7 @@
     <nav class="flex flex-col md:flex-row md:justify-center font-medium">
         {{ $currentPage := . }}
         {{- range .Site.Menus.overons -}}
-        <a href="{{.URL}}" class='block no-underline border-b-4 border-grey-lightest md:-mb-4  text-grey-dark xl:text-lg mx-2 md:mx-4 py-3 {{if $currentPage.IsMenuCurrent  "overons" . }} border-blue{{end}}'>
+        <a href="{{.URL}}" class='block no-underline border-b-4 border-grey-lightest md:-mb-4  text-grey-dark xl:text-lg mx-2 md:mx-4 py-3 {{if $currentPage.IsMenuCurrent  "overons" . }} border-blue text-blue{{end}}'>
           {{ .Name }}
         </a>
         {{ end }}
