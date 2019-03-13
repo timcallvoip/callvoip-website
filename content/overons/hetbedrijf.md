@@ -1,6 +1,6 @@
 ---
 layout: hetbedrijf
-title: Het bedrijf test
+title: Het bedrijf
 hero:
   image: "/uploads/logo-bord-breed.jpg"
 intro:
@@ -24,14 +24,9 @@ blocks:
   title: Met wie kom je te werken?
 menu:
   main:
-    name: Het bedrijf
     parent: Over ons
     weight: 1
   overons:
-    name: Het bedrijf
     weight: 1
 
 ---
-dit is een content test
-
-![](https://res.cloudinary.com/spinme/image/upload/v1552398058/Team/team-herman.jpg)
