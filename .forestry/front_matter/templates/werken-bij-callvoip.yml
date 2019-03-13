@@ -10,8 +10,8 @@ fields:
 - name: type
   label: Type
   type: text
-  hidden: false
-  default: ''
+  hidden: true
+  default: oversons
 - name: intro
   label: Intro
   type: field_group
@@ -42,8 +42,8 @@ fields:
 - name: layout
   label: Layout
   type: text
-  hidden: false
-  default: ''
+  hidden: true
+  default: werkenbij
 - name: blocks
   label: Blocks
   type: field_group_list
@@ -63,10 +63,14 @@ fields:
     type: file
     hidden: false
     default: ''
-  - name: position
+  - type: select
+    name: position
+    config:
+      source:
+        type: simple
+      options:
+      - image_left
+      - image_right
     label: Position
-    type: text
-    hidden: false
-    default: ''
   hidden: false
   default: ''
