@@ -3,3 +3,4 @@
   publish = "public"
 
 HUGO_VERSION = "0.54.0"
+RUBY_VERSION = "2.6.2"
