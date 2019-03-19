@@ -4,6 +4,6 @@ title: "Callvoip"
 theme: "callvoiptelefonie"
 enableRobotsTXT: true
 params:
-  cloudinary_base_url: "https://res.cloudinary.com/spinme/image/upload"
+  cloudinary_base_url: "https://res.cloudinary.com/callvoip/image/upload"
 # menu:
 #   main

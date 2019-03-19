@@ -1,6 +1,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/cloudinary-core/2.3.0/cloudinary-core-shrinkwrap.min.js"></script>
 <script src='{{ "dist/app.bundle.js" | relURL }}?{{ now.Unix }}'></script>
 
+{{- if eq (getenv "HUGO_ENV") "production" | or (eq $.Site.Params.env "production") -}}
 <script>
     if('serviceWorker' in navigator) {
         navigator.serviceWorker
@@ -16,3 +17,4 @@
             });
     }
 </script>
+{{ end }}

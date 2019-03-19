@@ -50,6 +50,7 @@ let colors = {
   'white': '#ffffff',
   'green': '#78B52E',
   'blue': '#2069f3',
+  'red': '#ff3131',
 }
 
 module.exports = {

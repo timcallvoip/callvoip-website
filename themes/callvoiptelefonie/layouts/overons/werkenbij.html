@@ -36,7 +36,7 @@
           <div class="md:flex md:-mx-2 lg:-mx-4">
             {{range (where (where .Site.Pages "Kind" "page") "Type" "vacatures") | first 2 }}
             <div class="md:w-1/2 md:px-2 lg:px-4">
-              <a href="#" class="block bg-white font-medium shadow no-underline py-6 lg:py-12 px-6 lg:px-8 xl:px-10 rounded-lg text-grey-dark mb-6 lg:mb-8">
+              <a href="{{.URL}}" class="block bg-white font-medium shadow no-underline py-6 lg:py-12 px-6 lg:px-8 xl:px-10 rounded-lg text-grey-dark mb-6 lg:mb-8">
                 {{ with .Params.tag }}
                 <span class="block opacity-75 lg:text-lg mb-4 lg:mb-6">
                   {{ humanize . }}
