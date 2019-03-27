@@ -17,6 +17,12 @@ sections:
   label: Nieuws
   create: all
   match: "**/*"
+- type: directory
+  path: content
+  label: Legal
+  create: none
+  match: "**"
+  exclude: _index.md
 upload_dir: ''
 public_path: https://res.cloudinary.com/callvoip/image/upload
 front_matter_path: ''
