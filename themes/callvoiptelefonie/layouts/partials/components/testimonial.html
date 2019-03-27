@@ -1,6 +1,8 @@
+  {{ $title := .title }}
 <div class="bg-white rounded-lg py-12 px-8 border-2 border-grey-dark-5 md:flex items-center">
   {{ with .image }}
-  <img src="{{ . }}" class="rounded-full w-24 h-24 lg:w-32 lg:h-32 mr-10 mb-4" alt="">
+  <img data-src="{{ $.Site.Params.cloudinary_base_url }}/w_auto,dpr_auto,c_scale,f_auto,q_auto{{.}}" class="rounded-full w-24 h-24 lg:w-32 lg:h-32 mr-10 mb-4"
+            style="object-fit: cover;" alt="{{ $title }}" />
   {{ end }}
   <div>
     {{ with .content }}
