@@ -158,7 +158,7 @@ usps:
       bereikbaar is op een vast nummer. Maar wij zijn er ook voor de international
       met 10.000 werkplekken.
 options:
-  image: "/images/bellen-placeholder.svg"
+  image: "/v1553672342/bellen-placeholder.svg"
   title: Bellen en Internet zoals het echt hoort
   content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent, dat
     gaat verder dan alleen maar telefonie. Betrouwbaar internet en goede apparatuur
@@ -189,7 +189,7 @@ prefooter:
     10.000 andere klanten van Callvoip zorgeloos bereikbaar zijn? Neem contact op
     met onze specialisten.
 testimonial:
-  image: "/images/mensen.png"
+  image: "/v1553672325/mensen.png"
   title: Wilma van der Vecht - Audi Groningen
   content: "<strong>Binnen 1 dag</strong> waren wij weer bereikbaar door de hulp van
     Callvoip. Wij kunnen iedereen Callvoip adviseren"
