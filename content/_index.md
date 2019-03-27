@@ -1,64 +1,5 @@
 ---
 title: Callvoiptelefonie
-links:
-- title: Telefonie
-  icon: fal fa-phone fa-flip-horizontal
-  items:
-  - title: Voor ISDN abonnees
-    link: 
-  - title: Voor ZZP en MKB
-    link: 
-  - title: Voor grote bedrijven
-    link: 
-- title: Internet
-  icon: fal fa-desktop
-  items:
-  - title: ADSL
-    link: 
-  - title: Kabel
-    link: 
-  - title: Glasvezel
-    link: 
-- title: Klantenservice
-  icon: fal fa-headset
-  items:
-  - title: Neem contact op
-    link: 
-  - title: Storingen
-    link: 
-  - title: Veel gestelde vragen
-    link: 
-blocks:
-- title: Ultieme keuzevrijheid
-  subtitle: Betaal enkel voor wat je nodig hebt
-  image: "/uploads/block1.jpg"
-  cta:
-    title: Stel je eigen pakket samen
-    link: 
-  items:
-  - title: Jij bent de baas. Bepaal zelf wat je nodig hebt.
-  - title: Schakel extra's in en uit, zo vaak je maar wilt en wanneer.
-  - title: Dat is de ultieme vrijheid van CallvoipTelefonie
-- title: Telefonie in de cloud
-  subtitle: Met de modernste telefooncentrale
-  image: "/uploads/block2.jpg"
-  cta:
-    title: Ervaar nu zelf de power
-    link: 
-  items:
-  - title: De modernste centrale helemaal voor jezelf
-  - title: Schakel extra's in en uit, zo vaak je maar wilt en wanneer.
-  - title: Dat is de ultieme vrijheid van CallvoipTelefonie
-- title: De beste klantenservice
-  subtitle: Geen lange wachttijden
-  image: "/uploads/block3.jpg"
-  cta:
-    title: Stel je vraag online
-    link: 
-  items:
-  - title: Eigen helpdesk met enkel echte specialisten
-  - title: Uitgebreide handleidingen van functionaliteiten & apparatuur
-  - title: Korte & krachtige videohandleidingen
 hero:
   title: Altijd bereikbaar zijn voor je klanten
   content: Zakelijke telefonie voor ondernemers. Bellen via internet, op kantoor en
@@ -167,22 +108,22 @@ options:
   - icon: fa-cloud
     title: Je eigen centrale in de cloud
     content: Geen telefooncentrale op locatie, maar een moderne centrale in de cloud.
-    link: 
+    link:
   - icon: fa-desktop
     title: Kabel, ADSL of toch glasvezel?
     content: Samen kijken we wat het beste bij uw situatie past. Kabel, ADSL of toch
       glasvezel?
-    link: 
+    link:
   - icon: fa-tablet-alt
     title: Nieuwe apparatuur nodig?
     content: Geen opdringerige verkopers. Met onze specialist kijk je samen of je
       huidige apparatuur geschikt is.
-    link: 
+    link:
   - icon: fa-headset
     title: Hulp nodig? Wij staan voor je klaar
     content: Geen lange wachttijden of doorverbinden. Bij Callvoip spreek je altijd
       direct met een specialist.
-    link: 
+    link:
 prefooter:
   title: Wil je ook zorgeloos bereikbaar zijn?
   content: 95% van onze klanten adviseert ons bij hun netwerk. Wil jij ook net zoals

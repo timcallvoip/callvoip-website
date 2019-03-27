@@ -5,7 +5,6 @@ menu:
     weight: 1
 
 ---
-# Disclaimer
 
 #### Algemeen
 
