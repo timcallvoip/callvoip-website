@@ -218,11 +218,9 @@ fields:
   label: Testimonial
   type: field_group
   fields:
-  - name: image
+  - type: file
+    name: image
     label: Image
-    type: text
-    hidden: false
-    default: ''
   - name: title
     label: Title
     type: text
