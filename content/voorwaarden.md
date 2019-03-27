@@ -2,6 +2,11 @@
 title: Voorwaarden
 menu:
   footer:
-    name: Voorwaarden
     weight: 4
+
 ---
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras dui elit, tristique eu quam eget, volutpat sodales mauris. Proin pretium leo libero, quis rutrum sapien gravida vel. Quisque ut rhoncus mi, nec tempor massa. Aliquam eu augue scelerisque, congue massa ut, fringilla lacus. Quisque ut dapibus felis, quis pulvinar arcu. Fusce sed tortor semper, auctor purus sit amet, malesuada velit. Nam mattis mauris id quam sodales, eget volutpat orci suscipit. Integer nibh nisi, ultricies et malesuada nec, dapibus nec ex.
+
+Quisque pharetra condimentum semper. Ut quam massa, feugiat ut urna et, malesuada cursus orci. Aliquam vel iaculis magna. Duis accumsan ligula nisl, non euismod mi ultricies a. Curabitur ut lobortis metus. Curabitur in nulla gravida metus lobortis feugiat id eget sapien. Donec quis pellentesque turpis. Duis convallis viverra odio in lobortis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aliquam nec convallis quam. Vestibulum ac enim ut velit lacinia mollis. Donec rhoncus finibus enim ut sollicitudin. Etiam fermentum congue volutpat. Phasellus quis libero et enim pretium condimentum.
+
+Nullam auctor, augue ut tincidunt laoreet, arcu ligula egestas velit, id venenatis magna quam vel dolor. Maecenas pellentesque, diam vel rhoncus mattis, nibh odio ultricies felis, nec varius ipsum metus at ligula. Sed pharetra dignissim mauris ut molestie. Cras eget dui vitae magna viverra sodales non nec enim. Nunc quis quam sit amet massa accumsan laoreet. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Fusce porta magna eu convallis mattis. In quis ante non ipsum dictum vestibulum. Donec fringilla velit ut felis ullamcorper gravida. Nullam lacus lectus, blandit nec mi a, ultrices eleifend est. Nam condimentum erat fringilla luctus auctor. Nullam a ante et sapien semper efficitur at eu velit. Curabitur tincidunt, ipsum id maximus eleifend, neque magna aliquam augue, eu tincidunt lorem nisl eget ligula. Aliquam sagittis venenatis tellus ut luctus. Aenean vel tincidunt lectus, quis egestas leo. Praesent condimentum odio sed nibh dapibus, ut euismod lectus scelerisque.
