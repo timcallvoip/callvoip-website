@@ -11,11 +11,6 @@ fields:
   label: Hero
   type: field_group
   fields:
-  - name: image
-    label: Image
-    type: text
-    hidden: false
-    default: ''
   - name: title
     label: Title
     type: text
