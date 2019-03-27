@@ -76,7 +76,7 @@ hero:
     content: Oplossingen voor 51 t/m 10.000 werkplekken
     link: "/oplossingen/grootzakelijk"
 intro:
-  image: images/placeholder-cloud.svg
+  image: "/v1553672018/placeholder-cloud.svg"
   title: Voordelig bellen vanuit de cloud
   content: CallvoipTelefonie zorgt ervoor dat u als ondernemer altijd bereikbaar bent.
     Op kantoor via een vasttoestel of onderweg via uw eigen mobiel. Altijd bereikbaar
