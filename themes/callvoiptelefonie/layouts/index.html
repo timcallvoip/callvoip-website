@@ -101,7 +101,7 @@
   {{ with .Params.options}}
   <div class="container px-4 mb-24">
     {{ with .image }}
-    <img data-src="{{ $.Site.Params.cloudinary_base_url }}/w_auto,dpr_auto,c_scale,f_auto,q_auto{{.}}" class="mb-12 mx-auto block md:mb-20"
+    <img data-src="{{ $.Site.Params.cloudinary_base_url }}/w_auto,dpr_auto,c_scale,f_auto,q_auto{{.}}" class="mb-12 mx-auto block md:mb-20 cld-responsive"
     style="object-fit: cover;" alt="Callvoip - Bellen en Internet" />
     {{ end }}
     <div class="text-center mb-12 xl:mb-16">
@@ -140,13 +140,9 @@
       <div class="mb-20 bg-cover bg-center max-w-xl mx-auto" style="background-image: url('/images/beoordeling.svg'); height: 188px;">
         &nbsp;
       </div>
-      {{ with .Params.testimonial }}
-      <div class="lg:mb-8 xl:mb-16">
-        <div class="max-w-xl mx-auto">
-            {{- partial "components/testimonial.html" . -}}
-        </div>
-      </div>
-      {{ end }}
+
+      {{- partial "components/testimonial.html" . -}}
+
 
     </div>
   </div>

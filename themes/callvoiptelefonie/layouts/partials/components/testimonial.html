@@ -1,15 +1,22 @@
-  {{ $title := .title }}
-<div class="bg-white rounded-lg py-12 px-8 border-2 border-grey-dark-5 md:flex items-center">
-  {{ with .image }}
-  <img data-src="{{ $.Site.Params.cloudinary_base_url }}/w_auto,dpr_auto,c_scale,f_auto,q_auto{{.}}" class="rounded-full w-24 h-24 lg:w-32 lg:h-32 mr-10 mb-4"
-            style="object-fit: cover;" alt="{{ $title }}" />
-  {{ end }}
-  <div>
-    {{ with .content }}
-    <p class="text-lg lg:text-xl xl:text-2xl mb-4">“{{ . | markdownify }}</p>
-    {{ end }}
-    {{ with .title }}
-    <p class=" lg:text-lg opacity-75 font-medium">{{ . }}</p>
-    {{ end }}
+{{ $title := .Params.title }}
+{{ $site := .Site }}
+
+<div class="lg:mb-8 xl:mb-16">
+  <div class="max-w-xl mx-auto">
+    <div class="bg-white rounded-lg py-12 px-8 border-2 border-grey-dark-5 md:flex items-center">
+      {{ with .Params.testimonial.image}}
+      <img data-src="{{ $site.Params.cloudinary_base_url }}/w_auto,dpr_auto,c_scale,f_auto,q_auto{{.}}"
+        class="rounded-full w-24 h-24 lg:w-32 lg:h-32 mr-10 mb-4 cld-responsive" style="object-fit: cover;"
+        alt="{{ $title }}" />
+        {{ end }}
+      <div>
+        {{ with .Params.testimonial.content }}
+        <p class="text-lg lg:text-xl xl:text-2xl mb-4">“{{ . | markdownify }}</p>
+        {{ end }}
+        {{ with .Params.testimonial.title }}
+        <p class=" lg:text-lg opacity-75 font-medium">{{ . }}</p>
+        {{ end }}
+      </div>
+    </div>
   </div>
 </div>
