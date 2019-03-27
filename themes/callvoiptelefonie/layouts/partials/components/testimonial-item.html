@@ -6,14 +6,11 @@
   <div class='flex {{ if eq $type "light" }} flex-row-reverse bg-grey-dark {{ else }} flex-row bg-grey-lightest {{ end }}  '>
     <div class="w-1/2">
       {{ with .Params.hero.image}}
-      {{ $imageResource := ($ctx.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) }}
-      {{ with $imageResource }}
-      {{ $src1x := (.Fill "960x700 Center") }}
-      {{ $src2x := (.Fill "1920x1400 Center") }}
+
         <picture class="h-full">
-          <img src="{{ $src1x.RelPermalink }}" srcset="{{ $src1x.RelPermalink }} 1x, {{ $src2x.RelPermalink }} 2x" class="h-full w-full" style="object-fit: cover;"  />
+          <img  class="h-full w-full" style="object-fit: cover;"  />
         </picture>
-      {{ end }}
+
     {{ end }}
     </div>
     <div class="w-1/2">s</div>

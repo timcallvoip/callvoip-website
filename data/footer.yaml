@@ -7,3 +7,15 @@ newclient:
   emailaddress:
     pretty: hallo@callvoip.nl
     email: hallo@callvoip.nl
+social:
+  title:
+  items:
+    - title: Volg Callvoip op Facebook
+      link: https://www.facebook.com
+      icon:
+    - title: Volg Callvoip op Linkedin
+      link: https://www.linkedin.com
+      icon:
+    - title: Volg Callvoip op Twitter
+      link: https://www.twitter.com
+      icon:
