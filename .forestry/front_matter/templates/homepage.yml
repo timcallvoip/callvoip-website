@@ -79,11 +79,9 @@ fields:
     type: textarea
     hidden: false
     default: ''
-  - name: image
+  - type: file
+    name: image
     label: Image
-    type: text
-    hidden: false
-    default: ''
   - name: button
     label: Button
     type: field_group
