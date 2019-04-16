@@ -18,7 +18,18 @@
 {{- partial "seo/twitterCards" . -}}
 
 {{ .Hugo.Generator }}
-<link rel="stylesheet" href="{{ "dist/app.css" | relURL }}?{{ readFile "themes/callvoiptelefonie/static/dist/app.css" | md5 }}" type="text/css" />
+<!-- <link rel="stylesheet" href="{{ "dist/app.css" | relURL }}?{{ readFile "themes/callvoiptelefonie/static/dist/app.css" | md5 }}" type="text/css" /> -->
+
+{{ if .Site.IsServer }}
+  {{ $style := resources.Get "css/styles.css" | postCSS (dict "config" "./themes/callvoiptelefonie/assets/css/dev/postcss.config.js") | fingerprint }}
+  <link rel="stylesheet" href="{{ $style.Permalink }}" data>
+{{ else }}
+  {{ $style := resources.Get "css/styles.css" | postCSS (dict "config" "./themes/callvoiptelefonie/assets/css/postcss.config.js") | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ $style.Permalink }}" integrity="{{ $style.Data.Integrity }}">
+{{ end }}
+
+
+
 <link href="https://fonts.googleapis.com/css?family=Roboto:400,400i,500,500i" rel="stylesheet">
 
 {{- if .IsHome -}}
