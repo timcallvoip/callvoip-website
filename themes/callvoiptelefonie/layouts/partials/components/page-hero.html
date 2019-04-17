@@ -1,5 +1,6 @@
 {{ with .Params.hero }}
-<div class="bg-grey-lightest clearfix">
+{{ $title := .Title }}
+<div class="bg-grey-lightest clearfix mb-20">
     <header class="container px-4 clearfix">
         <div class="md:flex md:-mx-8 lg:-mx-12 md:items-center pt-6 sm:pt-8 md:pt-12 md:pt-24 mb-12">
           <div class="mb-12 md:w-1/2 md:px-8 lg:px-12">
@@ -15,7 +16,8 @@
           </div>
           {{ with .image }}
           <div class="md:w-1/2 md:px-8 lg:px-12">
-            <img src="{{ . }}" alt="">
+            <img data-src="{{ $.Site.Params.cloudinary_base_url }}/w_auto,dpr_auto,c_scale,f_auto,q_auto/{{.}}" class="w-full cld-responsive"
+            style="object-fit: cover;" alt="{{ $title }}" />
           </div>
           {{ end }}
         </div>

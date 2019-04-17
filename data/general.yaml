@@ -1,4 +1,5 @@
-social:
-  - icon: fab fa-twitter
-    link: test.nl
-    name: Test
+clients:
+  title: Bereikbaar met de technologie van Callvoip
+  items:
+    - image: /v1553672342/bellen-placeholder.svg
+    - image: /v1553672342/bellen-placeholder.svg
