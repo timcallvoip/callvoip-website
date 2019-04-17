@@ -4,6 +4,8 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: heading
+  label: Content
 - type: document
   path: content/_index.md
   label: Hompeage
@@ -23,6 +25,16 @@ sections:
   create: none
   match: "**"
   exclude: _index.md
+- type: heading
+  label: Settings
+- type: document
+  path: data/footer.yaml
+  label: Footer
+  match: "**/*"
+- type: document
+  path: data/general.yaml
+  label: General
+  match: "**/*"
 upload_dir: ''
 public_path: https://res.cloudinary.com/callvoip/image/upload
 front_matter_path: ''
@@ -39,4 +51,6 @@ build:
   - HUGO_VERSION=0.54.0
   preview_output_directory: public
   output_directory: public
+  instant_preview_command: hugo server -D -E -F --port 8080 --bind 0.0.0.0 --renderToDisk
+    -d public
 version: 0.54.0
