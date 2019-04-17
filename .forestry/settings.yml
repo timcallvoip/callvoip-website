@@ -30,11 +30,9 @@ sections:
 - type: document
   path: data/footer.yaml
   label: Footer
-  match: "**/*"
 - type: document
   path: data/general.yaml
   label: General
-  match: "**/*"
 upload_dir: ''
 public_path: https://res.cloudinary.com/callvoip/image/upload
 front_matter_path: ''
