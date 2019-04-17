@@ -1,0 +1,18 @@
+---
+label: general
+hide_body: true
+fields:
+- type: field_group
+  name: clients
+  label: clients
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: field_group_list
+    name: items
+    label: items
+    fields:
+    - type: file
+      name: image
+      label: image
