@@ -1,0 +1,24 @@
+{{ with .Params.hero }}
+<div class="bg-grey-lightest clearfix">
+    <header class="container px-4 clearfix">
+        <div class="md:flex md:-mx-8 lg:-mx-12 md:items-center pt-6 sm:pt-8 md:pt-12 md:pt-24 mb-12">
+          <div class="mb-12 md:w-1/2 md:px-8 lg:px-12">
+            {{ with .title }}
+            <h1 class="text-3xl lg:text-4xl xxl:text-5xl font-medium leading-tight mb-4 md:mb-6">{{ . }}</h1>
+            {{ end }}
+            {{ with .content }}
+            <p class="font-medium lg:text-lg xxl:text-xl max-w-md opacity-75 mb-4 md:mb-8 lg:leading-loose">{{ . }}</p>
+            {{ end }}
+            {{ with .button }}
+            <a href="{{ .link }}" class="button md:text-lg">{{ .content }}</a>
+            {{ end }}
+          </div>
+          {{ with .image }}
+          <div class="md:w-1/2 md:px-8 lg:px-12">
+            <img src="{{ . }}" alt="">
+          </div>
+          {{ end }}
+        </div>
+      </header>
+</div>
+{{ end }}
