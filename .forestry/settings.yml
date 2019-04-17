@@ -15,6 +15,16 @@ sections:
   create: all
   match: "**/*"
 - type: directory
+  path: content/internet
+  label: Internet
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/oplossingen
+  label: Oplossingen
+  create: all
+  match: "**/*"
+- type: directory
   path: content/overons
   label: Over ons
   create: all
