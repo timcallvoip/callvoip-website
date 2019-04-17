@@ -1,5 +1,16 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/cloudinary-core/2.3.0/cloudinary-core-shrinkwrap.min.js"></script>
-<script src='{{ "dist/app.bundle.js" | relURL }}?{{ now.Unix }}'></script>
+{{ $icons := resources.Get "js/icons.bundle.js" }}
+{{ $main := resources.Get "js/main.js" }}
+{{ $js := slice $icons $main | resources.Concat "js/bundle.js" }}
+
+{{ with $js }}
+{{ $secureJS := . | resources.Fingerprint }}
+<script type="text/javascript" src="{{ $secureJS.Permalink }}" integrity="{{ $secureJS.Data.Integrity }}"
+    crossorigin="anonymous" defer></script>
+{{ end }}
+
+
+
 
 {{- if eq (getenv "HUGO_ENV") "production" | or (eq $.Site.Params.env "production") -}}
 <script>
