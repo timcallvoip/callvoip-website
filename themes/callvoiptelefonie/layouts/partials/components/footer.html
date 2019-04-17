@@ -41,7 +41,7 @@
             {{ with .items}}
             <nav>
               {{ range . }}
-              <a href="{{.link}}" target="_blank" class="mx-4 no-underline" title="{{.title}}">
+              <a href="{{.link}}" target="_blank" rel="noopener" class="mx-4 no-underline" title="{{.title}}">
                   <i class="fab {{ .icon }} text-white hover:text-blue text-3xl"></i>
               </a>
               {{ end }}
