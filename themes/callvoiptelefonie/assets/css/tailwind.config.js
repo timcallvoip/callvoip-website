@@ -72,6 +72,10 @@ module.exports = {
         '140': '40rem',
       },
 
+      maxHeight: {
+        'logo': '6rem'
+      },
+
       maxWidth: {
         'xs': '12rem',
         'sm': '16rem',

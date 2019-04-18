@@ -9,6 +9,7 @@
       post: fa-cloud
   type: page
   layout: default
+  logos: true
   hero:
     title: Hosted VoIP
     content: Met Hosted VoIP bespaart u voortaan op uw kosten en bent u voortaan overal en altijd bereikbaar. Omdat uw zakelijke telefonie over het internet gaat.
