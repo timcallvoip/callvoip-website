@@ -10,7 +10,7 @@ sections:
   path: content/_index.md
   label: Hompeage
 - type: directory
-  path: cotnent/telefonie
+  path: content/telefonie
   label: Telefonie
   create: all
   match: "**/*"
