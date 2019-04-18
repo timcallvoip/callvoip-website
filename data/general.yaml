@@ -1,5 +1,10 @@
+---
 clients:
   title: Bereikbaar met de technologie van Callvoip
   items:
-    - image: /v1553672342/bellen-placeholder.svg
-    - image: /v1553672342/bellen-placeholder.svg
+  - image: "/v1555508013/On%20Dark%20Background.svg"
+  - image: "/v1555508013/On%20Dark%20Background-1.svg"
+  - image: "/v1555508013/On%20Dark%20Background-3.svg"
+  - image: "/v1555508013/On%20Dark%20Background-4.svg"
+  - image: "/v1555508013/On%20Dark%20Background-5.svg"
+  - image: "/v1555508013/On%20Dark%20Background-2.svg"
