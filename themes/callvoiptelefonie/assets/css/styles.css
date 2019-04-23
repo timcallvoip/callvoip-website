@@ -63,8 +63,28 @@
   @apply shadow;
 }
 
-.user-content p {
-  @apply mb-6;
+.user-content p, .user-content ul, .user-content ol {
+  @apply mb-6 opacity-75;
+}
+
+.user-content h2 {
+  @apply text-3xl font-medium mb-2 leading-tight;
+}
+
+@screen lg {
+  .user-content h2 {
+    @apply text-4xl;
+  }
+}
+
+.user-content h3 {
+  @apply text-lg font-medium mb-2 leading-tight;
+}
+
+@screen lg {
+  .user-content h3 {
+    @apply text-2xl;
+  }
 }
 
 /* Pagination */

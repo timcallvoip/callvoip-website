@@ -1,26 +1,26 @@
 {{ with .Params.hero }}
 {{ $title := .Title }}
 <div class="bg-grey-lightest clearfix mb-20">
-    <header class="container px-4 clearfix">
-        <div class="md:flex md:-mx-8 lg:-mx-12 md:items-center pt-6 sm:pt-8 md:pt-12 md:pt-24 mb-12">
-          <div class="mb-12 md:w-1/2 md:px-8 lg:px-12">
-            {{ with .title }}
-            <h1 class="text-3xl lg:text-4xl xxl:text-5xl font-medium leading-tight mb-4 md:mb-6">{{ . }}</h1>
-            {{ end }}
-            {{ with .content }}
-            <p class="font-medium lg:text-lg xxl:text-xl max-w-md opacity-75 mb-4 md:mb-8 lg:leading-loose">{{ . }}</p>
-            {{ end }}
-            {{ with .button }}
-            <a href="{{ .link }}" class="button md:text-lg">{{ .content }}</a>
-            {{ end }}
-          </div>
-          {{ with .image }}
-          <div class="md:w-1/2 md:px-8 lg:px-12">
-            <img data-src="{{ $.Site.Params.cloudinary_base_url }}/w_auto,dpr_auto,c_scale,f_auto,q_auto/{{.}}" class="w-full cld-responsive"
-            style="object-fit: cover;" alt="{{ $title }}" />
-          </div>
-          {{ end }}
-        </div>
-      </header>
+  <header class="container px-4 clearfix">
+    <div class="flex flex-col-reverse md:flex-row md:-mx-2  md:items-center pt-6 sm:pt-8 md:pt-12 md:pt-24 mb-12">
+      <div class="mb-6 md:mb-12 md:w-1/2 md:px-2">
+        {{ with .title }}
+        <h1 class="text-3xl lg:text-4xl xxl:text-5xl font-medium leading-tight mb-4 md:mb-6">{{ . }}</h1>
+        {{ end }}
+        {{ with .content }}
+        <p class="font-medium lg:text-lg xxl:text-xl max-w-md opacity-75 mb-4 md:mb-8 lg:leading-loose">{{ . }}</p>
+        {{ end }}
+        {{ with .button }}
+        <a href="{{ .link }}" class="button md:text-lg">{{ .content }}</a>
+        {{ end }}
+      </div>
+      {{ with .image }}
+      <div class="md:w-1/2 md:px-2 mb-12">
+        <img data-src="{{ $.Site.Params.cloudinary_base_url }}/w_auto,dpr_auto,c_scale,f_auto,q_auto/{{.}}"
+          class="w-full cld-responsive" style="object-fit: cover;" alt="{{ $title }}" />
+      </div>
+      {{ end }}
+    </div>
+  </header>
 </div>
 {{ end }}

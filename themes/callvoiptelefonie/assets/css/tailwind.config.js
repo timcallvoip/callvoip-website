@@ -2,6 +2,7 @@
 let colors = {
   'grey-dark': '#203476',
   'grey': '#223240',
+  'grey-light': '#b4c1e6',
   'grey-lightest': '#EBF2F7',
   'white': '#ffffff',
   'green': '#78B52E',
@@ -73,6 +74,7 @@ module.exports = {
       },
 
       maxHeight: {
+        'logo-small': '3rem',
         'logo': '6rem'
       },
 
