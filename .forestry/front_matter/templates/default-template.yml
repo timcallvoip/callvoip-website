@@ -17,7 +17,7 @@ fields:
   description: default
 - type: boolean
   name: logos
-  label: logos
+  label: Client logos
 - type: field_group
   name: hero
   label: hero
@@ -54,9 +54,20 @@ fields:
   - type: textarea
     name: content
     label: content
-  - type: text
-    name: position
-    label: position
+  - name: position
+    type: select
+    default: []
+    config:
+      required: false
+      options:
+      - image_left
+      - image_right
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
+    label: Position
   config:
     labelField: title
 - type: field_group
