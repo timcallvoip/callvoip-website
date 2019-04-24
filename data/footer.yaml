@@ -6,8 +6,8 @@ newclient:
     number: 31508200000
   subtitle: 'Of stuur ons een e-mail:'
   emailaddress:
-    pretty: hallo@callvoip.nl
-    email: hallo@callvoip.nl
+    pretty: callvoip@callvoip.nl
+    email: callvoip@callvoip.nl
 helpdesk:
   title: Of liever even met ons chatten?<br /> Geen  probleem, dat kan hier.
   content: Chat met specialist starten
