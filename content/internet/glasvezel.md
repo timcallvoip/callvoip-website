@@ -1,16 +1,15 @@
 ---
-  title: Glasvezel
-  menu:
-    main:
-      weight: 3
-      name: Glasvezel
-      parent: Internet
-      pre: Menu omschrijving
-      post: fa-laptop
-  type: page
-  layout: default
----
+title: Glasvezel
+type: page
+layout: default
+menu:
+  main:
+    weight: 3
+    parent: Internet
+    pre: Menu omschrijving
+    post: fa-laptop
 
+---
 ## Dit is een title
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu auctor tortor. Morbi vel ante arcu. Pellentesque ante neque, pharetra vel tempor non, dapibus in eros. Vivamus congue nulla in felis imperdiet finibus. Ut aliquam rutrum mauris, interdum fringilla leo volutpat non. Donec egestas lorem sed nisi volutpat, non auctor mauris volutpat. Cras dictum dignissim risus eget aliquam.
 
