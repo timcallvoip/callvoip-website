@@ -1,0 +1,28 @@
+{{ with .Params.hero }}
+{{ $title := .Title }}
+<div class="bg-grey-lightest clearfix">
+  <header class="clearfix ">
+
+      <div class="text-center container px-4 relative ">
+        <div class="absolute w-full pt-8 xxl:pt-16">
+          {{ with .title }}
+          <h1 class="text-3xl lg:text-4xl xxl:text-5xl font-medium leading-tight mb-4 xxl:mb-6">{{ . }}</h1>
+          {{ end }}
+          {{ with .content }}
+          <p class="font-medium lg:text-lg xxl:text-2xl  opacity-75 mb-4 xxl:mb-8 lg:leading-loose text-center">{{ . }}</p>
+          {{ end }}
+          {{ with .button }}
+          <a href="{{ .link }}" class="button md:text-lg">{{ .content }}</a>
+          {{ end }}
+        </div>
+      </div>
+      {{ with .image }}
+
+        <img data-src="{{ $.Site.Params.cloudinary_base_url }}/w_auto,dpr_auto,c_scale,f_auto,q_auto/{{.}}"
+          class="w-full cld-responsive max-h-screen" style="object-fit: cover;" alt="{{ $title }}" />
+
+      {{ end }}
+
+  </header>
+</div>
+{{ end }}

@@ -29,7 +29,7 @@
             <p class="lg:text-lg xl:text-xl opacity-75 mb-4  lg:mb-6">{{ . | markdownify }}</p>
             {{ end }}
             {{ with .content }}
-            <a href="#" class="button-icon xl:text-lg"><i class="fal fa-comments fa-2x mr-4"></i>{{ . }}</a>
+            <button type="button" class="button-icon chat-button xl:text-lg" data-api="smartsupp" data-operation="open"><i class="fal fa-comments fa-2x mr-4"></i>{{ . }}</button>
             {{ end }}
           </div>
           {{ end }}

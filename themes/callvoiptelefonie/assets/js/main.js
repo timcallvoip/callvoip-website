@@ -54,5 +54,22 @@ var activemenu = function () {
 
 }();
 
+
+ smartsupp('theme:options', {
+    panelWidth: 350,
+    panelHeight: 450,
+    buttonWidth: 1,
+    buttonHeight: 1
+  });
+
+  smartsupp('theme:colors', {
+    primary:'#2069f3',
+    banner:'#ffffff',
+    primaryText: '#ffffff',
+    widget: '#ebf2f7',
+    widgetText: '#203476'
+  });
+
+
 const cl = cloudinary.Cloudinary.new({ cloud_name: 'spinme' })
 cl.responsive()

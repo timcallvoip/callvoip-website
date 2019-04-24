@@ -120,3 +120,21 @@
 .layout-split > div {
   @apply w-1/2 px-2;
 }
+
+html {
+	scroll-behavior: smooth;
+}
+
+@media screen and (prefers-reduced-motion: reduce) {
+	html {
+		scroll-behavior: auto;
+	}
+}
+
+/* #chat-application {
+  bottom: -100px !important;
+}
+
+.chat-open #chat-application {
+  bottom: 0px !important;
+} */
