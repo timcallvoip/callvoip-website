@@ -144,6 +144,7 @@ fields:
         name: price
         label: Price
 pages:
+- content/internet/dsl.md
 - content/telefonie/vastnaarmobiel.md
 - content/telefonie/integratiemetcrm.md
 - content/telefonie/hostedvoip.md
