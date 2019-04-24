@@ -1,6 +1,5 @@
 var menu = function () {
   var elements = document.getElementsByClassName('has-dropdown');
-  console.log('test')
   if (!elements) return;
 
   Array.prototype.forEach.call(elements, function (element, index) {
