@@ -4,7 +4,7 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Title
 - type: text
   name: type
   label: type
@@ -20,40 +20,40 @@ fields:
   label: Client logos
 - type: field_group
   name: hero
-  label: hero
+  label: Hero
   fields:
   - type: text
     name: title
-    label: title
+    label: Title
   - type: textarea
     name: content
-    label: content
+    label: Content
   - type: field_group
     name: button
-    label: button
+    label: Button
     fields:
     - type: text
       name: content
-      label: content
+      label: Content
     - type: text
       name: link
-      label: link
+      label: Link
   - type: file
     name: image
-    label: image
+    label: Image
 - type: field_group_list
   name: blocks
-  label: blocks
+  label: Blocks
   fields:
   - type: text
     name: title
-    label: title
+    label: Title
   - type: file
     name: image
-    label: image
+    label: Image
   - type: textarea
     name: content
-    label: content
+    label: Content
   - name: position
     type: select
     default: []
@@ -72,76 +72,76 @@ fields:
     labelField: title
 - type: field_group
   name: usps
-  label: usps
+  label: Usps
   fields:
   - type: text
     name: title
-    label: title
+    label: Title
   - type: textarea
     name: content
-    label: content
+    label: Content
   - type: field_group_list
     name: items
-    label: items
+    label: Items
     fields:
     - type: text
       name: icon
-      label: icon
+      label: Icon
     - type: text
       name: title
-      label: title
+      label: Title
     - type: textarea
       name: content
-      label: content
+      label: Content
 - type: field_group
   name: intro
-  label: intro
+  label: Intro
   fields:
   - type: text
     name: title
-    label: title
+    label: Title
   - type: textarea
     name: content
-    label: content
+    label: Content
 - type: field_group_list
   name: prijzen
-  label: prijzen
+  label: Prijzen
   fields:
   - type: text
     name: title
-    label: title
+    label: Title
   - type: text
     name: content
-    label: content
+    label: Content
   - type: field_group
     name: button
-    label: button
+    label: Button
     fields:
     - type: text
       name: title
-      label: title
+      label: Title
     - type: text
       name: link
-      label: link
+      label: Link
   - type: field_group
     name: tarieven
-    label: tarieven
+    label: Tarieven
     fields:
     - type: text
       name: title
-      label: title
+      label: Title
     - type: text
       name: footer
-      label: footer
+      label: Footer
     - type: field_group_list
       name: items
-      label: items
+      label: Items
       fields:
       - type: text
         name: title
-        label: title
+        label: Title
       - type: number
         name: price
-        label: price
+        label: Price
 pages:
 - content/telefonie/bellenvanafjelaptop.md
