@@ -8,9 +8,13 @@ fields:
 - type: text
   name: type
   label: type
+  hidden: true
+  description: page
 - type: text
   name: layout
   label: layout
+  hidden: true
+  description: default
 - type: boolean
   name: logos
   label: logos
