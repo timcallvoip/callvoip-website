@@ -1,21 +1,15 @@
 const CACHE_VERSION = 1;
 
 const BASE_CACHE_FILES = [
-  '/dist/app.css',
-  '/dist/app.bundle.js',
   '/favicons/manifest.json',
   '/favicons/android-chrome-512x512.png',
 ];
 
 const OFFLINE_CACHE_FILES = [
-  '/dist/app.css',
-  '/dist/app.bundle.js',
   '/offline/index.html',
 ];
 
 const NOT_FOUND_CACHE_FILES = [
-  '/dist/app.css',
-  '/dist/app.bundle.js',
   '/404.html',
 ];
 
