@@ -144,6 +144,7 @@ fields:
         name: price
         label: Price
 pages:
+- content/oplossingen/grootzakelijk.md
 - content/oplossingen/branches.md
 - content/internet/kabel.md
 - content/internet/glasvezel.md
