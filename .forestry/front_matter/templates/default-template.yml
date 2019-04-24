@@ -144,5 +144,6 @@ fields:
         name: price
         label: Price
 pages:
+- content/telefonie/integratiemetcrm.md
 - content/telefonie/hostedvoip.md
 - content/telefonie/bellenvanafjelaptop.md
