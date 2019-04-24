@@ -130,3 +130,5 @@ fields:
       - type: number
         name: price
         label: price
+pages:
+- content/telefonie/bellenvanafjelaptop.md
