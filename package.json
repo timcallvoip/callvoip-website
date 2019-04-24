@@ -4,9 +4,6 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "npm run build",
-    "hugo": "hugo server --disableFastRender -p 1330",
-    "build:production": "rm -rf ./public && webpack -p && hugo && html-minifier --input-dir ./public --output-dir ./public --collapse-whitespace --file-ext html",
     "build": "webpack --progress --colors --watch"
   },
   "author": "",

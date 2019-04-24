@@ -32,31 +32,3 @@
 <script type="text/javascript" src="{{ $secureJS.Permalink }}" integrity="{{ $secureJS.Data.Integrity }}"
 	crossorigin="anonymous" defer></script>
 {{ end }}
-
-
-
-
-
-{{- if eq (getenv "HUGO_ENV") "production" | or (eq $.Site.Params.env "production") -}}
-<script>
-
-navigator.serviceWorker.getRegistrations().then(function(registrations) {
- for(let registration of registrations) {
-  registration.unregister()
-} })
-
-	// if ('serviceWorker' in navigator) {
-	// 	navigator.serviceWorker
-	// 		.register('/sw.js', { scope: '/' })
-	// 		.then(function (registration) {
-	// 			console.log('Service Worker Registered');
-	// 		});
-
-	// 	navigator.serviceWorker
-	// 		.ready
-	// 		.then(function (registration) {
-	// 			console.log('Service Worker Ready');
-	// 		});
-	// }
-</script>
-{{ end }}
