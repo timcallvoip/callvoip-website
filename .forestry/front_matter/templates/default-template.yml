@@ -45,18 +45,20 @@ fields:
   name: blocks
   label: blocks
   fields:
-  - type: textarea
-    name: content
-    label: content
-  - type: file
-    name: image
-    label: image
-  - type: text
-    name: position
-    label: position
   - type: text
     name: title
     label: title
+  - type: file
+    name: image
+    label: image
+  - type: textarea
+    name: content
+    label: content
+  - type: text
+    name: position
+    label: position
+  config:
+    labelField: title
 - type: field_group
   name: usps
   label: usps
