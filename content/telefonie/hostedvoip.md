@@ -12,15 +12,14 @@ hero:
     link: "/calculator"
   image: "/v1552466820/hostedvoip.svg"
 blocks:
-- content: "Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent,
-    dat gaat verder dan alleen maar telefonie. Betrouwbaar internet en goede apparatuur
-    mogen daarbij niet ontbreken."
+- content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent, dat
+    gaat verder dan alleen maar telefonie. Betrouwbaar internet en goede apparatuur
+    mogen daarbij niet ontbreken.
   image: "/v1552466820/phones.png"
   position: image_left
   title: Zakelijke VoIP waar je op kan vertrouwen
-- content: "Callvoip is de zakelijke telefonieprovider waar persoonlijk contact
-    centraal staat. Maak daarom kennis met ons team en weet wie u aan de
-    lijn heeft."
+- content: Callvoip is de zakelijke telefonieprovider waar persoonlijk contact centraal
+    staat. Maak daarom kennis met ons team en weet wie u aan de lijn heeft.
   image: "/v1552466837/windows.svg"
   position: " image_right"
   title: Met wie kom je te werken?
@@ -61,54 +60,55 @@ usps:
       met 10.000 werkplekken.
 intro:
   title: Wat kost bellen met Callvoip?
-  content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent, dat gaat verder dan alleen maar telefonie. Betrouwbaar internet en goede apparatuur mogen daarbij niet ontbreken.
+  content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent, dat
+    gaat verder dan alleen maar telefonie. Betrouwbaar internet en goede apparatuur
+    mogen daarbij niet ontbreken.
 prijzen:
-  - title: Zelfstandigen
-    content: Geen telefooncentrale op locatie, maar een moderne gebruiksvriendelijk.
-    button:
-      title: Stel je pakket samen
-      link: #
-    tarieven:
-      title: Maandelijkse kosten
-      footer: Prijzen zijn vanaf en per maand
-      items:
-        - title: Basis Abonnement
-          price: 4
-        - title: Telefoonnummer
-          price: 3
-        - title: Voicemail
-          price: 1
-  - title: MKB
-    content: Geen telefooncentrale op locatie, maar een moderne gebruiksvriendelijk.
-    button:
-      title: Stel je pakket samen
-      link: #
-    tarieven:
-      title: Maandelijkse kosten
-      footer: Prijzen zijn vanaf en per maand
-      items:
-        - title: Basis Abonnement
-          price: 4
-        - title: Telefoonnummer
-          price: 3
-        - title: Voicemail
-          price: 1
-  - title: Grootzakelijk
-    content: Geen telefooncentrale op locatie, maar een moderne gebruiksvriendelijk.
-    button:
-      title: Stel je pakket samen
-      link: #
-    tarieven:
-      title: Maandelijkse kosten
-      footer: Prijzen zijn vanaf en per maand
-      items:
-        - title: Basis Abonnement
-          price: 4
-        - title: Telefoonnummer
-          price: 3
-        - title: Voicemail
-          price: 1
-
+- title: Zelfstandigen
+  content: Geen telefooncentrale op locatie, maar een moderne gebruiksvriendelijk.
+  button:
+    title: Stel je pakket samen
+    link: 
+  tarieven:
+    title: Maandelijkse kosten
+    footer: Prijzen zijn vanaf en per maand
+    items:
+    - title: Basis Abonnement
+      price: 4
+    - title: Telefoonnummer
+      price: 3
+    - title: Voicemail
+      price: 1
+- title: MKB
+  content: Geen telefooncentrale op locatie, maar een moderne gebruiksvriendelijk.
+  button:
+    title: Stel je pakket samen
+    link: 
+  tarieven:
+    title: Maandelijkse kosten
+    footer: Prijzen zijn vanaf en per maand
+    items:
+    - title: Basis Abonnement
+      price: 4
+    - title: Telefoonnummer
+      price: 3
+    - title: Voicemail
+      price: 1
+- title: Grootzakelijk
+  content: Geen telefooncentrale op locatie, maar een moderne gebruiksvriendelijk.
+  button:
+    title: Stel je pakket samen
+    link: 
+  tarieven:
+    title: Maandelijkse kosten
+    footer: Prijzen zijn vanaf en per maand
+    items:
+    - title: Basis Abonnement
+      price: 4
+    - title: Telefoonnummer
+      price: 3
+    - title: Voicemail
+      price: 1
 menu:
   main:
     weight: 1

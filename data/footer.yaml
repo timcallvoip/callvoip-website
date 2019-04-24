@@ -1,24 +1,25 @@
+---
 newclient:
-  title: "Klant worden? Bel ons dan op:"
+  title: 'Klant worden? Bel ons dan op:'
   phonenumber:
     pretty: 050 – 820 00 00
-    number: +31508200000
-  subtitle: "Of stuur ons een e-mail:"
+    number: 31508200000
+  subtitle: 'Of stuur ons een e-mail:'
   emailaddress:
-    pretty: hallo@callvoip.nl
-    email: hallo@callvoip.nl
+    pretty: callvoip@callvoip.nl
+    email: callvoip@callvoip.nl
 helpdesk:
   title: Of liever even met ons chatten?<br /> Geen  probleem, dat kan hier.
   content: Chat met specialist starten
 social:
   title: Natuurlijk kan je ons ook <br />volgen op je favorite social kanaal
   items:
-    - title: Volg Callvoip op Facebook
-      link: https://www.facebook.com
-      icon: fa-facebook-f
-    - title: Volg Callvoip op Linkedin
-      link: https://www.linkedin.com
-      icon: fa-linkedin-in
-    - title: Volg Callvoip op Twitter
-      link: https://www.twitter.com
-      icon: fa-twitter
+  - title: Volg Callvoip op YouTube
+    link: https://www.youtube.com/channel/UCc6smCXLNIdHLKS2bORq0SQ
+    icon: fa-youtube-play
+  - title: Volg Callvoip op LinkedIn
+    link: https://www.linkedin.com/company/callvoip-telefonie/
+    icon: fa-linkedin-in
+  - title: Volg Callvoip op Twitter
+    link: https://twitter.com/callvoip
+    icon: fa-twitter

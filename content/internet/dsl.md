@@ -1,23 +1,22 @@
 ---
-  title: DSL
-  menu:
-    main:
-      weight: 1
-      name: DSL
-      parent: Internet
-      pre: Menu omschrijving
-      post: fa-laptop
-  type: page
-  layout: default
-  blocks:
-  - content: "<p>Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent,
-      dat gaat verder dan alleen maar telefonie. Betrouwbaar internet en goede apparatuur
-      mogen daarbij niet ontbreken.</p>"
-    image: "/v1552466820/phones.png"
-    position: image_left
-    title: Zakelijke VoIP waar je op kan vertrouwen
----
+title: DSL
+type: page
+layout: default
+blocks:
+- content: "<p>Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent,
+    dat gaat verder dan alleen maar telefonie. Betrouwbaar internet en goede apparatuur
+    mogen daarbij niet ontbreken.</p>"
+  image: "/v1552466820/phones.png"
+  position: image_left
+  title: Zakelijke VoIP waar je op kan vertrouwen
+menu:
+  main:
+    weight: 1
+    parent: Internet
+    pre: Menu omschrijving
+    post: fa-laptop
 
+---
 ## Dit is een title
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu auctor tortor. Morbi vel ante arcu. Pellentesque ante neque, pharetra vel tempor non, dapibus in eros. Vivamus congue nulla in felis imperdiet finibus. Ut aliquam rutrum mauris, interdum fringilla leo volutpat non. Donec egestas lorem sed nisi volutpat, non auctor mauris volutpat. Cras dictum dignissim risus eget aliquam.
 
