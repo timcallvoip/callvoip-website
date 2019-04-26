@@ -99,8 +99,8 @@ usps:
       bereikbaar is op een vast nummer. Maar wij zijn er ook voor de international
       met 10.000 werkplekken.
 options:
-  image: "/v1553672342/bellen-placeholder.svg"
-  title: Bellen en Internet zoals het echt hoort
+  image: "/v1556267113/Callvoip-website-belpannen-test.png"
+  title: Telefonie en Internet zoals het echt hoort
   content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent, dat
     gaat verder dan alleen maar telefonie. Betrouwbaar internet en goede apparatuur
     mogen daarbij niet ontbreken.
@@ -108,22 +108,22 @@ options:
   - icon: fa-cloud
     title: Je eigen centrale in de cloud
     content: Geen telefooncentrale op locatie, maar een moderne centrale in de cloud.
-    link:
+    link: 
   - icon: fa-desktop
     title: Kabel, ADSL of toch glasvezel?
     content: Samen kijken we wat het beste bij uw situatie past. Kabel, ADSL of toch
       glasvezel?
-    link:
+    link: 
   - icon: fa-tablet-alt
     title: Nieuwe apparatuur nodig?
     content: Geen opdringerige verkopers. Met onze specialist kijk je samen of je
       huidige apparatuur geschikt is.
-    link:
+    link: 
   - icon: fa-headset
     title: Hulp nodig? Wij staan voor je klaar
     content: Geen lange wachttijden of doorverbinden. Bij Callvoip spreek je altijd
       direct met een specialist.
-    link:
+    link: 
 prefooter:
   title: Wil je ook zorgeloos bereikbaar zijn?
   content: 95% van onze klanten adviseert ons bij hun netwerk. Wil jij ook net zoals
