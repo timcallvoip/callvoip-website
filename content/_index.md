@@ -1,5 +1,5 @@
 ---
-title: Callvoiptelefonie
+title: Callvoip - de modernste zakelijke telefonieprovider van Nederland
 hero:
   title: Altijd bereikbaar zijn voor je klanten
   content: Zakelijke telefonie voor ondernemers. Bellen via internet, op kantoor en
