@@ -130,9 +130,10 @@ prefooter:
     5.000 andere klanten van Callvoip zorgeloos bereikbaar zijn? Neem contact op met
     onze specialisten.
 testimonial:
-  image: "/v1553672325/mensen.png"
-  title: Wilma van der Vecht - Audi Groningen
-  content: "<strong>Binnen 1 dag</strong> waren wij weer bereikbaar door de hulp van
-    Callvoip. Wij kunnen iedereen Callvoip adviseren"
+  image: "/v1556267419/Callvoip-website-logo-AlphaLabs.png"
+  title: Carlo Giliam - Alpha Labs
+  content: Al <strong>meer dan 10 jaar</strong> levert CallVoip ons de benodigde oplossingen
+    voor vaste telefonie. Van beginnende ondernemer tot en met personeel; ze denken
+    altijd met je mee.
 
 ---
