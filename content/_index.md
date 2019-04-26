@@ -127,8 +127,8 @@ options:
 prefooter:
   title: Wil je ook zorgeloos bereikbaar zijn?
   content: 95% van onze klanten adviseert ons bij hun netwerk. Wil jij ook net zoals
-    10.000 andere klanten van Callvoip zorgeloos bereikbaar zijn? Neem contact op
-    met onze specialisten.
+    5.000 andere klanten van Callvoip zorgeloos bereikbaar zijn? Neem contact op met
+    onze specialisten.
 testimonial:
   image: "/v1553672325/mensen.png"
   title: Wilma van der Vecht - Audi Groningen
