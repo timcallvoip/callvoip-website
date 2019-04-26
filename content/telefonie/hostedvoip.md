@@ -1,12 +1,13 @@
 ---
-title: Hosted VoIP
+title: Hosted VoIP telefonie van Callvoip
 type: page
 layout: default
 logos: true
 hero:
   title: Hosted VoIP
-  content: Met Hosted VoIP bespaart u voortaan op uw kosten en bent u voortaan overal
-    en altijd bereikbaar. Omdat uw zakelijke telefonie over het internet gaat.
+  content: Met een Hosted VoIP bent u overal en altijd bereikbaar en bespaart u voortaan
+    op uw maandelijkse abonnementskosten. Met Hosted VoIP gaat de zakelijke telefonie
+    over het internet en bevindt de telefooncentrale zich in de cloud.
   button:
     content: Bereken je kosten
     link: "/calculator"
