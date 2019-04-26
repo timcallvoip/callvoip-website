@@ -5,7 +5,7 @@ hero:
   content: Zakelijke telefonie voor ondernemers. Bellen via internet, op kantoor en
     onderweg. Eenvoudig én in de cloud. Dat is de kracht van bellen met Callvoip.
   button:
-    content: Bekijk ons Hosted VoIP oplossing
+    content: Bekijk ons aanbod
     link: "/aanbod"
   items:
   - icon: fa-home
