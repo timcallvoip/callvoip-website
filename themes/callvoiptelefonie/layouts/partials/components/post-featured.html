@@ -1,11 +1,9 @@
 <header class="h-64 md:h-96 bg-grey-lightest relative">
   {{ with .Params.hero.image}}
-
-  <picture class="h-full">
-    <img class="h-full w-full"
-      style="object-fit: cover;" />
-  </picture>
-
+  <div class="bg-white opacity-25">
+  <img data-src="{{ $.Site.Params.cloudinary_base_url }}/w_auto,dpr_auto,c_scale,f_auto,q_auto/{{.}}"
+          class="w-full h-64 md:h-96  cld-responsive" style="object-fit: cover;" />
+        </div>
   {{ end }}
   <div class="absolute top-0 w-full h-full">
     <div class="bg-white-25 h-full">

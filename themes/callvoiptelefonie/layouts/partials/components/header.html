@@ -1,12 +1,7 @@
 <header class="">
   <div class="container px-4 relative">
     <div class="py-2 flex justify-start md:justify-end">
-      <nav class="flex justify-end">
-        <a href="#" class="uppercase text-xs font-medium text-grey-dark no-underline mr-6 md:mr-0 md:ml-6">Status</a>
-        <a href="#" class="uppercase text-xs font-medium text-grey-dark no-underline mr-6 md:mr-0 md:ml-6">Ondersteuning</a>
-        <a href="#" class="uppercase text-xs font-medium text-grey-dark no-underline mr-6 md:mr-0 md:ml-6">Webshop</a>
-        <a href="#" class="uppercase text-xs font-medium text-grey-dark no-underline mr-6 md:mr-0 md:ml-6">Login</a>
-      </nav>
+      {{ partial "components/nav/top" (dict "menu" .Site.Menus.top "page" . "site" .Site) }}
     </div>
     <div class="flex justify-between items-center pt-3 pb-6">
       <div class="flex flex-1 items-center justify-between">

@@ -5,5 +5,17 @@ theme: "callvoiptelefonie"
 enableRobotsTXT: true
 params:
   cloudinary_base_url: "https://res.cloudinary.com/callvoip/image/upload"
-# menu:
-#   main
+menu:
+  top:
+    - name: Status
+      url: #
+      weight: 1
+    - name: Ondersteuning
+      url: #
+      weight: 2
+    - name: Webshop
+      url: #
+      weight: 3
+    - name: Login
+      url: #
+      weight: 4

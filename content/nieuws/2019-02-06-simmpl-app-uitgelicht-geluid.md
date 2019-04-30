@@ -15,7 +15,7 @@ Meldteksten zijn een belangrijk onderdeel geworden van menig online telefooncent
 
 <!--more-->
 
-## Zelf inspreken?
+### Zelf inspreken?
 
 Natuurlijk kunt u uw eigen meldteksten inspreken. Hoe u dit doet? Heel eenvoudig:
 
@@ -23,87 +23,36 @@ Natuurlijk kunt u uw eigen meldteksten inspreken. Hoe u dit doet? Heel eenvoudig
   * Vervolgens plaatst u een voicemailbox in het belplan (heeft u nog geen voicemailboxen, maak deze dan eerst aan).
   * Last but not least, bel met één van de VoIP toestellen naar 9000 en spreek na de toon uw meldtekst in. Deze wordt vervolgens als .mp3-bestand naar uw email gestuurd.
   * U luistert het geluidsbestand af en indien goed bevonden, dan uploadt u eenvoudig het bestand op de online telefooncentrale.
+
 <img height="1000" width="1000" src="https://www.callvoiptelefonie.nl/wp-content/uploads/2019/02/CvT-BlogberichtGeluid.png" alt="PrintscreenBlogGeluid" />
 
-## Ingesproken door Callvoip
+### Ingesproken door Callvoip
 
 U kunt dus eenvoudig zelf meldteksten inspreken en plaatsen in uw belplan, maar wist u ook dat wij enkele al voor u hebben ingesproken? In onze ‘Standaard meldtekstenbibliotheek’ staan de volgende meldteksten:
 
-<div class="callout">
-  <h3 id="standaard">
-    Standaard meldtekstenbibliotheek
-  </h3>
 
-  <div class="row">
-    <div class="medium-6 columns">
-      <a href="http://simmpl.nl/wp-content/uploads/2014/04/1_Simmpl_medewerkers_in_gesprek.mp3" target="_blank" rel="noopener" download="in_gesprek">Alle medewerkers in gesprek </a>
-    </div>
+### Standaard meldtekstenbibliotheek
 
-    <div class="medium-6 columns">
-      <audio controls="controls"><source src="http://simmpl.nl/wp-content/uploads/2014/04/1_Simmpl_medewerkers_in_gesprek.mp3" type="audio/mpeg"></audio>
-    </div>
-  </div>
+<a href="http://simmpl.nl/wp-content/uploads/2014/04/1_Simmpl_medewerkers_in_gesprek.mp3" target="_blank" rel="noopener" download="in_gesprek">Alle medewerkers in gesprek </a>
+<audio controls="controls"><source src="http://simmpl.nl/wp-content/uploads/2014/04/1_Simmpl_medewerkers_in_gesprek.mp3" type="audio/mpeg"></audio>
 
-  <div class="row">
-    <div class="medium-6 columns">
-      <a href="http://simmpl.nl/wp-content/uploads/2014/04/2_Simmpl_moment_geduld_alstublieft.mp3" target="_blank" rel="noopener" download="moment_geduld">Een ogenblik geduld alstublieft</a>
-    </div>
+<a href="http://simmpl.nl/wp-content/uploads/2014/04/2_Simmpl_moment_geduld_alstublieft.mp3" target="_blank" rel="noopener" download="moment_geduld">Een ogenblik geduld alstublieft</a>
+<audio controls="controls"><source src="http://simmpl.nl/wp-content/uploads/2014/04/2_Simmpl_moment_geduld_alstublieft.mp3" type="audio/mpeg"></audio>
 
-    <div class="medium-6 columns">
-      <audio controls="controls"><source src="http://simmpl.nl/wp-content/uploads/2014/04/2_Simmpl_moment_geduld_alstublieft.mp3" type="audio/mpeg"></audio>
-    </div>
-  </div>
+<a href="http://simmpl.nl/wp-content/uploads/2014/04/3_Simmpl_u_wordt_doorverbonden.mp3" target="_blank" rel="noopener" download="wordt_doorverbonden">Een ogenblik geduld u wordt doorverbonden</a>
+<audio controls="controls"><source src="http://simmpl.nl/wp-content/uploads/2014/04/3_Simmpl_u_wordt_doorverbonden.mp3" type="audio/mpeg"></audio>
 
-  <div class="row">
-    <div class="medium-6 columns">
-      <a href="http://simmpl.nl/wp-content/uploads/2014/04/3_Simmpl_u_wordt_doorverbonden.mp3" target="_blank" rel="noopener" download="wordt_doorverbonden">Een ogenblik geduld u wordt doorverbonden</a>
-    </div>
+<a href="http://simmpl.nl/wp-content/uploads/2014/04/4_Simmpl_telefonisch_niet_bereikbaar.mp3" target="_blank" rel="noopener" download="niet_bereikbaar">Op dit moment telefonisch niet bereikbaar</a>
+<audio controls="controls"><source src="http://simmpl.nl/wp-content/uploads/2014/04/4_Simmpl_telefonisch_niet_bereikbaar.mp3" type="audio/mpeg"></audio>
 
-    <div class="medium-6 columns">
-      <audio controls="controls"><source src="http://simmpl.nl/wp-content/uploads/2014/04/3_Simmpl_u_wordt_doorverbonden.mp3" type="audio/mpeg"></audio>
-    </div>
-  </div>
+<a href="http://simmpl.nl/wp-content/uploads/2014/04/5_Simmpl_standaard-voicemailbegroeting.mp3" target="_blank" rel="noopener" download="standaard_voicemail">Standaard voicemail begroeting</a>
+<audio controls="controls"><source src="http://simmpl.nl/wp-content/uploads/2014/04/5_Simmpl_standaard-voicemailbegroeting.mp3" type="audio/mpeg"></audio>
 
-  <div class="row">
-    <div class="medium-6 columns">
-      <a href="http://simmpl.nl/wp-content/uploads/2014/04/4_Simmpl_telefonisch_niet_bereikbaar.mp3" target="_blank" rel="noopener" download="niet_bereikbaar">Op dit moment telefonisch niet bereikbaar</a>
-    </div>
+<a href="http://simmpl.nl/wp-content/uploads/2014/04/6-Simmpl-feestdagen-gesloten-eindebericht.mp3" target="_blank" rel="noopener" download="feestdagen_gesloten">Feestdagen gesloten eindebericht</a>
+<audio controls="controls"><source src="http://simmpl.nl/wp-content/uploads/2014/04/6-Simmpl-feestdagen-gesloten-eindebericht.mp3" type="audio/mpeg"></audio>
 
-    <div class="medium-6 columns">
-      <audio controls="controls"><source src="http://simmpl.nl/wp-content/uploads/2014/04/4_Simmpl_telefonisch_niet_bereikbaar.mp3" type="audio/mpeg"></audio>
-    </div>
-  </div>
-
-  <div class="row">
-    <div class="medium-6 columns">
-      <a href="http://simmpl.nl/wp-content/uploads/2014/04/5_Simmpl_standaard-voicemailbegroeting.mp3" target="_blank" rel="noopener" download="standaard_voicemail">Standaard voicemail begroeting</a>
-    </div>
-
-    <div class="medium-6 columns">
-      <audio controls="controls"><source src="http://simmpl.nl/wp-content/uploads/2014/04/5_Simmpl_standaard-voicemailbegroeting.mp3" type="audio/mpeg"></audio>
-    </div>
-  </div>
-
-  <div class="row">
-    <div class="medium-6 columns">
-      <a href="http://simmpl.nl/wp-content/uploads/2014/04/6-Simmpl-feestdagen-gesloten-eindebericht.mp3" target="_blank" rel="noopener" download="feestdagen_gesloten">Feestdagen gesloten eindebericht</a>
-    </div>
-
-    <div class="medium-6 columns">
-      <audio controls="controls"><source src="http://simmpl.nl/wp-content/uploads/2014/04/6-Simmpl-feestdagen-gesloten-eindebericht.mp3" type="audio/mpeg"></audio>
-    </div>
-  </div>
-
-  <div class="row">
-    <div class="medium-6 columns">
-      <a href="http://simmpl.nl/wp-content/uploads/2014/04/7-Simmpl-feestdagen-gesloten-voicemail.mp3" target="_blank" rel="noopener" download="feestdagen_gesloten_voicemail">Feestdagen gesloten voicemail</a>
-    </div>
-
-    <div class="medium-6 columns">
-      <audio controls="controls"><source src="http://simmpl.nl/wp-content/uploads/2014/04/7-Simmpl-feestdagen-gesloten-voicemail.mp3" type="audio/mpeg"></audio>
-    </div>
-  </div>
-</div>
+<a href="http://simmpl.nl/wp-content/uploads/2014/04/7-Simmpl-feestdagen-gesloten-voicemail.mp3" target="_blank" rel="noopener" download="feestdagen_gesloten_voicemail">Feestdagen gesloten voicemail</a>
+<audio controls="controls"><source src="http://simmpl.nl/wp-content/uploads/2014/04/7-Simmpl-feestdagen-gesloten-voicemail.mp3" type="audio/mpeg"></audio>
 
 Meer informatie over alle functionaliteiten van onze centrale vindt u in onze [**uitgebreide handleiding**][1].
 

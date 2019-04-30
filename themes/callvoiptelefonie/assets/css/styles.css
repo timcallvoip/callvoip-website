@@ -67,6 +67,14 @@
   @apply mb-6 opacity-75;
 }
 
+.user-content ul {
+  @apply list-inside list-disc;
+}
+
+.user-content li {
+  @apply mb-2;
+}
+
 .user-content h2 {
   @apply text-3xl font-medium mb-2 leading-tight;
 }
