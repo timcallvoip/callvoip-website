@@ -138,3 +138,9 @@ html {
 .chat-open #chat-application {
   bottom: 0px !important;
 } */
+
+@responsive {
+  .flex-forced {
+    display: flex !important;
+  }
+}
