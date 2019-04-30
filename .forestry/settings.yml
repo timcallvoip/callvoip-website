@@ -9,6 +9,10 @@ sections:
 - type: document
   path: content/_index.md
   label: Hompeage
+- type: document
+  path: content/aanbod.md
+  label: Aanbod
+  match: "**/*"
 - type: directory
   path: content/telefonie
   label: Telefonie
