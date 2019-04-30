@@ -8,12 +8,15 @@ fields:
 - type: text
   name: slug
   label: slug
+  hidden: true
 - type: text
   name: type
   label: type
+  hidden: true
 - type: text
   name: layout
   label: layout
+  hidden: true
 - type: boolean
   name: logos
   label: logos
