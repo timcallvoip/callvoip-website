@@ -37,6 +37,8 @@ sections:
   label: Nieuws
   create: all
   match: "**/*"
+  templates:
+  - blog-post
 - type: directory
   path: content
   label: Legal
