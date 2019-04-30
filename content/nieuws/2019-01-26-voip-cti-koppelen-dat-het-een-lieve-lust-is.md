@@ -2,17 +2,17 @@
 title: 'VoIP CTI: Koppelen dat het een lieve lust is'
 author: Marieke Timmer
 type: post
-date: 2019-01-26T20:31:51+00:00
-url: /voip-cti-koppelen-dat-het-een-lieve-lust-is/
+date: 2019-01-26T20:31:51.000+00:00
+url: "/voip-cti-koppelen-dat-het-een-lieve-lust-is/"
 contactpersoon:
-  - 1988
+- 1988
 categories:
-  - Nieuwsbrieven
+- Nieuwsbrieven
 tags:
-  - featured
+- featured
 featured: true
 hero:
-  image: /uploads/uitgelicht.jpg
+  image: "/v1552991205/Team/logo-bord-breed.jpg"
 
 ---
 De telefoon gaat. U ziet het nummer, hoort de naam en in de eerste zinnen van het gesprek opent u uw CRM en navigeert naar de relatie. He nee, “wat was uw naam ook alweer? Met dubbel s?” en ja, u heeft het contact gevonden. Zo gaat het, en dit werkt prima.
