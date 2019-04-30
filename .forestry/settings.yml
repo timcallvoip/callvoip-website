@@ -12,7 +12,6 @@ sections:
 - type: document
   path: content/aanbod.md
   label: Aanbod
-  match: "**/*"
 - type: directory
   path: content/telefonie
   label: Telefonie
