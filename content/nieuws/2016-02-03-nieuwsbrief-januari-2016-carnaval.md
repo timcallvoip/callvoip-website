@@ -4,7 +4,6 @@ author: Ralf Gerrits
 type: post
 date: 2016-02-03T09:32:27+00:00
 url: /nieuwsbrief-januari-2016-carnaval/
-featured_image: /wp-content/uploads/2016/02/Nieuws-Simmpl-onder-de-loep-200x76.png
 contactpersoon:
   - 1995
 categories:

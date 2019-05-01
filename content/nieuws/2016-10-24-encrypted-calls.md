@@ -4,7 +4,6 @@ author: Milan Littooy
 type: post
 date: 2016-10-24T09:51:47+00:00
 url: /encrypted-calls/
-featured_image: /wp-content/uploads/2016/02/Nieuws-Simmpl-onder-de-loep-200x76.png
 contactpersoon:
   - 1995
 categories:
@@ -15,47 +14,45 @@ CallvoipTelefonie is erg trots om te melden dat wij als eerste provider in Neder
 
 <!--more-->
 
-## Waarom encrypted calls?
+### Waarom encrypted calls?
 
-Het kabinet is bezig met een wetsvoorstel dat de AIVD en MIVD meer bevoegdheden geeft voor het aftappen van gesprekken. Justitie en veiligheidsdiensten mogen in de huidige wetgeving al internetverkeer aftappen, maar slechts één tap tegelijk te plaatsen. Met dit nieuwe wetsvoorstel mogen justitie en de veiligheidsdiensten in bulk gesprekken aftappen. Dankzij SRTP is het niet meer mogelijk dat gesprekken in bulk worden afgetapt.</p> 
+Het kabinet is bezig met een wetsvoorstel dat de AIVD en MIVD meer bevoegdheden geeft voor het aftappen van gesprekken. Justitie en veiligheidsdiensten mogen in de huidige wetgeving al internetverkeer aftappen, maar slechts één tap tegelijk te plaatsen. Met dit nieuwe wetsvoorstel mogen justitie en de veiligheidsdiensten in bulk gesprekken aftappen. Dankzij SRTP is het niet meer mogelijk dat gesprekken in bulk worden afgetapt.</p>
 
 **CallvoipTelefonie biedt twee lagen van beveiliging**
 
-  * **TLS:** een soort HTTPS certificaat voor een beveiligde verbinding tussen de centrale en uw telefoon. 
+  * **TLS:** een soort HTTPS certificaat voor een beveiligde verbinding tussen de centrale en uw telefoon.
   * **SRTP:** de daadwerkelijke versleuteling van het gesprek vanaf uw toestel
 
-## Wat is TLS?
+### Wat is TLS?
 
 TLS (Transport Layer Security) is een soort HTTPS-certificaat over de verbinding tussen de centrale en uw telefoon. Alle internetverkeer van CallvoipTelefonie loopt via TLS en dit is standaard inbegrepen en is gratis voor alle klanten.
 
-## Wat is SRTP?
+### Wat is SRTP?
 
 SRTP (Secure Real-time Transport Protocol) is een techniek waarmee de telefoongesprekken zelf beveiligd worden. Hierdoor zijn deze beveiligd tegen meeluisteren.
 
-## Wanneer zijn mijn gesprekken beveiligd met SRTP (encrypted calls)?
+### Wanneer zijn mijn gesprekken beveiligd met SRTP (encrypted calls)?
 
-Door het activeren van deze nieuwe functionaliteit maakt u het lastiger om afgeluisterd te worden. 
-  
-De audio tussen uw telefoontoestel en de Simmpl telefooncentrale is beveiligd met SRTP. Beveiligde telefonie via Simmpl maakt dat dat deel van uw telefoongesprekken waarop wij invloed hebben wordt beveiligd. Hieronder enkele voorbeelden wat u kunt verwachten. 
+Door het activeren van deze nieuwe functionaliteit maakt u het lastiger om afgeluisterd te worden.
+
+De audio tussen uw telefoontoestel en de Simmpl telefooncentrale is beveiligd met SRTP. Beveiligde telefonie via Simmpl maakt dat dat deel van uw telefoongesprekken waarop wij invloed hebben wordt beveiligd. Hieronder enkele voorbeelden wat u kunt verwachten.
 
 **1. Gesprek vanaf uw telefoontoestel naar een mobiel nummer en vice versa:**
-  
-De audio tussen uw telefoontoestel en de Simmpl telefooncentrale is beveiligd met SRTP. 
-  
-De audio tussen de andere provider en de mobiele telefoon kan beveiligd zijn. Hiervoor dient de ontvangende partij ook SRTP te hebben. 
 
-<img src="https://www.callvoiptelefonie.nl/wp-content/uploads/2016/10/voorbeelden_SRTP_vb3.png" alt="voorbeelden_srtp_vb3" class="aligncenter size-full" />
-  
+De audio tussen uw telefoontoestel en de Simmpl telefooncentrale is beveiligd met SRTP.
+
+De audio tussen de andere provider en de mobiele telefoon kan beveiligd zijn. Hiervoor dient de ontvangende partij ook SRTP te hebben.
+
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1556647042/voorbeelden_SRTP_vb3.png" alt="voorbeelden_srtp_vb3" class="aligncenter size-full" />
+
 
 
 **2. Gesprek vanaf toestel A naar toestel B binnen uw eigen Simmpl omgeving:**
-  
-De audio tussen toestel A en de Simmpl telefooncentrale is beveiligd door middel van SRTP. 
-  
+
+De audio tussen toestel A en de Simmpl telefooncentrale is beveiligd door middel van SRTP.
+
 De audio tussen de Simmpl telefooncentrale en toestel B is ook beveiligd door middel van SRTP.
 
-<img src="https://www.callvoiptelefonie.nl/wp-content/uploads/2016/10/voorbeelden_SRTP_vb1-2.png" alt="voorbeelden_srtp_vb1-2" class="aligncenter size-full" />
-  
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1556647042/voorbeelden_SRTP_vb1-2.png" alt="voorbeelden_srtp_vb1-2" class="aligncenter size-full" />
 
-  
 <a class="button" href="/versleutelde-telefoongesprekken" target="">Meer informatie over SRTP en TLS</a>

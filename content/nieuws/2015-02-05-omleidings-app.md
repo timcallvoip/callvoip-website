@@ -18,7 +18,7 @@ Wilt u met één druk op de knop uw belverkeer aanpassen? De Simmpl telefooncent
 
 **Hoe werkt het?**
 
-<img class="alignleft size-full wp-image-825" src="http://tijdhof.nl/wp-content/uploads/2015/02/highlight_flow-control-app_150215MT.gif" alt="omleidings-app" width="125" height="216" />
+<img class="alignleft size-full wp-image-825" src="https://res.cloudinary.com/callvoip/image/upload/v1556647042/highlight_flow-control-app_150215MT.gif" alt="omleidings-app" />
 
 *   Definieer één of een set van acties en koppel deze aan een code. U kunt meerdere omleidingen instellen.
 *   Vanaf al uw telefoontoestellen kunt u deze code bellen om de ingestelde omleiding aan- of uit te schakelen.
@@ -41,6 +41,6 @@ Met één druk op de knop vangt u de extra drukte beter op.
 Voor diverse soorten adhoc gelegenheden die invloed hebben op inkomend telefoonverkeer kunt u nu alvast een adequate route klaarzetten: een passende meldtekst gevolgd door bv. voicemail. Als u de inschakelcodes paraat heeft is het aan- en uitschakelen ervan een kwestie van één knop indrukken!
 
 
-<img class="alignright size-full wp-image-834" src="http://tijdhof.nl/wp-content/uploads/2015/02/highlight_flow-control-app-3_150215MT.gif" alt="Flow control app" width="400" height="409" />
+<img class="alignright size-full wp-image-834" src="https://res.cloudinary.com/callvoip/image/upload/v1556647042/highlight_flow-control-app-3_150215MT.gif" alt="Flow control app"  />
 
 <a title="Simmpl handleiding faxberichten versturen" href="http://www.simmpl.nl/downloads/Simmpl_omleidingsapp.pdf" target="_blank">Klik hier voor de uitgebreide handleiding van de omleidings-app!</a>

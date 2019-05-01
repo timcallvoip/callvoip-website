@@ -4,7 +4,6 @@ author: Marieke Timmer
 type: post
 date: 2016-05-14T21:54:52+00:00
 url: /nieuwsbrief-mei-2016-gespreksopname/
-featured_image: /wp-content/uploads/2016/02/Nieuws-Simmpl-onder-de-loep-200x76.png
 contactpersoon:
   - 1988
 categories:
@@ -12,29 +11,29 @@ categories:
 
 ---
 Stel: u heeft net een telefoongesprek gehad en u wilt terugluisteren wat er allemaal besproken of afgesproken is. Hoe kunt u dit instellen?
-  
+
 <!--more-->
 
 
-  
-**Simmpl! Met Gespreksopname!** 
+
+**Simmpl! Met Gespreksopname!**
 
 Met trots introduceren wij gespreksopname: een prachtige feature waarmee u alle gesprekken kunt opnemen en vervolgens kunt terugluisteren en downloaden.
 
 Gespreksopname kan handig zijn voor:
-  
+
 * trainingsdoeleinden
-  
+
 * meten klanttevredenheid
-  
+
 * vastleggen contractuele afspraken
 
 **Twee soorten gespreksopname**
-  
+
 Dan kunnen wij dit uiteraard ook voor u doen!
-  
+
 1 &#8211; neem alle gesprekken helemaal op
-  
+
 2 &#8211; bepaal welk deel van een gesprek u opneemt
 
 In onze handleiding leest u precies wat u met deze mooie nieuwe feature gespreksopname kunt doen.

@@ -26,4 +26,4 @@ Op dit moment zijn we druk bezig met een nieuw gebruikerspaneel, ook wel **UC Pa
 
  We zijn nog bezig met een uitgebreide handleiding, deze volgt snel!
 
-<img src="https://www.callvoiptelefonie.nl/wp-content/uploads/2018/10/UCPanelNW.png" alt="UCPanel" class="alignright size-full" />
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1556647042/UCPanelNW.png" alt="UCPanel" class="alignright size-full" />

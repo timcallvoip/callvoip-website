@@ -4,7 +4,6 @@ author: Ralf Gerrits
 type: post
 date: 2015-11-11T10:05:26+00:00
 url: /nieuwsbrief-december-210-feestdagen/
-featured_image: /wp-content/uploads/2016/02/Nieuws-Simmpl-onder-de-loep-200x76.png
 contactpersoon:
   - 1997
 categories:

@@ -4,7 +4,6 @@ author: Ralf Gerrits
 type: post
 date: 2016-01-05T09:55:13+00:00
 url: /nieuwsbrief-januari-2016-callpickup/
-featured_image: /wp-content/uploads/2016/02/Nieuws-Simmpl-onder-de-loep-200x76.png
 contactpersoon:
   - 1988
 categories:

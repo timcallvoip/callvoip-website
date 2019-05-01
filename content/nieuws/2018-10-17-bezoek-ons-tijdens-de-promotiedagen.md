@@ -20,4 +20,4 @@ Tijdens de promotiedagen kunt u de verschillende bedrijven ontmoeten op 25 versc
 ### Wilt u ook aanwezig zijn?
 Dan nodigen wij u van harte uit om onze stand te bezoeken, **standnummer 6043**. U kunt via onderstaande afbeelding een gratis toegangskaart aanvragen. Het gaan twee mooie dagen worden en hopelijk zie ik u daar!
 
-<a href="https://www.promotiedagen.nl/toegangskaart/callvoiptelefonie/" target="_blank"><img src="https://www.callvoiptelefonie.nl/wp-content/uploads/2018/10/emailbanner1.png" alt="promotiedagen" /></a>
+<a href="https://www.promotiedagen.nl/toegangskaart/callvoiptelefonie/" target="_blank"><img src="https://res.cloudinary.com/callvoip/image/upload/v1556647042/emailbanner1.png" alt="promotiedagen" /></a>
