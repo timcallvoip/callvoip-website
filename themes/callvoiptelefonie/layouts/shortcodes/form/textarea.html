@@ -3,6 +3,6 @@
 
 <div class="mb-4">
     <label for="{{ $name | urlize }}" class="block">{{ $name }} {{ if $required}} <span class="text-red">*</span> {{ end }}</label>
-  <textarea id="{{ $name | urlize }}" name="{{ $name | urlize }}" {{ if $required}} required {{ end }} class="w-full border border-grey-25 bg-grey-lightest px-3 py-3"  cols="30" rows="10"></textarea>
+  <textarea id="{{ $name | urlize }}" name="{{ $name | urlize }}" {{ if $required}} required {{ end }} class="w-full border border-grey-light bg-grey-lightest px-3 py-3"  cols="30" rows="10"></textarea>
 </div>
 
