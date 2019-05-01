@@ -4,20 +4,23 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Title
 - type: text
   name: slug
-  label: slug
-- type: text
-  name: type
-  label: type
-- type: text
-  name: layout
-  label: layout
+  label: Slug
 - type: field_group
   name: hero
-  label: hero
+  label: Hero
   fields:
   - type: file
     name: image
     label: image
+- type: text
+  name: type
+  label: type
+  default: page
+  hidden: true
+- type: text
+  name: layout
+  label: layout
+  hidden: true
