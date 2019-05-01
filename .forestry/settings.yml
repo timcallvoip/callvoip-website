@@ -20,6 +20,8 @@ sections:
   label: Bedank pagina's
   create: all
   match: "**/*"
+  templates:
+  - clean-template
 - type: directory
   path: content/telefonie
   label: Telefonie
