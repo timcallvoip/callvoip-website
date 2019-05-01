@@ -2,7 +2,6 @@
 title: Offerte aanvragen
 slug: offerte
 type: page
-layout: offerte
 hero:
   image: "/v1552991205/Team/logo-bord-breed.jpg"
 ---
