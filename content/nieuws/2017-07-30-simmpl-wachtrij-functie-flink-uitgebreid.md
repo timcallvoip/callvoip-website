@@ -12,6 +12,8 @@ Op basis van uw wensen en feedback is de wachtrijfunctie is flink uitgebreid en 
 
 U heeft meer informatie over de wachtende beller en kunt hem dankzij deze tools beter en sneller assisteren.
 
+<!--more-->
+
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1556647042/queue_app_schaduw.png" class="alignright size-full" />
 
 Meer informatie:
@@ -19,7 +21,6 @@ Meer informatie:
 &bull; <a href="http://www.simmpl.nl/downloads/Simmpl_feature-update_juli.pdf" target="_blank"><u>Klik voor de Simmpl feature update (juli-17)</u></a>
 &bull; <a href="http://www.simmpl.nl/downloads/Simmpl_handleiding_wachtrij.pdf" target="_blank"><u>Meer informatie over de Wachtrij App</u></a>
 
-<!--more-->
 
 Zo kunt u voortaan:
 
