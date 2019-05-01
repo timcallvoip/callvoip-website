@@ -12,6 +12,15 @@ sections:
 - type: document
   path: content/aanbod.md
   label: Aanbod
+- type: document
+  path: content/offerte.md
+  label: Offerte
+  match: "**/*"
+- type: directory
+  path: content/bedank
+  label: Bedank pagina's
+  create: all
+  match: "**/*"
 - type: directory
   path: content/telefonie
   label: Telefonie
