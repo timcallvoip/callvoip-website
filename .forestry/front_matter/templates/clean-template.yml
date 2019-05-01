@@ -1,0 +1,23 @@
+---
+label: Clean template
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: slug
+  label: slug
+- type: text
+  name: type
+  label: type
+- type: text
+  name: layout
+  label: layout
+- type: field_group
+  name: hero
+  label: hero
+  fields:
+  - type: file
+    name: image
+    label: image
