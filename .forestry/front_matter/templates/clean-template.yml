@@ -1,0 +1,28 @@
+---
+label: Clean template
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Title
+- type: text
+  name: slug
+  label: Slug
+- type: field_group
+  name: hero
+  label: Hero
+  fields:
+  - type: file
+    name: image
+    label: image
+- type: text
+  name: type
+  label: type
+  default: page
+  hidden: true
+- type: text
+  name: layout
+  label: layout
+  hidden: true
+pages:
+- content/offerte.md

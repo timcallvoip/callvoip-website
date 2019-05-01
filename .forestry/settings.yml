@@ -15,12 +15,13 @@ sections:
 - type: document
   path: content/offerte.md
   label: Offerte
-  match: "**/*"
 - type: directory
   path: content/bedank
   label: Bedank pagina's
   create: all
   match: "**/*"
+  templates:
+  - clean-template
 - type: directory
   path: content/telefonie
   label: Telefonie
