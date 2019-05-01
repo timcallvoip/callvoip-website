@@ -5,8 +5,8 @@ type: page
 layout: offerte
 hero:
   image: "/v1552991205/Team/logo-bord-breed.jpg"
----
 
+---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris erat metus, ornare eu auctor a, molestie eget enim. Duis maximus mollis eros, quis convallis massa scelerisque non.
 
 

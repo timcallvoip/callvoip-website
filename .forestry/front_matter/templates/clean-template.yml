@@ -24,3 +24,5 @@ fields:
   name: layout
   label: layout
   hidden: true
+pages:
+- content/offerte.md
