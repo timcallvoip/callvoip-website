@@ -2,26 +2,25 @@
 title: User Panel vernieuwd! Probeer de beta nu uit.
 author: Milan Littooy
 type: post
-date: 2018-10-23T07:35:15+00:00
-url: /user-panel-vernieuwd/
+date: 2018-10-23T07:35:15.000+00:00
+url: "/user-panel-vernieuwd/"
 contactpersoon:
-  - 9589
+- 9589
 categories:
-  - Meldingen
+- Meldingen
 
 ---
-Op dit moment zijn we druk bezig met een nieuw gebruikerspaneel, ook wel **UC Panel** genoemd. In dit gebruikerspaneel kunt u straks eenvoudig navigeren naar de verschillende onderdelen van de telefooncentrale.    
+Op dit moment zijn we druk bezig met een nieuw gebruikerspaneel, ook wel **UC Panel** genoemd. In dit gebruikerspaneel kunt u straks eenvoudig navigeren naar de verschillende onderdelen van de telefooncentrale.  
 <!--more-->
 
-<img src="https://www.callvoiptelefonie.nl/wp-content/uploads/2018/10/UCPanelNW2-1024x585.png" alt="UCPanel" class="aligncenter size-large" />  
-</br>
+![](https://res.cloudinary.com/callvoip/image/upload/v1556692961/UCPanelNW2-1024x585.png)
 
 <div class="row">
-  <div class="medium-7 columns">
-    <h4>
-      Wat vinden we allemaal in het UC Panel?
-    </h4>
-    
+<div class="medium-7 columns">
+<h4>
+Wat vinden we allemaal in het UC Panel?
+</h4>
+
     <li>
       <strong>Dashboard</strong> &#8211; Als u inlogt, dan komt u meteen in het dasboard terecht.
     </li>
