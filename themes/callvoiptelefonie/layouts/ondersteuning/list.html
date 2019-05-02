@@ -1,0 +1,35 @@
+{{ define "main" }}
+<article class="mb-8 md:mb-24">
+  {{ with .Params.hero }}
+  {{ $title := .Title }}
+  <div class="bg-grey-lightest clearfix">
+    <header class="container px-4 clearfix">
+      <div class="flex flex-col-reverse md:flex-row md:-mx-2  md:items-center pt-6 sm:pt-8 md:pt-12 md:pt-24 mb-12">
+        <div class="mb-6 md:mb-12 md:w-1/2 md:px-2">
+          {{ with .title }}
+          <h1 class="text-3xl lg:text-4xl xxl:text-5xl font-medium leading-tight mb-4 md:mb-6">{{ . }}</h1>
+          {{ end }}
+          {{ with .content }}
+          <p class="font-medium lg:text-lg xxl:text-xl max-w-md opacity-75 mb-4 md:mb-8 lg:leading-loose">{{ . }}</p>
+          {{ end }}
+          {{ with .button }}
+          <p>
+            <button type="button" class="button-icon chat-button xl:text-lg" data-api="smartsupp"
+              data-operation="open"><i class="fal fa-comments fa-2x mr-4"></i>{{ .content }}</button>
+          </p>
+          {{ end }}
+        </div>
+        {{ with .image }}
+        <div class="md:w-1/2 md:px-2 mb-12">
+          <img data-src="{{ $.Site.Params.cloudinary_base_url }}/w_auto,dpr_auto,c_scale,f_auto,q_auto/{{.}}"
+            class="w-full cld-responsive" style="object-fit: cover;" alt="{{ $title }}" />
+        </div>
+        {{ end }}
+      </div>
+    </header>
+  </div>
+  {{ end }}
+
+  {{- partial "components/helpdesk.html" . -}}
+</article>
+{{ end }}

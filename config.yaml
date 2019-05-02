@@ -5,13 +5,17 @@ theme: "callvoiptelefonie"
 enableRobotsTXT: true
 params:
   cloudinary_base_url: "https://res.cloudinary.com/callvoip/image/upload"
+taxonomies:
+  category: categories
+  onderdeel: onderdelen
+  tag: tags
 menu:
   top:
     - name: Status
       url: #
       weight: 1
     - name: Ondersteuning
-      url: #
+      url: /ondersteuning
       weight: 2
     - name: Webshop
       url: #
