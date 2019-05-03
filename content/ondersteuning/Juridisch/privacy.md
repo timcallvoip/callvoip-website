@@ -1,6 +1,6 @@
 +++
 draft = true
-onderdelen = ["ondersteuning/Juridisch/juridisch.md"]
+onderdelen = "juridisch"
 title = "Privacy"
 
 +++
