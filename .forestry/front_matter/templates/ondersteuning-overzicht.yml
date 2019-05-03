@@ -12,3 +12,5 @@ fields:
   label: Layout
   default: overview
   hidden: true
+pages:
+- content/ondersteuning/Juridisch/juridisch.md
