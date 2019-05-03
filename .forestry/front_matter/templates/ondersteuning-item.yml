@@ -1,0 +1,10 @@
+---
+label: Ondersteuning item
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: list
+  name: onderdelen
+  label: onderdelen

@@ -1,0 +1,14 @@
+---
+label: Ondersteuning overzicht
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: Title
+- name: layout
+  type: text
+  config:
+    required: false
+  label: Layout
+  default: overview
+  hidden: true
