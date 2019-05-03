@@ -9,9 +9,10 @@ fields:
   name: onderdelen
   label: Onderdelen
   config:
-    use_select: true
+    use_select: false
     source:
-      type: pages
+      type: simple
       section: algemeen
+      path: ''
 pages:
 - content/ondersteuning/Juridisch/privacy.md
