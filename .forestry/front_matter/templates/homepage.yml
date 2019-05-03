@@ -7,6 +7,12 @@ fields:
   type: text
   hidden: false
   default: ''
+- name: seo
+  type: include
+  config: {}
+  template: seo
+  label: SEO
+  description: SEO
 - name: hero
   label: Hero
   type: field_group
