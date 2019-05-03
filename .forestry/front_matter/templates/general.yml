@@ -2,6 +2,12 @@
 label: general
 hide_body: true
 fields:
+- name: seo
+  type: include
+  config: {}
+  template: seo
+  label: SEO
+  description: SEO
 - type: field_group
   name: clients
   label: Clients
