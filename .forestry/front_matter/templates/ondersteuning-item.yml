@@ -4,7 +4,12 @@ hide_body: true
 fields:
 - type: text
   name: title
-  label: title
+  label: Title
 - type: list
   name: onderdelen
-  label: onderdelen
+  label: Onderdelen
+  config:
+    use_select: true
+    source:
+      type: pages
+      section: algemeen
