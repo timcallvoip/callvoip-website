@@ -1,3 +1,4 @@
 ---
 title: Algemeen
+layout: overview
 ---
