@@ -1,6 +1,6 @@
-+++
-draft = true
-onderdelen = "juridisch"
-title = "Privacy"
-
-+++
+---
+title: Hoe kan ik jullie bereiken
+weight: 2
+onderdelen:
+  - Juridisch
+---
