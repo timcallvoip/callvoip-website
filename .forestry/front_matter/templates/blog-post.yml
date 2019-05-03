@@ -5,6 +5,11 @@ fields:
 - type: text
   name: title
   label: Ttle
+- name: seo
+  type: include
+  config: {}
+  template: seo
+  label: Seo
 - type: boolean
   name: featured
   label: Featured
