@@ -1,5 +1,5 @@
 baseURL: "https://callvoiptelefoniewebsite.netlify.com"
-LanguageCode: "nl-nl"
+LanguageCode: "nl"
 title: "Callvoip"
 theme: "callvoiptelefonie"
 enableRobotsTXT: true
