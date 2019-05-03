@@ -5,6 +5,12 @@ fields:
 - type: text
   name: title
   label: Title
+- name: seo
+  type: include
+  config: {}
+  template: seo
+  label: SEO
+  description: Seo
 - type: list
   name: onderdelen
   label: Onderdelen
