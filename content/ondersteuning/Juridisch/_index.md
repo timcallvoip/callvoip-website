@@ -1,5 +1,4 @@
-+++
-draft = true
-layout = "overview"
-title = "Juridisch"
-+++
+---
+title: Juridisch
+layout: overview
+---

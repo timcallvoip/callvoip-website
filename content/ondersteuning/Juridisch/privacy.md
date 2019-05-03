@@ -1,6 +1,6 @@
 ---
-title: Hoe kan ik jullie bereiken
-weight: 2
+title: Privacy
+weight: 1
 onderdelen:
   - Juridisch
 ---
