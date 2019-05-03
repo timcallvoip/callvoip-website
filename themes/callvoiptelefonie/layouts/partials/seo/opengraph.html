@@ -5,7 +5,7 @@
 <meta property="og:url" content="{{ .RelPermalink | default .Permalink }}" />
 {{- with $.Param "images" -}}
   {{- range first 6 . -}}
-    <meta property="og:image" content="{{ . | absURL }}" />
+    <meta property="og:image" content="{{ $.Site.Params.cloudinary_base_url }}/{{ . }}" />
     {{- if in $.Site.BaseURL "https://" -}}
     <meta property="og:image:secure" content="{{ $.Site.Params.cloudinary_base_url }}/{{ . }}" />
     {{- end -}}
