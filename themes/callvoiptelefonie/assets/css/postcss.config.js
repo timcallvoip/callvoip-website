@@ -18,7 +18,7 @@ module.exports = {
         extensions: ['html']
       }],
       fontFace: true,
-      whitelist: ['pagination', 'layout-split']
+      whitelist: ['pagination', 'layout-split', 'active', 'has-dropdown']
     }),
     require('autoprefixer')({
       grid: true,
