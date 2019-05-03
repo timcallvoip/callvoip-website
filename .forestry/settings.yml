@@ -4,11 +4,6 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: directory
-  path: content/ondersteuning
-  label: Algemeen
-  create: all
-  match: "**/*"
 - type: heading
   label: Content
 - type: document
@@ -60,8 +55,11 @@ sections:
   create: none
   match: "**"
   exclude: _index.md
-- type: heading
+- type: directory
+  path: content/ondersteuning
   label: Ondersteuning
+  create: all
+  match: "**/*"
 - type: heading
   label: Settings
 - type: document
