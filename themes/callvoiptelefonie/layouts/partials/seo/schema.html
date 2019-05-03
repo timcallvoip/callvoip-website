@@ -13,7 +13,7 @@
 <meta itemprop="wordCount" content="{{ .WordCount }}">
 {{- with $.Param "images" -}}
 {{- range first 6 . -}}
-<meta itemprop="image" content="{{ $.Site.Params.cloudinary_base_url }}/{{ . }}">
+<meta itemprop="image" content="{{ $.Site.Params.cloudinary_base_url }}{{ . }}">
 {{- end -}}
 {{- end -}}
 {{/* Output all taxonomies as schema.org keywords */}}
