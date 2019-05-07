@@ -2,12 +2,12 @@
 title: 'Nieuw: fax versturen zonder fax!'
 author: Milan Littooy
 type: post
-date: 2014-08-17T09:08:51+00:00
-url: /digitaal-faxen/
+date: 2014-08-17T09:08:51.000+00:00
+url: "/intro-digitaal-faxen/"
 contactpersoon:
-  - 1991
+- 1991
 categories:
-  - Updates
+- Updates
 
 ---
 Vanaf de Simmpl telefooncentrale kunt u voortaan ook digitaal faxen versturen. Met deze uitbreiding van de fax-functionaliteit is het fysieke faxapparaat met bijbehorende telefoonlijn overbodig geworden. Eerder was het al mogelijk om faxen per email (PDF) te ontvangen. Nu kunt u ook digitaal faxen verzenden.

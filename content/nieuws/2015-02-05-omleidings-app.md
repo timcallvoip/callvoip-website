@@ -3,14 +3,14 @@ title: 'Simmpl introduceert: Omleidings-app'
 author: oN0rp-q9oY@DEh
 type: post
 date: 2015-02-05T09:20:14.000+00:00
-url: "/omleidings-app/"
+url: "/intro-omleidings-app/"
 contactpersoon:
 - 1995
 categories:
 - Updates
 images:
 - "/v1552991205/Team/logo-bord-breed.jpg"
-description: 'Wilt u met één druk op de knop uw belverkeer aanpassen?'
+description: Wilt u met één druk op de knop uw belverkeer aanpassen?
 
 ---
 **Nieuw: one-touch omleidings-app!**
