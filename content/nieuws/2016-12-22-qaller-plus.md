@@ -2,12 +2,12 @@
 title: Nieuw! Uitbellen met de Qaller-app
 author: Ralf Gerrits
 type: post
-date: 2016-12-22T08:27:42+00:00
-url: /qaller-plus/
+date: 2016-12-22T08:27:42.000+00:00
+url: "/intro-qaller-plus/"
 contactpersoon:
-  - 1995
+- 1995
 categories:
-  - Updates
+- Updates
 
 ---
 Een aantal maanden geleden lanceerden wij de gratis smartphone app Qaller. Met Qaller kunt u de telefooncentrale bedienen, handig voor onderweg. De app is enorm populair en voorziet bij veel klanten in een behoefte.
