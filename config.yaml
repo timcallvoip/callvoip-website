@@ -3,6 +3,7 @@ LanguageCode: "nl"
 title: "Callvoip"
 theme: "callvoiptelefonie"
 enableRobotsTXT: true
+MetaDataFormat: "yaml"
 params:
   cloudinary_base_url: "https://res.cloudinary.com/callvoip/image/upload"
 taxonomies:
