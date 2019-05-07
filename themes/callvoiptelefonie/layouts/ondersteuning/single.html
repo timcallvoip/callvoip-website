@@ -19,24 +19,23 @@
         <div class="bg-white py-6 lg:py-8 px-4 lg:px-8 rounded-lg text-grey-dark ">
           <div class="mb-8">
           <h4 class="text-lg lg:text-2xl font-medium mb-4">Gerelateerde content</h4>
+
           <ul>
-            {{ with .NextInSection }}
-            <li>
+          {{ $thisPage := .Title }}
+          {{ $thisPageSection := .CurrentSection }}
+          {{ range .Site.RegularPages.ByWeight }}
+              {{ if .IsDescendant $thisPageSection }}
+              {{ if not (in .Title $thisPage) }}
+              <li>
               <a href="{{ .Permalink }}"
-                class="font-medium opacity-75 leading-large lg:text-lg border-b border-grey-lightest block pb-2 mb-2">
+                class="font-medium opacity-75 leading-large lg:text-lg border-b border-grey-lightest block pb-2 mb-2 hover:text-blue">
                 <i class="fal fa-file mr-2"></i>
                 {{ .Title }}</a>
-            </li>
-            {{ end }}
-            {{ with .PrevInSection }}
-            <li>
-              <a href="{{ .Permalink }}"
-                class="font-medium opacity-75 leading-large lg:text-lg border-b border-grey-lightest block pb-2 mb-2">
-                <i class="fal fa-file mr-2"></i>
-                {{ .Title }}</a>
-            </li>
-            {{ end }}
-          </ul>
+                </li>
+                {{ end }}
+                {{ end }}
+                {{ end }}
+              </ul>
           </div>
 
           <div class="mb-8">
