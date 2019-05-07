@@ -2,7 +2,6 @@
 description = ""
 images = []
 layout = "overview"
-title = "Integraties"
-weight = 5
-
+title = "Fax & Voicemail"
+weight = 4
 +++
