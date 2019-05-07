@@ -2,16 +2,15 @@
 title: 'NIEUW: Callvoip Click-to-Dial voor Chrome'
 author: Milan Littooy
 type: post
-date: 2017-03-06T11:56:40+00:00
-url: /click-to-dial/
+date: 2017-03-06T11:56:40.000+00:00
+url: "/nieuw-click-to-dial/"
 contactpersoon:
-  - 1991
+- 1991
 categories:
-  - Nieuwsbrieven
-  - Updates
+- Nieuwsbrieven
+- Updates
 
 ---
-
 Met trots introduceert CallvoipTelefonie de Click-to-dial functionaliteit.<br /> Klanten die gebruik maken van de Simmpl-telefooncentrale kunnen voortaan nummers in Chrome aanklikken en automatisch bellen!<br /> Kadootje van Callvoip &#8211; deze plugin voor de chrome browser kunt u kostenloos installeren en gebruiken!
 
 <!--more-->
