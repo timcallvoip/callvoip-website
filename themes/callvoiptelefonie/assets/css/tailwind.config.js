@@ -77,6 +77,7 @@ module.exports = {
       maxHeight: {
         'logo-small': '3rem',
         'logo': '6rem',
+        'small-screen': '40vh',
         'half-screen': '70vh'
       },
 

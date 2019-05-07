@@ -6,4 +6,7 @@ hero:
   image: "/v1552466820/placeholder-werken1.jpg"
   button:
     content: Chat met een medewerker
+outputs:
+  - HTML
+  - JSON
 ---

@@ -46,3 +46,21 @@
   {{- partial "components/helpdesk.html" . -}}
 </article>
 {{ end }}
+{{ define "footer-scripts" }}
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.5.3/vue.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/vue-resource/1.5.1/vue-resource.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/vuex/2.5.0/vuex.min.js"></script>
+<script src="https://unpkg.com/vuex-i18n@1.3.2/dist/vuex-i18n.min-min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/2.6.2/fuse.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.10/lodash.min.js"></script>
+
+{{ $searchjs := resources.Get "js/search.js" }}
+
+{{ with $searchjs }}
+{{ $secureJS := . | resources.Fingerprint }}
+<script type="text/javascript" src="{{ $secureJS.Permalink }}" integrity="{{ $secureJS.Data.Integrity }}"
+	crossorigin="anonymous" defer></script>
+{{ end }}
+
+{{ end }}
