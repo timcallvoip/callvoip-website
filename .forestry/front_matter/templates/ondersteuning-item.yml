@@ -22,5 +22,7 @@ fields:
   label: SEO
   description: Seo
 pages:
+- content/ondersteuning/belplan/overzicht.md
+- content/ondersteuning/algemeen/contact.md
 - content/ondersteuning/algemeen/storing.md
 - content/ondersteuning/Juridisch/privacy.md

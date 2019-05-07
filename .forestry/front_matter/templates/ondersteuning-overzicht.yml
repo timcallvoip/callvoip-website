@@ -28,3 +28,7 @@ fields:
   label: Layout
   default: overview
   hidden: true
+pages:
+- content/ondersteuning/belplan/_index.md
+- content/ondersteuning/Juridisch/_index.md
+- content/ondersteuning/algemeen/_index.md
