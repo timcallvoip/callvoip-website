@@ -29,6 +29,9 @@ fields:
   default: overview
   hidden: true
 pages:
+- content/ondersteuning/Fax & Voicemail/fax-voicemail.md
+- content/ondersteuning/Integraties/integraties.md
+- content/ondersteuning/Vast Mobiel/vast-mobiel.md
 - content/ondersteuning/Meldteksten & Wachtmuziek/meldteksten-wachtmuziek.md
 - content/ondersteuning/Apparatuurhandleidingen/apparatuurhandleidingen.md
 - content/ondersteuning/Netwerk ondersteuning/netwerk-ondersteuning.md
