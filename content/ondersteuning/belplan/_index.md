@@ -1,7 +1,7 @@
 ---
 title: Belplan instellen
 layout: overview
-weight: 3
+weight: 2
 description: ''
 images: []
 

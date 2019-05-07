@@ -1,7 +1,7 @@
 ---
 layout: overview
 title: Juridisch
-weight: 2
+weight: 3
 description: ''
 images: []
 
