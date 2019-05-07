@@ -2,12 +2,12 @@
 title: 'Simmpl introduceert: Prefix App'
 author: Milan Littooy
 type: post
-date: 2014-07-06T09:02:31+00:00
-url: /prefix-app/
+date: 2014-07-06T09:02:31.000+00:00
+url: "/intro-prefix-app/"
 contactpersoon:
-  - 1991
+- 1991
 categories:
-  - Updates
+- Updates
 
 ---
 Maak de inkomende route van een telefoongesprek zichtbaar door er een zelfgekozen prefix voor te plakken. Deze ziet u voor het nummer van de beller in het display van uw IP-telefoon.
