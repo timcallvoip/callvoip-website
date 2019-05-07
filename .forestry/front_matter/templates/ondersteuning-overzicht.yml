@@ -29,6 +29,9 @@ fields:
   default: overview
   hidden: true
 pages:
+- content/ondersteuning/Meldteksten & Wachtmuziek/meldteksten-wachtmuziek.md
+- content/ondersteuning/Apparatuurhandleidingen/apparatuurhandleidingen.md
+- content/ondersteuning/Netwerk ondersteuning/netwerk-ondersteuning.md
 - content/ondersteuning/Simmpl functionaliteiten/simmpl-functionaliteiten.md
 - content/ondersteuning/belplan/_index.md
 - content/ondersteuning/Juridisch/_index.md
