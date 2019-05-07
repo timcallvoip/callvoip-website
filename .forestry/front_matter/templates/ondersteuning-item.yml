@@ -11,14 +11,5 @@ fields:
   template: seo
   label: SEO
   description: Seo
-- type: list
-  name: onderdelen
-  label: Onderdelen
-  config:
-    use_select: false
-    source:
-      type: simple
-      section: algemeen
-      path: ''
 pages:
 - content/ondersteuning/Juridisch/privacy.md
