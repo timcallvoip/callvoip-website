@@ -10,7 +10,7 @@ categories:
 - Updates
 images:
 - "/v1552991205/Team/logo-bord-breed.jpg"
-description: 'Wilt u met één druk op de knop uw belverkeer aanpassen? '
+description: 'Wilt u met één druk op de knop uw belverkeer aanpassen?'
 
 ---
 **Nieuw: one-touch omleidings-app!**

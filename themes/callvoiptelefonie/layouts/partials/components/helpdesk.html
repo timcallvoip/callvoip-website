@@ -1,3 +1,10 @@
+
+
+
+
+
+
+
 <div class="bg-blue pt-12 md:pt-32 pb-12 md:pb-24">
   <div class="container px-4 text-center">
 
@@ -16,26 +23,35 @@
 
   </div>
 </div>
+{{ with .Site.GetPage "/ondersteuning" }}
 <div class="container px-4 pt-12">
   <div class="flex flex-wrap flex-row sm:-mx-4 xl:-mx-8">
-
-    {{ range $name, $taxonomy := .Site.Taxonomies.onderdelen }}
-    <div class="w-full sm:w-1/2 lg:w-1/3 px-4 xl:px-8 mb-8">
-      <h4 class="text-lg lg:text-2xl font-medium mb-4"><a
-          href="/ondersteuning/{{ $name | urlize }}">{{ $name | humanize }}</a> <span
-          class="opacity-50 text-lg">({{ $taxonomy.Count }})</span></h4>
-      <ul>
-        {{ range $name := sort $taxonomy "Weight" | first 3 }}
-        <li>
-          <a href="{{ .Permalink }}"
-            class="font-medium opacity-75 leading-large lg:text-lg border-b border-grey-lightest block pb-2 mb-2">
-            <i class="fal fa-file mr-2"></i>
-            {{ .Title }}</a>
-        </li>
-        {{ end }}
-      </ul>
-    </div>
-    {{ end }}
-
+  {{ range .Sections.ByTitle }}
+      {{ if ne .Title "Posts" }}
+        <div class="w-full sm:w-1/2 lg:w-1/3 px-4 xl:px-8 mb-8">
+          <h4 class="text-lg lg:text-2xl font-medium mb-4">
+            <a href="{{.Permalink}}">{{ .Title }}
+                {{ $child_pages := union .Sections .Pages }}
+              <span
+              class="opacity-50 text-lg">({{ len $child_pages }})</span>
+            </a>
+          </h4>
+            {{ if or (.Sections) (.Pages) }}
+            {{ $child_pages := union .Sections .Pages }}
+              <ul>
+              {{ range $child_pages.ByTitle }}
+              <li>
+              <a href="{{ .Permalink }}"
+                class="font-medium opacity-75 leading-large lg:text-lg border-b border-grey-lightest block pb-2 mb-2">
+                <i class="fal fa-file mr-2"></i>
+                {{ .Title }}</a>
+                </li>
+              {{ end }}
+              </ul>
+          {{ end }}
+            </div>
+      {{ end }}
+  {{ end }}
   </div>
 </div>
+{{ end }}
