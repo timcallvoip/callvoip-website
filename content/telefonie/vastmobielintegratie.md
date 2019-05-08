@@ -1,5 +1,5 @@
 ---
-title: Vast naar mobiel
+title: Vast Mobiel Integratie
 type: page
 layout: default
 blocks:

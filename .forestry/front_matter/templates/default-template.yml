@@ -150,7 +150,7 @@ fields:
         name: price
         label: Price
 pages:
-- content/telefonie/vastnaarmobiel.md
+- content/telefonie/vastmobielintegratie.md
 - content/oplossingen/zelfstandigen.md
 - content/oplossingen/mkb.md
 - content/oplossingen/grootzakelijk.md
