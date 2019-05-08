@@ -31,4 +31,5 @@ fields:
   label: layout
   hidden: true
 pages:
+- content/telefonie/versleutelde-telefoongesprekken-met-srtp.md
 - content/offerte.md

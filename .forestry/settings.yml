@@ -16,8 +16,8 @@ sections:
   path: content/offerte.md
   label: Offerte
 - type: document
-  path: calculator/_index.md
-  label: Calculator
+  path: content/calculator/_index.md
+  label: 'Calculator '
 - type: directory
   path: content/bedank
   label: Bedank pagina's
