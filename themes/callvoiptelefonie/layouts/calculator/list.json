@@ -1,0 +1,77 @@
+{
+  "items": [
+    {
+      "type" : "basic",
+      "fields" : [
+        {{ range $index, $item := .Params.basic}}
+        {{- if and $index (gt $index 0) -}},{{- end }}
+        {
+          "name" : "{{ htmlEscape $item.name}}",
+          "min" : "{{ htmlEscape $item.min}}",
+          "max" : "{{ htmlEscape $item.max}}",
+          "price_monthly" : "{{ htmlEscape $item.price_monthly}}",
+          "price_onetime" : "{{ htmlEscape $item.price_onetime}}",
+          "required" : "{{ htmlEscape $item.required}}"
+        }
+        {{ end}}
+      ]
+    },
+    {
+      "type" : "callminutes",
+      "fields" : [
+        {{ range $index, $item := .Params.callminutes}}
+        {{- if and $index (gt $index 0) -}},{{- end }}
+        {
+          "name" : "{{ htmlEscape $item.name}}",
+          "price_monthly" : "{{ htmlEscape $item.price_monthly}}",
+          "price_onetime" : "{{ htmlEscape $item.price_onetime}}",
+          "required" : "{{ htmlEscape $item.required}}"
+        }
+        {{ end}}
+      ]
+    },
+    {
+      "type" : "callrecording",
+      "fields" : [
+        {{ range $index, $item := .Params.callrecording}}
+        {{- if and $index (gt $index 0) -}},{{- end }}
+        {
+          "name" : "{{ htmlEscape $item.name}}",
+          "price_monthly" : "{{ htmlEscape $item.price_monthly}}",
+          "price_onetime" : "{{ htmlEscape $item.price_onetime}}",
+          "required" : "{{ htmlEscape $item.required}}"
+        }
+        {{ end}}
+      ]
+    },
+    {
+      "type" : "security",
+      "fields" : [
+        {{ range $index, $item := .Params.security}}
+        {{- if and $index (gt $index 0) -}},{{- end }}
+        {
+          "name" : "{{ htmlEscape $item.name}}",
+          "price_monthly" : "{{ htmlEscape $item.price_monthly}}",
+          "price_onetime" : "{{ htmlEscape $item.price_onetime}}",
+          "required" : "{{ htmlEscape $item.required}}"
+        }
+        {{ end}}
+      ]
+    },
+    {
+      "type" : "crm",
+      "fields" : [
+        {{ range $index, $item := .Params.crm}}
+        {{- if and $index (gt $index 0) -}},{{- end }}
+        {
+          "name" : "{{ htmlEscape $item.name}}",
+          "price_monthly" : "{{ htmlEscape $item.price_monthly}}",
+          "price_onetime" : "{{ htmlEscape $item.price_onetime}}",
+          "required" : "{{ htmlEscape $item.required}}"
+        }
+        {{ end}}
+      ]
+    }
+
+  ]
+}

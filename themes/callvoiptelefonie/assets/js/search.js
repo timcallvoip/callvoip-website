@@ -36,11 +36,9 @@ new Vue({
 
       filteredPosts () {
           this.results = this.copyObj(this.resultsOriginal)
-          console.log(this.results)
           let fuseResults = new Fuse(this.results, fuseOptions).search(this.filter)
           let results = []
           Object.values(fuseResults).forEach(result => {
-              console.log('item', result.item)
               results.push(result.item)
           })
           return results
