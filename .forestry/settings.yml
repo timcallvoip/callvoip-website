@@ -15,6 +15,10 @@ sections:
 - type: document
   path: content/offerte.md
   label: Offerte
+- type: document
+  path: calculator/_index.md
+  label: Calculator
+  match: "**/*"
 - type: directory
   path: content/bedank
   label: Bedank pagina's
