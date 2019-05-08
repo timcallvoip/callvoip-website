@@ -10,8 +10,6 @@ layout: ''
 draft: true
 
 ---
-# Versleutelde telefoongesprekken met SRTP
-
 Als eerste provider in Nederland levert CallvoipTelefonie versleutelde telefoongesprekken. Veiligheid staat bij ons hoog in het vaandel en daarom bieden wij de mogelijkheid om uw telefonie te versleutelen en zo uw privacy te waarborgen. Dit doen we door middel van SRTP en TLS.
 
 **CallvoipTelefonie biedt twee lagen van beveiliging:**
@@ -41,12 +39,12 @@ De gesprekken zijn versleuteld tussen uw telefoons en de telefooncentrale. Belt 
 **Voorbeeld 1: Collega’s bellen onderling**  
 Als collega’s onderling bellen dan zijn deze gesprekken beveiligd door middel van SRTP.
 
-![voorbeelden_srtp_vb1-2](https://www.callvoiptelefonie.nl/wp-content/uploads/2016/10/voorbeelden_SRTP_vb1-2.png)
+![voorbeelden](https://www.callvoiptelefonie.nl/wp-content/uploads/2016/10/voorbeelden_SRTP_vb1-2.png)
 
 **Voorbeeld 2: Telefoongesprek naar een andere provider**  
 Het kan zijn dat dit gesprek tussen de (mobiele) telefoon en de ontvangende provider niet beveiligd is. Als zij SRTP hebben, dan is het gesprek wel beveiligd. Tussen uw telefoon en de telefooncentrale is het gesprek wel beveiligd.
 
-![voorbeelden_srtp_vb3](https://www.callvoiptelefonie.nl/wp-content/uploads/2016/10/voorbeelden_SRTP_vb3.png)
+![voorbeelden](https://www.callvoiptelefonie.nl/wp-content/uploads/2016/10/voorbeelden_SRTP_vb3.png)
 
 **Wilt u gebruik maken van SRTP? Dan kunt u dit hieronder aanvragen:**
 
