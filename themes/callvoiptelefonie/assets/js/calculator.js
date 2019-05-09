@@ -9,15 +9,24 @@ const state = {
   basicFields: [],
   callminutesFields: [],
   optionsFields: [],
+  securityFields: [],
+  callrecordingFields: [],
+  crmFields: [],
   monthly: {
-    basicfields: 0,
-    callminutesfields: 0,
-    optionsfields: 0,
+    basicFields: 0,
+    callminutesFields: 0,
+    optionsFields: 0,
+    securityFields: 0,
+    callrecordingFields: 0,
+    crmFields: 0,
   },
   onetime: {
     basicFields: 0,
     callminutesFields: 0,
     optionsFields: 0,
+    securityFields: 0,
+    callrecordingFields: 0,
+    crmFields: 0,
   }
 }
 
@@ -64,7 +73,6 @@ const renderOnetimeTotal = function () {
 }
 
 const renderTemplateRow = function(fields, type) {
-  console.log('fields', fields)
   const rows = `
   ${fields.map(item =>`
   ${(item.value > 0)  ? `
@@ -113,7 +121,7 @@ const renderBasicFields = function (fields) {
 
   /* add totals to state */
 
-  state.monthly.basicfields = monthly;
+  state.monthly.basicFields = monthly;
   state.onetime.basicFields = onetime;
 
   /* output Monthly templates rows */
@@ -152,8 +160,8 @@ const renderCallminutesFields = function (fields) {
 
   /* add totals to state */
 
-  state.monthly.callminutesfields = monthly;
-  state.onetime.callminutesfields = onetime;
+  state.monthly.callminutesFields = monthly;
+  state.onetime.callminutesFields = onetime;
 
   /* output Monthly templates rows */
   callminutesFieldsMonthly.innerHTML = renderTemplateRow(state.callminutesFields, 'monthly');
@@ -199,6 +207,49 @@ const renderOptionsFields = function (fields) {
 
 }
 
+const renderSecurityFields = function (fields) {
+
+  const securityFieldsMonthly = document.getElementById('security-fields-monthly');
+  const securityFieldsOnetime = document.getElementById('security-fields-onetime');
+  const numberOfDevices = document.getElementById('toestellen').value;
+
+
+
+  let monthly = 0;
+  let onetime = 0;
+  state.securityFields = [];
+
+  /* loop over all basic fields */
+
+  for (let item of fields) {
+
+    let obj = {};
+
+    obj.name = item.options[item.selectedIndex].dataset.name;
+    obj.price_monthly = item.options[item.selectedIndex].dataset.price_monthly;
+    obj.price_onetime = item.options[item.selectedIndex].dataset.price_onetime;
+    obj.value = item.options[item.selectedIndex].value * numberOfDevices;
+
+    monthly = monthly + (obj.price_monthly * numberOfDevices);
+    onetime = onetime + (obj.price_onetime * numberOfDevices);
+
+    state.securityFields.push(obj);
+
+  };
+
+  /* add totals to state */
+
+  state.monthly.securityFields = monthly;
+  state.onetime.securityFields = onetime;
+
+  /* output Monthly templates rows */
+  securityFieldsMonthly.innerHTML = renderTemplateRow(state.securityFields, 'monthly');
+  securityFieldsOnetime.innerHTML  = renderTemplateRow(state.securityFields, 'onetime');
+
+
+  };
+
+
 
 const renderTotals = function() {
   renderMonthlyTotal();
@@ -219,6 +270,11 @@ const renderRows = function() {
   if (document.getElementById('options-fields')) {
     const fields = document.getElementById('options-fields').getElementsByTagName('input');
     renderOptionsFields(fields);
+  }
+
+  if (document.getElementById('security-fields')) {
+    const fields = document.getElementById('security-fields').getElementsByTagName('select');
+    renderSecurityFields(fields);
   }
 }
 

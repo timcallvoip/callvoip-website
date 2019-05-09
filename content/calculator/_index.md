@@ -96,10 +96,19 @@ callrecording:
     price_onetime: 5
     required: false
 security:
-  - name: Beveiligd bellen (SRTP)
-    price_monthly: 2
-    price_onetime: 0
-    required: false
+  title: Beveiligd bellen (SRTP)
+  description: Lorem ipsum
+  items:
+    - name: Normaal bellen
+      value: 0
+      price_monthly: 0
+      price_onetime: 0
+      required: false
+    - name: Beveiligd bellen (SRTP)
+      value: 1
+      price_monthly: 2
+      price_onetime: 0
+      required: false
 crm:
   - name: Koppeling CRM-pakket
     price_monthly: 5
