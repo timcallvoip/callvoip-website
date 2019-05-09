@@ -8,13 +8,16 @@ const formatter = new Intl.NumberFormat('nl-NL', {
 const state = {
   basicFields: [],
   callminutesFields: [],
+  optionsFields: [],
   monthly: {
     basicfields: 0,
     callminutesfields: 0,
+    optionsfields: 0,
   },
   onetime: {
     basicFields: 0,
     callminutesFields: 0,
+    optionsFields: 0,
   }
 }
 
@@ -158,6 +161,45 @@ const renderCallminutesFields = function (fields) {
 
 }
 
+const renderOptionsFields = function (fields) {
+
+  const optionsFieldsMonthly = document.getElementById('options-fields-monthly');
+  const optionsFieldsOnetime = document.getElementById('options-fields-onetime');
+
+  let monthly = 0;
+  let onetime = 0;
+  state.optionsFields = [];
+
+  /* loop over all basic fields */
+
+  for (let item of fields) {
+
+    let obj = {};
+
+    obj.name = item.dataset.name;
+    obj.price_monthly = item.dataset.price_monthly;
+    obj.price_onetime = item.dataset.price_onetime;
+    obj.value = item.value;
+
+    monthly = monthly + (obj.price_monthly * obj.value);
+    onetime = onetime + (obj.price_onetime * obj.value);
+
+    state.optionsFields.push(obj);
+
+  };
+
+  /* add totals to state */
+
+  state.monthly.optionsFields = monthly;
+  state.onetime.optionsFields = onetime;
+
+  /* output Monthly templates rows */
+  optionsFieldsMonthly.innerHTML = renderTemplateRow(state.optionsFields, 'monthly');
+  optionsFieldsOnetime.innerHTML  = renderTemplateRow(state.optionsFields, 'onetime');
+
+}
+
+
 const renderTotals = function() {
   renderMonthlyTotal();
   renderOnetimeTotal();
@@ -172,6 +214,11 @@ const renderRows = function() {
   if (document.getElementById('callminutes-fields')) {
     const fields = document.getElementById('callminutes-fields').getElementsByTagName('select');
     renderCallminutesFields(fields);
+  }
+
+  if (document.getElementById('options-fields')) {
+    const fields = document.getElementById('options-fields').getElementsByTagName('input');
+    renderOptionsFields(fields);
   }
 }
 

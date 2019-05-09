@@ -62,18 +62,21 @@ callminutes:
       required: false
 options:
   - name: Wachtrij
+    description: Lorem ipsum
     min: 0
     max: 999
     price_monthly: 5
     price_onetime: 5
     required: false
   - name: Keuzemenu
+    description: Lorem ipsum
     min: 0
     max: 999
     price_monthly: 5
     price_onetime: 5
     required: false
   - name: Faxbox
+    description: Lorem ipsum
     min: 0
     max: 999
     price_monthly: 5
