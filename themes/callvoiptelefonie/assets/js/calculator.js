@@ -57,6 +57,27 @@ const renderOnetimeTotal = function () {
   totalFieldsOnetime.innerHTML = onetimeTotal;
 }
 
+const renderTemplateRow = function(fields, type) {
+
+  const rows = `
+  ${fields.map(item =>`
+  ${(item.value > 0)  ? `
+  <div class="flex mb-1">
+    <div class="w-6">${item.value}x</div>
+    <div class="flex-1 px-2">${item.name}</div>
+    ${(type === 'monthly') ? `
+    <div class="">${formatter.format((item.value * item.price_monthly))}</div>
+    ` : `
+    <div class="">${formatter.format((item.value * item.price_onetime))}</div>
+    `}
+  </div>
+  ` : ''}`).join('')}
+  `
+
+  return rows;
+}
+
+
 const renderBasicFields = function (fields) {
 
   const basicFieldsMonthly = document.getElementById('basic-fields-monthly');
@@ -90,32 +111,8 @@ const renderBasicFields = function (fields) {
   state.onetime.basicFields = onetime;
 
   /* output Monthly templates rows */
-
-  const monthlyRows = `
-  ${state.basicFields.map(item =>`
-  ${(item.value > 0)  ? `
-  <div class="flex mb-1">
-    <div class="w-6">${item.value}x</div>
-    <div class="flex-1 px-2">${item.name}</div>
-    <div class="">${formatter.format((item.value * item.price_monthly))}</div>
-  </div>
-  ` : ''}`).join('')}
-  `
-
-  const onetimeRows = `
-  ${state.basicFields.map(item =>`
-  ${(item.value > 0)  ? `
-  <div class="flex mb-1">
-    <div class="w-6">${item.value}x</div>
-    <div class="flex-1 px-2">${item.name}</div>
-    <div class="">${formatter.format((item.value * item.price_onetime))}</div>
-  </div>
-  ` : ''}`).join('')}
-  `
-
-
-  basicFieldsMonthly.innerHTML = monthlyRows;
-  basicFieldsOnetime.innerHTML = onetimeRows;
+  basicFieldsMonthly.innerHTML = renderTemplateRow(state.basicFields, 'monthly');
+  basicFieldsOnetime.innerHTML  = renderTemplateRow(state.basicFields, 'onetime');
 
 }
 
