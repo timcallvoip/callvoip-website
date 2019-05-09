@@ -7,11 +7,14 @@ const formatter = new Intl.NumberFormat('nl-NL', {
 
 const state = {
   basicFields: [],
+  callminutesFields: [],
   monthly: {
     basicfields: 0,
+    callminutesfields: 0,
   },
   onetime: {
     basicFields: 0,
+    callminutesFields: 0,
   }
 }
 
@@ -58,7 +61,7 @@ const renderOnetimeTotal = function () {
 }
 
 const renderTemplateRow = function(fields, type) {
-
+  console.log('fields', fields)
   const rows = `
   ${fields.map(item =>`
   ${(item.value > 0)  ? `
@@ -116,31 +119,81 @@ const renderBasicFields = function (fields) {
 
 }
 
+const renderCallminutesFields = function (fields) {
+
+  const callminutesFieldsMonthly = document.getElementById('callminutes-fields-monthly');
+  const callminutesFieldsOnetime = document.getElementById('callminutes-fields-onetime');
+  const numberOfDevices = document.getElementById('toestellen').value;
+
+  let monthly = 0;
+  let onetime = 0;
+  state.callminutesFields = [];
+
+  /* loop over all basic fields */
+
+  for (let item of fields) {
+
+    let obj = {};
+
+    obj.name = item.options[item.selectedIndex].dataset.name;
+    obj.price_monthly = item.options[item.selectedIndex].dataset.price_monthly;
+    obj.price_onetime = item.options[item.selectedIndex].dataset.price_onetime;
+    obj.value = item.options[item.selectedIndex].value * numberOfDevices;
+
+    monthly = monthly + (obj.price_monthly * numberOfDevices);
+    onetime = onetime + (obj.price_onetime * numberOfDevices);
+
+    state.callminutesFields.push(obj);
+
+  };
+
+  /* add totals to state */
+
+  state.monthly.callminutesfields = monthly;
+  state.onetime.callminutesfields = onetime;
+
+  /* output Monthly templates rows */
+  callminutesFieldsMonthly.innerHTML = renderTemplateRow(state.callminutesFields, 'monthly');
+  callminutesFieldsOnetime.innerHTML  = renderTemplateRow(state.callminutesFields, 'onetime');
+
+}
+
 const renderTotals = function() {
   renderMonthlyTotal();
   renderOnetimeTotal();
 }
 
+const renderRows = function() {
+  if (document.getElementById('basic-fields')) {
+    const fields = document.getElementById('basic-fields').getElementsByTagName('input');
+    renderBasicFields(fields);
+  }
+
+  if (document.getElementById('callminutes-fields')) {
+    const fields = document.getElementById('callminutes-fields').getElementsByTagName('select');
+    renderCallminutesFields(fields);
+  }
+}
+
+
 
 document.addEventListener('DOMContentLoaded', function () {
 
-  if (document.getElementById('basic-fields')) {
 
-    const basicFields = document.getElementById('basic-fields').getElementsByTagName('input');
-    renderBasicFields(basicFields);
+  if (document.getElementById('calculator')) {
 
-    for (let basicField of basicFields) {
-      basicField.addEventListener('change', function () {
-        renderBasicFields(basicFields);
+    renderRows();
+    const fields = document.getElementById('calculator').querySelectorAll('input,select');
+
+    for (let field of fields) {
+      field.addEventListener('change', function () {
+        renderRows();
         renderTotals();
       })
     }
 
+    renderTotals();
   }
-
-
-  renderTotals();
-
 
 }, false);
 

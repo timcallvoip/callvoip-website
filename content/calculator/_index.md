@@ -37,18 +37,29 @@ basic:
     price_onetime: 5
     required: false
 callminutes:
-  - name: Belminuten 500
-    price_monthly: 10
-    price_onetime: 0
-    required: false
-  - name: Belminuten 1500
-    price_monthly: 12.50
-    price_onetime: 0
-    required: false
-  - name: Belminuten 5000
-    price_monthly: 25.00
-    price_onetime: 0
-    required: false
+  title: Belminuten
+  description: Bespaar met afkopen van belminuten
+  items:
+    - name: Geen belminuten
+      value: 0
+      price_monthly: 0
+      price_onetime: 0
+      required: false
+    - name: Belminuten 500
+      value: 1
+      price_monthly: 10
+      price_onetime: 0
+      required: false
+    - name: Belminuten 1500
+      value: 1
+      price_monthly: 12.50
+      price_onetime: 0
+      required: false
+    - name: Belminuten 5000
+      value: 1
+      price_monthly: 25.00
+      price_onetime: 0
+      required: false
 options:
   - name: Wachtrij
     min: 0
