@@ -1,5 +1,5 @@
 ---
-title: Vast naar mobiel
+title: Vast Mobiel Integratie
 type: page
 layout: default
 blocks:
@@ -50,6 +50,20 @@ usps:
     content: Callvoip is er voor elke ondernemer. Voor de zelfstandige, die graag
       bereikbaar is op een vast nummer. Maar wij zijn er ook voor de international
       met 10.000 werkplekken.
+description: ''
+images: []
+logos: false
+hero:
+  title: ''
+  content: ''
+  button:
+    content: ''
+    link: ''
+  image: ''
+intro:
+  title: ''
+  content: ''
+prijzen: []
 menu:
   main:
     weight: 2
