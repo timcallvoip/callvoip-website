@@ -29,6 +29,22 @@ team:
   function: Marketing
   image: "/v1557495164/Portretfoto.jpg"
   name: Milan Littooy
+- function: Administratie
+  name: Lynn de Goede
+  image: "/v1557495164/Portretfoto.jpg"
+  content: Administratie
+- content: Commercieel Medewerker
+  function: Commercieel Medewerker
+  name: Lennart Swennenhuis
+  image: "/v1557495164/Portretfoto.jpg"
+- content: ''
+  function: ''
+  name: ''
+  image: ''
+- content: ''
+  function: ''
+  name: ''
+  image: ''
 description: ''
 images: []
 menu:
