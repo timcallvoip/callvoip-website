@@ -4,9 +4,10 @@ title: Team
 hero:
   image: "/v1552398058/Team/logo-bord-breed.jpg"
 intro:
-  content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent, dat
-    gaat verder dan alleen maar telefonie. Betrouwbaar internet en goede apparatuur
-    mogen daarbij niet ontbreken.
+  content: Wij zijn Callvoip, VoIP-provider voor de zakelijke markt. We voorzien professionele
+    telefonie-oplossingen voor kleine en grote bedrijven. Daarbij leveren we de producten
+    en internetverbindingen die nodig zijn om optimaal gebruik te kunnen maken van
+    onze telefoniedienst. Callvoip bestaat uit een gedreven team van 8 personen.
   title: Het team van Callvoip
 team:
 - content: Founder. Toekomstvisie. Win-win. Schept de kaders. Analytisch brein. Partnership.
@@ -37,14 +38,14 @@ team:
   function: Commercieel Medewerker
   name: Lennart Swennenhuis
   image: "/v1557495164/Portretfoto.jpg"
-- content: ''
-  function: ''
-  name: ''
-  image: ''
-- content: ''
-  function: ''
-  name: ''
-  image: ''
+- content: Commercieel Medewerker
+  function: Commercieel Medewerker
+  name: Dion Steen
+  image: "/v1557495164/Portretfoto.jpg"
+- content: Support
+  function: Support
+  name: Ralf
+  image: "/v1557495164/Portretfoto.jpg"
 description: ''
 images: []
 menu:
