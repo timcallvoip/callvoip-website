@@ -4,10 +4,7 @@ title: Team
 hero:
   image: "/v1552398058/Team/logo-bord-breed.jpg"
 intro:
-  content: Wij zijn Callvoip, VoIP-provider voor de zakelijke markt. We voorzien professionele
-    telefonie-oplossingen voor kleine en grote bedrijven. Daarbij leveren we de producten
-    en internetverbindingen die nodig zijn om optimaal gebruik te kunnen maken van
-    onze telefoniedienst. Callvoip bestaat uit een gedreven team van 8 personen.
+  content: ''
   title: Het team van Callvoip
 team:
 - content: Founder. Toekomstvisie. Win-win. Schept de kaders. Analytisch brein. Partnership.
