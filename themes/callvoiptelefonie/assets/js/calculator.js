@@ -32,12 +32,12 @@ const state = {
 
 const getMonthlyTotal = function () {
   let values = Object.values(state.monthly);
-  return values.reduce((partial_sum, a) => partial_sum + a,0);
+  return values.reduce((partial_sum, a) => partial_sum + a, 0);
 }
 
 const getOnetimeTotal = function () {
   let values = Object.values(state.onetime);
-  return values.reduce((partial_sum, a) => partial_sum + a,0);
+  return values.reduce((partial_sum, a) => partial_sum + a, 0);
 }
 
 const renderMonthlyTotal = function () {
@@ -72,10 +72,10 @@ const renderOnetimeTotal = function () {
   totalFieldsOnetime.innerHTML = onetimeTotal;
 }
 
-const renderTemplateRow = function(fields, type) {
+const renderTemplateRow = function (fields, type) {
   const rows = `
-  ${fields.map(item =>`
-  ${(item.value > 0)  ? `
+  ${fields.map(item => `
+  ${(item.value > 0) ? `
   <div class="flex mb-1">
     <div class="w-6">${item.value}x</div>
     <div class="flex-1 px-2">${item.name}</div>
@@ -83,6 +83,26 @@ const renderTemplateRow = function(fields, type) {
     <div class="">${formatter.format((item.value * item.price_monthly))}</div>
     ` : `
     <div class="">${formatter.format((item.value * item.price_onetime))}</div>
+    `}
+  </div>
+  ` : ''}`).join('')}
+  `
+
+  return rows;
+}
+
+
+const renderTemplateCrmRow = function (fields, type) {
+  const rows = `
+  ${fields.map(item => `
+  ${(item.value > 0) ? `
+  <div class="flex mb-1">
+    <div class="w-6">1x</div>
+    <div class="flex-1 px-2">${item.name}</div>
+    ${(type === 'monthly') ? `
+    <div class="">${formatter.format((item.value * item.price_monthly))}</div>
+    ` : `
+    <div class="">${formatter.format((item.price_onetime))}</div>
     `}
   </div>
   ` : ''}`).join('')}
@@ -126,7 +146,7 @@ const renderBasicFields = function (fields) {
 
   /* output Monthly templates rows */
   basicFieldsMonthly.innerHTML = renderTemplateRow(state.basicFields, 'monthly');
-  basicFieldsOnetime.innerHTML  = renderTemplateRow(state.basicFields, 'onetime');
+  basicFieldsOnetime.innerHTML = renderTemplateRow(state.basicFields, 'onetime');
 
 }
 
@@ -165,7 +185,7 @@ const renderCallminutesFields = function (fields) {
 
   /* output Monthly templates rows */
   callminutesFieldsMonthly.innerHTML = renderTemplateRow(state.callminutesFields, 'monthly');
-  callminutesFieldsOnetime.innerHTML  = renderTemplateRow(state.callminutesFields, 'onetime');
+  callminutesFieldsOnetime.innerHTML = renderTemplateRow(state.callminutesFields, 'onetime');
 
 }
 
@@ -203,7 +223,7 @@ const renderOptionsFields = function (fields) {
 
   /* output Monthly templates rows */
   optionsFieldsMonthly.innerHTML = renderTemplateRow(state.optionsFields, 'monthly');
-  optionsFieldsOnetime.innerHTML  = renderTemplateRow(state.optionsFields, 'onetime');
+  optionsFieldsOnetime.innerHTML = renderTemplateRow(state.optionsFields, 'onetime');
 
 }
 
@@ -244,19 +264,98 @@ const renderSecurityFields = function (fields) {
 
   /* output Monthly templates rows */
   securityFieldsMonthly.innerHTML = renderTemplateRow(state.securityFields, 'monthly');
-  securityFieldsOnetime.innerHTML  = renderTemplateRow(state.securityFields, 'onetime');
+  securityFieldsOnetime.innerHTML = renderTemplateRow(state.securityFields, 'onetime');
 
+
+};
+
+
+const renderCallrecordingFields = function (fields) {
+
+  const callrecordingFieldsMonthly = document.getElementById('callrecording-fields-monthly');
+  const callrecordingFieldsOnetime = document.getElementById('callrecording-fields-onetime');
+
+  let monthly = 0;
+  let onetime = 0;
+  state.callrecordingFields = [];
+
+
+  /* loop over all basic fields */
+  for (let item of fields) {
+
+    let obj = {};
+
+    obj.name = item.dataset.name;
+    obj.price_monthly = item.dataset.price_monthly;
+    obj.price_onetime = item.dataset.price_onetime;
+    obj.value = item.value;
+
+    monthly = monthly + (obj.price_monthly * obj.value);
+    onetime = onetime + (obj.price_onetime * obj.value);
+
+    state.callrecordingFields.push(obj);
 
   };
 
+  console.log('fields', fields)
+
+  /* add totals to state */
+
+  state.monthly.callrecordingFields = monthly;
+  state.onetime.callrecordingFields = onetime;
+
+  /* output Monthly templates rows */
+  callrecordingFieldsMonthly.innerHTML = renderTemplateRow(state.callrecordingFields, 'monthly');
+  callrecordingFieldsOnetime.innerHTML = renderTemplateRow(state.callrecordingFields, 'onetime');
+
+}
+const renderCrmFields = function (fields) {
+
+  const crmFieldsMonthly = document.getElementById('crm-fields-monthly');
+  const crmFieldsOnetime = document.getElementById('crm-fields-onetime');
+
+  let monthly = 0;
+  let onetime = 0;
+  state.crmFields = [];
 
 
-const renderTotals = function() {
+  /* loop over all basic fields */
+  for (let item of fields) {
+
+    let obj = {};
+
+    obj.name = item.dataset.name;
+    obj.price_monthly = item.dataset.price_monthly;
+    obj.price_onetime = item.dataset.price_onetime;
+    obj.value = item.value;
+
+    monthly = monthly + (obj.price_monthly * obj.value);
+    onetime = obj.value > 0 ? obj.price_onetime * 1 : 0;
+
+    state.crmFields.push(obj);
+
+  };
+
+  console.log('fields', fields)
+
+  /* add totals to state */
+
+  state.monthly.crmFields = monthly;
+  state.onetime.crmFields = onetime;
+
+  /* output Monthly templates rows */
+  crmFieldsMonthly.innerHTML = renderTemplateRow(state.crmFields, 'monthly');
+  crmFieldsOnetime.innerHTML = renderTemplateCrmRow(state.crmFields, 'onetime');
+
+}
+
+
+const renderTotals = function () {
   renderMonthlyTotal();
   renderOnetimeTotal();
 }
 
-const renderRows = function() {
+const renderRows = function () {
   if (document.getElementById('basic-fields')) {
     const fields = document.getElementById('basic-fields').getElementsByTagName('input');
     renderBasicFields(fields);
@@ -275,6 +374,16 @@ const renderRows = function() {
   if (document.getElementById('security-fields')) {
     const fields = document.getElementById('security-fields').getElementsByTagName('select');
     renderSecurityFields(fields);
+  }
+
+  if (document.getElementById('callrecording-fields')) {
+    const fields = document.getElementById('callrecording-fields').getElementsByTagName('input');
+    renderCallrecordingFields(fields);
+  }
+
+  if (document.getElementById('crm-fields')) {
+    const fields = document.getElementById('crm-fields').getElementsByTagName('input');
+    renderCrmFields(fields);
   }
 }
 

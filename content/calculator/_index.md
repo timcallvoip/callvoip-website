@@ -61,40 +61,52 @@ callminutes:
       price_onetime: 0
       required: false
 options:
-  - name: Wachtrij
-    description: Lorem ipsum
-    min: 0
-    max: 999
-    price_monthly: 5
-    price_onetime: 5
-    required: false
-  - name: Keuzemenu
-    description: Lorem ipsum
-    min: 0
-    max: 999
-    price_monthly: 5
-    price_onetime: 5
-    required: false
-  - name: Faxbox
-    description: Lorem ipsum
-    min: 0
-    max: 999
-    price_monthly: 5
-    price_onetime: 5
-    required: false
+  title: Bereid uit met extra's
+  description: Bellen en internet afgestemd op de wensen van de moderne ondernemer
+  items:
+    - name: Wachtrij
+      description: Lorem ipsum
+      min: 0
+      max: 999
+      price_monthly: 5
+      price_onetime: 5
+      required: false
+    - name: Keuzemenu
+      description: Lorem ipsum
+      min: 0
+      max: 999
+      price_monthly: 5
+      price_onetime: 5
+      required: false
+    - name: Faxbox
+      description: Lorem ipsum
+      min: 0
+      max: 999
+      price_monthly: 5
+      price_onetime: 5
+      required: false
 callrecording:
-  - name: Bewaartijd 30 dagen
-    price_monthly: 5
-    price_onetime: 5
-    required: false
-  - name: Bewaartijd 180 dagen
-    price_monthly: 10
-    price_onetime: 5
-    required: false
-  - name: Bewaartijd 365 dagen
-    price_monthly: 12.50
-    price_onetime: 5
-    required: false
+  title: Gesprekken opnemen
+  description: lorem ipsum
+  items:
+    - name: Bewaartijd 30 dagen
+      min: 0
+      max: 999
+      price_monthly: 5
+      price_onetime: 5
+      required: false
+    - name: Bewaartijd 180 dagen
+      min: 0
+      max: 999
+      price_monthly: 10
+      price_onetime: 5
+      required: false
+    - name: Bewaartijd 365 dagen
+      min: 0
+      max: 999
+      price_monthly: 12.50
+      price_onetime: 5
+      required: false
 security:
   title: Beveiligd bellen (SRTP)
   description: Lorem ipsum
@@ -111,9 +123,14 @@ security:
       required: false
 crm:
   - name: Koppeling CRM-pakket
+    min: 0
+    max: 999
     price_monthly: 5
     price_onetime: 150
     required: false
+offerte:
+  title: Vrijblijvende offerte ontvangen?
+  description: Vul hier onder je gegevens in en ontvang van onze medewerkers een vrijblijvende offerte op basis van bovenstaande wensen.
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque aliquam tincidunt velit.
