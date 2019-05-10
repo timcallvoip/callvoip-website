@@ -4,9 +4,10 @@ title: Team
 hero:
   image: "/v1552398058/Team/logo-bord-breed.jpg"
 intro:
-  content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent, dat
-    gaat verder dan alleen maar telefonie. Betrouwbaar internet en goede apparatuur
-    mogen daarbij niet ontbreken.
+  content: Wij zijn Callvoip, VoIP-provider voor de zakelijke markt. We voorzien professionele
+    telefonie-oplossingen voor kleine en grote bedrijven. Daarbij leveren we de producten
+    en internetverbindingen die nodig zijn om optimaal gebruik te kunnen maken van
+    onze telefoniedienst. Callvoip bestaat uit een gedreven team van 8 personen.
   title: Het team van Callvoip
 team:
 - content: Founder. Toekomstvisie. Win-win. Schept de kaders. Analytisch brein. Partnership.
@@ -24,11 +25,29 @@ team:
   function: Technisch logistiek medewerker
   image: "/v1552398058/Team/team-herman.jpg"
   name: Herman Willems
-- content: Zorgvuldig en precies. Structuur en orde. Overzicht. Superieure productkennis.
-    Technische vraagbaak. Ontfermt zich over uw apparatuur. Proactief en scherp.
-  function: Support / Communicatie
-  image: "/v1552398058/Team/team-sander.jpg"
-  name: Sander Bartelds
+- content: Marketingman. Multi-inzetbaar. Vindt en bouwt uw telefonie-oplossing. Verantwoordelijk.
+    Sfeermaker. Creatief brein. Behulpzaam. Regelt het voor u.
+  function: Marketing
+  image: "/v1557495164/Portretfoto.jpg"
+  name: Milan Littooy
+- function: Administratie
+  name: Lynn de Goede
+  image: "/v1557495164/Portretfoto.jpg"
+  content: Administratie
+- content: Commercieel Medewerker
+  function: Commercieel Medewerker
+  name: Lennart Swennenhuis
+  image: "/v1557495164/Portretfoto.jpg"
+- content: Commercieel Medewerker
+  function: Commercieel Medewerker
+  name: Dion Steen
+  image: "/v1557495164/Portretfoto.jpg"
+- content: Support
+  function: Support
+  name: Ralf
+  image: "/v1557495164/Portretfoto.jpg"
+description: ''
+images: []
 menu:
   main:
     parent: Over ons
