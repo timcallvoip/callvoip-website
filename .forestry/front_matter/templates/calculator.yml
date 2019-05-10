@@ -205,3 +205,5 @@ fields:
   - type: textarea
     name: description
     label: description
+pages:
+- content/calculator/_index.md
