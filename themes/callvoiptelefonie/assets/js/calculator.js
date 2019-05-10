@@ -297,7 +297,6 @@ const renderCallrecordingFields = function (fields) {
 
   };
 
-  console.log('fields', fields)
 
   /* add totals to state */
 
@@ -335,8 +334,6 @@ const renderCrmFields = function (fields) {
     state.crmFields.push(obj);
 
   };
-
-  console.log('fields', fields)
 
   /* add totals to state */
 
