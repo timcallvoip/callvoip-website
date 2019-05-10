@@ -31,5 +31,6 @@ fields:
   label: layout
   hidden: true
 pages:
+- content/bedank/offerte-aanvraag-ontvangen.md
 - content/telefonie/versleutelde-telefoongesprekken-met-srtp.md
 - content/offerte.md
