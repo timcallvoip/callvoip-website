@@ -24,11 +24,13 @@ team:
   function: Technisch logistiek medewerker
   image: "/v1552398058/Team/team-herman.jpg"
   name: Herman Willems
-- content: Zorgvuldig en precies. Structuur en orde. Overzicht. Superieure productkennis.
-    Technische vraagbaak. Ontfermt zich over uw apparatuur. Proactief en scherp.
-  function: Support / Communicatie
-  image: "/v1552398058/Team/team-sander.jpg"
-  name: Sander Bartelds
+- content: Marketingman. Multi-inzetbaar. Vindt en bouwt uw telefonie-oplossing. Verantwoordelijk.
+    Sfeermaker. Creatief brein. Behulpzaam. Regelt het voor u.
+  function: Marketing
+  image: "/v1557495164/Portretfoto.jpg"
+  name: Milan Littooy
+description: ''
+images: []
 menu:
   main:
     parent: Over ons
