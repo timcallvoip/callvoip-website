@@ -4,7 +4,8 @@ title: Team
 hero:
   image: "/v1552398058/Team/logo-bord-breed.jpg"
 intro:
-  content: ''
+  content: Callvoip is de zakelijke telefonieprovider waar persoonlijk contact centraal
+    staat. Maak daarom kennis met ons team en weet wie u aan de lijn heeft.
   title: Het team van Callvoip
 team:
 - content: Founder. Toekomstvisie. Win-win. Schept de kaders. Analytisch brein. Partnership.
