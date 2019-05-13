@@ -1,6 +1,6 @@
 ---
 type: page
-title: Doorverbinden
+title: Doorverbinden (Transfer)
 description: ''
 images: []
 slug: doorverbinden
