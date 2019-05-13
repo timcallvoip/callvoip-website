@@ -11,7 +11,7 @@ hero:
   button:
     content: Bereken je kosten
     link: "/calculator"
-  image: "/v1556267113/Callvoip-website-belpannen-test.png"
+  image: "/v1556267113/gesprekken.png"
 blocks:
 - content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent, dat
     gaat verder dan alleen maar telefonie. Betrouwbaar internet en goede apparatuur
@@ -21,7 +21,7 @@ blocks:
   title: Zakelijke VoIP waar je op kan vertrouwen
 - content: Callvoip is de zakelijke telefonieprovider waar persoonlijk contact centraal
     staat. Maak daarom kennis met ons team en weet wie u aan de lijn heeft.
-  image: "/v1552466837/windows.svg"
+  image: "/v1552466837/instellingen.png"
   position: " image_right"
   title: Met wie kom je te werken?
 usps:
@@ -69,7 +69,7 @@ prijzen:
   content: Geen telefooncentrale op locatie, maar een moderne gebruiksvriendelijk.
   button:
     title: Stel je pakket samen
-    link: 
+    link:
   tarieven:
     title: Maandelijkse kosten
     footer: Prijzen zijn vanaf en per maand
@@ -84,7 +84,7 @@ prijzen:
   content: Geen telefooncentrale op locatie, maar een moderne gebruiksvriendelijk.
   button:
     title: Stel je pakket samen
-    link: 
+    link:
   tarieven:
     title: Maandelijkse kosten
     footer: Prijzen zijn vanaf en per maand
@@ -99,7 +99,7 @@ prijzen:
   content: Geen telefooncentrale op locatie, maar een moderne gebruiksvriendelijk.
   button:
     title: Stel je pakket samen
-    link: 
+    link:
   tarieven:
     title: Maandelijkse kosten
     footer: Prijzen zijn vanaf en per maand
