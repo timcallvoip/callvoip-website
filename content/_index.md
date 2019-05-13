@@ -17,7 +17,7 @@ hero:
     content: Oplossingen voor 51 t/m 10.000 werkplekken
     link: "/oplossingen/grootzakelijk"
 intro:
-  image: "/v1553672018/placeholder-cloud.svg"
+  image: "/v1557750090/hero-homepage.png"
   title: Voordelig bellen vanuit de cloud
   content: CallvoipTelefonie zorgt ervoor dat u als ondernemer altijd bereikbaar bent.
     Op kantoor via een vasttoestel of onderweg via uw eigen mobiel. Altijd bereikbaar
@@ -108,22 +108,22 @@ options:
   - icon: fa-cloud
     title: Je eigen centrale in de cloud
     content: Geen telefooncentrale op locatie, maar een moderne centrale in de cloud.
-    link:
+    link: ''
   - icon: fa-desktop
     title: Kabel, ADSL of toch glasvezel?
     content: Samen kijken we wat het beste bij uw situatie past. Kabel, ADSL of toch
       glasvezel?
-    link:
+    link: ''
   - icon: fa-tablet-alt
     title: Nieuwe apparatuur nodig?
     content: Geen opdringerige verkopers. Met onze specialist kijk je samen of je
       huidige apparatuur geschikt is.
-    link:
+    link: ''
   - icon: fa-headset
     title: Hulp nodig? Wij staan voor je klaar
     content: Geen lange wachttijden of doorverbinden. Bij Callvoip spreek je altijd
       direct met een specialist.
-    link:
+    link: ''
 prefooter:
   title: Wil je ook zorgeloos bereikbaar zijn?
   content: 95% van onze klanten adviseert ons bij hun netwerk. Wil jij ook net zoals
@@ -135,5 +135,7 @@ testimonial:
   content: Al <strong>meer dan 10 jaar</strong> levert CallVoip ons de benodigde oplossingen
     voor vaste telefonie. Van beginnende ondernemer tot en met personeel; ze denken
     altijd met je mee.
+description: ''
+images: []
 
 ---
