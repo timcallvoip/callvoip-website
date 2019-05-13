@@ -31,6 +31,7 @@ fields:
   label: layout
   hidden: true
 pages:
+- content/telefonie/Functionaliteiten/keuzemenu-ivr.md
 - content/telefonie/Functionaliteiten/wachtrij-queue.md
 - content/bedank/offerte-aanvraag-ontvangen.md
 - content/telefonie/versleutelde-telefoongesprekken-met-srtp.md
