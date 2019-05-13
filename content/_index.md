@@ -17,7 +17,7 @@ hero:
     content: Oplossingen voor 51 t/m 10.000 werkplekken
     link: "/oplossingen/grootzakelijk"
 intro:
-  image: "/v1557750090/hero-homepage.png"
+  image: "/v1557750090/hero-home-2x.png"
   title: Voordelig bellen vanuit de cloud
   content: CallvoipTelefonie zorgt ervoor dat u als ondernemer altijd bereikbaar bent.
     Op kantoor via een vasttoestel of onderweg via uw eigen mobiel. Altijd bereikbaar
@@ -99,7 +99,7 @@ usps:
       bereikbaar is op een vast nummer. Maar wij zijn er ook voor de international
       met 10.000 werkplekken.
 options:
-  image: "/v1556267113/Callvoip-website-belpannen-test.png"
+  image: "/v1556267113/callplan-2x.png"
   title: Telefonie en Internet zoals het echt hoort
   content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent, dat
     gaat verder dan alleen maar telefonie. Betrouwbaar internet en goede apparatuur

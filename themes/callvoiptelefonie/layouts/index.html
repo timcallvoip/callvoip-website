@@ -3,7 +3,7 @@
 
   {{ with .Params.hero }}
   <header class="container px-4 clearfix">
-    <div class="md:flex md:-mx-8 lg:-mx-12 md:items-center pt-6 sm:pt-8 md:pt-12 md:pt-24 mb-12">
+    <div class="md:flex md:-mx-8 lg:-mx-12 md:items-center pt-6 sm:pt-8 md:pt-12 md:pt-16 mb-12">
       <div class="mb-12 md:w-1/2 md:px-8 lg:px-12">
         {{ with .title }}
         <h1 class="text-3xl lg:text-4xl xxl:text-5xl font-medium leading-tight mb-4 md:mb-6">{{ . }}</h1>
@@ -27,7 +27,7 @@
   {{ end }}
 
   {{ with .Params.intro }}
-  <div class="lg:mt-24 xl:mb-12">
+  <div class="lg:mt-8 xl:mb-12">
     {{ with .image }}
     <div class="container px-4">
       <img data-src="{{ $.Site.Params.cloudinary_base_url }}/w_auto,dpr_auto,c_scale,f_auto,q_auto{{.}}" class="mx-auto block relative z-10 cld-responsive"
