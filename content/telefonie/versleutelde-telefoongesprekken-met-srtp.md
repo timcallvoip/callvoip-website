@@ -1,6 +1,6 @@
 ---
 type: page
-title: 'VoIP functionaliteit: Versleutelde telefoongesprekken met SRTP'
+title: Versleutelde telefoongesprekken met SRTP
 description: ''
 images: []
 slug: versleutelde-telefoongesprekken/
