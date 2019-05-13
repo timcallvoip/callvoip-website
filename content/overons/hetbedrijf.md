@@ -11,7 +11,7 @@ blocks:
 - content: |-
     <p>Wij zijn CallvoipTelefonie, VoIP-provider voor de zakelijke markt. We voorzien professionele telefonie-oplossingen voor kleine en grote bedrijven. Daarbij leveren we de producten en internetverbindingen die nodig zijn om optimaal gebruik te kunnen maken van onze telefoniedienst. CallvoipTelefonie bestaat uit een gedreven team van 9 personen.</p>
 
-    <a href="/team" class="button">Leer het team kennen</a>
+    <a href="https://callvoip.nl" class="button">Leer het team kennen</a>
   image: "/v1552466820/placeholder-werken2.jpg"
   position: image_left
   title: Wie wij zijn
