@@ -9,7 +9,8 @@ outputs:
 - JSON
 basic:
 - name: Telefooncentrale
-  description: Ieder abonnement komt standaard met onze luxe online telefooncentrale
+  description: Ieder abonnement komt standaard met onze luxe online telefooncentrale.
+    In dit basis abonnement krijgt u al 80% van alle functionaliteiten.
   min: 1
   max: 1
   price_monthly: 7.5
