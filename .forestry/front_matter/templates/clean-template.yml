@@ -33,14 +33,14 @@ fields:
 pages:
 - content/telefonie/Functionaliteiten/voorwaarde-filter.md
 - content/telefonie/Functionaliteiten/e-mail.md
+- content/telefonie/Functionaliteiten/omleiding-flow-control.md
 - content/telefonie/Functionaliteiten/meldtekst.md
+- content/telefonie/Functionaliteiten/keuzemenu-ivr.md
 - content/telefonie/Functionaliteiten/belgroep-huntgroup.md
+- content/telefonie/Functionaliteiten/fax.md
 - content/telefonie/Functionaliteiten/tijdsconditie.md
 - content/telefonie/Functionaliteiten/doorverbinden.md
-- content/telefonie/Functionaliteiten/omleiding-flow-control.md
-- content/telefonie/Functionaliteiten/fax.md
 - content/telefonie/Functionaliteiten/voicemail.md
-- content/telefonie/Functionaliteiten/keuzemenu-ivr.md
 - content/telefonie/Functionaliteiten/wachtrij-queue.md
 - content/bedank/offerte-aanvraag-ontvangen.md
 - content/telefonie/versleutelde-telefoongesprekken-met-srtp.md
