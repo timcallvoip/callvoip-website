@@ -70,21 +70,24 @@ options:
     deze dan eenvoudig uit met de volgende functionaliteiten:'
   items:
   - name: Wachtrij
-    description: Lorem ipsum
+    description: Heeft u veel inkomend telefonieverkeer en wilt u elke beller beantwoorden?
+      Vang de bellers dan op in een wachtrij.
     min: 
     max: 999
-    price_monthly: 5
+    price_monthly: 4
     price_onetime: 5
     required: false
   - name: Keuzemenu
-    description: Lorem ipsum
+    description: Wenst u de beller meteen te begeleiden naar de juiste persoon en/of
+      afdeling? Kies dan voor een keuzmenu!
     min: 
     max: 999
-    price_monthly: 5
+    price_monthly: 4
     price_onetime: 5
     required: false
   - name: Faxbox
-    description: Lorem ipsum
+    description: Wilt u met één van uw nummers faxen ontvangen en versturen? Kies
+      dan voor een faxbox!
     min: 
     max: 999
     price_monthly: 5
