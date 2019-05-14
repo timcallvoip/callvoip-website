@@ -4,33 +4,35 @@ slug: offerte
 type: page
 hero:
   image: "/v1552991205/Team/logo-bord-breed.jpg"
+description: ''
+images: []
+layout: ''
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris erat metus, ornare eu auctor a, molestie eget enim. Duis maximus mollis eros, quis convallis massa scelerisque non.
+Vul hieronder uw gegevens in en u ontvangt **binnen één werkdag** een vrijblijvende offerte. Wilt u tevens advies over **internetverbindingen** of aanvullende **apparatuur**? Laat het ons weten in de toelichting, want ook deze **kennis** hebben wij in huis. 
 
 ### Ontvang een vrijblijvende offerte
 
-Mauris erat metus, ornare eu auctor a, molestie eget enim. Duis maximus mollis eros, quis convallis massa scelerisque non.
+Heeft u eerst advies nodig of heeft u nog vragen, bel ons gerust op [**050 820 0001**](tel:+31508200001).
 
 {{< form "Offerte formulier" "/offerte/verzonden" >}}
 
- {{< layout/split >}}
+{{< layout/split >}}
 
- {{< form/input "Voornaam" required >}}
+{{< form/input "Voornaam" required >}}
 
- {{< form/input "Achternaam" >}}
+{{< form/input "Achternaam" >}}
 
- {{</ layout/split >}}
+{{</ layout/split >}}
 
- {{< form/input "Bedrijfsnaam" >}}
+{{< form/input "Bedrijfsnaam" >}}
 
- {{< layout/split >}}
+{{< layout/split >}}
 
- {{< form/email "E-mailadres" required >}}
+{{< form/email "E-mailadres" required >}}
 
- {{< form/input "Telefoonnummer" >}}
+{{< form/input "Telefoonnummer" >}}
 
- {{</ layout/split >}}
+{{</ layout/split >}}
 
-  
- {{< form/textarea "Je wensen" >}} {{< form/button "Verstuur formulier" >}}{{</ form >}}
+{{< form/textarea "Je wensen" >}} {{< form/button "Verstuur formulier" >}}{{</ form >}}
