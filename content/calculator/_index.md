@@ -27,7 +27,7 @@ basic:
 - name: Toestellen
   description: Uitbellen met uw zakelijk nummer? Inkomend bereikbaar zijn op uw mobiel?
     Het kan via onze mobiele app Qaller!
-  min: 
+  min: 0
   max: 999
   price_monthly: 4
   price_onetime: 5
@@ -35,7 +35,7 @@ basic:
 - name: Bellen via mobiel (Qaller)
   description: Met hoeveel apparaten wil je mobiel bellen? Combineren met vaste toestellen
     is ook mogelijk.
-  min: 
+  min: 0
   max: 999
   price_monthly: 4
   price_onetime: 5
@@ -73,7 +73,7 @@ options:
   - name: Wachtrij
     description: Heeft u veel inkomend telefonieverkeer en wilt u elke beller beantwoorden?
       Vang de bellers dan op in een wachtrij.
-    min: 
+    min: 0
     max: 999
     price_monthly: 4
     price_onetime: 5
@@ -81,7 +81,7 @@ options:
   - name: Keuzemenu
     description: Wenst u de beller meteen te begeleiden naar de juiste persoon en/of
       afdeling? Kies dan voor een keuzmenu!
-    min: 
+    min: 0
     max: 999
     price_monthly: 4
     price_onetime: 5
@@ -89,7 +89,7 @@ options:
   - name: Faxbox
     description: Wilt u met één van uw nummers faxen ontvangen en versturen? Kies
       dan voor een faxbox!
-    min: 
+    min: 0
     max: 999
     price_monthly: 5
     price_onetime: 5
@@ -100,7 +100,7 @@ callrecording:
     op. '
   items:
   - name: Bewaartijd 30 dagen
-    min: 
+    min: 0
     max: 999
     price_monthly: 5
     price_onetime: 5
