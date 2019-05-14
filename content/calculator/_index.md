@@ -120,8 +120,8 @@ security:
     price_onetime: 
     required: false
 crm:
-- name: Koppeling CRM-pakket
-  min: 
+- name: Koppeling CRM-pakket (per gebruiker)
+  min: 0
   max: 999
   price_monthly: 5
   price_onetime: 150
