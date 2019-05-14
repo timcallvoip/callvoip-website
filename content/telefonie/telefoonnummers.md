@@ -27,7 +27,7 @@ Heeft u meer telefoonnummers nodig? Dan kunt u kiezen voor een nummerblok met 10
 * Binnen 24 uur actief
 * Ook met nummerbehoud
 
-  <a href="/overons/team" class="button">Regionaal nummer(s) aanvragen</a>
+<a href="/overons/team" class="button">Regionaal nummer(s) aanvragen</a>
 
 ## Landelijke nummers
 
@@ -39,13 +39,13 @@ Een 085-nummer is een telefoonnummer voor de zakelijke markt en geeft u een prof
 <u>088-nummer</u>:  
 088-nummers zijn zakelijke, landelijke nummerblokken. 088-nummers kunt u per 100 of zelfs per 1000 stuks aanvragen. U vraagt ze aan bij de [ACM ](https://www.acm.nl/nl/onderwerpen/telecommunicatie/telefoonnummers/aanvragen-nummers/formulieren/2-088-bedrijfsnummers/)en u kunt ze daarna koppelen met onze centrale.
 
-* <a href="/overons/team" class="button">Landelijk nummer(s) aanvragen</a>
+<a href="/overons/team" class="button">Landelijk nummer(s) aanvragen</a>
 
 ## Internationale nummers
 
 Met **internationale** nummers bent u ook bereikbaar voor uw buitenlandse klanten. Heeft u een Belgisch- of Duits telefoonnummer? Dan heeft u geluk, want het is mogelijk om deze nummers te verhuizen (porteren) naar CallvoipTelefonie.
 
-* <a href="/overons/team" class="button">Internationaal nummer(s) aanvragen</a>
+<a href="/overons/team" class="button">Internationaal nummer(s) aanvragen</a>
 
 ## Service nummers
 
@@ -57,4 +57,6 @@ Met een 0800-nummer bent u kosteloos bereikbaar voor uw klanten. Dit verlaagt de
 <u>0900-nummer</u>  
 Bied uw klanten een betaald 0900-servicenummer voor support of sales. Klanten betalen een minuut- of gesprekstarief en dit genereert inkomsten. Het tarief stelt u zelf vast. De kostendrempel maakt dat uw klant weloverwogen en doelgericht belt. Dit verhoogt de doeltreffendheid van uw helpdesktijd.
 
-* <a href="/overons/team" class="button">Service nummer(s) aanvragen</a>
+<a href="/overons/team" class="button">Service nummer(s) aanvragen</a>
+
+ 
