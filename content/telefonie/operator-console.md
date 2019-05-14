@@ -20,7 +20,23 @@ blocks:
 usps:
   title: ''
   content: ''
-  items: []
+  items:
+  - icon: ''
+    title: Eenvoud
+    content: Het Operator Console biedt een uitgebreide receptiemodule. U ziet overzichtelijk
+      wie er belt en u kunt eenvoudig gesprekken doorverbinden naar collega’s of naar
+      uzelf toetrekken.
+  - title: Trainingsmogelijkheden
+    content: Geen gekke constructies meer met twee headsets aangesloten op één toestel.
+      Vanaf nu kunt u uw collega’s gemakkelijk trainen. U luistert mee (listen in)
+      met een gesprek, fluistert (whisper in) uw collega wat in of neemt het hele
+      gesprek over (barge in).
+    icon: ''
+  - icon: ''
+    title: Statistieken
+    content: Bekijk hoe lang de beller in de wacht staat en wat per gebruiker de gemiddelde
+      gespreksduur is. Deze statistieken kunt u gebruiken als basis voor het verbeteren/professionaliseren
+      van uw inkomende telefonie
 intro:
   title: ''
   content: ''
