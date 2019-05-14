@@ -15,10 +15,18 @@ hero:
 blocks:
 - title: ''
   image: ''
-  content: ''
-  position: []
+  content: |+
+    Het Operator Console is een waardevol realtime telefonie-dashboard dat u het volgende biedt:
+
+    1. Realtime gespreksverkeer (huidige gesprekken)
+    2. Actuele toestelstatus: idle ringing busy
+    3. OnScreen aannemen, doorverbinden, call pickup
+    4. Geavanceerde wachtrij-acties (o.a. meeluisteren, influisteren. inbreken)
+    5. Realtime wachtrij-statistieken
+
+  position: image_left
 usps:
-  title: ''
+  title: Voordelen Operator Console
   content: ''
   items:
   - icon: ''
@@ -57,13 +65,3 @@ prijzen:
 draft: true
 
 ---
-Het Operator Console is een waardevol **realtime telefonie-dashboard** dat u het volgende biedt:
-
-  
-1\. Realtime gespreksverkeer (huidige gesprekken)  
-2\. Actuele toestelstatus: idle ringing busy   
-3\. OnScreen aannemen, doorverbinden, call pickup  
-4\. Geavanceerde wachtrij-acties (o.a. meeluisteren, influisteren. inbreken)  
-5\. Realtime wachtrij-statistieken
-
-![](https://www.callvoiptelefonie.nl/wp-content/uploads/2018/03/quadrant-297x300.png)
