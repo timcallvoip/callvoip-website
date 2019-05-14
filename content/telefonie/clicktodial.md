@@ -1,5 +1,5 @@
 ---
-title: Click-to-Dial
+title: Click to Dial
 description: ''
 images: []
 type: ''

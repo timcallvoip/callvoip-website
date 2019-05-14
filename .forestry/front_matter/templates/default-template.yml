@@ -150,7 +150,7 @@ fields:
         name: price
         label: Price
 pages:
-- content/telefonie/click-to-dial.md
+- content/telefonie/clicktodial.md
 - content/telefonie/operator-console.md
 - content/telefonie/hostedvoip.md
 - content/telefonie/vastmobielintegratie.md
