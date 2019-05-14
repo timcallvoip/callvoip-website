@@ -13,9 +13,9 @@ hero:
     link: "/offerte"
   image: ''
 blocks:
-- title: ''
-  image: ''
-  content: |+
+- title: Wat is het?
+  image: "/v1557821337/quadrant.png"
+  content: |
     Het Operator Console is een waardevol realtime telefonie-dashboard dat u het volgende biedt:
 
     1. Realtime gespreksverkeer (huidige gesprekken)
@@ -24,6 +24,8 @@ blocks:
     4. Geavanceerde wachtrij-acties (o.a. meeluisteren, influisteren. inbreken)
     5. Realtime wachtrij-statistieken
 
+    De Operator Panel is speciaal ontwikkeld voor receptionisten, supervisors en callcenter trainers en biedt realtime informatie, statistieken en extra telefoniemogelijkheden. Zo zie je gemakkelijk en centraal wat er binnen het bedrijf gebeurt.
+    De Operator Panel maakt deel uit van het Unified Communications Panel.
   position: image_left
 usps:
   title: Voordelen Operator Console
