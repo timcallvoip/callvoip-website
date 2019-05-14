@@ -12,7 +12,11 @@ hero:
     content: Vraag nu een offerte aan
     link: "/offerte"
   image: ''
-blocks: []
+blocks:
+- title: ''
+  image: ''
+  content: ''
+  position: []
 usps:
   title: ''
   content: ''
@@ -20,7 +24,20 @@ usps:
 intro:
   title: ''
   content: ''
-prijzen: []
+prijzen:
+- title: Wat kost het Operator Console?
+  content: ''
+  tarieven:
+    items:
+    - title: Maandelijks (excl. BTW) per gebruiker
+      price: 25
+    - title: Eenmalig (excl. BTW) per gebruiker
+      price: 25
+    title: ''
+    footer: ''
+  button:
+    title: Al klant? U vraagt het Operator Console hier aan
+    link: "/aanvragen/operator-console/"
 draft: true
 
 ---
