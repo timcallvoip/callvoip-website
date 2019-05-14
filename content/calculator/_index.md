@@ -107,7 +107,7 @@ callrecording:
     required: false
 security:
   title: Beveiligd bellen (SRTP)
-  description: Lorem ipsum
+  description: De gesprekken zijn versleuteld tussen uw telefoons en de telefooncentrale.
   items:
   - name: Normaal bellen
     value: 
