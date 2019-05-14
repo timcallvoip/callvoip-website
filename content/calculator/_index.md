@@ -137,4 +137,4 @@ offerte:
     offerte op basis van bovenstaande wensen.
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque aliquam tincidunt velit.
+Bereken hieronder eenvoudig de abonnementskosten passend bij uw situatie. Wilt u een offerte op maat? klik dan onderaan op de knop en ontvang binnen 1 dag een vrijblijvende offerte.
