@@ -42,7 +42,8 @@ basic:
   required: false
 callminutes:
   title: Belminuten
-  description: Bespaar met afkopen van belminuten
+  description: Belt u veel uit? Bespaar dan met afkopen van belminuten. Als u niet
+    voor een belbundel kiest, dan profiteert u van onze lage gesprekskosten.
   items:
   - name: Geen belminuten
     value: 
@@ -95,24 +96,13 @@ options:
     required: false
 callrecording:
   title: Gesprekken opnemen
-  description: lorem ipsum
+  description: 'Met gespreksopname neemt u al uw inkomende & uitgaande gesprekken
+    op. '
   items:
   - name: Bewaartijd 30 dagen
     min: 
     max: 999
     price_monthly: 5
-    price_onetime: 5
-    required: false
-  - name: Bewaartijd 180 dagen
-    min: 
-    max: 999
-    price_monthly: 10
-    price_onetime: 5
-    required: false
-  - name: Bewaartijd 365 dagen
-    min: 
-    max: 999
-    price_monthly: 12.5
     price_onetime: 5
     required: false
 security:
