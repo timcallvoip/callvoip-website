@@ -17,16 +17,15 @@ basic:
   price_onetime: 15
   required: true
 - name: Telefoonnummer
-  description: Ieder abonnement komt standaard met 1 nummer, voeg zoveel extra numers
-    toe als je wilt.
+  description: Ieder abonnement komt standaard met 1 nummer, voeg zoveel extra nummers
+    (regionaal of landelijk) toe als je wilt.
   min: 1
   max: 999
   price_monthly: 2
   price_onetime: 15
   required: true
 - name: Toestellen
-  description: Je bent vrij om te kiezen hoeveel toestellen je wilt. Liever enkel
-    via mobiel bellen? Geen probleem.
+  description: Hoeveel vaste- als draadloze toestellen wenst u te gebruiken?
   min: 
   max: 999
   price_monthly: 4
