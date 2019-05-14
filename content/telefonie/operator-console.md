@@ -1,7 +1,8 @@
 ---
 title: Operator Console
 description: ''
-images: []
+images:
+- "/v1557821337/quadrant.png"
 type: ''
 layout: ''
 logos: false
@@ -13,6 +14,23 @@ hero:
     link: "/offerte"
   image: ''
 blocks:
+- title: Wat kunt u er preceies mee?
+  image: "/v1557821422/OperatorPanel2.jpg"
+  content: "De Operator Console geeft receptionisten, supervisors, callcenter-trainers,
+    etc. een duidelijk overzicht wat er gebeurt in de organisatie.\n\nIdeaal voor:\n\n1)
+    Receptionisten: zie in één oogopslag of collega’s beschikbaar zijn; klik en neem
+    aan, verbind door, zet in de wacht of trek een gesprek naar je toe. Hou overzicht.\n2)
+    Supervisor: zie in één oogopslag uw wachtrijen: key statistics (wachtenden, gem.
+    wachttijd, ingelogde agenten). Klik door naar details per wachtrij (welke bellers
+    wachten, worden geholpen)\n3) Trainer: geavanceerde training voor inbound callcenter.
+    Luister mee met gesprekken, fluister uw collega iets toe of breek op het gesprek
+    in (listen-in, whisper-in, barge-in).\nElke gebruiker maakt zelf één of meer aanpasbare
+    dashboards in het Operator Console. \nBouw uw dashboard met de 3 widgets:\n\nUw
+    dashboards bieden u realtime inzicht in wat er op telefonievlak gebeurt. Bovendien
+    heeft u alle mogelijkheden om acties te ondernemen.\nZo kunt u gesprekken aannemen,
+    doorverbinden (met/zonder ruggespraak), in de wacht zetten en naar u toe trekken.\nVoor
+    meer informatie klik hier voor de handleiding."
+  position: image_left
 - title: Wat is het?
   image: "/v1557821337/quadrant.png"
   content: |
