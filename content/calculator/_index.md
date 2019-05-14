@@ -25,13 +25,14 @@ basic:
   price_onetime: 15
   required: true
 - name: Toestellen
-  description: Hoeveel vaste- als draadloze toestellen wenst u te gebruiken?
+  description: Uitbellen met uw zakelijk nummer? Inkomend bereikbaar zijn op uw mobiel?
+    Het kan via onze mobiele app Qaller!
   min: 
   max: 999
   price_monthly: 4
   price_onetime: 5
   required: false
-- name: Bellen via mobiel
+- name: Bellen via mobiel (Qaller)
   description: Met hoeveel apparaten wil je mobiel bellen? Combineren met vaste toestellen
     is ook mogelijk.
   min: 
@@ -64,8 +65,9 @@ callminutes:
     price_onetime: 
     required: false
 options:
-  title: Bereid uit met extra's
-  description: Bellen en internet afgestemd op de wensen van de moderne ondernemer
+  title: Breid uit met extra's
+  description: 'Misschien is onze standaard telefooncentrale niet genoeg voor u. Breid
+    deze dan eenvoudig uit met de volgende functionaliteiten:'
   items:
   - name: Wachtrij
     description: Lorem ipsum
