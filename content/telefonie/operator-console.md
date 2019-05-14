@@ -14,7 +14,7 @@ hero:
     link: "/offerte"
   image: ''
 blocks:
-- title: Wat kunt u er preceies mee?
+- title: Wat kunt u er precies mee?
   image: "/v1557821422/OperatorPanel2.jpg"
   content: ''
   position: image_left
@@ -54,7 +54,26 @@ usps:
       van uw inkomende telefonie
 intro:
   title: ''
-  content: ''
+  content: |-
+    De Operator Console geeft receptionisten, supervisors, callcenter-trainers, etc. een duidelijk overzicht wat er gebeurt in de organisatie.
+
+    Ideaal voor:
+
+    Receptionisten: zie in één oogopslag of collega’s beschikbaar zijn; klik en neem aan, verbind door, zet in de wacht of trek een gesprek naar je toe. Hou overzicht.
+
+    Supervisor: zie in één oogopslag uw wachtrijen: key statistics (wachtenden, gem. wachttijd, ingelogde agenten). Klik door naar details per wachtrij (welke bellers wachten, worden geholpen)
+
+    Trainer: geavanceerde training voor inbound callcenter. Luister mee met gesprekken, fluister uw collega iets toe of breek op het gesprek in (listen-in, whisper-in, barge-in).
+
+    Elke gebruiker maakt zelf één of meer aanpasbare dashboards in het Operator Console.
+
+    Bouw uw dashboard met de 3 widgets:
+
+    Uw dashboards bieden u realtime inzicht in wat er op telefonievlak gebeurt. Bovendien heeft u alle mogelijkheden om acties te ondernemen.
+
+    Zo kunt u gesprekken aannemen, doorverbinden (met/zonder ruggespraak), in de wacht zetten en naar u toe trekken.
+
+    Voor meer informatie klik hier voor de handleiding.
 prijzen:
 - title: Wat kost het Operator Console?
   content: ''
@@ -72,22 +91,3 @@ prijzen:
 draft: true
 
 ---
-De Operator Console geeft receptionisten, supervisors, callcenter-trainers, etc. een duidelijk overzicht wat er gebeurt in de organisatie.
-
-Ideaal voor:
-
-1) Receptionisten: zie in één oogopslag of collega’s beschikbaar zijn; klik en neem aan, verbind door, zet in de wacht of trek een gesprek naar je toe. Hou overzicht.
-
-2) Supervisor: zie in één oogopslag uw wachtrijen: key statistics (wachtenden, gem. wachttijd, ingelogde agenten). Klik door naar details per wachtrij (welke bellers wachten, worden geholpen)
-
-3) Trainer: geavanceerde training voor inbound callcenter. Luister mee met gesprekken, fluister uw collega iets toe of breek op het gesprek in (listen-in, whisper-in, barge-in).
-
-Elke gebruiker maakt zelf één of meer aanpasbare dashboards in het Operator Console. 
-
-Bouw uw dashboard met de 3 widgets:
-
-Uw dashboards bieden u realtime inzicht in wat er op telefonievlak gebeurt. Bovendien heeft u alle mogelijkheden om acties te ondernemen.
-
-Zo kunt u gesprekken aannemen, doorverbinden (met/zonder ruggespraak), in de wacht zetten en naar u toe trekken.
-
-Voor meer informatie klik hier voor de handleiding.
