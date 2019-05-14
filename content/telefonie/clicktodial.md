@@ -59,8 +59,8 @@ usps:
     title: klik en bel
     content: uw telefoon gaat gelijk een nummer bellen
 intro:
-  title: ''
-  content: ''
+  title: Wat kost de Click-to-Dial?
+  content: Helemaal niets!
 prijzen: []
 
 ---
