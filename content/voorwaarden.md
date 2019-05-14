@@ -6,7 +6,7 @@ menu:
 
 ---
 
-#### Artikel 1 – toepasselijkheid van deze algemene voorwaarden
+### Artikel 1 – toepasselijkheid van deze algemene voorwaarden
 
 #### 1.1
 
@@ -45,7 +45,7 @@ De internetsites van TijdhofConsulting richten zich hoofdzakelijk op de Nederlan
 
 TijdhofConsulting is bevoegd om derden in te schakelen bij de uitvoering van een overeenkomst met de afnemer.
 
-#### Artikel 2 – offerte – aanbieding en totstandkoming van de overeenkomst
+### Artikel 2 – offerte – aanbieding en totstandkoming van de overeenkomst
 
 #### Artikel 2.1
 
@@ -79,7 +79,7 @@ De afnemer en TijdhofConsulting komen uitdrukkelijk overeen dat door gebruik te 
 
 Informatie, afbeeldingen, mondelinge mededelingen, opgaven betreffende functionaliteiten, prijzen, gewichten, afmetingen, kleuren, etc. met betrekking tot alle producten en aanbiedingen die telefonisch, via e-mail of via internet worden verstrekt worden zo nauwkeurig mogelijk (weer)gegeven of gedaan. TijdhofConsulting garandeert echter niet dat alle aanbiedingen en producten volledig met de gegeven informatie in overeenstemming zijn. Afwijkingen kunnen in beginsel geen aanleiding zijn tot schadevergoeding en/of ontbinding.
 
-#### Artikel 3 – Prijzen
+### Artikel 3 – Prijzen
 
 #### Artikel 3.1
 
@@ -101,7 +101,7 @@ Als de prijzen voor de aangeboden producten en diensten stijgen in de periode tu
 
 Bezorgkosten maken geen deel uit van de productprijzen maar worden apart berekend. Voor bezorging buiten Nederland gelden speciale tarieven. Ten aanzien van bepaalde betaalmethoden gelden nadere voorwaarden met betrekking tot de bezorgmethode en de daaraan verbonden kosten. Dit wordt duidelijk aan de afnemer medegedeeld.
 
-#### Artikel 4 – betaling
+### Artikel 4 – betaling
 
 #### Artikel 4.1
 
@@ -146,7 +146,7 @@ Bij uitstaan van onze overeenkomst ter zake van enige overeenkomst langer dan 14
 Buitengerechtelijke kosten zijn door de cliënt verschuldigd in ieder geval, waarin TijdhofConsulting zich voor invordering van de hulp van derden heeft verzekerd. Deze buitengerechtelijke kosten worden geacht te zijn vastgesteld op tenminste 15% van de hoofdsom met een minimum van € 50,00 zonder dat TijdhofConsulting gehouden is aan te tonen, dat zij ook in deze kosten is vervallen. Onder deze buitengerechtelijke kosten worden begrepen alle kosten die derden ons ter zake van invordering in rekening brengen.  
 Indien TijdhofConsulting genoodzaakt is het faillissement van de cliënt aan te vragen, dan zijn behalve hoofdsom en rente, tevens alle kosten ter zake van een faillissementaanvrage, ook die ter zake van de rechtsbijstand, ongeacht deze het gebruikelijke procureurstarief te boven gaan, verschuldigd, zulks tot volledige vergoeding van geleden schade, winstderving, kosten en interest.
 
-#### Artikel 5 – levering en leveringstermijn
+### Artikel 5 – levering en leveringstermijn
 
 #### Artikel 5.1
 
@@ -180,7 +180,7 @@ Overschrijding van een levertijd kan nimmer leiden tot schadevergoeding jegens T
 
 Bij leveringen in het buitenland kunnen afwijkende voorwaarden gelden.
 
-#### Artikel 6 – ruilen en retourneren van gekochte producten
+### Artikel 6 – ruilen en retourneren van gekochte producten
 
 #### Artikel 6.1
 
@@ -211,7 +211,7 @@ Retourneren en ruilen is uitsluitend mogelijk onder overlegging van de originele
 
 Eventuele kosten die Tijdhof Consulting maakt doordat de afnemer goederen ongefrankeerd, onzorgvuldig verpakt of fout geadresseerd naar TijdhofConsulting verstuurt zullen op de afnemer worden verhaald.
 
-#### Artikel 7 – garantie- en aansprakelijkheidsbepalingen
+### Artikel 7 – garantie- en aansprakelijkheidsbepalingen
 
 #### Artikel 7.1
 
@@ -248,7 +248,7 @@ De afnemer is gehouden TijdhofConsulting te vrijwaren van enige aanspraak die de
 
 Het is mogelijk dat TijdhofConsulting op haar internetsite links opneemt naar andere internetsites die mogelijk interessant of informatief voor de bezoeker zijn. Dergelijke links zijn louter informatief. TijdhofConsulting is niet verantwoordelijk voor de inhoud van de internetsites waarnaar wordt verwezen of het gebruik dat ervan kan worden gemaakt.
 
-#### Artikel 8 – overmacht
+### Artikel 8 – overmacht
 
 #### Artikel 8.1
 
@@ -266,7 +266,7 @@ Onder overmacht wordt verstaan elke van haar wil onafhankelijke omstandigheid, w
 » transportmoeilijkheden of -belemmeringen van elke aard, waardoor het vervoer naar TijdhofConsulting toe of van TijdhofConsulting naar de afnemer wordt gehinderd of belemmerd  
 » het ontbreken van enige via overheidswege te verkrijgen vergunning
 
-#### Artikel 9 – intellectuele eigendomsrechten
+### Artikel 9 – intellectuele eigendomsrechten
 
 #### Artikel 9.1
 
@@ -280,7 +280,7 @@ Onder intellectuele eigendomsrechten wordt verstaan: octrooi-, auteurs-, merk-, 
 
 Het is de afnemer verboden gebruik te maken van cq. wijzigingen aan te brengen in de intellectuele eigendomsrechten zoals beschreven in dit artikel, zoals bijvoorbeeld verveelvoudiging, zonder uitdrukkelijke voorafgaande schriftelijke toestemming van TijdhofConsulting, haar toeleveranciers of andere rechthebbenden, tenzij het louter gaat om privé-gebruik in relatie tot het product zelf.
 
-#### Artikel 10 – registratie en gebruik van persoonsgegevens
+### Artikel 10 – registratie en gebruik van persoonsgegevens
 
 #### Artikel 10.1
 
@@ -298,7 +298,7 @@ De registratie van de persoonsgegevens is niet beveiligd door versleuteling van 
 
 Tijdhof Consulting neemt de van toepassing zijnde privacyregel- en wetgeving in acht.
 
-#### Artikel 11 – toepasselijk recht en bevoegde rechter
+### Artikel 11 – toepasselijk recht en bevoegde rechter
 
 #### Artikel 11.1
 
@@ -312,7 +312,7 @@ Alhoewel Tijdhof Consulting zich in principe richt op de Nederlandse markt worde
 
 Alle geschillen die verband houden met of voortvloeien uit aanbiedingen van TijdhofConsulting of overeenkomsten gesloten met TijdhofConsulting worden voorgelegd aan de bevoegde rechter te Groningen, tenzij de wet uitdrukkelijk een andere rechter als bevoegd aanwijst.
 
-#### Artikel 12 – overige bepalingen
+### Artikel 12 – overige bepalingen
 
 #### Artikel 12.1
 
