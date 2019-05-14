@@ -7,7 +7,6 @@ slug: keuzemenu
 hero:
   image: ''
 layout: ''
-draft: true
 
 ---
 Met een keuzemenu begeleidt u de bellers direct naar de juiste medewerker of afdeling.  
