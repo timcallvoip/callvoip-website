@@ -40,8 +40,8 @@ team:
   function: Commercieel Medewerker
   name: Dion Steen
   image: "/v1557495164/Portretfoto.jpg"
-- content: Support
-  function: Support
+- content: Commercieel Medewerker
+  function: Commercieel Medewerker
   name: Ralf
   image: "/v1557495164/Portretfoto.jpg"
 description: ''
