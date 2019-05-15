@@ -65,8 +65,8 @@ intro:
   title: Wat kost bellen met Callvoip?
   content: Iedere klant is anders en dat betekent dus ook dat geen telefooncentrale
     gelijk is. Hieronder enkele cases uitgewerkt. Benieuwd wat de kosten zijn voor
-    uw situatie? Bel met <a href="tel:+31508200000">050 820 0000</a>. of bereken het
-    via onze <a href="/calculator">link calculator</a>.
+    uw situatie? Bel met <b><u><a href="tel:+31508200000">050 820 0000</a></u></b>.
+    of bereken het via onze <b><u><a href="/calculator">calculator</a></u></b>.
 prijzen:
 - title: Zelfstandigen
   content: Online telefooncentrale, geen poespas én bereikbaar op één toestel.
@@ -83,8 +83,6 @@ prijzen:
       price: 2
     - title: Toestelaccount (2x)
       price: 4
-    - title: "<b>Totaal</b>"
-      price: '13.50'
 - title: MKB
   content: 10 medewerkers met allemaal een eigen telefoonnummer en toestel. 5 medewerkers
     moeten ook mobiel kunnen uitbellen met het zakelijke nummer. Verder is de wens
