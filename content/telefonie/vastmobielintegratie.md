@@ -68,9 +68,13 @@ prijzen:
     title: Nu aanvragen
     link: ''
   tarieven:
-    title: ''
-    footer: ''
-    items: []
+    title: Per SIM-kaart
+    footer: Prijzen zijn excl. BTW
+    items:
+    - title: Eenmalig
+      price: 15
+    - title: Maandelijks
+      price: 25
 menu:
   main:
     weight: 2
