@@ -13,15 +13,18 @@ taxonomies:
   tag: tags
 menu:
   top:
+  - url: https://www.callvoiptelefonie.nl/mijncallvoip/
+    name: Mijn Callvoip
+    weight: 3
   - url: https://panel.callvoip.nl/login/panel
     name: Login
-    weight: 4
+    weight: 5
   - url: "/ondersteuning"
     name: Ondersteuning
     weight: 2
   - url: https://callvoip.shop/
     name: Webshop
-    weight: 3
+    weight: 4
   - url: https://status.kwebbl.com/
     name: Status
     weight: 1
