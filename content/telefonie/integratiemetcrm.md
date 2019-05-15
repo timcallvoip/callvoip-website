@@ -22,12 +22,13 @@ blocks:
   image: "/v1552466820/phones.png"
   position: image_left
   title: Wat is er nodig voor VoIP CTI?
-- content: "<p>Callvoip is de zakelijke telefonieprovider waar persoonlijk contact
-    centraal staat. Maak daarom kennis met [ons team](/team) en weet wie u aan de
-    lijn heeft.</p>"
-  image: "/v1552466837/windows.svg"
-  position: " image_right"
-  title: Met wie kom je te werken?
+- content: |
+    <p>Hier links ziet u slechts een selectie van pakketten waarmee onze Hosted VoIP centrale gekoppeld kan worden. In totaal kan er met meer dan 100 pakketten een koppeling worden gemaakt! Benieuwd of de telefooncentrale gekoppeld kan worden?</p>
+
+    <a href="/offerte/" class="button">Vraag dan nu een offerte aan</a>
+  image: "/v1557910637/SC-logos-cti.png"
+  position: image_left
+  title: " Welke CRM applicaties kunt u koppelen?"
 usps:
   title: Geniet van een beter telefoongesprek
   content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent, dat
