@@ -69,10 +69,10 @@ intro:
     via onze <a href="/calculator">link calculator</a>.
 prijzen:
 - title: Zelfstandigen
-  content: Geen telefooncentrale op locatie, maar een moderne gebruiksvriendelijk.
+  content: Online telefooncentrale, geen poespas én bereikbaar op één toestel.
   button:
-    title: Stel je pakket samen
-    link: ''
+    title: Bereken het via onze calculator
+    link: "/calculator"
   tarieven:
     title: Maandelijkse kosten
     footer: Prijzen zijn vanaf en per maand
@@ -86,8 +86,8 @@ prijzen:
 - title: MKB
   content: Geen telefooncentrale op locatie, maar een moderne gebruiksvriendelijk.
   button:
-    title: Stel je pakket samen
-    link: ''
+    title: Bereken het via onze calculator
+    link: "/calculator"
   tarieven:
     title: Maandelijkse kosten
     footer: Prijzen zijn vanaf en per maand
@@ -101,8 +101,8 @@ prijzen:
 - title: Grootzakelijk
   content: Geen telefooncentrale op locatie, maar een moderne gebruiksvriendelijk.
   button:
-    title: Stel je pakket samen
-    link: ''
+    title: Bereken het via onze calculator
+    link: "/calculator"
   tarieven:
     title: Maandelijkse kosten
     footer: Prijzen zijn vanaf en per maand
