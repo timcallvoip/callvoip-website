@@ -14,22 +14,24 @@ hero:
     link: "/calculator"
   image: "/v1552466820/hostedvoip.svg"
 blocks:
-- content: "<p>VodafoneZiggo is de grootste leverancier van zakelijk internet via
-    de kabel. Het uitgebreide coax-kabelnetwerk bestaat voor 98% uit glasvezel en
-    tot maximaal 300 meter van uw voordeur uit coaxkabel. Hierdoor krijgt u supersnel
-    internet van een betrouwbare leverancier.</p>"
+- content: |-
+    - Supersnel zakelijk internet tot 500 Mbps
+    - Snelheid onafhankelijk van de afstand tot de wijkcentrale
+    - Zakelijke SLA met hersteltijd binnen 16 kantooruren
+    - Flexibel contract en inclusief kabel TV
+    - Aantrekkelijke kortingen icm Vodafone Mobiel
   image: "/v1552466820/phones.png"
   position: image_left
-  title: Supersnel zakelijk internet via de kabel
+  title: Ziggo Zakelijk
 usps:
   title: ''
   content: ''
   items: []
 intro:
-  title: Wat kost bellen met Callvoip?
-  content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent, dat
-    gaat verder dan alleen maar telefonie. Betrouwbaar internet en goede apparatuur
-    mogen daarbij niet ontbreken.
+  title: Wat kost internet via de kabel van Ziggo?
+  content: 'Of u nu een startende ondernemer bent met beperkte eisen en wensen of
+    een MKB’er met behoefte aan een stabiele verbinding, Ziggo heeft altijd een passende
+    internetdienst voor u. U kunt kiezen uit de volgende diensten:'
 prijzen:
 - title: Zelfstandigen
   content: Geen telefooncentrale op locatie, maar een moderne gebruiksvriendelijk.
