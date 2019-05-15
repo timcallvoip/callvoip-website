@@ -53,21 +53,26 @@ prijzen:
       price: '46.50'
     - title: Zakelijk Internet Max (500-om-50)
       price: 65
-- title: MKB
-  content: Geen telefooncentrale op locatie, maar een moderne gebruiksvriendelijk.
+- title: Ziggo Zakelijk Internet Pro
+  content: 'Ziggo Zakelijk Internet Pro is een supersnelle internetverbinding met
+    5 vaste IP-adressen. Ondernemers met een eigen webserver, mailservers, online
+    applicaties en VPN verbindingen hebben vaste IP-adressen nodig. Dan is Ziggo Zakelijk
+    Internet Pro de juiste keuze. U beschikt over snelheden tot 500 Mbit/s downloadsnelheid
+    en 50 Mbit/s uploadsnelheid, gecombineerd met bandbreedtegarantie en zakelijke
+    SLA. '
   button:
-    title: Stel je pakket samen
-    link: ''
+    title: Direct bestellen
+    link: https://bestellen.ziggozakelijk.nl/zakelijk_internet_pro
   tarieven:
     title: Maandelijkse kosten
-    footer: Prijzen zijn vanaf en per maand
+    footer: Prijzen zijn excl. BTW
     items:
-    - title: Basis Abonnement
-      price: 4
-    - title: Telefoonnummer
-      price: 3
-    - title: Voicemail
-      price: 1
+    - title: Zakelijk Internet Pro (60-om-10)
+      price: 39
+    - title: Zakelijk Internet Pro (250-om-40)
+      price: 79
+    - title: Zakelijk Internet Max Pro (500-om-50)
+      price: 119
 - title: Grootzakelijk
   content: Geen telefooncentrale op locatie, maar een moderne gebruiksvriendelijk.
   button:
