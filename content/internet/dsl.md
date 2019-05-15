@@ -48,7 +48,7 @@ Voor een goede kwaliteit VoIP is een stabiele internetverbinding een noodzakelij
 * 3 maanden gratis Beheer & Monitoring
 * Standaard 1 vast IP adres – mogelijkheid voor meer
 
-Abonnementen CallvoipDSL
+### Abonnementen CallvoipDSL
 
 > <div class="row">
 >
@@ -68,9 +68,9 @@ Abonnementen CallvoipDSL
 >
 > <ul>
 >
->  	<li>ADSL</li>
+> <li>ADSL</li>
 >
->  	<li>Eigen VoIP router</li>
+> <li>Eigen VoIP router</li>
 >
 > </ul>
 >
@@ -100,9 +100,9 @@ Abonnementen CallvoipDSL
 >
 > <ul>
 >
->  	<li>VDSL</li>
+> <li>VDSL</li>
 >
->  	<li>Eigen VoIP router</li>
+> <li>Eigen VoIP router</li>
 >
 > </ul>
 >
@@ -132,9 +132,9 @@ Abonnementen CallvoipDSL
 >
 > <ul>
 >
->  	<li>VVDSL</li>
+> <li>VVDSL</li>
 >
->  	<li>Eigen VoIP router</li>
+> <li>Eigen VoIP router</li>
 >
 > </ul>
 >
@@ -149,3 +149,14 @@ Abonnementen CallvoipDSL
 > </div>
 >
 > </div>
+
+## Extra mogelijkheden CallvoipDSL
+
+* <b>PIN over IP</b> - €5,- per maand (excl. BTW)  
+  Een gecertificeerde ADSL-lijn is uitstekend voor PIN over IP. Pinnen duurt voortaan slechts enkele seconden en zonder kosten.
+* <b>Alarm over IP</b> - €5,- per maand (excl. BTW)
+
+  Laat uw alarm voortaan over IP lopen. Met een IP kiezer heeft u geen dure analoge lijn meer nodig. U betaalt geen gesprekskosten meer.
+* <b>Extra vaste IP-adressen</b> - vanaf €5,- per maand (excl. BTW)
+
+  Standaard krijgt u 1 vast IP-adres. Heeft u meer IP adressen nodig, dan kunt u een extra subnet aanvragen.
