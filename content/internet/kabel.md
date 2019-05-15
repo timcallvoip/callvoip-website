@@ -2,63 +2,29 @@
 title: Kabel
 type: page
 layout: default
-logos: true
+logos: false
 hero:
   title: Kabel Internet
-  content: Met Hosted VoIP bespaart u voortaan op uw kosten en bent u voortaan overal
-    en altijd bereikbaar. Omdat uw zakelijke telefonie over het internet gaat.
+  content: VodafoneZiggo is de grootste leverancier van zakelijk internet via de kabel.
+    Het uitgebreide coax-kabelnetwerk bestaat voor 98% uit glasvezel en tot maximaal
+    300 meter van uw voordeur uit coaxkabel. Hierdoor krijgt u supersnel internet
+    van een betrouwbare leverancier.
   button:
     content: Bereken je kosten
     link: "/calculator"
   image: "/v1552466820/hostedvoip.svg"
 blocks:
-- content: "<p>Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent,
-    dat gaat verder dan alleen maar telefonie. Betrouwbaar internet en goede apparatuur
-    mogen daarbij niet ontbreken.</p>"
+- content: "<p>VodafoneZiggo is de grootste leverancier van zakelijk internet via
+    de kabel. Het uitgebreide coax-kabelnetwerk bestaat voor 98% uit glasvezel en
+    tot maximaal 300 meter van uw voordeur uit coaxkabel. Hierdoor krijgt u supersnel
+    internet van een betrouwbare leverancier.</p>"
   image: "/v1552466820/phones.png"
   position: image_left
-  title: Zakelijke VoIP waar je op kan vertrouwen
-- content: "<p>Callvoip is de zakelijke telefonieprovider waar persoonlijk contact
-    centraal staat. Maak daarom kennis met [ons team](/team) en weet wie u aan de
-    lijn heeft.</p>"
-  image: "/v1552466837/windows.svg"
-  position: " image_right"
-  title: Met wie kom je te werken?
+  title: Supersnel zakelijk internet via de kabel
 usps:
-  title: Geniet van een beter telefoongesprek
-  content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent, dat
-    gaat verder dan alleen maar telefonie. Betrouwbaar internet en goede apparatuur
-  items:
-  - icon: fa-cloud
-    title: Moderne centrale in de cloud
-    content: Callvoip is er voor elke ondernemer. Voor de zelfstandige, die graag
-      bereikbaar is op een vast nummer. Maar wij zijn er ook voor de international
-      met 10.000 werkplekken.
-  - icon: fa-user-lock
-    title: Je eigen beveiligde omgeving
-    content: Callvoip is er voor elke ondernemer. Voor de zelfstandige, die graag
-      bereikbaar is op een vast nummer. Maar wij zijn er ook voor de international
-      met 10.000 werkplekken.
-  - icon: fa-comment-alt-smile
-    title: Geen moeilijke software
-    content: Callvoip is er voor elke ondernemer. Voor de zelfstandige, die graag
-      bereikbaar is op een vast nummer. Maar wij zijn er ook voor de international
-      met 10.000 werkplekken.
-  - icon: fa-laptop
-    title: Werkt op Apple en Windows
-    content: Callvoip is er voor elke ondernemer. Voor de zelfstandige, die graag
-      bereikbaar is op een vast nummer. Maar wij zijn er ook voor de international
-      met 10.000 werkplekken.
-  - icon: fa-comment-alt-smile
-    title: Geen moeilijke software
-    content: Callvoip is er voor elke ondernemer. Voor de zelfstandige, die graag
-      bereikbaar is op een vast nummer. Maar wij zijn er ook voor de international
-      met 10.000 werkplekken.
-  - icon: fa-comment-alt-smile
-    title: Geen moeilijke software
-    content: Callvoip is er voor elke ondernemer. Voor de zelfstandige, die graag
-      bereikbaar is op een vast nummer. Maar wij zijn er ook voor de international
-      met 10.000 werkplekken.
+  title: ''
+  content: ''
+  items: []
 intro:
   title: Wat kost bellen met Callvoip?
   content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent, dat
@@ -69,7 +35,7 @@ prijzen:
   content: Geen telefooncentrale op locatie, maar een moderne gebruiksvriendelijk.
   button:
     title: Stel je pakket samen
-    link: 
+    link: ''
   tarieven:
     title: Maandelijkse kosten
     footer: Prijzen zijn vanaf en per maand
@@ -84,7 +50,7 @@ prijzen:
   content: Geen telefooncentrale op locatie, maar een moderne gebruiksvriendelijk.
   button:
     title: Stel je pakket samen
-    link: 
+    link: ''
   tarieven:
     title: Maandelijkse kosten
     footer: Prijzen zijn vanaf en per maand
@@ -99,7 +65,7 @@ prijzen:
   content: Geen telefooncentrale op locatie, maar een moderne gebruiksvriendelijk.
   button:
     title: Stel je pakket samen
-    link: 
+    link: ''
   tarieven:
     title: Maandelijkse kosten
     footer: Prijzen zijn vanaf en per maand
@@ -110,6 +76,8 @@ prijzen:
       price: 3
     - title: Voicemail
       price: 1
+description: ''
+images: []
 menu:
   main:
     weight: 2
