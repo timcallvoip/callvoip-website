@@ -49,16 +49,24 @@ prijzen:
     title: Vraag nu aan
     link: ''
   tarieven:
-    title: ''
-    footer: ''
-    items: []
+    title: Per SIM-kaart
+    footer: Prijzen zijn excl. BTW
+    items:
+    - title: Maandelijks
+      price: 39
+    - title: Eenmalig
+      price: 25
   title: 2 GB data
 - title: 5 GB Data
   content: Onbeperkt bellen in EU + 5GB data
   tarieven:
-    title: ''
-    footer: ''
-    items: []
+    title: Per SIM-kaart
+    footer: Prijzen zijn excl. BTW
+    items:
+    - title: Maandelijks
+      price: 45
+    - title: Eenmalig
+      price: 25
   button:
     title: Nu aanvragen
     link: ''
@@ -71,9 +79,9 @@ prijzen:
     title: Per SIM-kaart
     footer: Prijzen zijn excl. BTW
     items:
-    - title: Eenmalig
-      price: 15
     - title: Maandelijks
+      price: 49
+    - title: Eenmalig
       price: 25
 menu:
   main:
