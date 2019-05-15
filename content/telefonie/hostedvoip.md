@@ -2,7 +2,7 @@
 title: Hosted VoIP telefonie van Callvoip
 type: page
 layout: default
-logos: true
+logos: false
 hero:
   title: Hosted VoIP
   content: Met een Hosted VoIP bent u overal en altijd bereikbaar en bespaart u voortaan
