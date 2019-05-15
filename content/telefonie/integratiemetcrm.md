@@ -4,20 +4,24 @@ type: page
 layout: default
 logos: false
 hero:
-  title: Bellen met je CRM
-  content: Met Hosted VoIP bespaart u voortaan op uw kosten en bent u voortaan overal
-    en altijd bereikbaar. Omdat uw zakelijke telefonie over het internet gaat.
+  title: VoIP CTI
+  content: 'Met VoIP CTI (= Computer Telephony Integration) verbindt u de Simmpl telefooncentrale
+    met uw klantsysteem (CRM-, ERP- of administratiepakketten). '
   button:
     content: Bereken je kosten
     link: "/calculator"
   image: "/v1552466820/hostedvoip.svg"
 blocks:
-- content: "<p>Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent,
-    dat gaat verder dan alleen maar telefonie. Betrouwbaar internet en goede apparatuur
-    mogen daarbij niet ontbreken.</p>"
+- content: |-
+    Voor VoIP CTI heeft u nodig:
+    • een Windows-PC of Server – aan Apple-mogelijkheden wordt gewerkt
+    • uw CRM-pakket: check hier of neem contact op
+    • de Simmpl telefooncentrale met VoIP CTI licentie per gebruiker
+
+    Voor veel pakketten is de installatie eenvoudig: installeer de Client software per gebruiker en gebruik de CRM Configurator om de koppeling tot stand te brengen.
   image: "/v1552466820/phones.png"
   position: image_left
-  title: Zakelijke VoIP waar je op kan vertrouwen
+  title: Wat is er nodig voor VoIP CTI?
 - content: "<p>Callvoip is de zakelijke telefonieprovider waar persoonlijk contact
     centraal staat. Maak daarom kennis met [ons team](/team) en weet wie u aan de
     lijn heeft.</p>"
