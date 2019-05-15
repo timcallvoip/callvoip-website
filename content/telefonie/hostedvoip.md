@@ -106,14 +106,14 @@ prijzen:
     link: "/calculator"
   tarieven:
     title: Maandelijkse kosten
-    footer: Prijzen zijn vanaf en per maand
+    footer: Prijzen zijn excl. BTW
     items:
-    - title: Basis Abonnement
-      price: 4
+    - title: Basis Trunk
+      price: 10
     - title: Telefoonnummer
-      price: 3
-    - title: Voicemail
-      price: 1
+      price: 2
+    - title: Extra kanalen (6x)
+      price: 15
 description: ''
 images: []
 menu:
