@@ -63,9 +63,10 @@ usps:
       met 10.000 werkplekken.
 intro:
   title: Wat kost bellen met Callvoip?
-  content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent, dat
-    gaat verder dan alleen maar telefonie. Betrouwbaar internet en goede apparatuur
-    mogen daarbij niet ontbreken.
+  content: Iedere klant is anders en dat betekent dus ook dat geen telefooncentrale
+    gelijk is. Hieronder enkele cases uitgewerkt. Benieuwd wat de kosten zijn voor
+    uw situatie? Bel met <a href="tel:+31508200000">050 820 0000</a>. of bereken het
+    via onze <a href="/calculator">link calculator</a>.
 prijzen:
 - title: Zelfstandigen
   content: Geen telefooncentrale op locatie, maar een moderne gebruiksvriendelijk.
