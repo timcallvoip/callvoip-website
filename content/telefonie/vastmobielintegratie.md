@@ -43,7 +43,34 @@ hero:
 intro:
   title: Wat zijn de kosten?
   content: 'De Vast Mobiel integratie van Callvoip komt in drie verschillende abonnementen:'
-prijzen: []
+prijzen:
+- content: Onbeperkt bellen in EU + 2GB data
+  button:
+    title: Vraag nu aan
+    link: ''
+  tarieven:
+    title: ''
+    footer: ''
+    items: []
+  title: 2 GB data
+- title: 5 GB Data
+  content: Onbeperkt bellen in EU + 5GB data
+  tarieven:
+    title: ''
+    footer: ''
+    items: []
+  button:
+    title: Nu aanvragen
+    link: ''
+- title: 10 GB data
+  content: Onbeperkt bellen in EU + 2GB data
+  button:
+    title: Nu aanvragen
+    link: ''
+  tarieven:
+    title: ''
+    footer: ''
+    items: []
 menu:
   main:
     weight: 2
