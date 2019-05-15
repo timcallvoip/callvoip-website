@@ -65,7 +65,7 @@ prijzen:
     link: https://bestellen.ziggozakelijk.nl/zakelijk_internet_pro
   tarieven:
     title: Maandelijkse kosten
-    footer: Prijzen zijn excl. BTW
+    footer: 3 verschillende pakketten om tussenuit te kiezen
     items:
     - title: Zakelijk Internet Pro (60-om-10)
       price: 39
@@ -73,21 +73,6 @@ prijzen:
       price: 79
     - title: Zakelijk Internet Max Pro (500-om-50)
       price: 119
-- title: Grootzakelijk
-  content: Geen telefooncentrale op locatie, maar een moderne gebruiksvriendelijk.
-  button:
-    title: Stel je pakket samen
-    link: ''
-  tarieven:
-    title: Maandelijkse kosten
-    footer: Prijzen zijn vanaf en per maand
-    items:
-    - title: Basis Abonnement
-      price: 4
-    - title: Telefoonnummer
-      price: 3
-    - title: Voicemail
-      price: 1
 description: ''
 images: []
 menu:
