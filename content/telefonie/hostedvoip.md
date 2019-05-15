@@ -98,8 +98,9 @@ prijzen:
       price: 3
     - title: Voicemail
       price: 1
-- title: Grootzakelijk
-  content: Geen telefooncentrale op locatie, maar een moderne gebruiksvriendelijk.
+- title: Eigen telefooncentrale
+  content: 'Beheer van eigen telefooncentrale via onze trunkoplossing met 10 gesprekskanalen.
+    Allemaal bereikbaar onder één nummer. . '
   button:
     title: Bereken het via onze calculator
     link: "/calculator"
