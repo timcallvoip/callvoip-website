@@ -33,21 +33,26 @@ intro:
     een MKB’er met behoefte aan een stabiele verbinding, Ziggo heeft altijd een passende
     internetdienst voor u. U kunt kiezen uit de volgende diensten:'
 prijzen:
-- title: Zelfstandigen
-  content: Geen telefooncentrale op locatie, maar een moderne gebruiksvriendelijk.
+- title: Ziggo Zakelijk Internet
+  content: 'Supersnel en betrouwbaar zakelijk internet tot wel 500 Mbit/s. Het is
+    voor u de basis om succesvol te ondernemen. Met Ziggo Zakelijk Internet kunt u
+    snel grote bestanden downloaden of in de cloud werken. Ziggo Zakelijk Internet
+    wordt kosteloos geïnstalleerd door een monteur en wordt geleverd zonder vaste
+    IP-adressen. Ziggo Zakelijk Internet heeft de volgende pakketten met elk een eigen
+    internetsnelheid:'
   button:
-    title: Stel je pakket samen
-    link: ''
+    title: Aanvragen
+    link: https://www.callvoip.nl/download/callvoip/callvoip_aanvraagformulier_ziggo-connect-zzp.pdf
   tarieven:
     title: Maandelijkse kosten
-    footer: Prijzen zijn vanaf en per maand
+    footer: 3 verschillende pakketten om tussenuit te kiezen
     items:
-    - title: Basis Abonnement
-      price: 4
-    - title: Telefoonnummer
-      price: 3
-    - title: Voicemail
-      price: 1
+    - title: Zakelijk Internet Start (60-om-10)
+      price: 39
+    - title: Zakelijk Internet Complete (250-om-40)
+      price: '46.50'
+    - title: Zakelijk Internet Max (500-om-50)
+      price: 65
 - title: MKB
   content: Geen telefooncentrale op locatie, maar een moderne gebruiksvriendelijk.
   button:
