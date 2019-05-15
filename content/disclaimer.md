@@ -5,7 +5,6 @@ menu:
     weight: 1
 
 ---
-
 #### Algemeen
 
 CallvoipTelefonie, ingeschreven bij de Kamer van Koophandel onder nummer 02066541, verleent u hierbij toegang tot www.callvoiptelefonie.nl, hierna te noemen Website en nodigt u uit de hier aangeboden diensten af te nemen. CallvoipTelefonie behoudt zich daarbij het recht voor op elk moment de inhoud aan te passen of onderdelen te verwijderen zonder daarover aan u mededeling te hoeven doen.

@@ -5,7 +5,6 @@ menu:
     weight: 2
 
 ---
-
 #### Groningen, 24 mei 2018
 
 Uw privacy is voor Tijdhof Consulting van groot belang, wij houden ons dan ook strikt aan de privacywet. Dit betekent dat uw gegevens veilig zijn bij ons en dat wij deze altijd correct gebruiken. In deze privacyverklaring leggen wij uit wat we bij onze online communicatiediensten allemaal doen met informatie die wij over u te weten komen.
