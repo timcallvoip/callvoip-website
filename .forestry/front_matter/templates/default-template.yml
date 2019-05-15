@@ -150,6 +150,7 @@ fields:
         name: price
         label: Price
 pages:
+- content/internet/dsl.md
 - content/telefonie/integratiemetcrm.md
 - content/telefonie/vastmobielintegratie.md
 - content/telefonie/hostedvoip.md
@@ -161,5 +162,4 @@ pages:
 - content/oplossingen/grootzakelijk.md
 - content/internet/kabel.md
 - content/internet/glasvezel.md
-- content/internet/dsl.md
 - content/telefonie/bellenvanafjelaptop.md
