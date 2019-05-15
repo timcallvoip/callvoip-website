@@ -78,11 +78,13 @@ prijzen:
     footer: Prijzen zijn excl. BTW
     items:
     - title: Basis Abonnement
+      price: '7.50'
+    - title: Telefoonnummer (1x)
+      price: 2
+    - title: Toestelaccount (2x)
       price: 4
-    - title: Telefoonnummer
-      price: 3
-    - title: Voicemail
-      price: 1
+    - title: "<b>Totaal</b>"
+      price: '13.50'
 - title: MKB
   content: 10 medewerkers met allemaal een eigen telefoonnummer en toestel. 5 medewerkers
     moeten ook mobiel kunnen uitbellen met het zakelijke nummer. Verder is de wens
