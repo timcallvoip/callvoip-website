@@ -19,11 +19,13 @@ blocks:
   image: "/v1552466820/phones.png"
   position: image_left
   title: Zakelijke VoIP waar je op kan vertrouwen
-- content: Callvoip is de zakelijke telefonieprovider waar persoonlijk contact centraal
-    staat. Maak daarom kennis met ons team en weet wie u aan de lijn heeft.
+- content: |-
+    Bij CallvoipTelefonie krijgt u toegang tot de modernste online telefooncentrale, Simmpl. Simmpl, omdat de telefooncentrale u voorziet van zeer veel professionele functionaliteiten en uitblinkt in bedieningsgemak.
+
+    Met alle professionele functies maken we u écht beter bereikbaar. Alles kunt u eenvoudig instellen en mocht u er toch even niet uitkomen, dan helpen wij u graag. Hieronder vindt u een greep uit onze vele mogelijkheden.
   image: "/v1552466837/instellingen.png"
-  position: " image_right"
-  title: Met wie kom je te werken?
+  position: image_left
+  title: Functionaliteiten van de online telefooncentrale
 usps:
   title: Geniet van een beter telefoongesprek
   content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent, dat
@@ -69,7 +71,7 @@ prijzen:
   content: Geen telefooncentrale op locatie, maar een moderne gebruiksvriendelijk.
   button:
     title: Stel je pakket samen
-    link: 
+    link: ''
   tarieven:
     title: Maandelijkse kosten
     footer: Prijzen zijn vanaf en per maand
@@ -84,7 +86,7 @@ prijzen:
   content: Geen telefooncentrale op locatie, maar een moderne gebruiksvriendelijk.
   button:
     title: Stel je pakket samen
-    link: 
+    link: ''
   tarieven:
     title: Maandelijkse kosten
     footer: Prijzen zijn vanaf en per maand
@@ -99,7 +101,7 @@ prijzen:
   content: Geen telefooncentrale op locatie, maar een moderne gebruiksvriendelijk.
   button:
     title: Stel je pakket samen
-    link: 
+    link: ''
   tarieven:
     title: Maandelijkse kosten
     footer: Prijzen zijn vanaf en per maand
@@ -110,6 +112,8 @@ prijzen:
       price: 3
     - title: Voicemail
       price: 1
+description: ''
+images: []
 menu:
   main:
     weight: 1
