@@ -57,8 +57,7 @@ hero:
   title: Vast Mobiel Integratie (Vamos)
   content: Vamos staat voor Vast-Mobiel integratie voor Simmpl. Met Vamos maakt óók
     uw Smartphone deel uit van de Simmpl Hosted VoIP centrale, gewoon met uw vaste
-    zaaknummer. Bel uw collega’s intern en laat Simmpl uw mobiele verkeer regelen!
-    Zo bent u altijd optimaal bereikbaar voor collegae en (potentiële) klanten!
+    zaaknummer.
   button:
     content: Vraag nu een offerte aan
     link: "/offerte"
