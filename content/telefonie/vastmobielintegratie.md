@@ -1,5 +1,5 @@
 ---
-title: Vast Mobiel Integratie
+title: Vast Mobiel Integratie (Vamos)
 type: page
 layout: default
 blocks:
@@ -54,11 +54,11 @@ description: ''
 images: []
 logos: false
 hero:
-  title: ''
+  title: Vast Mobiel Integratie (Vamos)
   content: ''
   button:
-    content: ''
-    link: ''
+    content: "/offerte"
+    link: "/offerte"
   image: ''
 intro:
   title: ''
