@@ -75,7 +75,7 @@ prijzen:
     link: "/calculator"
   tarieven:
     title: Maandelijkse kosten
-    footer: Prijzen zijn vanaf en per maand
+    footer: Prijzen zijn excl. BTW
     items:
     - title: Basis Abonnement
       price: 4
@@ -84,20 +84,26 @@ prijzen:
     - title: Voicemail
       price: 1
 - title: MKB
-  content: Geen telefooncentrale op locatie, maar een moderne gebruiksvriendelijk.
+  content: 10 medewerkers met allemaal een eigen telefoonnummer en toestel. 5 medewerkers
+    moeten ook mobiel kunnen uitbellen met het zakelijke nummer. Verder is de wens
+    om inkomend verkeer via een keuzemenu te begeleiden naar de juiste medewerker.
   button:
     title: Bereken het via onze calculator
     link: "/calculator"
   tarieven:
     title: Maandelijkse kosten
-    footer: Prijzen zijn vanaf en per maand
+    footer: Prijzen zijn excl. BTW
     items:
     - title: Basis Abonnement
+      price: '7.50'
+    - title: Telefoonnummer (10x)
+      price: 20
+    - title: Toestelaccount (10x)
+      price: 40
+    - title: Qaller (5x)
+      price: 20
+    - title: Keuzemenu (1x)
       price: 4
-    - title: Telefoonnummer
-      price: 3
-    - title: Voicemail
-      price: 1
 - title: Eigen telefooncentrale
   content: 'Beheer van eigen telefooncentrale via onze trunkoplossing met 10 gesprekskanalen.
     Allemaal bereikbaar onder één nummer. . '
