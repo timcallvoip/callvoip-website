@@ -8,7 +8,7 @@ blocks:
     mogen daarbij niet ontbreken.</p>"
   image: "/v1552466820/phones.png"
   position: image_left
-  title: Zakelijke VoIP waar je op kan vertrouwen
+  title: DSL-verbinding waar je op kan vertrouwen
 logos: false
 hero:
   title: ''
@@ -35,7 +35,7 @@ menu:
     post: fa-laptop
 
 ---
-## DSL internetverbindingen
+## CallvoipDSL
 
 DSL-verbindingen komen er in vele soorten en maten. De meestvoorkomende zijn ADSL, ADSL2+, VDSL en VDSL2. Maar tegenwoordig komt vectoring en bonding ook steeds meer voor. CallvoipTelefonie kan u deze verbindingen leveren. Zo heeft u 1 aanspreekpunt en krijgt u vaak korting op de maandelijkse abonnementsprijs.
 
