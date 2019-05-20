@@ -8,7 +8,7 @@
 <meta name="application-name" content="{{ $title }}" />
 <meta name="msapplication-config" content="/favicons/browserconfig.xml" />
 <meta name="theme-color" content="#ffffff" />
-<meta name="description" content="{{ if .IsHome }}{{ $.Site.Params.description }}{{ else }}{{ .Description }}{{ end }} /">
+<meta name="description" content="{{ if .IsHome }}{{ $.Site.Params.description }}{{ else }}{{ .Description }}{{ end }}">
 {{- with .Keywords -}}
 <meta name="keywords" content="{{ . }}" />
 {{- end -}}
