@@ -38,6 +38,5 @@ intro:
   title: ''
   content: ''
 prijzen: []
-draft: true
 
 ---

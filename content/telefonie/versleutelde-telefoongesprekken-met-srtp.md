@@ -7,7 +7,6 @@ slug: versleutelde-telefoongesprekken/
 hero:
   image: ''
 layout: ''
-draft: true
 
 ---
 Als eerste provider in Nederland levert CallvoipTelefonie versleutelde telefoongesprekken. Veiligheid staat bij ons hoog in het vaandel en daarom bieden wij de mogelijkheid om uw telefonie te versleutelen en zo uw privacy te waarborgen. Dit doen we door middel van SRTP en TLS.

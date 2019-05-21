@@ -88,6 +88,5 @@ prijzen:
   button:
     title: Al klant? U vraagt het Operator Console hier aan
     link: "/aanvragen/operator-console/"
-draft: true
 
 ---
