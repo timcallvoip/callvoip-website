@@ -5,7 +5,6 @@ menu:
     weight: 4
 
 ---
-
 ### Artikel 1 – toepasselijkheid van deze algemene voorwaarden
 
 #### 1.1
