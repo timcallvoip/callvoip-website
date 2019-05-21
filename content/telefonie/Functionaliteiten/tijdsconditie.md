@@ -7,7 +7,6 @@ slug: tijdsconditie
 hero:
   image: ''
 layout: ''
-draft: true
 
 ---
 Met de tijdsconditie-app definieert u vooraf tijden waarop één of meerdere acties moeten plaatsvinden. Denkt u bijvoorbeeld aan een belroute voor binnen en buiten werktijd of een gewijzigde belroute tijdens de lunchpauze, feestdagen, etc.

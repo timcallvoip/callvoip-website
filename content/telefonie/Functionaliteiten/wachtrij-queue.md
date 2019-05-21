@@ -7,7 +7,6 @@ slug: wachtrij
 hero:
   image: ''
 layout: ''
-draft: true
 
 ---
 Heeft u veel inkomend verkeer of wenst u een professionele uitstraling? **U heeft al een wachtrij vanaf €4,- per maand.** Met een wachtrij kunt alle bellers beantwoorden en te woord staan. De beller wordt bijvoorbeeld begroet met een meldtekst en vervolgens in de wachtgezet. Tijdens deze wachtperiode hoort de beller een toon of wachtmuziek totdat hij/zij zelf aan de beurt is.

@@ -7,7 +7,6 @@ slug: fax
 hero:
   image: ''
 layout: ''
-draft: true
 
 ---
 Met een faxbox kunt u faxberichten ontvangen én versturen. Hiervoor heeft u geen fysiek faxapparaat meer nodig, alles gaat via internet. **Inkomende faxberichten** komen als PDF-bericht per email op één of meer emailadressen binnen. Wilt u een **fax versturen**, dan kunt u het te faxen bestand als PDF-document uploaden op de telefooncentrale. Het bericht komt dan bij uw relatie als fax binnen.   

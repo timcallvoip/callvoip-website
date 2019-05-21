@@ -7,7 +7,6 @@ slug: belgroep
 hero:
   image: ''
 layout: ''
-draft: true
 
 ---
 De belgroep-app biedt u de mogelijkheid om een inkomend gesprek naar één of meerdere interne of externe nummers door te schakelen. Daarnaast kunt u ervoor kiezen in welke volgorde de toestellen rinkelen.

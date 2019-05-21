@@ -7,7 +7,6 @@ slug: email
 hero:
   image: ''
 layout: ''
-draft: true
 
 ---
 De email-app plaatst u in uw belplan. Hiermee geeft u de telefooncentrale de opdracht om u een bericht te sturen met daarin het telefoonnummer van de beller. U kunt deze functionaliteit helemaal bovenaan (ontvang een email van alle bellers) of onderaan (ontvang een e-mail van alleen de gemiste bellers) de belroute plaatsen.

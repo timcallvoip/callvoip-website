@@ -7,7 +7,6 @@ slug: meldtekst
 hero:
   image: ''
 layout: ''
-draft: true
 
 ---
 Met deze functionaliteit kunt u verschillende meldteksten in uw belplan plaatsen. Denk hierbij aan bijvoorbeeld een welkomst-meldtekst, een tekst wanneer iedereen in gesprek is, meldteksten voor binnen & buiten werktijd en aparte vakantiemeldingen.

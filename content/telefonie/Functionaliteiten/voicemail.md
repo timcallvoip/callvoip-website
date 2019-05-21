@@ -7,7 +7,6 @@ slug: voicemail
 hero:
   image: ''
 layout: ''
-draft: true
 
 ---
 Met de voicemailbox kunt u gemiste gesprekken opvangen. De beller kan, na het door u ingestelde melding, een bericht inspreken. Deze berichten worden als .mp3-bestand naar één of meerdere e-mailadressen gestuurd. U kunt meerdere voicemailboxen aanmaken. Ook kan elke gebruiker zelf een persoonlijke voicemail(box) instellen.

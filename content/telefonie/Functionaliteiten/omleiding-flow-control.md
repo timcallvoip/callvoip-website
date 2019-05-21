@@ -7,7 +7,6 @@ slug: omleiding
 hero:
   image: ''
 layout: ''
-draft: true
 
 ---
 Een omleiding is een schakelaar waarmee u eenvoudig acties aan- of uitzet. U kunt voor elk nummer omleidingen aanmaken. Daarnaast kunt u in één nummer meerdere omleidingen plaatsen.
