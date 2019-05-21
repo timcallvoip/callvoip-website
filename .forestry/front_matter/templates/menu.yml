@@ -1,4 +1,42 @@
 ---
 label: Menu
 hide_body: true
-fields: []
+fields:
+- name: menu
+  type: field_group_list
+  fields:
+  - name: main
+    type: field_group
+    config: {}
+    fields:
+    - name: weight
+      type: number
+      label: Weight
+      description: ''
+      default: 0
+      required: true
+      config:
+        min: 
+        max: 
+        step: 
+    - name: parent
+      type: text
+      config:
+        required: false
+      label: Parent
+    - name: pre
+      type: text
+      config:
+        required: false
+      label: Pre
+    - name: post
+      type: text
+      config:
+        required: false
+      label: Post
+    label: Main
+  config:
+    min: '1'
+    max: '1'
+    labelField: 
+  label: Menu
