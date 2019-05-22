@@ -54,22 +54,31 @@ usps:
     content: Met de doorverbinden-app zet u eenvoudig inkomende belletjes door naar
       een toestel bij u op kantoor of naar een extern nummer. Denk hierbij bijvoorbeeld
       aan een mobiele telefoon of een externe telefoondienst.
-  - icon: ''
+  - icon: fa-megaphone
     title: Belgroep (Huntgroup)
     content: De belgroep-app biedt u de mogelijkheid om een inkomend gesprek naar
       één of meerdere interne of externe nummers door te schakelen. Daarnaast kunt
       u ervoor kiezen in welke volgorde de toestellen rinkelen.
-  - icon: ''
+  - icon: fa-megaphone
     title: Omleiding (Flow Control)
     content: Een omleiding is een schakelaar waarmee u eenvoudig acties aan- of uitzet.
       U kunt voor elk nummer omleidingen aanmaken. Daarnaast kunt u in één nummer
       meerdere omleidingen plaatsen.
-  - icon: ''
+  - icon: fa-megaphone
     title: Meldteksten
     content: Met deze functionaliteit kunt u verschillende meldteksten in uw belplan
       plaatsen. Denk hierbij aan bijvoorbeeld een welkomst-meldtekst, een tekst wanneer
       iedereen in gesprek is, meldteksten voor binnen & buiten werktijd en aparte
       vakantiemeldingen.
+  - icon: fa-megaphone
+    title: Omleiding (Flow Control)
+    content: Een omleiding is een schakelaar waarmee u eenvoudig acties aan- of uitzet.
+      U kunt voor elk nummer omleidingen aanmaken. Daarnaast kunt u in één nummer
+      meerdere omleidingen plaatsen.
+  - icon: fa-megaphone
+    title: En nog veel meer...
+    content: "Bekijk een overzicht van alle functionaliteiten hier \n<a href=\"/overons/team\"
+      class=\"button\">Overzicht functionaliteiten</a>"
 - title: Techniek weer eenvoudig
   content: De telefonie contrale van Callvoip draait in de cloud en is eenvoudig in
     gebruikt.
