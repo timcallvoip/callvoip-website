@@ -19,13 +19,35 @@ blocks:
     u korting op de maandelijkse abonnementsprijs.
   position: image_left
 usps:
-  title: ''
+  title: Waarom kiezen voor glasvezel van Callvoip (FTTH)?
   content: ''
-  items: []
+  items:
+  - icon: ''
+    title: Eén aanspreekpunt
+    content: Eén aanspreekpunt voor internet, telefonie, apparatuur en installatie
+  - icon: ''
+    title: Korting
+    content: CallvoipTelefonie-klanten krijgen korting op Callvoip internet
+  - icon: ''
+    title: Perfecte basis
+    content: Callvoip internet biedt een goede basis voor uw telefonie
 intro:
   title: ''
   content: ''
-prijzen: []
+prijzen:
+- title: 60-om-60 Mbit/s
+  content: ''
+  button:
+    title: ''
+    link: ''
+  tarieven:
+    footer: Prijzen zijn excl. BTW
+    items:
+    - title: Maandelijks
+      price: 45
+    - title: Eenmalig
+      price: 50
+    title: ''
 description: ''
 menu:
   main:
