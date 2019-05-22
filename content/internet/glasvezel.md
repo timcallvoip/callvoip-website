@@ -48,6 +48,32 @@ prijzen:
     - title: Eenmalig
       price: 50
     title: ''
+- title: 100-om-100 Mbit/s
+  content: ''
+  button:
+    title: ''
+    link: ''
+  tarieven:
+    footer: Prijzen zijn excl. BTW
+    items:
+    - title: Maandelijks
+      price: 55
+    - title: Eenmalig
+      price: 50
+    title: ''
+- title: 500-om-500 Mbit/s
+  content: ''
+  button:
+    title: ''
+    link: ''
+  tarieven:
+    items:
+    - title: Maandelijks
+      price: 75
+    - title: Eenmalig
+      price: 50
+    footer: Prijzen zijn excl. BTW
+    title: ''
 description: ''
 menu:
   main:
