@@ -79,30 +79,31 @@ usps:
     title: En nog veel meer...
     content: "Bekijk een overzicht van alle functionaliteiten hier \n<a href=\"/overons/team\"
       class=\"button\">Overzicht functionaliteiten</a>"
-- title: Techniek weer eenvoudig
-  content: De telefonie contrale van Callvoip draait in de cloud en is eenvoudig in
-    gebruikt.
+- title: Breid uw telefooncentrale eenvoudig uit
+  content: 'Elke telefoniesituatie is anders, het zou dus zomaar kunnen dat u de basis
+    telefooncentrale wenst uit te breiden met één van de volgende betaalde functionaliteiten:'
   items:
   - icon: fa-cloud
-    title: Moderne centrale in de cloud
-    content: Callvoip is er voor elke ondernemer. Voor de zelfstandige, die graag
-      bereikbaar is op een vast nummer. Maar wij zijn er ook voor de international
-      met 10.000 werkplekken.
+    title: Keuzemenu (IVR)
+    content: 'Met een keuzemenu begeleidt u de bellers direct naar de juiste medewerker
+      of afdeling. Professioneel, plezierig voor uw klant, efficiënt (door minder
+      doorverbinden) en kortere gesprekken. Ook straalt u met een keuzemenu professionaliteit
+      uit. '
   - icon: fa-user-lock
-    title: Je eigen beveiligde omgeving
-    content: Callvoip is er voor elke ondernemer. Voor de zelfstandige, die graag
-      bereikbaar is op een vast nummer. Maar wij zijn er ook voor de international
-      met 10.000 werkplekken.
+    title: Wachtrij (Queue)
+    content: Met een wachtrij kunt alle bellers beantwoorden en te woord staan. De
+      beller wordt bijvoorbeeld begroet met een meldtekst en vervolgens in de wachtgezet.
+      Tijdens deze wachtperiode hoort de beller een toon of wachtmuziek totdat hij/zij
+      zelf aan de beurt is.
   - icon: fa-comment-alt-smile
-    title: Geen moeilijke software
-    content: Callvoip is er voor elke ondernemer. Voor de zelfstandige, die graag
-      bereikbaar is op een vast nummer. Maar wij zijn er ook voor de international
-      met 10.000 werkplekken.
+    title: Faxbox
+    content: 'Inkomende faxberichten komen als PDF-bericht per email op één of meer
+      emailadressen binnen. Wilt u een fax versturen, dan kunt u het te faxen bestand
+      als PDF-document uploaden op de telefooncentrale. '
   - icon: fa-laptop
-    title: Werkt op Apple en Windows
-    content: Callvoip is er voor elke ondernemer. Voor de zelfstandige, die graag
-      bereikbaar is op een vast nummer. Maar wij zijn er ook voor de international
-      met 10.000 werkplekken.
+    title: Gespreksopname (Call Recording)
+    content: 'Met gespreksopname kunt u uw telefoongesprekken opnemen en terugluisteren.De
+      gespreksopnamefunctie kunt u zelf per gebruiker in- en uitschakelen. '
 - title: Bellen op kantoor en onderweg
   content: Wanneer je belt met Callvoip ben je altijd bereikbaar, op kantoor en ook
     onderweg.
