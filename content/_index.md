@@ -118,10 +118,10 @@ usps:
       u in een handomdraai alle telefoonnummers in uw Chrome webbrowser klikbaar én
       veel meer!
   - icon: fa-phone-volume
-    title: Met één nummer altijd bereikbaar
-    content: Callvoip is er voor elke ondernemer. Voor de zelfstandige, die graag
-      bereikbaar is op een vast nummer. Maar wij zijn er ook voor de international
-      met 10.000 werkplekken.
+    title: VoIP CTI
+    content: Dit biedt gemak en bespaart tijd bij het bellen naar klanten (Click-to-Dial),
+      en als de klant u belt verschijnt een pop-up met klantinformatie op uw scherm.
+      Klik op de pop-up en de klantenkaart in uw CRM pakket wordt geopend.
 options:
   image: "/v1556267113/callplan-2x.png"
   title: Telefonie en Internet zoals het echt hoort
