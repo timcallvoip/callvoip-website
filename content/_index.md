@@ -104,6 +104,18 @@ usps:
     title: Gespreksopname (Call Recording)
     content: 'Met gespreksopname kunt u uw telefoongesprekken opnemen en terugluisteren.De
       gespreksopnamefunctie kunt u zelf per gebruiker in- en uitschakelen. '
+  - icon: fa-laptop
+    title: SRTP (versleutelde gesprekken)
+    content: Veiligheid staat bij ons hoog in het vaandel en daarom bieden wij de
+      mogelijkheid om uw telefonie te versleutelen en zo uw privacy te waarborgen.
+      Dit doen we door middel van SRTP en TLS.
+  - icon: fa-laptop
+    title: Qaller (mobiele app)
+    content: |-
+      Met Qaller wordt uw mobiele telefoon onderdeel van de online telefooncentrale:
+      1) bedien de telefooncentrale vanaf uw Smartphone
+      2) gebruik uw Smartphone alsof het een kantoortoestel is: bellen en gebeld worden.
+      3) stuur uw zaaknummer mee bij uitbellen
 - title: Bellen op kantoor en onderweg
   content: Wanneer je belt met Callvoip ben je altijd bereikbaar, op kantoor en ook
     onderweg.
