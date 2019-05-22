@@ -2,18 +2,38 @@
 title: Glasvezel
 type: page
 layout: default
+logos: false
+hero:
+  title: ''
+  content: ''
+  button:
+    content: ''
+    link: ''
+  image: ''
+blocks:
+- title: Eigen lijn en stabiele snelheid
+  image: ''
+  content: Met een glasvezel verbinding heeft u uw eigen lijn en een stabiele snelheid.
+    De upload- als de downloadsnelheid staan aan elkaar gelijk. Kies bijvoorbeeld
+    voor Fiber to the Home (FTTH) van Callvoip. Zo heeft u 1 aanspreekpunt en ontvangt
+    u korting op de maandelijkse abonnementsprijs.
+  position: image_left
+usps:
+  title: ''
+  content: ''
+  items: []
+intro:
+  title: ''
+  content: ''
+prijzen: []
+description: ''
 menu:
   main:
+    name: ''
     weight: 3
     parent: Internet
     pre: Menu omschrijving
     post: fa-laptop
+images: []
 
 ---
-## Dit is een title
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu auctor tortor. Morbi vel ante arcu. Pellentesque ante neque, pharetra vel tempor non, dapibus in eros. Vivamus congue nulla in felis imperdiet finibus. Ut aliquam rutrum mauris, interdum fringilla leo volutpat non. Donec egestas lorem sed nisi volutpat, non auctor mauris volutpat. Cras dictum dignissim risus eget aliquam.
-
-Donec sollicitudin erat vel dolor accumsan, ornare auctor urna consectetur. Nulla tempor mauris nec cursus malesuada. Integer eget fringilla ex. Duis leo ipsum, pulvinar mattis sodales quis, porta non dolor. Ut eget felis eu lorem vehicula semper. Nunc non erat et nulla cursus tincidunt. Vivamus faucibus magna sit amet posuere accumsan.
-
-### Dit is een subtitle
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu auctor tortor. Morbi vel ante arcu. Pellentesque ante neque, pharetra vel tempor non, dapibus in eros. Vivamus congue nulla in felis imperdiet finibus. Ut aliquam rutrum mauris, interdum fringilla leo volutpat non. Donec egestas lorem sed nisi volutpat, non auctor mauris volutpat. Cras dictum dignissim risus eget aliquam.
