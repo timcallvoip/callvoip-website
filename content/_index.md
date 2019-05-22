@@ -34,9 +34,10 @@ intro:
     content: Tot wel 50% voordeliger dan tradionele telefooncentrale
 usps:
 - title: Callvoip is er voor de ondernemers
-  content: 'Callvoip levert met Simmpl en telefooncentrale dat zorgt voor optimale
+  content: Callvoip levert met Simmpl en telefooncentrale dat zorgt voor optimale
     bereikbaarheid en een professionele uitstraling naar uw klanten. In het basispakket
-    zitten al veel functionaliteiten, zoals:'
+    zitten al veel functionaliteiten. Bekijk een overzicht van alle functionaliteiten
+    hier  <a href="/overons/team" class="button">Overzicht functionaliteiten</a>
   items:
   - icon: fa-piggy-bank
     title: Voicemailbox
@@ -70,15 +71,6 @@ usps:
       plaatsen. Denk hierbij aan bijvoorbeeld een welkomst-meldtekst, een tekst wanneer
       iedereen in gesprek is, meldteksten voor binnen & buiten werktijd en aparte
       vakantiemeldingen.
-  - icon: fa-megaphone
-    title: Omleiding (Flow Control)
-    content: Een omleiding is een schakelaar waarmee u eenvoudig acties aan- of uitzet.
-      U kunt voor elk nummer omleidingen aanmaken. Daarnaast kunt u in één nummer
-      meerdere omleidingen plaatsen.
-  - icon: fa-megaphone
-    title: En nog veel meer...
-    content: "Bekijk een overzicht van alle functionaliteiten hier \n<a href=\"/overons/team\"
-      class=\"button\">Overzicht functionaliteiten</a>"
 - title: Breid uw telefooncentrale eenvoudig uit
   content: 'Elke telefoniesituatie is anders, het zou dus zomaar kunnen dat u de basis
     telefooncentrale wenst uit te breiden met één van de volgende betaalde functionaliteiten:'
