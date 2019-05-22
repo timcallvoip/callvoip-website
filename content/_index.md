@@ -108,27 +108,17 @@ usps:
       1) bedien de telefooncentrale vanaf uw Smartphone
       2) gebruik uw Smartphone alsof het een kantoortoestel is: bellen en gebeld worden.
       3) stuur uw zaaknummer mee bij uitbellen
-- title: Bellen op kantoor en onderweg
-  content: Wanneer je belt met Callvoip ben je altijd bereikbaar, op kantoor en ook
-    onderweg.
+- title: Behoefte aan integratie
+  content: Leuk al die functionaliteiten van de telefooncentrale, maar integratie
+    met CRM-, ERP en klantsysteempakketten wordt steeds belangrijker
   items:
   - icon: fa-code-branch
-    title: Eenvoudig doorschakelen
-    content: Callvoip is er voor elke ondernemer. Voor de zelfstandige, die graag
-      bereikbaar is op een vast nummer. Maar wij zijn er ook voor de international
-      met 10.000 werkplekken.
+    title: Click-to-Dial plugin
+    content: Met de nieuwe Simmpl Click-to-Dial-plugin van CallvoipTelefonie maakt
+      u in een handomdraai alle telefoonnummers in uw Chrome webbrowser klikbaar én
+      veel meer!
   - icon: fa-phone-volume
     title: Met één nummer altijd bereikbaar
-    content: Callvoip is er voor elke ondernemer. Voor de zelfstandige, die graag
-      bereikbaar is op een vast nummer. Maar wij zijn er ook voor de international
-      met 10.000 werkplekken.
-  - icon: fa-mobile-alt
-    title: Werkt op Android en iOS
-    content: Callvoip is er voor elke ondernemer. Voor de zelfstandige, die graag
-      bereikbaar is op een vast nummer. Maar wij zijn er ook voor de international
-      met 10.000 werkplekken.
-  - icon: fa-box-open
-    title: Bellen vanuit je bundel
     content: Callvoip is er voor elke ondernemer. Voor de zelfstandige, die graag
       bereikbaar is op een vast nummer. Maar wij zijn er ook voor de international
       met 10.000 werkplekken.
