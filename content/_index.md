@@ -34,22 +34,34 @@ intro:
     content: Tot wel 50% voordeliger dan tradionele telefooncentrale
 usps:
 - title: Callvoip is er voor de ondernemers
-  content: Bellen en internet afgestemd op de wensen van de moderne ondernemer
+  content: 'Callvoip levert met Simmpl en telefooncentrale dat zorgt voor optimale
+    bereikbaarheid en een professionele uitstraling naar uw klanten. In het basispakket
+    zitten al veel functionaliteiten, zoals:'
   items:
   - icon: fa-piggy-bank
-    title: Callvoip groet met je mee
-    content: Callvoip is er voor elke ondernemer. Voor de zelfstandige, die graag
-      bereikbaar is op een vast nummer. Maar wij zijn er ook voor de international
-      met 10.000 werkplekken.
+    title: Voicemailbox
+    content: 'Met de voicemailbox kunt u gemiste gesprekken opvangen. De beller kan,
+      na het door u ingestelde melding, een bericht inspreken. Deze berichten worden
+      als .mp3-bestand naar één of meerdere e-mailadressen gestuurd. '
   - icon: fa-file-signature
-    title: Maandelijks opzegbaar
-    content: Bij Callvoip geloven we dat ondernemers vrijheid willen om te ondernemen.
-      Niet vast willen zitten. Daarom is Callvoip op ieder moment opzegbaar. Wel zo
-      fijn als je andere plannen krijgt.
+    title: Tijdscondities
+    content: Met de tijdsconditie-app definieert u vooraf tijden waarop één of meerdere
+      acties moeten plaatsvinden. Denkt u bijvoorbeeld aan een belroute voor binnen
+      en buiten werktijd of een gewijzigde belroute tijdens de lunchpauze, feestdagen,
+      etc.
   - icon: fa-megaphone
     title: Wij spreken je taal
     content: Bij Callvoip zijn we allemaal ondernemers. Geen ingewikelde procedures.
       Maar op resultaat gericht ondernemen. Daar houden we van bij Callvoip. Ondernemen.
+  - icon: ''
+    title: ''
+    content: ''
+  - icon: ''
+    title: ''
+    content: ''
+  - icon: ''
+    title: ''
+    content: ''
 - title: Techniek weer eenvoudig
   content: De telefonie contrale van Callvoip draait in de cloud en is eenvoudig in
     gebruikt.
