@@ -1,8 +1,5 @@
 ---
 title: Cookies
-menu:
-  footer:
-    weight: 3
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras dui elit, tristique eu quam eget, volutpat sodales mauris. Proin pretium leo libero, quis rutrum sapien gravida vel. Quisque ut rhoncus mi, nec tempor massa. Aliquam eu augue scelerisque, congue massa ut, fringilla lacus. Quisque ut dapibus felis, quis pulvinar arcu. Fusce sed tortor semper, auctor purus sit amet, malesuada velit. Nam mattis mauris id quam sodales, eget volutpat orci suscipit. Integer nibh nisi, ultricies et malesuada nec, dapibus nec ex.
