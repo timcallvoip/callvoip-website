@@ -75,13 +75,13 @@ prijzen:
     footer: Prijzen zijn excl. BTW
     title: ''
 description: ''
+images: []
 menu:
   main:
-    name: 'Glasvezel'
+    name: 4G Oplossingen
     weight: 3
     parent: Internet
     pre: Menu omschrijving
     post: fa-laptop
-images: []
 
 ---

@@ -155,8 +155,8 @@ fields:
         name: price
         label: Price
 pages:
-- content/internet/glasvezel.md
 - content/internet/managed-4g-oplossing.md
+- content/internet/glasvezel.md
 - content/internet/kabel.md
 - content/telefonie/clicktodial.md
 - content/telefonie/vastmobielintegratie.md
