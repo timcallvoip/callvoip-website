@@ -10,11 +10,11 @@ fields:
   label: Weight
   description: ''
   default: 0
-  required: true
+  required: false
   config:
-    min: 
-    max: 
-    step: 
+    min:
+    max:
+    step:
 - name: seo
   type: include
   config: {}
