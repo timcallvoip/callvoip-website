@@ -40,7 +40,7 @@ intro:
 prijzen: []
 menu:
   main:
-    name: ''
+    name: '4G Oplossingen'
     weight: 4
     parent: Internet
     pre: Benieuwd wat het beste internet op jouw locatie is?

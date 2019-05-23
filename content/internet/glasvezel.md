@@ -77,7 +77,7 @@ prijzen:
 description: ''
 menu:
   main:
-    name: ''
+    name: 'Glasvezel'
     weight: 3
     parent: Internet
     pre: Menu omschrijving
