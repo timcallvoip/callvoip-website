@@ -45,5 +45,4 @@ menu:
     parent: Internet
     pre: Benieuwd wat het beste internet op jouw locatie is?
     post: fa-search
-
 ---
