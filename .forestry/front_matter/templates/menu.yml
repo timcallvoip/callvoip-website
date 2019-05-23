@@ -25,5 +25,20 @@ fields:
         min: 
         max: 
         step: 
+    - name: parent
+      type: text
+      config:
+        required: false
+      label: Parent
+    - name: pre
+      type: text
+      config:
+        required: false
+      label: Pre
+    - name: post
+      type: text
+      config:
+        required: false
+      label: Post
     label: Main
   label: Menu
