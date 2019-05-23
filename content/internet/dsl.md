@@ -29,6 +29,7 @@ description: ''
 images: []
 menu:
   main:
+    name: ''
     weight: 1
     parent: Internet
     pre: Menu omschrijving
