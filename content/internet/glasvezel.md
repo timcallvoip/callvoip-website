@@ -78,7 +78,7 @@ description: ''
 images: []
 menu:
   main:
-    name: 4G Oplossingen
+    name: Glasvezel
     weight: 3
     parent: Internet
     pre: Menu omschrijving
