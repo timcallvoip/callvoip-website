@@ -81,7 +81,7 @@ menu:
     name: Glasvezel
     weight: 3
     parent: Internet
-    pre: Menu omschrijving
-    post: fa-laptop
+    pre: Supersnelle download- en uploadsnelheid met glasvezel.
+    post: fa-wifi
 
 ---

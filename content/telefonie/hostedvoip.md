@@ -126,7 +126,7 @@ menu:
   main:
     weight: 1
     parent: Telefonie
-    pre: Je eigen centrale in de cloud. Geen gedoe met verouderde hardware.
+    pre: "De meeste moderne telefooncentrale in de wereld: Simmpl"
     post: fa-cloud
 
 ---

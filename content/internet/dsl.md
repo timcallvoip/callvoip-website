@@ -29,11 +29,10 @@ description: ''
 images: []
 menu:
   main:
-    name: ''
     weight: 1
     parent: Internet
-    pre: Menu omschrijving
-    post: fa-laptop
+    pre: De beste DSL verbinding als basis van uw telefonie.
+    post: fa-wifi
 
 ---
 ## CallvoipDSL
@@ -153,7 +152,7 @@ Voor een goede kwaliteit VoIP is een stabiele internetverbinding een noodzakelij
 
 ## Extra mogelijkheden CallvoipDSL
 
-* <b>PIN over IP</b> - €5,- per maand (excl. BTW)  
+* <b>PIN over IP</b> - €5,- per maand (excl. BTW)
   Een gecertificeerde ADSL-lijn is uitstekend voor PIN over IP. Pinnen duurt voortaan slechts enkele seconden en zonder kosten.
 * <b>Alarm over IP</b> - €5,- per maand (excl. BTW)
 

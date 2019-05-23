@@ -87,7 +87,7 @@ menu:
   main:
     weight: 2
     parent: Telefonie
-    pre: Automatisch je gesprek doorzetten naar je mobiele telefoon.
+    pre: Integreer eenvoudig uw vaste en mobiele telefonie.
     post: fa-mobile-alt
 
 ---

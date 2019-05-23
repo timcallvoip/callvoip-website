@@ -64,12 +64,7 @@ intro:
   content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent, dat
     gaat verder dan alleen maar telefonie. Betrouwbaar internet en goede apparatuur
     mogen daarbij niet ontbreken.
-menu:
-  main:
-    weight: 4
-    parent: Telefonie
-    pre: Bel eenvoudig vanaf je laptop met onze handige plugins.
-    post: fa-laptop
+
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu auctor tortor. Morbi vel ante arcu. Pellentesque ante neque, pharetra vel tempor non, dapibus in eros. Vivamus congue nulla in felis imperdiet finibus. Ut aliquam rutrum mauris, interdum fringilla leo volutpat non. Donec egestas lorem sed nisi volutpat, non auctor mauris volutpat. Cras dictum dignissim risus eget aliquam.

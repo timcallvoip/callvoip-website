@@ -74,7 +74,7 @@ menu:
   main:
     weight: 3
     parent: Telefonie
-    pre: Koppel je telefoongesprekken direct met je eigen CRM pakket.
+    pre: Verbind uw klantsysteem met uw telefooncentrale.
     post: fa-comment-alt-smile
 
 ---

@@ -79,7 +79,7 @@ menu:
   main:
     weight: 2
     parent: Internet
-    pre: Menu omschrijving
-    post: fa-laptop
+    pre: Razendsnel internet via de coaxkabel van Ziggo.
+    post: fa-wifi
 
 ---

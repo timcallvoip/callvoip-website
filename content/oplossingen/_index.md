@@ -4,6 +4,5 @@ menu:
   main:
     name: Oplossingen
     weight: 3
-    pre: Callvoip is er voor de zelfstandige, ondernemer en grootzakelijke klanten.
-
+    pre: Met meer dan 12 jaar ervaring in VoIP-telefonie is geen enkele situatie en branche ons onbekend. Bekijk wat wij voor u kunnen betekenen.
 ---

@@ -62,5 +62,10 @@ intro:
   title: Wat kost de Click-to-Dial?
   content: Helemaal niets!
 prijzen: []
-
+menu:
+  main:
+    weight: 4
+    parent: Telefonie
+    pre: Maak eenvoudig alle telefoonnummers klikbaar én meer!
+    post: fa-laptop
 ---

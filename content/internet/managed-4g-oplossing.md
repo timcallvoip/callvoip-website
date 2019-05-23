@@ -43,6 +43,6 @@ menu:
     name: '4G Oplossingen'
     weight: 4
     parent: Internet
-    pre: Benieuwd wat het beste internet op jouw locatie is?
-    post: fa-search
+    pre: Buitengebied? Geen probleem met een 4G managed oplossing.
+    post: fa-wifi
 ---

@@ -3,7 +3,6 @@ title: Internet
 menu:
   main:
     weight: 2
-    pre: Super snel internet is super belangrijk. Callvoip regelt dit voor je als
-      ondernemer. Gebruik onze postcode check!
+    pre: Zakelijk internet vormt de belangrijkste basis voor VoIP-telefonie. De mogelijkheden zijn per situatie en adres anders. Wij assisteren u graag!
 
 ---
