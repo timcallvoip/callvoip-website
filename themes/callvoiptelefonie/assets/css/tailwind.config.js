@@ -1,9 +1,10 @@
 
 let colors = {
   'grey-dark': '#203476',
+  'grey-medium': '#6676a9',
   'grey': '#223240',
   'grey-light': '#b4c1e6',
-  'grey-lightest': '#EBF2F7',
+  'grey-lightest': '#ebf2f7',
   'white': '#ffffff',
   'green': '#78B52E',
   'blue-light': '#374984',

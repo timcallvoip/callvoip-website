@@ -22,16 +22,16 @@
             {{ range .Param $taxo }}
             {{ $name := . }}
             {{ with $.Site.GetPage (printf "/%s/%s" $taxo ($name | urlize)) }}
-              <a class="block opacity-50 text-grey-dark no-underline lg:text-lg mb-4 lg:mb-6" href="{{ .Permalink }}">{{ $name }}</a>
+              <a class="block  text-grey-dark no-underline lg:text-lg mb-4 lg:mb-6" href="{{ .Permalink }}">{{ $name }}</a>
             {{ end }}
             {{ end }}
             {{ with .Params.title }}
             <span class="block font-medium text-lg xxl:text-2xl block mb-2">{{ . | markdownify }}</span>
             {{ end }}
             {{ with .Params.excerpt }}
-              <span class="block opacity-75 lg:text-lg mb-4 lg:mb-8">{{ . }}</span>
+              <span class="block lg:text-lg mb-4 lg:mb-8">{{ . }}</span>
             {{ else }}
-              <span  class="block opacity-75 lg:text-lg mb-4 lg:mb-8 user-content">{{.Summary | markdownify }}</span>
+              <span  class="block lg:text-lg mb-4 lg:mb-8 user-content">{{.Summary | markdownify }}</span>
             {{ end }}
             </div>
             <a href="{{.URL}}" class="button">Lees verder</a>

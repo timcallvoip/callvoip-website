@@ -64,7 +64,15 @@
 }
 
 .user-content p, .user-content ul, .user-content ol {
-  @apply mb-6 opacity-75;
+  @apply mb-6 text-grey-medium;
+}
+
+.user-content {
+  @apply text-grey-medium;
+}
+
+.user-content h1, .user-content h2, .user-content h3, .user-content h4, .user-content h5 {
+  @apply text-grey-dark;
 }
 
 .user-content ul {

@@ -18,7 +18,7 @@
               <h5 class="text-lg lg:text-xl font-medium mb-1 px-4">{{ " {{ posts.title | markdownify }}" }}</h5>
 
               <div v-for="post in posts.items" class="">
-                <a :href='post.uri' class="block w-full px-4 py-1 font-medium opacity-75 mb-1 hover:text-blue hover:bg-grey-lightest">
+                <a :href='post.uri' class="block w-full px-4 py-1 font-medium text-grey-medium mb-1 hover:text-blue hover:bg-grey-lightest">
                 {{ " {{ post.title }}" }}
                </a>
               </div>
@@ -50,7 +50,7 @@
         {{ range $child_pages.ByWeight }}
         <li>
           <a href="{{ .Permalink }}"
-            class="font-medium opacity-75 leading-large lg:text-lg border-b border-grey-lightest block pb-2 mb-2 hover:text-blue">
+            class="font-medium text-grey-medium leading-large lg:text-lg border-b border-grey-lightest block pb-2 mb-2 hover:text-blue">
             <i class="fal fa-file mr-2"></i>
             {{ .Title }}</a>
         </li>

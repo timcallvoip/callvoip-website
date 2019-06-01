@@ -34,10 +34,9 @@ intro:
     content: Tot wel 50% voordeliger dan tradionele telefooncentrale
 usps:
 - title: Callvoip is er voor de ondernemers
-  content: Callvoip levert met Simmpl en telefooncentrale dat zorgt voor optimale
+  content: <p>Callvoip levert met Simmpl en telefooncentrale dat zorgt voor optimale
     bereikbaarheid en een professionele uitstraling naar uw klanten. In het basispakket
-    zitten al veel functionaliteiten. Bekijk een overzicht van alle functionaliteiten
-    hier  <a href="/overons/team" class="button">Overzicht functionaliteiten</a>
+    zitten al veel functionaliteiten.</p>  <a href="/overons/team" class="button">Overzicht functionaliteiten</a>
   items:
   - icon: fa-piggy-bank
     title: Voicemailbox

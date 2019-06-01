@@ -15,7 +15,7 @@
               <h2 class="font-medium text-lg xxl:text-2xl block mb-1">{{ . }}</h2>
               {{ end }}
               {{ with .content }}
-              <div class="opacity-75 lg:text-lg mb-4 font-medium leading-loose">
+              <div class="lg:text-lg mb-4 font-medium leading-loose">
                 {{ . | markdownify }}
               </div>
               {{ end }}
@@ -38,7 +38,7 @@
             <div class="md:w-1/2 md:px-2 lg:px-4">
               <a href="{{.URL}}" class="block bg-white font-medium shadow no-underline py-6 lg:py-12 px-6 lg:px-8 xl:px-10 rounded-lg text-grey-dark mb-6 lg:mb-8">
                 {{ with .Params.tag }}
-                <span class="block opacity-75 lg:text-lg mb-4 lg:mb-6">
+                <span class="block text-grey-medium lg:text-lg mb-4 lg:mb-6">
                   {{ humanize . }}
                 </span>
                 {{ end }}
@@ -46,7 +46,7 @@
                 <span class="block font-medium text-lg xxl:text-2xl block mb-2">{{ . }}</span>
                 {{ end }}
                 {{ with .Params.excerpt }}
-                <span class="block opacity-75 lg:text-lg mb-4 lg:mb-8">{{ . }}</span>
+                <span class="block text-grey-medium lg:text-lg mb-4 lg:mb-8">{{ . }}</span>
                 {{ end }}
                 <span class="button">Bekijk vacature</span>
               </a>
