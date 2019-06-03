@@ -11,16 +11,31 @@ blocks:
   title: DSL-verbinding waar je op kan vertrouwen
 logos: false
 hero:
-  title: ''
-  content: ''
+  title: CallvoipDSL
+  content: |-
+    DSL-verbindingen komen er in vele soorten en maten. De meestvoorkomende zijn ADSL, ADSL2+, VDSL en VDSL2. Maar tegenwoordig komt vectoring en bonding ook steeds meer voor. CallvoipTelefonie kan u deze verbindingen leveren. Zo heeft u 1 aanspreekpunt en krijgt u vaak korting op de maandelijkse abonnementsprijs.
+
+    Voor een goede kwaliteit VoIP is een stabiele internetverbinding een noodzakelijk ingrediënt. CallvoipTelefonie biedt daarom een ruim scala aan ADSL- en VDSL-verbindingen. Situaties en wensen verschillen – wij zijn u daarom graag van dienst bij het vinden van de juiste mix aan diensten en producten. Alles zodat u verzekerd bent van de beste basis voor VoIP telefonie.
   button:
     content: ''
     link: ''
   image: ''
 usps:
-  title: ''
+  title: Waarom kiezen voor CallvoipDSL
   content: ''
-  items: []
+  items:
+  - icon: ''
+    content: Callvoip levert de beloofde snelheid!
+    title: Snelheid
+  - content: 10% korting in combinatie met telefonie
+    title: Korting
+    icon: ''
+  - icon: ''
+    title: Vast IP-adres
+    content: Standaard 1 vast IP adres – mogelijkheid voor meer
+  - title: Beheer
+    content: 3 maanden gratis Beheer & Monitoring
+    icon: ''
 intro:
   title: ''
   content: ''
@@ -54,7 +69,8 @@ prijzen:
   content: 'Tot 50/5 Mbps. Bij 2 of 3 jaar looptijd krijgt u 1 of 3 maandbedragen
     tegoed ter besteding in onze shops. '
 - title: VVDSL
-  content: " tot 100/20 Mbps"
+  content: Tot 100/20 Mbps. Bij 2 of 3 jaar looptijd krijgt u 1 of 3 maandbedragen
+    tegoed ter besteding in onze shops.
   button:
     title: Vraag een VVDSL verbinding aan
     link: https://www.callvoip.nl/download/callvoip/callvoip-adsl-vdsl_aanvraagformulier.pdf
@@ -77,12 +93,6 @@ menu:
     post: fa-wifi
 
 ---
-## CallvoipDSL
-
-DSL-verbindingen komen er in vele soorten en maten. De meestvoorkomende zijn ADSL, ADSL2+, VDSL en VDSL2. Maar tegenwoordig komt vectoring en bonding ook steeds meer voor. CallvoipTelefonie kan u deze verbindingen leveren. Zo heeft u 1 aanspreekpunt en krijgt u vaak korting op de maandelijkse abonnementsprijs.
-
-Voor een goede kwaliteit VoIP is een stabiele internetverbinding een noodzakelijk ingrediënt. CallvoipTelefonie biedt daarom een ruim scala aan ADSL- en VDSL-verbindingen. Situaties en wensen verschillen – wij zijn u daarom graag van dienst bij het vinden van de juiste mix aan diensten en producten. Alles zodat u verzekerd bent van de beste basis voor VoIP telefonie.
-
 ### Waarom kiezen voor CallvoipDSL
 
 * Callvoip levert de beloofde snelheid!
