@@ -26,6 +26,10 @@ usps:
   content: ''
   items:
   - icon: ''
+    title: Één aanspreekpunt
+    content: Zo heeft u Ja ik wil 1 aanspreekpunt en krijgt u vaak korting op de maandelijkse
+      abonnementsprijs.
+  - icon: ''
     content: Callvoip levert de beloofde snelheid!
     title: Snelheid
   - content: 10% korting in combinatie met telefonie
