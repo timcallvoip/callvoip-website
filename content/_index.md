@@ -37,8 +37,9 @@ usps:
 - title: Callvoip is er voor de ondernemers
   content: <p>Callvoip levert met Simmpl een telefooncentrale dat zorgt voor optimale
     bereikbaarheid én een professionele uitstraling naar uw klanten. In het basispakket
-    zitten al veel functionaliteiten.</p>  <a href="/overons/team" class="button">Overzicht
-    functionaliteiten</a>
+    zitten al veel functionaliteiten. Benieuwd naar alle functionaliteiten die zich
+    in het basispakket bevinden? Klik op de knop hieronder!</p>  <a href="/overons/team"
+    class="button">Overzicht functionaliteiten</a>
   items:
   - icon: fa-piggy-bank
     title: Voicemailbox
@@ -76,7 +77,7 @@ usps:
       een tekst wanneer iedereen in gesprek is, meldteksten voor binnen & buiten werktijd
       en aparte vakantiemeldingen.
 - title: Breid uw telefooncentrale eenvoudig uit
-  content: 'Elke telefoniesituatie is anders, het zou dus zomaar kunnen dat u de basis
+  content: 'Elke telefoniesituatie is anders. Het zou dus zomaar kunnen dat u de basis
     telefooncentrale wenst uit te breiden met één van de volgende betaalde functionaliteiten:'
   items:
   - icon: fa-cloud
@@ -106,7 +107,7 @@ usps:
       mogelijkheid om uw telefonie te versleutelen en zo uw privacy te waarborgen.
       Dit doen we door middel van SRTP en TLS.
   - icon: fa-laptop
-    title: Qaller (mobiele app)
+    title: Qaller Plus (mobiele app)
     content: |-
       Met Qaller wordt uw mobiele telefoon onderdeel van de online telefooncentrale:
       1) bedien de telefooncentrale vanaf uw Smartphone
