@@ -121,9 +121,9 @@ usps:
   items:
   - icon: fa-code-branch
     title: Click-to-Dial plugin
-    content: Met de nieuwe Simmpl Click-to-Dial-plugin van CallvoipTelefonie maakt
-      u in een handomdraai alle telefoonnummers in uw Chrome webbrowser klikbaar én
-      veel meer!
+    content: Met de nieuwe Simmpl <a href="/telefonie/clicktodial/">Click-to-Dial
+      plugin</a>  van CallvoipTelefonie maakt u in een handomdraai alle telefoonnummers
+      in uw Chrome webbrowser klikbaar én veel meer!
   - icon: fa-phone-volume
     title: VoIP CTI
     content: Dit biedt gemak en bespaart tijd bij het bellen naar klanten (Click-to-Dial),
