@@ -117,7 +117,7 @@ usps:
       3) stuur uw zaaknummer mee bij uitbellen
 - title: Behoefte aan integratie
   content: Leuk al die functionaliteiten van de telefooncentrale, maar integratie
-    met CRM-, ERP en klantsysteempakketten wordt steeds belangrijker
+    met CRM-, ERP en klantsysteempakketten wordt steeds belangrijker!
   items:
   - icon: fa-code-branch
     title: Click-to-Dial plugin

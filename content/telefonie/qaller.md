@@ -1,5 +1,5 @@
 ---
-title: Bellen vanaf je laptop
+title: Qaller
 type: page
 layout: default
 logos: true
@@ -64,7 +64,16 @@ intro:
   content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent, dat
     gaat verder dan alleen maar telefonie. Betrouwbaar internet en goede apparatuur
     mogen daarbij niet ontbreken.
-
+prijzen: []
+menu:
+  main:
+    name: ''
+    weight: 
+    parent: ''
+    pre: ''
+    post: ''
+description: ''
+images: []
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu auctor tortor. Morbi vel ante arcu. Pellentesque ante neque, pharetra vel tempor non, dapibus in eros. Vivamus congue nulla in felis imperdiet finibus. Ut aliquam rutrum mauris, interdum fringilla leo volutpat non. Donec egestas lorem sed nisi volutpat, non auctor mauris volutpat. Cras dictum dignissim risus eget aliquam.
