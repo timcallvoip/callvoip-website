@@ -66,15 +66,15 @@ usps:
       volgorde de toestellen rinkelen.
   - icon: fa-megaphone
     title: Omleiding (Flow Control)
-    content: Een omleiding is een schakelaar waarmee u eenvoudig acties aan- of uitzet.
-      U kunt voor elk nummer omleidingen aanmaken. Daarnaast kunt u in één nummer
-      meerdere omleidingen plaatsen.
+    content: Een <a href="/telefonie/functionaliteiten/omleiding/">omleiding</a> is
+      een schakelaar waarmee u eenvoudig acties aan- of uitzet. U kunt voor elk nummer
+      omleidingen aanmaken. Daarnaast kunt u in één nummer meerdere omleidingen plaatsen.
   - icon: fa-megaphone
     title: Meldteksten
-    content: Met deze functionaliteit kunt u verschillende meldteksten in uw belplan
-      plaatsen. Denk hierbij aan bijvoorbeeld een welkomst-meldtekst, een tekst wanneer
-      iedereen in gesprek is, meldteksten voor binnen & buiten werktijd en aparte
-      vakantiemeldingen.
+    content: Met deze functionaliteit kunt u verschillende <a href="/telefonie/functionaliteiten/meldteksten/">meldtekst</a>
+      in uw belplan plaatsen. Denk hierbij aan bijvoorbeeld een welkomst-meldtekst,
+      een tekst wanneer iedereen in gesprek is, meldteksten voor binnen & buiten werktijd
+      en aparte vakantiemeldingen.
 - title: Breid uw telefooncentrale eenvoudig uit
   content: 'Elke telefoniesituatie is anders, het zou dus zomaar kunnen dat u de basis
     telefooncentrale wenst uit te breiden met één van de volgende betaalde functionaliteiten:'
