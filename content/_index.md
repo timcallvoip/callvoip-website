@@ -48,20 +48,22 @@ usps:
       één of meerdere e-mailadressen gestuurd. '
   - icon: fa-file-signature
     title: Tijdscondities
-    content: Met de tijdsconditie-app definieert u vooraf tijden waarop één of meerdere
-      acties moeten plaatsvinden. Denkt u bijvoorbeeld aan een belroute voor binnen
-      en buiten werktijd of een gewijzigde belroute tijdens de lunchpauze, feestdagen,
-      etc.
+    content: Met de <a href="/telefonie/functionaliteiten/tijdsconditie/">tijdsconditie-app</a>
+      definieert u vooraf tijden waarop één of meerdere acties moeten plaatsvinden.
+      Denkt u bijvoorbeeld aan een belroute voor binnen en buiten werktijd of een
+      gewijzigde belroute tijdens de lunchpauze, feestdagen, etc.
   - icon: fa-megaphone
     title: Doorverbinden
-    content: Met de doorverbinden-app zet u eenvoudig inkomende belletjes door naar
-      een toestel bij u op kantoor of naar een extern nummer. Denk hierbij bijvoorbeeld
-      aan een mobiele telefoon of een externe telefoondienst.
+    content: Met de <a href="/telefonie/functionaliteiten/doorverbinden/">doorverbinden-app</a>
+      zet u eenvoudig inkomende belletjes door naar een toestel bij u op kantoor of
+      naar een extern nummer. Denk hierbij bijvoorbeeld aan een mobiele telefoon of
+      een externe telefoondienst.
   - icon: fa-megaphone
     title: Belgroep (Huntgroup)
-    content: De belgroep-app biedt u de mogelijkheid om een inkomend gesprek naar
-      één of meerdere interne of externe nummers door te schakelen. Daarnaast kunt
-      u ervoor kiezen in welke volgorde de toestellen rinkelen.
+    content: De <a href="/telefonie/functionaliteiten/belgroep/">belgroep-app</a>
+      biedt u de mogelijkheid om een inkomend gesprek naar één of meerdere interne
+      of externe nummers door te schakelen. Daarnaast kunt u ervoor kiezen in welke
+      volgorde de toestellen rinkelen.
   - icon: fa-megaphone
     title: Omleiding (Flow Control)
     content: Een omleiding is een schakelaar waarmee u eenvoudig acties aan- of uitzet.
