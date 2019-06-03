@@ -16,11 +16,10 @@ hero:
   title: CallvoipDSL
   content: DSL-verbindingen komen er in vele soorten en maten. De meestvoorkomende
     zijn ADSL, ADSL2+, VDSL en VDSL2. Maar tegenwoordig komt vectoring en bonding
-    ook steeds meer voor. CallvoipTelefonie kan u deze verbindingen leveren. Zo heeft
-    u 1 aanspreekpunt en krijgt u vaak korting op de maandelijkse abonnementsprijs.
+    ook steeds meer voor. CallvoipTelefonie kan u deze verbindingen leveren.
   button:
-    content: ''
-    link: ''
+    content: xDSL verbinding aanvragen
+    link: https://www.callvoip.nl/download/callvoip/callvoip-adsl-vdsl_aanvraagformulier.pdf
   image: ''
 usps:
   title: Waarom kiezen voor CallvoipDSL
