@@ -26,17 +26,17 @@ intro:
   content: ''
 prijzen:
 - title: ADSL
-  content: 'Als u klant bent van Callvoip:'
+  content: tot 20/1 Mbps
   button:
     title: ''
     link: ''
   tarieven:
-    title: tot 20-om-1 Mbit/s
+    title: 'Als u klant bent van Callvoip:'
     items:
     - title: Maandelijks
       price: 25
     - title: Eenmalig
-      price: 
+      price: 50
     footer: Prijzen zijn excl. BTW
 - title: VDSL
   button:
@@ -44,20 +44,20 @@ prijzen:
     link: ''
   tarieven:
     footer: Prijzen zijn excl. BTW
-    title: Tot 50/5 Mbps
+    title: 'U bent klant van Callvoip:'
     items:
     - title: Maandelijks
       price: 29
     - title: Eenmalig
       price: 50
-  content: 20-om-1 Mbit/s
+  content: tot 50/5 Mbps
 - title: VVDSL
-  content: 'U bent klant van Callvoip:'
+  content: " tot 100/20 Mbps"
   button:
     title: ''
     link: ''
   tarieven:
-    title: Tot 100/20 Mbps
+    title: 'U bent klant van Callvoip:'
     footer: Prijzen zijn excl. BTW
     items:
     - title: Maandelijks
@@ -88,107 +88,7 @@ Voor een goede kwaliteit VoIP is een stabiele internetverbinding een noodzakelij
 * 3 maanden gratis Beheer & Monitoring
 * Standaard 1 vast IP adres – mogelijkheid voor meer
 
-### Abonnementen CallvoipDSL
-
-> <div class="row">
->
-> <div class="column medium-4">
->
-> <div class="price">
->
-> <div class="price-head">
->
-> <h4>20-om-1 Mbit/s</h4>
->
-> <span>v.a. € 25,00</span>
->
-> </div>
->
-> <div class="price-body">
->
-> <ul>
->
-> <li>ADSL</li>
->
-> <li>Eigen VoIP router</li>
->
-> </ul>
->
-> </div>
->
-> <div class="price-footer">
->
->     <a href="[http://www.callvoip.nl/download/callvoip/callvoip-adsl-vdsl_aanvraagformulier.pdf](http://www.callvoip.nl/download/callvoip/callvoip-adsl-vdsl_aanvraagformulier.pdf "http://www.callvoip.nl/download/callvoip/callvoip-adsl-vdsl_aanvraagformulier.pdf")" class="button expanded">Direct bestellen</a></div>
->
-> </div>
->
-> </div>
->
-> <div class="column medium-4">
->
-> <div class="price">
->
-> <div class="price-head">
->
-> <h4>50-om-5 Mbit/s</h4>
->
-> <span>v.a. € 29,00</span>
->
-> </div>
->
-> <div class="price-body">
->
-> <ul>
->
-> <li>VDSL</li>
->
-> <li>Eigen VoIP router</li>
->
-> </ul>
->
-> </div>
->
-> <div class="price-footer">
->
->     <a href="[http://www.callvoip.nl/download/callvoip/callvoip-adsl-vdsl_aanvraagformulier.pdf](http://www.callvoip.nl/download/callvoip/callvoip-adsl-vdsl_aanvraagformulier.pdf "http://www.callvoip.nl/download/callvoip/callvoip-adsl-vdsl_aanvraagformulier.pdf")" class="button expanded">Direct bestellen</a></div>
->
-> </div>
->
-> </div>
->
-> <div class="column medium-4">
->
-> <div class="price">
->
-> <div class="price-head">
->
-> <h4>100-om-20 Mbit/s</h4>
->
-> <span>v.a. € 35,00</span>
->
-> </div>
->
-> <div class="price-body">
->
-> <ul>
->
-> <li>VVDSL</li>
->
-> <li>Eigen VoIP router</li>
->
-> </ul>
->
-> </div>
->
-> <div class="price-footer">
->
->     <a href="[http://www.callvoip.nl/download/callvoip/callvoip-adsl-vdsl_aanvraagformulier.pdf](http://www.callvoip.nl/download/callvoip/callvoip-adsl-vdsl_aanvraagformulier.pdf "http://www.callvoip.nl/download/callvoip/callvoip-adsl-vdsl_aanvraagformulier.pdf")" class="button expanded">Direct bestellen</a></div>
->
-> </div>
->
-> </div>
->
-> </div>
+> 
 
 ## Extra mogelijkheden CallvoipDSL
 

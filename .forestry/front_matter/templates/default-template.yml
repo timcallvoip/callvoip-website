@@ -157,9 +157,9 @@ fields:
 pages:
 - content/telefonie/hostedvoip.md
 - content/telefonie/integratiemetcrm.md
-- content/internet/dsl.md
 - content/internet/managed-4g-oplossing.md
 - content/internet/glasvezel.md
+- content/internet/dsl.md
 - content/telefonie/vastmobielintegratie.md
 - content/telefonie/clicktodial.md
 - content/internet/kabel.md
