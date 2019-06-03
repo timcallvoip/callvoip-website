@@ -36,7 +36,7 @@ usps:
   - icon: fa-cloud
     title: Wat heb ik nodig?
     content: 'Voor VoIP telefonie heeft u een aantal dingen nodig om te kunnen bellen.
-      Ten eerste uiteraard een <a href="/telefoonnummers.">telefoonnummer</a> waar
+      Ten eerste uiteraard een <a href="/telefoonnummers/">telefoonnummer</a> waar
       u op te bereiken bent. Daarnaast is de internetverbinding en de bijbehorende
       (netwerk)apparatuur van groot belang. U heeft een stabiele internetverbinding
       nodig met voldoende bandbreedte. Per gesprek heeft u ongeveer 100Kbit/seconde
