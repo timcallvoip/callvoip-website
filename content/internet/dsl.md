@@ -26,10 +26,11 @@ intro:
   content: ''
 prijzen:
 - title: ADSL
-  content: tot 20/1 Mbps
+  content: Tot 20/1 Mbps. Bij 2 of 3 jaar looptijd krijgt u 1 of 3 maandbedragen tegoed
+    ter besteding in onze shops.
   button:
-    title: ''
-    link: ''
+    title: Vraag een ADSL verbinding aan
+    link: https://www.callvoip.nl/download/callvoip/callvoip-adsl-vdsl_aanvraagformulier.pdf
   tarieven:
     title: 'Als u klant bent van Callvoip:'
     items:
@@ -40,8 +41,8 @@ prijzen:
     footer: Prijzen zijn excl. BTW
 - title: VDSL
   button:
-    title: ''
-    link: ''
+    title: Vraag een VDSL verbinding aan
+    link: https://www.callvoip.nl/download/callvoip/callvoip-adsl-vdsl_aanvraagformulier.pdf
   tarieven:
     footer: Prijzen zijn excl. BTW
     title: 'U bent klant van Callvoip:'
@@ -50,12 +51,13 @@ prijzen:
       price: 29
     - title: Eenmalig
       price: 50
-  content: tot 50/5 Mbps
+  content: 'Tot 50/5 Mbps. Bij 2 of 3 jaar looptijd krijgt u 1 of 3 maandbedragen
+    tegoed ter besteding in onze shops. '
 - title: VVDSL
   content: " tot 100/20 Mbps"
   button:
-    title: ''
-    link: ''
+    title: Vraag een VVDSL verbinding aan
+    link: https://www.callvoip.nl/download/callvoip/callvoip-adsl-vdsl_aanvraagformulier.pdf
   tarieven:
     title: 'U bent klant van Callvoip:'
     footer: Prijzen zijn excl. BTW
