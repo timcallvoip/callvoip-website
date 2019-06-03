@@ -28,20 +28,26 @@ blocks:
   position: image_right
   title: Functionaliteiten van de online telefooncentrale
 usps:
-  title: Geniet van een beter telefoongesprek
-  content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent, dat
-    gaat verder dan alleen maar telefonie. Betrouwbaar internet en goede apparatuur
+  title: Veelgestelde vragen over VoIP
+  content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent. Dat
+    doen we graag met onze Hosted VoIP oplossing, maar wat is dat eigenlijk? En hoe
+    betrouwbaar is het?
   items:
   - icon: fa-cloud
-    title: Moderne centrale in de cloud
-    content: Callvoip is er voor elke ondernemer. Voor de zelfstandige, die graag
-      bereikbaar is op een vast nummer. Maar wij zijn er ook voor de international
-      met 10.000 werkplekken.
+    title: Wat heb ik nodig voor VoIP?
+    content: 'Voor VoIP telefonie heeft u een aantal dingen nodig om te kunnen bellen.
+      Ten eerste uiteraard een <a href="/telefoonnummers.">telefoonnummer</a> waar
+      u op te bereiken bent. Daarnaast is de internetverbinding en de bijbehorende
+      (netwerk)apparatuur van groot belang. U heeft een stabiele internetverbinding
+      nodig met voldoende bandbreedte. Per gesprek heeft u ongeveer 100Kbit/seconde
+      nodig. In de praktijk betekent dit dat u over 1Mb uploadsnelheid ongeveer 8
+      gesprekken kunt voeren.  '
   - icon: fa-user-lock
-    title: Je eigen beveiligde omgeving
-    content: Callvoip is er voor elke ondernemer. Voor de zelfstandige, die graag
-      bereikbaar is op een vast nummer. Maar wij zijn er ook voor de international
-      met 10.000 werkplekken.
+    title: Hoe werkt VoIP?
+    content: VoIP (Voice over Internet Protocol) is kort gezegd bellen over internet.
+      Voorheen had u ISDN lijnen nodig om hierover te bellen, maar met VoIP worden
+      deze overbodig. Een telefoontoestel sluit u voortaan aan op uw internetverbinding.
+      Deze toestellen melden zich aan op de online telefooncentrale op het internet.
   - icon: fa-comment-alt-smile
     title: Geen moeilijke software
     content: Callvoip is er voor elke ondernemer. Voor de zelfstandige, die graag
