@@ -99,8 +99,9 @@ usps:
       versturen, dan kunt u het te faxen bestand als PDF-document uploaden op de telefooncentrale. '
   - icon: fa-laptop
     title: Gespreksopname (Call Recording)
-    content: 'Met gespreksopname kunt u uw telefoongesprekken opnemen en terugluisteren.De
-      gespreksopnamefunctie kunt u zelf per gebruiker in- en uitschakelen. '
+    content: 'Met <a href="/telefonie/functionaliteiten/gespreksopname/">gespreksopname</a>
+      kunt u uw telefoongesprekken opnemen en terugluisteren.De gespreksopnamefunctie
+      kunt u zelf per gebruiker in- en uitschakelen. '
   - icon: fa-laptop
     title: SRTP (versleutelde gesprekken)
     content: Veiligheid staat bij ons hoog in het vaandel en daarom bieden wij de
@@ -110,7 +111,7 @@ usps:
   - icon: fa-laptop
     title: Qaller Plus (mobiele app)
     content: |-
-      Met Qaller wordt uw mobiele telefoon onderdeel van de online telefooncentrale:
+      Met <a href="/telefonie/qaller/">Qaller</a> wordt uw mobiele telefoon onderdeel van de online telefooncentrale:
       1) bedien de telefooncentrale vanaf uw Smartphone
       2) gebruik uw Smartphone alsof het een kantoortoestel is: bellen en gebeld worden.
       3) stuur uw zaaknummer mee bij uitbellen
