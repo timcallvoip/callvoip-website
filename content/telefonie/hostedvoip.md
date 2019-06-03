@@ -14,8 +14,9 @@ hero:
   image: "/v1556267113/gesprekken.png"
 blocks:
 - content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent, dat
-    gaat verder dan alleen maar telefonie. Betrouwbaar internet en goede apparatuur
-    mogen daarbij niet ontbreken.
+    gaat verder dan alleen maar telefonie via vaste teostellen. Ook op uw mobiele
+    telefoon bent u altijd bereikbaar met onze <a href="/telefonie/qaller/">Qaller</a>
+    en <a href="/telefonie/vamos/">Vamos</a> oplossing.
   image: "/v1552466820/phones.png"
   position: image_left
   title: Zakelijke VoIP waar je op kan vertrouwen, ook met uw mobiel!
