@@ -158,9 +158,8 @@ options:
     link: ''
 prefooter:
   title: Wil je ook zorgeloos bereikbaar zijn?
-  content: 95% van onze klanten adviseert ons bij hun netwerk. Wil jij ook net zoals
-    5.000 andere klanten van Callvoip zorgeloos bereikbaar zijn? Neem contact op met
-    onze specialisten.
+  content: 95% van onze klanten adviseert ons bij hun netwerk. Benieuwd naar testimonials
+    van onze klanten? U vindt ze <a href="/testimonials/">hier</a>
 testimonial:
   image: "/v1556267419/Callvoip-website-logo-AlphaLabs.png"
   title: Carlo Giliam - Alpha Labs
