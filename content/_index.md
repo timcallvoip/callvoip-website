@@ -2,16 +2,17 @@
 title: Callvoip - de modernste zakelijke telefonieprovider van Nederland
 hero:
   title: Altijd bereikbaar zijn voor je klanten
-  content: Zakelijke telefonie voor ondernemers. Bellen via internet, op kantoor en
-    onderweg. Eenvoudig én in de cloud. Dat is de kracht van bellen met Callvoip.
+  content: Kies voor zakelijke telefonie van Callvoip en ervaar het gebruiksgemak
+    van de modernste online telefooncentrale! Bellen via internet, op kantoor en onderweg.
+    Eenvoudig én in de cloud. Dat is de kracht van bellen met Callvoip.
   button:
     content: Bekijk ons aanbod
     link: "/aanbod"
   items:
-  - icon: fa-home
+  - icon: fa-cloud
     title: Kleine en middelgrote bedrijven
-    content: Oplossingen voor 2 t/m 50 werkplekken
-    link: "/oplossingen/mkb"
+    content: Kies voor de Hosted VoIP oplossing
+    link: telefonie/hostedvoip/
   - icon: fa-building
     title: Voor grote en hele grote bedrijven
     content: Oplossingen voor 51 t/m 10.000 werkplekken
@@ -36,7 +37,8 @@ usps:
 - title: Callvoip is er voor de ondernemers
   content: <p>Callvoip levert met Simmpl en telefooncentrale dat zorgt voor optimale
     bereikbaarheid en een professionele uitstraling naar uw klanten. In het basispakket
-    zitten al veel functionaliteiten.</p>  <a href="/overons/team" class="button">Overzicht functionaliteiten</a>
+    zitten al veel functionaliteiten.</p>  <a href="/overons/team" class="button">Overzicht
+    functionaliteiten</a>
   items:
   - icon: fa-piggy-bank
     title: Voicemailbox

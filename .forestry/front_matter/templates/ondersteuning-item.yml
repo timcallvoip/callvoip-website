@@ -12,9 +12,9 @@ fields:
   default: 0
   required: false
   config:
-    min:
-    max:
-    step:
+    min: 
+    max: 
+    step: 
 - name: seo
   type: include
   config: {}
@@ -22,7 +22,7 @@ fields:
   label: SEO
   description: Seo
 pages:
-- content/ondersteuning/belplan/overzicht.md
-- content/ondersteuning/algemeen/contact.md
 - content/ondersteuning/algemeen/storing.md
 - content/ondersteuning/Juridisch/privacy.md
+- content/ondersteuning/algemeen/contact.md
+- content/ondersteuning/belplan/overzicht.md

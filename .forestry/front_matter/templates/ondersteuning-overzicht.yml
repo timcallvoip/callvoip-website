@@ -12,9 +12,9 @@ fields:
   default: 0
   required: false
   config:
-    min:
-    max:
-    step:
+    min: 
+    max: 
+    step: 
 - name: seo
   type: include
   config: {}
@@ -29,6 +29,6 @@ fields:
   default: overview
   hidden: true
 pages:
-- content/ondersteuning/belplan/_index.md
-- content/ondersteuning/algemeen/_index.md
 - content/ondersteuning/Juridisch/_index.md
+- content/ondersteuning/algemeen/_index.md
+- content/ondersteuning/belplan/_index.md
