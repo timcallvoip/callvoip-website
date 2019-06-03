@@ -18,7 +18,7 @@ blocks:
     mogen daarbij niet ontbreken.
   image: "/v1552466820/phones.png"
   position: image_left
-  title: Zakelijke VoIP waar je op kan vertrouwen
+  title: Zakelijke VoIP waar je op kan vertrouwen, ook met uw mobiel!
 - content: |-
     Bij CallvoipTelefonie krijgt u toegang tot de modernste online telefooncentrale, Simmpl. Simmpl, omdat de telefooncentrale u voorziet van zeer veel professionele <a href="/telefonie/functionaliteiten/">functionaliteiten</a> en uitblinkt in bedieningsgemak.
 
