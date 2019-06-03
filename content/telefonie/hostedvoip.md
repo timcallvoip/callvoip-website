@@ -20,11 +20,11 @@ blocks:
   position: image_left
   title: Zakelijke VoIP waar je op kan vertrouwen
 - content: |-
-    Bij CallvoipTelefonie krijgt u toegang tot de modernste online telefooncentrale, Simmpl. Simmpl, omdat de telefooncentrale u voorziet van zeer veel professionele functionaliteiten en uitblinkt in bedieningsgemak.
+    Bij CallvoipTelefonie krijgt u toegang tot de modernste online telefooncentrale, Simmpl. Simmpl, omdat de telefooncentrale u voorziet van zeer veel professionele <a href="/telefonie/functionaliteiten/">functionaliteiten</a> en uitblinkt in bedieningsgemak.
 
     Met alle professionele functies maken we u écht beter bereikbaar. Alles kunt u eenvoudig instellen en mocht u er toch even niet uitkomen, dan helpen wij u graag. Hieronder vindt u een greep uit onze vele mogelijkheden.
   image: "/v1552466837/instellingen.png"
-  position: image_left
+  position: image_right
   title: Functionaliteiten van de online telefooncentrale
 usps:
   title: Geniet van een beter telefoongesprek
@@ -126,7 +126,7 @@ menu:
   main:
     weight: 1
     parent: Telefonie
-    pre: "De meeste moderne telefooncentrale in de wereld: Simmpl"
+    pre: 'De meeste moderne telefooncentrale in de wereld: Simmpl'
     post: fa-cloud
 
 ---
