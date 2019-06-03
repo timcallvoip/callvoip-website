@@ -82,16 +82,16 @@ usps:
   items:
   - icon: fa-cloud
     title: Keuzemenu (IVR)
-    content: 'Met een keuzemenu begeleidt u de bellers direct naar de juiste medewerker
-      of afdeling. Professioneel, plezierig voor uw klant, efficiënt (door minder
-      doorverbinden) en kortere gesprekken. Ook straalt u met een keuzemenu professionaliteit
-      uit. '
+    content: 'Met een <a href="/telefonie/functionaliteiten/keuzemenu/">keuzemenu</a>
+      begeleidt u de bellers direct naar de juiste medewerker of afdeling. Professioneel,
+      plezierig voor uw klant, efficiënt (door minder doorverbinden) en kortere gesprekken.
+      Ook straalt u met een keuzemenu professionaliteit uit. '
   - icon: fa-user-lock
     title: Wachtrij (Queue)
-    content: Met een wachtrij kunt alle bellers beantwoorden en te woord staan. De
-      beller wordt bijvoorbeeld begroet met een meldtekst en vervolgens in de wachtgezet.
-      Tijdens deze wachtperiode hoort de beller een toon of wachtmuziek totdat hij/zij
-      zelf aan de beurt is.
+    content: Met een <a href="/telefonie/functionaliteiten/wachtrij/">wachtrij</a>
+      kunt alle bellers beantwoorden en te woord staan. De beller wordt bijvoorbeeld
+      begroet met een meldtekst en vervolgens in de wachtgezet. Tijdens deze wachtperiode
+      hoort de beller een toon of wachtmuziek totdat hij/zij zelf aan de beurt is.
   - icon: fa-comment-alt-smile
     title: Faxbox
     content: 'Inkomende faxberichten komen als PDF-bericht per email op één of meer
