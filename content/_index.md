@@ -20,17 +20,17 @@ hero:
 intro:
   image: "/v1557750090/hero-home-2x.png"
   title: Voordelig bellen vanuit de cloud
-  content: CallvoipTelefonie zorgt ervoor dat u als ondernemer altijd bereikbaar bent.
-    Op kantoor via een vasttoestel of onderweg via uw eigen mobiel. Altijd bereikbaar
-    zijn via één en hetzelfde nummer.
+  content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent. Op kantoor
+    via een vast toestel of onderweg via uw eigen mobiel. Altijd bereikbaar zijn op
+    één en hetzelfde nummer.
   button:
     content: Benieuwd hoeveel je kan besparen?
     link: "/calculator"
   items:
   - icon: fa-file-contract
-    content: Elke maand opzegbaar geen lange moeilijke contracten.
+    content: Elke dag opzegbaar, geen lange moeilijke contracten.
   - icon: fa-boxes-alt
-    content: Eenvoudig samenstellen via uw eigen beveiligde omgeving.
+    content: Eenvoudig te bedienen via uw eigen beveiligde omgeving.
   - icon: fa-piggy-bank
     content: Tot wel 50% voordeliger dan tradionele telefooncentrale
 usps:
