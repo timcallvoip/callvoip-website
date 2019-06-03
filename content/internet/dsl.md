@@ -24,11 +24,51 @@ usps:
 intro:
   title: ''
   content: ''
-prijzen: []
+prijzen:
+- title: ADSL
+  content: 'Als u klant bent van Callvoip:'
+  button:
+    title: ''
+    link: ''
+  tarieven:
+    title: tot 20-om-1 Mbit/s
+    items:
+    - title: Maandelijks
+      price: 25
+    - title: Eenmalig
+      price: 
+    footer: Prijzen zijn excl. BTW
+- title: VDSL
+  button:
+    title: ''
+    link: ''
+  tarieven:
+    footer: Prijzen zijn excl. BTW
+    title: Tot 50/5 Mbps
+    items:
+    - title: Maandelijks
+      price: 29
+    - title: Eenmalig
+      price: 50
+  content: 20-om-1 Mbit/s
+- title: VVDSL
+  content: 'U bent klant van Callvoip:'
+  button:
+    title: ''
+    link: ''
+  tarieven:
+    title: Tot 100/20 Mbps
+    footer: Prijzen zijn excl. BTW
+    items:
+    - title: Maandelijks
+      price: 35
+    - title: Eenmalig
+      price: 50
 description: ''
 images: []
 menu:
   main:
+    name: ''
     weight: 1
     parent: Internet
     pre: De beste DSL verbinding als basis van uw telefonie.
