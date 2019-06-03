@@ -42,9 +42,9 @@ usps:
   items:
   - icon: fa-piggy-bank
     title: Voicemailbox
-    content: 'Met de voicemailbox kunt u gemiste gesprekken opvangen. De beller kan,
-      na het door u ingestelde melding, een bericht inspreken. Deze berichten worden
-      als .mp3-bestand naar één of meerdere e-mailadressen gestuurd. '
+    content: 'Met de <A HREF="/voicemailbox ">voicemailbox </A>kunt u gemiste gesprekken
+      opvangen. De beller kan, na het door u ingestelde melding, een bericht inspreken.
+      Deze berichten worden als .mp3-bestand naar één of meerdere e-mailadressen gestuurd. '
   - icon: fa-file-signature
     title: Tijdscondities
     content: Met de tijdsconditie-app definieert u vooraf tijden waarop één of meerdere
