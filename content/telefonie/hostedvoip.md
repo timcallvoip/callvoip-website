@@ -34,7 +34,7 @@ usps:
     betrouwbaar is het?
   items:
   - icon: fa-cloud
-    title: Wat heb ik nodig voor VoIP?
+    title: Wat heb ik nodig?
     content: 'Voor VoIP telefonie heeft u een aantal dingen nodig om te kunnen bellen.
       Ten eerste uiteraard een <a href="/telefoonnummers.">telefoonnummer</a> waar
       u op te bereiken bent. Daarnaast is de internetverbinding en de bijbehorende
@@ -73,7 +73,7 @@ usps:
       eigen telefooncentrale voor nodig had. U krijgt persoonlijke inloggegevens voor
       de telefooncentrale waarop u via internet kunt inloggen. '
   - icon: fa-comment-alt-smile
-    title: Geen moeilijke software
+    title: Welke internetverbinding is het meest geschikt?
     content: Praktisch iedere internetverbinding is geschikt. Dit kan zowel <a href="/internet/dsl/">dsl</a>,
       <a href="/internet/glasvezel/">glasvezel</a> of <a href="/internet/kabel/">via
       de kabel</a> Echter is het modem het belangrijkste bij de werking van VoIP.
