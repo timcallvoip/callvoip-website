@@ -13,10 +13,10 @@ hero:
     title: Kleine en middelgrote bedrijven
     content: Kies voor de Hosted VoIP oplossing
     link: telefonie/hostedvoip/
-  - icon: fa-building
-    title: Voor grote en hele grote bedrijven
-    content: Oplossingen voor 51 t/m 10.000 werkplekken
-    link: "/oplossingen/grootzakelijk"
+  - icon: fa-mobile
+    title: Mobiele telefoon onderdeel van de zakelijke telefonieoplossing?
+    content: Kies dan voor de Vast Mobiel Integratie (Vamos) van Callvoip!
+    link: telefonie/vastmobielintegratie/
 intro:
   image: "/v1557750090/hero-home-2x.png"
   title: Voordelig bellen vanuit de cloud
