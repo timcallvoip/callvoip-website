@@ -95,8 +95,8 @@ usps:
   - icon: fa-comment-alt-smile
     title: Faxbox
     content: 'Inkomende faxberichten komen als PDF-bericht per email op één of meer
-      emailadressen binnen. Wilt u een fax versturen, dan kunt u het te faxen bestand
-      als PDF-document uploaden op de telefooncentrale. '
+      emailadressen binnen. Wilt u een <a href="/telefonie/functionaliteiten/fax/">fax</a>
+      versturen, dan kunt u het te faxen bestand als PDF-document uploaden op de telefooncentrale. '
   - icon: fa-laptop
     title: Gespreksopname (Call Recording)
     content: 'Met gespreksopname kunt u uw telefoongesprekken opnemen en terugluisteren.De
@@ -105,7 +105,8 @@ usps:
     title: SRTP (versleutelde gesprekken)
     content: Veiligheid staat bij ons hoog in het vaandel en daarom bieden wij de
       mogelijkheid om uw telefonie te versleutelen en zo uw privacy te waarborgen.
-      Dit doen we door middel van SRTP en TLS.
+      Dit doen we door middel van <a href="/telefonie/functionaliteiten/srtp/">SRTP</a>
+      en TLS.
   - icon: fa-laptop
     title: Qaller Plus (mobiele app)
     content: |-
