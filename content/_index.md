@@ -126,9 +126,10 @@ usps:
       in uw Chrome webbrowser klikbaar én veel meer!
   - icon: fa-phone-volume
     title: VoIP CTI
-    content: Dit biedt gemak en bespaart tijd bij het bellen naar klanten (Click-to-Dial),
-      en als de klant u belt verschijnt een pop-up met klantinformatie op uw scherm.
-      Klik op de pop-up en de klantenkaart in uw CRM pakket wordt geopend.
+    content: <a href="/telefonie/integratiemetcrm/">VoIP CTI</a> biedt gemak en bespaart
+      tijd bij het bellen naar klanten (Click-to-Dial), en als de klant u belt verschijnt
+      een pop-up met klantinformatie op uw scherm. Klik op de pop-up en de klantenkaart
+      in uw CRM pakket wordt geopend.
 options:
   image: "/v1556267113/callplan-2x.png"
   title: Telefonie en Internet zoals het echt hoort
