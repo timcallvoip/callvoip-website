@@ -47,7 +47,21 @@ usps:
 intro:
   title: ''
   content: ''
-prijzen: []
+prijzen:
+- title: Tarievenoverzicht
+  content: Verschillende diensten zijn beschikbaar. De eenmalige kosten zijn een schatting
+    en verschillen per situatie.
+  button:
+    title: ''
+    link: ''
+  tarieven:
+    items:
+    - title: Maandelijks
+      price: 99
+    - title: Eenmalig (ongeveer)
+      price: 350
+    footer: Prijzen zijn excl. BTW
+    title: Snel 4G internet
 menu:
   main:
     name: 4G Oplossingen
