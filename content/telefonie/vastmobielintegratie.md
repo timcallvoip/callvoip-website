@@ -45,7 +45,7 @@ hero:
   button:
     content: Vraag nu een offerte aan
     link: "/offerte"
-  image: ''
+  image: "/v1557906588/Vamos.png"
 intro:
   title: Wat zijn de kosten?
   content: 'De Vast Mobiel integratie van Callvoip komt in drie verschillende abonnementen:'
