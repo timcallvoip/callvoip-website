@@ -20,7 +20,7 @@ blocks:
     - Zakelijke SLA met hersteltijd binnen 16 kantooruren
     - Flexibel contract en inclusief kabel TV
     - Aantrekkelijke kortingen icm Vodafone Mobiel
-  image: "/v1552466820/phones.png"
+  image: "/v1559645336/Ziggo-logo.png"
   position: image_left
   title: Ziggo Zakelijk
 usps:
@@ -77,6 +77,7 @@ description: ''
 images: []
 menu:
   main:
+    name: ''
     weight: 2
     parent: Internet
     pre: Razendsnel internet via de coaxkabel van Ziggo.
