@@ -37,6 +37,15 @@ usps:
   - icon: fa-comment-alt-smile
     title: Alles bij 1 provider
     content: 'Alles bij één leverancier: één aanspreekpunt, één factuur'
+  - title: Kostenbesparing
+    content: Geen doorschakelkosten meer van de telefooncentrale naar uw mobiele telefoon.
+    icon: fa-cloud
+  - title: Werkt
+    content: Vamos is geschikt voor elke mobiele telefoon.
+    icon: fa-cloud
+  - icon: fa-cloud
+    title: Keuzevrijheid
+    content: U kunt uitbellen met zaak- of mobiel nummer, óf anoniem
 description: ''
 images:
 - "/v1559635655/Vamos-logo.png"
