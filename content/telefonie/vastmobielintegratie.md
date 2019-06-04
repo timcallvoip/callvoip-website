@@ -9,12 +9,18 @@ blocks:
   image: "/v1552466820/phones.png"
   position: image_left
   title: Zakelijke VoIP waar je op kan vertrouwen
-- content: "<p>Callvoip is de zakelijke telefonieprovider waar persoonlijk contact
-    centraal staat. Maak daarom kennis met [ons team](/team) en weet wie u aan de
-    lijn heeft.</p>"
-  image: "/v1552466837/windows.svg"
-  position: " image_right"
-  title: Met wie kom je te werken?
+- content: "Welke vorm van vast mobiel past bij u?\n<b>1. Ik wil mijn vaste nummer
+    kunnen doorschakelen naar mobiel</b>\nDan is een doorschakeling naar handig en
+    snel in te stellen op de Simmpl\ncentrale. \n<b>2. Ik wil vanaf mijn mobiel kunnen
+    uitbellen met mijn vaste nummer</b>\nQaller Plus biedt uitkomst: installeer hem
+    in een halve minuut; met Qaller Plus telefoonnota\n<b>3. Ik wil mijn mobiel zakelijk
+    gebruiken alsof het mijn zakelijke vaste toestel is</b>\nDan is <b>Vamos</b> iets
+    voor u: u krijgt een SIM kaart met daarop uw eigen of een nieuw 06-nummer en 2,
+    5 of 10 GB data. Samen met onze Vamos SIM is uw mobiele nummer dan volledig geïntegreerd
+    in de Simmpl omgeving.\n"
+  image: "/v1557906507/matrix_vast-mobiel-integratie_060519MT.png"
+  position: ''
+  title: Overzicht vast-mobiel integratie
 usps:
   title: Geniet van een beter telefoongesprek
   content: 'Enkele voordelen van Vast-Mobiel op een rijtje:'
@@ -85,12 +91,10 @@ prijzen:
       price: 25
 menu:
   main:
+    name: ''
     weight: 2
     parent: Telefonie
     pre: Integreer eenvoudig uw vaste en mobiele telefonie.
     post: fa-mobile-alt
 
 ---
-## Overzicht vast-mobiel integratie
-
-![](https://res.cloudinary.com/callvoip/image/upload/v1557906507/matrix_vast-mobiel-integratie_060519MT.png)
