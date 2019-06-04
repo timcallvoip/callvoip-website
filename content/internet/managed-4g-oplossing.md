@@ -48,9 +48,8 @@ intro:
   title: ''
   content: ''
 prijzen:
-- title: Tarievenoverzicht
-  content: Verschillende diensten zijn beschikbaar. De eenmalige kosten zijn een schatting
-    en verschillen per situatie.
+- title: Snel 4G internet
+  content: De eenmalige kosten zijn een schatting en verschillen per situatie.
   button:
     title: ''
     link: ''
@@ -62,6 +61,19 @@ prijzen:
       price: 350
     footer: Prijzen zijn excl. BTW
     title: Snel 4G internet
+- title: Snel 4G internet met onbeperkt data
+  content: ''
+  button:
+    title: ''
+    link: ''
+  tarieven:
+    title: Snel 4G internet met onbeperkt data
+    items:
+    - title: Maandelijks
+      price: 189
+    - title: Eenmalig (ongeveer)
+      price: 350
+    footer: Prijzen zijn excl. BTW
 menu:
   main:
     name: 4G Oplossingen
