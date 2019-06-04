@@ -74,3 +74,9 @@ menu:
     post: fa-laptop
 
 ---
+## Update januari 2019
+
+Geef uw Yealink-telefoon toegang tot het Click-to-Dial telefoonboek
+
+* Kopieer nummers vanuit Click to Dial en lokaliseer uw relatie snel in bv. uw CRM
+* Regelbutton CLICK-TO-DIAL hernoemd naar NUMMERHERKENNING, deze staat default uit. De groene telefoontjes worden pas zichtbaar als u de button inschakelt.
