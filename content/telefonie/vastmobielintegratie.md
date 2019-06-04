@@ -3,12 +3,15 @@ title: Vast Mobiel Integratie (Vamos)
 type: page
 layout: default
 blocks:
-- content: "<p>Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent,
-    dat gaat verder dan alleen maar telefonie. Betrouwbaar internet en goede apparatuur
-    mogen daarbij niet ontbreken.</p>"
+- content: |-
+    - Telefoonboek met statusindicatie (BLF): zie of collega's vrij of in gesprek zijn
+    - Een mobiel gesprek doorverbinden vanaf uw smartphone naar collega's
+    - Een mobiel gesprek in de wacht zetten en weer terugnemen
+    - Een mobiel gesprek overnemen op uw vaste toestel, of andersom
+    - Een mobiel gesprek opnemen als u gespreksopname aan heeft staan
   image: "/v1552466820/phones.png"
   position: image_left
-  title: Zakelijke VoIP waar je op kan vertrouwen
+  title: 'Vamos update april 2019:'
 - content: "Welke vorm van vast mobiel past bij u?\n<b>1. Ik wil mijn vaste nummer
     kunnen doorschakelen naar mobiel</b>\nDan is een <a href=\"/telefonie/functionaliteiten/doorverbinden/\">doorschakeling</a>
     naar uw mobiel handig en snel in te stellen op de Simmpl centrale. \n<b>2. Ik
@@ -35,7 +38,8 @@ usps:
     title: Alles bij 1 provider
     content: 'Alles bij één leverancier: één aanspreekpunt, één factuur'
 description: ''
-images: []
+images:
+- "/v1559635655/Vamos-logo.png"
 logos: false
 hero:
   title: Vast Mobiel Integratie (Vamos)
@@ -98,3 +102,29 @@ menu:
     post: fa-mobile-alt
 
 ---
+
+<h2>De mobiele app in gebruik nemen</h2>
+
+<div class="row">
+
+<div class="medium-3 columns"><img class="alignright size-full wp-image-6985" src="![](https://www.callvoiptelefonie.nl/wp-content/uploads/2019/01/Vamos-logo.png)" alt="Vamos" width="499" height="389"></div>
+
+<div class="medium-9 columns">
+
+<ul>
+
+ 	<li><a href="[https://play.google.com/store/apps/details?id=com.digifoon.fmc](https://play.google.com/store/apps/details?id=com.digifoon.fmc "https://play.google.com/store/apps/details?id=com.digifoon.fmc")" target="_blank" rel="noopener noreferrer">Download Vamos app voor Android</a></li>
+
+ 	<li><a href="[https://itunes.apple.com/nl/app/vamos-vast-mobiel/id1449692498](https://play.google.com/store/apps/details?id=com.digifoon.fmc "https://play.google.com/store/apps/details?id=com.digifoon.fmc")" target="_blank" rel="noopener noreferrer">Download Vamos App voor Apple</a></li>
+
+ 	<li><a href="[http://www.simmpl.nl/downloads/Simmpl_Vast-Mobiel-Integratie-mogelijkheden.pdf](https://play.google.com/store/apps/details?id=com.digifoon.fmc "https://play.google.com/store/apps/details?id=com.digifoon.fmc")" target="_blank" rel="noopener noreferrer">Overzicht Vast-Mobiel integratie</a></li>
+
+ 	<li><a href="[https://www.simmpl.nl/downloads/Simmpl_informatie_Vamos-vast-mobiel-integratie.pdf](https://play.google.com/store/apps/details?id=com.digifoon.fmc "https://play.google.com/store/apps/details?id=com.digifoon.fmc")" target="_blank" rel="noopener noreferrer">Informatie over Vamos</a></li>
+
+ 	<li><a href="[https://www.simmpl.nl/downloads/Simmpl_handleiding_ingebruikname_Vamos.pdf](https://play.google.com/store/apps/details?id=com.digifoon.fmc "https://play.google.com/store/apps/details?id=com.digifoon.fmc")" target="_blank" rel="noopener noreferrer">Handleiding Vamos</a></li>
+
+</ul>
+
+</div>
+
+</div>
