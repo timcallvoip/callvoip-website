@@ -1,15 +1,23 @@
 ---
 title: Click-to-Dial
 description: ''
-images: []
+images:
+- "/v1559637062/click-to-dial_icon.png"
 type: ''
 layout: ''
 logos: true
 hero:
-  title: Click to Dial
-  content: Met de nieuwe Simmpl Click-to-Dial-plugin van CallvoipTelefonie maakt u
-    in een handomdraai alle telefoonnummers in uw Chrome webbrowser klikbaar. Maar
-    dat is lang niet alles!
+  title: Click-to-Dial
+  content: "Met de nieuwe Simmpl Click-to-Dial-plugin van CallvoipTelefonie maakt
+    u in een handomdraai alle telefoonnummers in uw Chrome webbrowser klikbaar: \n<b>·
+    Click-to-dial:</b> klik en bel een nummer op uw toestel\n<b>· Select-and-dial:</b>
+    selecteer en right-click om te bellen\n<b>· Paste-and-dial:</b> plak/type een
+    nummer in de app en bel!\n<b>· Log met gesprekken (in/uit)</b> met datum en tijd\n<b>·
+    Popup inkomend gesprek:</b> met nummer en naam\n<b>· Adresboek:</b> voeg naam
+    toe en bookmark: prive/gedeeld\n<b>· Bedrijfstelefoonboek:</b> gedeelde nrs ook
+    zichtbaar bij collega’s\n<b>· Nummer-kopie-functie:</b> kopieer een nummer en
+    vind bellers nog sneller in uw CRM!\n<b>· Yealink-adresboek:</b> koppel uw Yealink
+    toestel met uw Click to Dial adresboek!"
   button:
     content: Bereken je kosten
     link: "/calculator"
@@ -64,8 +72,10 @@ intro:
 prijzen: []
 menu:
   main:
+    name: ''
     weight: 4
     parent: Telefonie
     pre: Maak eenvoudig alle telefoonnummers klikbaar én meer!
     post: fa-laptop
+
 ---
