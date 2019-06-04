@@ -38,8 +38,7 @@ prijzen:
     voor u de basis om succesvol te ondernemen. Met Ziggo Zakelijk Internet kunt u
     snel grote bestanden downloaden of in de cloud werken. Ziggo Zakelijk Internet
     wordt kosteloos geïnstalleerd door een monteur en wordt geleverd zonder vaste
-    IP-adressen. Ziggo Zakelijk Internet heeft de volgende pakketten met elk een eigen
-    internetsnelheid:'
+    IP-adressen. '
   button:
     title: Aanvragen
     link: https://www.callvoip.nl/download/callvoip/callvoip_aanvraagformulier_ziggo-connect-zzp.pdf
