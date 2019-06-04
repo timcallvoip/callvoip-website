@@ -31,9 +31,19 @@ blocks:
     4. Terwijl u geniet van snel en goed internet wordt de verbinding 24/7 gemonitord
   position: image_left
 usps:
-  title: ''
-  content: ''
-  items: []
+  title: Voordelen van een managed 4G-oplossing
+  content: 'Het fijne van een 4G-oplossing is dat het direct overal leverbaar is.
+    Verder:'
+  items:
+  - icon: ''
+    title: Snel en stabiel internet
+    content: ''
+  - icon: ''
+    title: Inclusief apparatuur en installatie
+    content: ''
+  - icon: ''
+    title: 365-dagen monitoring
+    content: ''
 intro:
   title: ''
   content: ''
