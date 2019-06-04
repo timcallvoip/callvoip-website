@@ -10,14 +10,14 @@ blocks:
   position: image_left
   title: Zakelijke VoIP waar je op kan vertrouwen
 - content: "Welke vorm van vast mobiel past bij u?\n<b>1. Ik wil mijn vaste nummer
-    kunnen doorschakelen naar mobiel</b>\nDan is een doorschakeling naar handig en
-    snel in te stellen op de Simmpl\ncentrale. \n<b>2. Ik wil vanaf mijn mobiel kunnen
-    uitbellen met mijn vaste nummer</b>\nQaller Plus biedt uitkomst: installeer hem
-    in een halve minuut; met Qaller Plus telefoonnota\n<b>3. Ik wil mijn mobiel zakelijk
-    gebruiken alsof het mijn zakelijke vaste toestel is</b>\nDan is <b>Vamos</b> iets
-    voor u: u krijgt een SIM kaart met daarop uw eigen of een nieuw 06-nummer en 2,
-    5 of 10 GB data. Samen met onze Vamos SIM is uw mobiele nummer dan volledig geïntegreerd
-    in de Simmpl omgeving.\n"
+    kunnen doorschakelen naar mobiel</b>\nDan is een <a href=\"/telefonie/functionaliteiten/doorverbinden/\">doorschakeling</a>
+    naar uw mobiel handig en snel in te stellen op de Simmpl centrale. \n<b>2. Ik
+    wil vanaf mijn mobiel kunnen uitbellen met mijn vaste nummer</b>\n<a href=\"/telefonie/qaller/\">Qaller</a>
+    Plus biedt uitkomst: installeer hem in een halve minuut; met Qaller Plus telefoonnota\n<b>3.
+    Ik wil mijn mobiel zakelijk gebruiken alsof het mijn zakelijke vaste toestel is</b>\nDan
+    is <b>Vamos</b> iets voor u: u krijgt een SIM kaart met daarop uw eigen of een
+    nieuw 06-nummer en 2, 5 of 10 GB data. Samen met onze Vamos SIM is uw mobiele
+    nummer dan volledig geïntegreerd in de Simmpl omgeving.\n"
   image: "/v1557906507/matrix_vast-mobiel-integratie_060519MT.png"
   position: ''
   title: Overzicht vast-mobiel integratie
