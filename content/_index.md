@@ -72,7 +72,7 @@ usps:
       omleidingen aanmaken. Daarnaast kunt u in één nummer meerdere omleidingen plaatsen.
   - icon: fa-bell
     title: Meldteksten
-    content: Met deze functionaliteit kunt u verschillende <a href="/telefonie/functionaliteiten/meldteksten/">meldtekst</a>
+    content: Met deze functionaliteit kunt u verschillende <a href="/telefonie/functionaliteiten/meldtekst/">meldtekst</a>
       in uw belplan plaatsen. Denk hierbij aan bijvoorbeeld een welkomst-meldtekst,
       een tekst wanneer iedereen in gesprek is, meldteksten voor binnen & buiten werktijd
       en aparte vakantiemeldingen.
