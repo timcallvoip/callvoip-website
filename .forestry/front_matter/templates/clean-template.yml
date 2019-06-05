@@ -32,7 +32,6 @@ fields:
   hidden: true
 pages:
 - content/telefonie/realtime-api.md
-- content/telefonie/functionaliteiten.md
 - content/telefonie/versleutelde-telefoongesprekken-met-srtp.md
 - content/bedank/offerte-aanvraag-ontvangen.md
 - content/telefonie/Functionaliteiten/tijdsconditie.md
@@ -50,3 +49,4 @@ pages:
 - content/telefonie/Functionaliteiten/voicemail.md
 - content/telefonie/Functionaliteiten/omleiding-flow-control.md
 - content/telefonie/Functionaliteiten/gespreksopname.md
+- content/telefonie/functionaliteiten.md
