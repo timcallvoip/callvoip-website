@@ -29,6 +29,20 @@ blocks:
   image: "/v1557910637/SC-logos-cti.png"
   position: image_left
   title: " Welke CRM applicaties kunt u koppelen?"
+- title: Vergelijking met andere integratie
+  image: "/v1557910428/SIMMPL_INTGRATIETABEL_141118MT.png"
+  content: "Hoe efficiënt wilt u het hebben? Koppel uw telefoonsysteem met andere
+    applicaties.\n\nDe Simmpl telefooncentrale van CallvoipTelefonie is klaar om te
+    koppelen!\nU weet het: we houden het graag Simmpl! En daarom ontwikkelden we een
+    koppeling die een basisintegratie biedt: een app voor de Chrome Browser met een
+    click to dial, een gesprekslog en een bedrijfstelefoonboek. Deze app is voor u
+    als Simmpl klant kostenloos.\n\nWilt u meer? Dan is er VoIP CTI: een kant-en-klare
+    koppelingsmogelijikheid met een grote keur aan CRM en ERP-pakketten. Deze biedt
+    u een specifiekere koppeling dan de click to dial.\n\nWilt u nóg meer? De Realtime
+    API van de Simmpl-centrale maakt het mogelijk om een eigen maatwerkkoppeling te
+    laten ontwikkelen. Desgewenst brengen wij u in contact met deskundige programmeurs
+    die de kunst van programmeren verstaan én de Simmpl API kennen. "
+  position: image_right
 usps:
   title: Geniet van een beter telefoongesprek
   content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent, dat
@@ -78,6 +92,4 @@ menu:
     post: fa-comment-alt-smile
 
 ---
-## Vergelijking met andere integraties:
-
-![](https://res.cloudinary.com/callvoip/image/upload/v1557910428/SIMMPL_INTGRATIETABEL_141118MT.png)
+## 
