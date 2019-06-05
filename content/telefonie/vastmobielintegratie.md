@@ -116,8 +116,6 @@ menu:
 
 <div class="row">
 
-<div class="medium-3 columns"><img class="alignright size-full wp-image-6985" src="" alt="Vamos" width="499" height="389"></div>
-
 <div class="medium-9 columns">
 
 <ul>
