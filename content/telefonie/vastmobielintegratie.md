@@ -104,7 +104,6 @@ prijzen:
       price: 25
 menu:
   main:
-    name: Vast mobiel
     weight: 2
     parent: Telefonie
     pre: Integreer eenvoudig uw vaste en mobiele telefonie.

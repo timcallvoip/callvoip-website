@@ -67,7 +67,6 @@ intro:
 prijzen: []
 menu:
   main:
-    name: Click to Dial
     weight: 4
     parent: Telefonie
     pre: Maak eenvoudig alle telefoonnummers klikbaar én meer!
