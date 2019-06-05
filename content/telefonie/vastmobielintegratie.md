@@ -21,7 +21,7 @@ blocks:
     - Een mobiel gesprek in de wacht zetten en weer terugnemen
     - Een mobiel gesprek overnemen op uw vaste toestel, of andersom
     - Een mobiel gesprek opnemen als u gespreksopname aan heeft staan
-  image: "/v1552466820/phones.png"
+  image: "/v1557906588/Vamos.png"
   position: image_right
   title: 'Vamos update april 2019:'
 usps:
@@ -52,13 +52,13 @@ images:
 logos: false
 hero:
   title: Vast Mobiel Integratie (Vamos)
-  content: Vamos staat voor Vast-Mobiel integratie voor Simmpl. Met Vamos maakt óók
+  content: Vamos staat voor Vast-Mobiel integratie op Simmpl. Met Vamos maakt óók
     uw Smartphone deel uit van de Simmpl Hosted VoIP centrale, gewoon met uw vaste
     zaaknummer.
   button:
     content: Vraag nu een offerte aan
     link: "/offerte"
-  image: "/v1557906588/Vamos.png"
+  image: "/v1555571805/phones.png"
 intro:
   title: Wat zijn de kosten?
   content: 'De Vast Mobiel integratie van Callvoip komt in drie verschillende abonnementen:'
@@ -112,9 +112,11 @@ menu:
 ---
 <h2>De mobiele app in gebruik nemen</h2>
 
+![](https://res.cloudinary.com/callvoip/image/upload/v1559635655/Vamos-logo.png)
+
 <div class="row">
 
-<div class="medium-3 columns"><img class="alignright size-full wp-image-6985" src="![](https://res.cloudinary.com/callvoip/image/upload/v1559635655/Vamos-logo.png)" alt="Vamos" width="499" height="389"></div>
+<div class="medium-3 columns"><img class="alignright size-full wp-image-6985" src="" alt="Vamos" width="499" height="389"></div>
 
 <div class="medium-9 columns">
 
