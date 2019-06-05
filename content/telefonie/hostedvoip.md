@@ -59,12 +59,11 @@ usps:
   - icon: fa-money-bill
     title: Is VoIP een alternatief voor ISDN?
     content: 'Heeft u één of meerdere ISDN aansluitingen en een telefooncentrale?
-      Dan is CallvoipTelefonie zeker een goed alternatief. CallvoipTelefonie biedt
-      u een volwaardig alternatief voor ISDN. Bovendien is CallvoipTelefonie zeer
-      flexibel inzetbaar (denk aan thuiswerken en verhuizen) en uiteraard stukken
-      goedkoper. Porteer uw huidige telefoonnummers of vraag nieuwe nummers aan. Elk
-      nummer heeft een onbeperkt aantal lijnen. Een geavanceerde online telefooncentrale
-      voorziet u van alle gewenste functionaliteiten.  '
+      Dan is Callvoip zeker een goed alternatief. Callvoip biedt u een volwaardig
+      alternatief voor ISDN. Bovendien is Callvoip zeer flexibel inzetbaar (denk aan
+      thuiswerken en verhuizen) en uiteraard stukken goedkoper. <a href="/calculator/">Bereken
+      het zelf!</a> Porteer uw huidige telefoonnummers of vraag nieuwe nummers aan.
+      Elk nummer heeft een onbeperkt aantal lijnen.   '
   - icon: fa-cloud
     title: Biedt VoIP voldoende functionaliteiten?
     content: 'Bij Callvoip hoeft u echt niets aan functionaliteiten in te leveren.
