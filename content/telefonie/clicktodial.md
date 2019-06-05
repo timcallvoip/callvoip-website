@@ -56,6 +56,15 @@ usps:
   - icon: fa-mouse-pointer
     title: Gemak
     content: Elk telefoonnummer in Chrome Browser klik- en belbaar
+  - icon: fa-users
+    title: Telefoonboek
+    content: Houd eenvoudig een privé en bedrijfstelefoonboek bij
+  - icon: fa-rocket
+    title: BLF
+    content: Zie snel of uw collega in gesprek is
+  - icon: fa-arrows-h
+    title: Verbind gesprekken door
+    content: U kunt nu inkomende oproepen doorverbinden naar uw collega's
 intro:
   title: ''
   content: ''
