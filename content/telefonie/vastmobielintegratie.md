@@ -65,8 +65,8 @@ intro:
 prijzen:
 - content: Onbeperkt bellen in EU + 2GB data
   button:
-    title: Vraag nu aan
-    link: ''
+    title: Nu aanvragen
+    link: "/mijncallvoip/aanvragen/vamos"
   tarieven:
     title: Per SIM-kaart
     footer: Prijzen zijn excl. BTW
@@ -88,12 +88,12 @@ prijzen:
       price: 25
   button:
     title: Nu aanvragen
-    link: ''
+    link: "/mijncallvoip/aanvragen/vamos"
 - title: 10 GB data
   content: Onbeperkt bellen in EU + 2GB data
   button:
     title: Nu aanvragen
-    link: ''
+    link: "/mijncallvoip/aanvragen/vamos"
   tarieven:
     title: Per SIM-kaart
     footer: Prijzen zijn excl. BTW
