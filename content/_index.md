@@ -38,7 +38,7 @@ usps:
   content: <p>Callvoip levert met Simmpl een telefooncentrale dat zorgt voor optimale
     bereikbaarheid én een professionele uitstraling naar uw klanten. In het basispakket
     zitten al veel functionaliteiten. Benieuwd naar alle functionaliteiten die zich
-    in het basispakket bevinden? Klik op de knop hieronder!</p>  <a href="/overons/team"
+    in het basispakket bevinden? Klik op de knop hieronder!</p>  <a href="/telefonie/functionaliteiten/"
     class="button">Overzicht functionaliteiten</a>
   items:
   - icon: fa-file-audio
