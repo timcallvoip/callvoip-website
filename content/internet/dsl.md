@@ -91,14 +91,13 @@ description: ''
 images: []
 menu:
   main:
-    name: 'ADSL'
+    name: ADSL
     weight: 1
     parent: Internet
     pre: De beste DSL verbinding als basis van uw telefonie.
     post: fa-wifi
 
 ---
-
 ## Extra mogelijkheden CallvoipDSL
 
 * <b>PIN over IP</b> - €5,- per maand (excl. BTW)

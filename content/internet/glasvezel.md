@@ -75,7 +75,6 @@ description: ''
 images: []
 menu:
   main:
-    name: ''
     weight: 3
     parent: Internet
     pre: Supersnelle download- en uploadsnelheid met glasvezel.

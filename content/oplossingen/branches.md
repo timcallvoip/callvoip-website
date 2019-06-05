@@ -69,7 +69,7 @@ prijzen:
   content: Geen telefooncentrale op locatie, maar een moderne gebruiksvriendelijk.
   button:
     title: Stel je pakket samen
-    link:
+    link: 
   tarieven:
     title: Maandelijkse kosten
     footer: Prijzen zijn vanaf en per maand
@@ -84,7 +84,7 @@ prijzen:
   content: Geen telefooncentrale op locatie, maar een moderne gebruiksvriendelijk.
   button:
     title: Stel je pakket samen
-    link:
+    link: 
   tarieven:
     title: Maandelijkse kosten
     footer: Prijzen zijn vanaf en per maand
@@ -99,7 +99,7 @@ prijzen:
   content: Geen telefooncentrale op locatie, maar een moderne gebruiksvriendelijk.
   button:
     title: Stel je pakket samen
-    link:
+    link: 
   tarieven:
     title: Maandelijkse kosten
     footer: Prijzen zijn vanaf en per maand

@@ -104,14 +104,13 @@ prijzen:
       price: 25
 menu:
   main:
-    name: 'Vast mobiel'
+    name: Vast mobiel
     weight: 2
     parent: Telefonie
     pre: Integreer eenvoudig uw vaste en mobiele telefonie.
     post: fa-mobile-alt
 
 ---
-
 <h2>De mobiele app in gebruik nemen</h2>
 
 <div class="row">

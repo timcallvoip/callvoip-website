@@ -67,14 +67,13 @@ intro:
 prijzen: []
 menu:
   main:
-    name: 'Click to Dail'
+    name: Click to Dail
     weight: 4
     parent: Telefonie
     pre: Maak eenvoudig alle telefoonnummers klikbaar én meer!
     post: fa-laptop
 
 ---
-
 ## Gelijk aan de slag!
 
 **Installeer de gratis app gelijk!  
