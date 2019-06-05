@@ -45,7 +45,7 @@ prijzen:
     items:
     - title: Maandelijks
       price: 45
-    title: 60-om-60 Mbit/s
+    title: 'U bent klant van Callvoip:'
 - title: 100-om-100 Mbit/s
   content: De eenmalige kosten verschillen per situatie. Wij informeren u graag!
   button:
@@ -56,9 +56,7 @@ prijzen:
     items:
     - title: Maandelijks
       price: 55
-    - title: Eenmalig
-      price: 50
-    title: 100-om-100 Mbit/s
+    title: 'U bent klant van Callvoip:'
 - title: 500-om-500 Mbit/s
   content: De eenmalige kosten verschillen per situatie. Wij informeren u graag!
   button:
@@ -69,7 +67,7 @@ prijzen:
     - title: Maandelijks
       price: 75
     footer: Prijzen zijn excl. BTW
-    title: 500-om-500 Mbit/s
+    title: 'U bent klant van Callvoip:'
 description: ''
 images: []
 menu:
