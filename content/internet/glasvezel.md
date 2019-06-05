@@ -36,23 +36,21 @@ intro:
   content: ''
 prijzen:
 - title: 60-om-60 Mbit/s
-  content: ''
+  content: De eenmalige kosten verschillen per situatie. Wij informeren u graag!
   button:
-    title: ''
-    link: ''
+    title: Direct bestellen
+    link: http://www.simmpl.nl/downloads/callvoip_ftth_aanvraagformulier.pdf
   tarieven:
     footer: Prijzen zijn excl. BTW
     items:
     - title: Maandelijks
       price: 45
-    - title: Eenmalig
-      price: 50
-    title: ''
+    title: 60-om-60 Mbit/s
 - title: 100-om-100 Mbit/s
-  content: ''
+  content: De eenmalige kosten verschillen per situatie. Wij informeren u graag!
   button:
-    title: ''
-    link: ''
+    title: Direct bestellen
+    link: http://www.simmpl.nl/downloads/callvoip_ftth_aanvraagformulier.pdf
   tarieven:
     footer: Prijzen zijn excl. BTW
     items:
@@ -60,25 +58,23 @@ prijzen:
       price: 55
     - title: Eenmalig
       price: 50
-    title: ''
+    title: 100-om-100 Mbit/s
 - title: 500-om-500 Mbit/s
-  content: ''
+  content: De eenmalige kosten verschillen per situatie. Wij informeren u graag!
   button:
-    title: ''
-    link: ''
+    title: Direct bestellen
+    link: http://www.simmpl.nl/downloads/callvoip_ftth_aanvraagformulier.pdf
   tarieven:
     items:
     - title: Maandelijks
       price: 75
-    - title: Eenmalig
-      price: 50
     footer: Prijzen zijn excl. BTW
-    title: ''
+    title: 500-om-500 Mbit/s
 description: ''
 images: []
 menu:
   main:
-    name: Glasvezel
+    name: ''
     weight: 3
     parent: Internet
     pre: Supersnelle download- en uploadsnelheid met glasvezel.
