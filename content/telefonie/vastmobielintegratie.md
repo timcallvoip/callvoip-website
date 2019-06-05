@@ -39,7 +39,7 @@ usps:
     content: 'Alles bij één leverancier: één aanspreekpunt, één factuur'
   - title: Kostenbesparing
     content: Geen doorschakelkosten meer van de telefooncentrale naar uw mobiele telefoon.
-    icon: fa-cloud
+    icon: fa-piggy-bank
   - title: Werkt
     content: Vamos is geschikt voor elke mobiele telefoon.
     icon: fa-cloud
