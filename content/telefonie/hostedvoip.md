@@ -33,7 +33,7 @@ usps:
     doen we graag met onze Hosted VoIP oplossing, maar wat is dat eigenlijk? En hoe
     betrouwbaar is het?
   items:
-  - icon: fa-cloud
+  - icon: fa-heartbeat
     title: Wat heb ik nodig?
     content: 'Voor VoIP telefonie heeft u een aantal dingen nodig om te kunnen bellen.
       Ten eerste uiteraard een <a href="/telefoonnummers/">telefoonnummer</a> waar
@@ -42,13 +42,13 @@ usps:
       nodig met voldoende bandbreedte. Per gesprek heeft u ongeveer 100Kbit/seconde
       nodig. In de praktijk betekent dit dat u over 1Mb uploadsnelheid ongeveer 8
       gesprekken kunt voeren.  '
-  - icon: fa-user-lock
+  - icon: fa-cog
     title: Hoe werkt VoIP?
     content: VoIP (Voice over Internet Protocol) is kort gezegd bellen over internet.
       Voorheen had u ISDN lijnen nodig om hierover te bellen, maar met VoIP worden
       deze overbodig. Een telefoontoestel sluit u voortaan aan op uw internetverbinding.
       Deze toestellen melden zich aan op de online telefooncentrale op het internet.
-  - icon: fa-comment-alt-smile
+  - icon: fa-exlamation-circle
     title: Is VoIP betrouwbaar?
     content: CallvoipTelefonie is uiterst betrouwbaar. Mocht uw internetverbinding
       onverhoopt uitvallen, dan schakelt de telefooncentrale automatisch door naar
@@ -56,7 +56,7 @@ usps:
       kunt u overwegen om een backup verbinding te nemen. Met een speciale router
       kunt u beide verbindingen samenvoegen en indien één verbinding uitvalt, neemt
       de andere het verkeer automatisch over.
-  - icon: fa-laptop
+  - icon: fa-money-bill
     title: Is VoIP een alternatief voor ISDN?
     content: 'Heeft u één of meerdere ISDN aansluitingen en een telefooncentrale?
       Dan is CallvoipTelefonie zeker een goed alternatief. CallvoipTelefonie biedt
@@ -65,14 +65,14 @@ usps:
       goedkoper. Porteer uw huidige telefoonnummers of vraag nieuwe nummers aan. Elk
       nummer heeft een onbeperkt aantal lijnen. Een geavanceerde online telefooncentrale
       voorziet u van alle gewenste functionaliteiten.  '
-  - icon: fa-comment-alt-smile
+  - icon: fa-cloud
     title: Biedt VoIP voldoende functionaliteiten?
     content: 'Bij CallvoipTelefonie hoeft u echt niets aan functionaliteiten in te
       leveren. Via een geavanceerde online telefooncentrale (hosted PBX) beschikt
       u over tal van professionele functionaliteiten waarvoor u tot op heden een dure
       eigen telefooncentrale voor nodig had. U krijgt persoonlijke inloggegevens voor
       de telefooncentrale waarop u via internet kunt inloggen. '
-  - icon: fa-comment-alt-smile
+  - icon: fa-wifi
     title: Welke internetverbinding is het meest geschikt?
     content: Praktisch iedere internetverbinding is geschikt. Dit kan zowel <a href="/internet/dsl/">dsl</a>,
       <a href="/internet/glasvezel/">glasvezel</a> of <a href="/internet/kabel/">via
