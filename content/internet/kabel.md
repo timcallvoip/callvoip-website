@@ -46,11 +46,11 @@ prijzen:
     title: Maandelijkse kosten
     footer: 3 verschillende pakketten om tussenuit te kiezen
     items:
-    - title: Zakelijk Internet Start (60-om-10)
+    - title: Zakelijk Internet Start <br> (60-om-10)
       price: 39
-    - title: Zakelijk Internet Complete (250-om-40)
+    - title: Zakelijk Internet Complete <br> (250-om-40)
       price: '46.50'
-    - title: Zakelijk Internet Max (500-om-50)
+    - title: Zakelijk Internet Max <br> (500-om-50)
       price: 65
 - title: Ziggo Zakelijk Internet Pro
   content: 'Ziggo Zakelijk Internet Pro is een supersnelle internetverbinding met
