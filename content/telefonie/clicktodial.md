@@ -3,8 +3,8 @@ title: Click-to-Dial
 description: ''
 images:
 - "/v1559637062/click-to-dial_icon.png"
-type: 'page'
-layout: 'default'
+type: page
+layout: default
 logos: false
 hero:
   title: Click-to-Dial
@@ -67,7 +67,7 @@ intro:
 prijzen: []
 menu:
   main:
-    name: Click to Dail
+    name: Click to Dial
     weight: 4
     parent: Telefonie
     pre: Maak eenvoudig alle telefoonnummers klikbaar én meer!

@@ -14,21 +14,21 @@ taxonomies:
 menu:
   top:
   - pre: external
-    url: https://www.callvoiptelefonie.nl/mijncallvoip/
-    name: Mijn Callvoip
-    weight: 3
-  - pre: external
-    url: https://panel.callvoip.nl/login/panel
-    name: Login
-    weight: 5
+    url: https://status.kwebbl.com/
+    name: Status
+    weight: 1
   - pre: external
     url: https://callvoip.shop/
     name: Webshop
     weight: 4
   - pre: external
-    url: https://status.kwebbl.com/
-    name: Status
-    weight: 1
+    url: https://panel.callvoip.nl/login/panel
+    name: Login
+    weight: 5
+  - pre: external
+    url: https://www.callvoiptelefonie.nl/mijncallvoip/
+    name: Mijn Callvoip
+    weight: 3
   - url: "/ondersteuning"
     name: Ondersteuning
     weight: 2

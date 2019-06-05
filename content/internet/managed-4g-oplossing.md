@@ -2,8 +2,8 @@
 title: Managed 4G-oplossing
 description: ''
 images: []
-type: 'page'
-layout: 'default'
+type: page
+layout: default
 logos: false
 hero:
   title: Managed 4G-oplossing
