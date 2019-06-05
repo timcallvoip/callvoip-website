@@ -25,18 +25,18 @@ usps:
   title: Waarom kiezen voor glasvezel van Callvoip (FTTH)?
   content: ''
   items:
-  - icon: ''
+  - icon: fa-hand-pointer
     title: Eén aanspreekpunt
     content: Eén aanspreekpunt voor internet, telefonie, apparatuur en installatie
-  - icon: ''
+  - icon: fa-piggy-bank
     title: Korting
     content: CallvoipTelefonie-klanten krijgen korting op Callvoip internet
-  - icon: ''
+  - icon: fa-trophy
     title: Perfecte basis
     content: Callvoip internet biedt een goede basis voor uw telefonie
 intro:
   title: Abonnementen
-  content: Callvoip biedt drie verschillende FFTH-abonnementen.
+  content: Callvoip biedt drie verschillende FTTH-abonnementen.
 prijzen:
 - title: 60-om-60 Mbit/s
   content: De eenmalige kosten verschillen per situatie. Wij informeren u graag!
