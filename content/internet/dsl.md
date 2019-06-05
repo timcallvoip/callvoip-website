@@ -25,22 +25,25 @@ usps:
   title: Waarom kiezen voor CallvoipDSL
   content: ''
   items:
-  - icon: ''
+  - icon: fa-hand-pointer
     title: Één aanspreekpunt
-    content: Zo heeft u Ja ik wil 1 aanspreekpunt en krijgt u vaak korting op de maandelijkse
-      abonnementsprijs.
-  - icon: ''
-    content: Callvoip levert de beloofde snelheid!
+    content: U heeft 1 aanspreekpunt voor uw telefonie en internet.
+  - icon: fa-rocket
+    content: 'Callvoip levert de beloofde snelheid! '
     title: Snelheid
-  - content: 10% korting in combinatie met telefonie
+  - content: Callvoip klanten krijgen 10% korting op de standaard prijzen.
     title: Korting
-    icon: ''
-  - icon: ''
+    icon: fa-money-bill
+  - icon: fa-bars
     title: Vast IP-adres
-    content: Standaard 1 vast IP adres – mogelijkheid voor meer
+    content: Standaard 1 vast IP adres – mogelijkheid voor meer natuurlijk.
   - title: Beheer
-    content: 3 maanden gratis Beheer & Monitoring
-    icon: ''
+    content: 3 maanden gratis Beheer & Monitoring door Callvoip.
+    icon: fa-window-restore
+  - icon: fa-trophy
+    title: Beste apparatuur
+    content: Wij informeren u graag welke apparatuur het beste past voor de beste
+      resultaten.
 intro:
   title: Welke abonnementen zijn er?
   content: ''
