@@ -67,7 +67,7 @@ intro:
 prijzen: []
 menu:
   main:
-    name: ''
+    name: 'Click to Dail'
     weight: 4
     parent: Telefonie
     pre: Maak eenvoudig alle telefoonnummers klikbaar én meer!

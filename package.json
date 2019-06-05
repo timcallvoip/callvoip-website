@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "webpack --progress --colors --watch",
+    "icons": "webpack --progress --colors --watch",
     "start": "hugo server --disableFastRender"
   },
   "author": "",

@@ -29,8 +29,11 @@ import { faWifi } from "@fortawesome/pro-light-svg-icons/faWifi";
 import { faEnvelope } from "@fortawesome/pro-light-svg-icons/faEnvelope";
 import { faFile } from "@fortawesome/pro-light-svg-icons/faFile";
 import { faGlobe } from "@fortawesome/pro-light-svg-icons/faGlobe";
+import { faMobile } from "@fortawesome/pro-light-svg-icons/faMobile";
+import { faClock } from "@fortawesome/pro-light-svg-icons/faClock";
+import { faFileAudio } from "@fortawesome/pro-light-svg-icons/faFileAudio";
 
-library.add(faCloud, faLaptop, faSearch, faEnvelope, faFile, faGlobe, faWifi, faBars, faUser, faMegaphone, faBoxOpen, faCommentAlt, faUserLock, faMobileAlt, faPhoneVolume, faCodeBranch, faCommentAltSmile, faFileSignature, faPiggyBank, faFileContract, faBoxesAlt, faAngleRight, faHome, faBuilding, faComments, faPhone, faDesktop, faTabletAlt,faHeadset);
+library.add(faCloud, faClock, faLaptop, faFileAudio, faSearch, faEnvelope, faFile, faMobile, faGlobe, faWifi, faBars, faUser, faMegaphone, faBoxOpen, faCommentAlt, faUserLock, faMobileAlt, faPhoneVolume, faCodeBranch, faCommentAltSmile, faFileSignature, faPiggyBank, faFileContract, faBoxesAlt, faAngleRight, faHome, faBuilding, faComments, faPhone, faDesktop, faTabletAlt,faHeadset);
 
 
 dom.watch();

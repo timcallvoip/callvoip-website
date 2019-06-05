@@ -7,6 +7,10 @@
 
 /* Buttons */
 
+a {
+  @apply text-blue;
+}
+
 .button-outline {
   @apply border-blue border-2 text-blue no-underline font-medium rounded-full py-4 px-8 inline-flex items-center leading-none;
 }
