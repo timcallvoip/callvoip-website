@@ -1,12 +1,9 @@
-<div v-if="menuMain" @click.self="toggleMenu()" class="fixed opacity-0" v-bind:class="[search ? 'animated fadeIn z-30 pin bg-grey-75 opacity-100' : '',]" >
-  <div class="animated mt-16 mr-4 slideInRight bg-grey-dark rounded text-grey-darkest absolute z-40 right-0 top-0  shadow-lg py-2"
-    style="min-width: 230px;">
+<div  class="absolute z-20 bg-white mt-6  w-full shadow py-6 px-6 flex flex-col ist-reset litems-center justify-between w-full text-lg" >
     <nav class="">
       {{ range $index, $element := .Site.Menus.main }}
-      <a href="{{.URL}}" class="no-underline flex w-full px-4 py-3  text-white no-underline items-center">
+      <a href="{{.URL}}" class="no-underline flex w-full px-4 py-3 no-underline items-center">
         {{ .Name }}
       </a>
       {{ end }}
     </nav>
-  </div>
 </div>

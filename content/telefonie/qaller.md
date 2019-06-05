@@ -65,13 +65,6 @@ intro:
     gaat verder dan alleen maar telefonie. Betrouwbaar internet en goede apparatuur
     mogen daarbij niet ontbreken.
 prijzen: []
-menu:
-  main:
-    name: ''
-    weight: 
-    parent: ''
-    pre: ''
-    post: ''
 description: ''
 images: []
 

@@ -91,7 +91,7 @@ description: ''
 images: []
 menu:
   main:
-    name: ''
+    name: 'ADSL'
     weight: 1
     parent: Internet
     pre: De beste DSL verbinding als basis van uw telefonie.

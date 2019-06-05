@@ -76,7 +76,7 @@ description: ''
 images: []
 menu:
   main:
-    name: ''
+    name: 'Kabel internet'
     weight: 2
     parent: Internet
     pre: Razendsnel internet via de coaxkabel van Ziggo.
