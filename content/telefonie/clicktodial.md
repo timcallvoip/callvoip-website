@@ -14,8 +14,8 @@ hero:
 
 '
   button:
-    content: Bereken je kosten
-    link: "/calculator"
+    content: Offerte aanvragen
+    link: "/offerte/"
   image: "/v1557822744/C2D-update-jan19.png"
 blocks:
 - title: Welke functies heeft de Click-to-Dial plugin allemaal?
@@ -74,16 +74,14 @@ menu:
     post: fa-laptop
 
 ---
+
 ## Gelijk aan de slag!
 
-**Installeer de gratis app gelijk!
-**Met onze handleiding heeft u de plugin in een handomdraai geïnstalleerd. Bel/mail gerust voor hulp!
+<br>
 
-<a href="[https://chrome.google.com/webstore/detail/simmpl-click-to-dial/hnjepanannlajhppemgdmcjjpimlhkgm?hl=nl](https://chrome.google.com/webstore/detail/simmpl-click-to-dial/hnjepanannlajhppemgdmcjjpimlhkgm?hl=nl "https://chrome.google.com/webstore/detail/simmpl-click-to-dial/hnjepanannlajhppemgdmcjjpimlhkgm?hl=nl")" class="button">Download plugin</a>
+<a href="[https://chrome.google.com/webstore/detail/simmpl-click-to-dial/hnjepanannlajhppemgdmcjjpimlhkgm?hl=nl](https://chrome.google.com/webstore/detail/simmpl-click-to-dial/hnjepanannlajhppemgdmcjjpimlhkgm?hl=nl "https://chrome.google.com/webstore/detail/simmpl-click-to-dial/hnjepanannlajhppemgdmcjjpimlhkgm?hl=nl")" class="button">Download plugin</a><a href="[http://www.simmpl.nl/downloads/Simmpl_snelstarthandleiding_ClicktoDial.pdf](http://www.simmpl.nl/downloads/Simmpl_snelstarthandleiding_ClicktoDial.pdf "http://www.simmpl.nl/downloads/Simmpl_snelstarthandleiding_ClicktoDial.pdf")" class="button">Handleiding</a><a href="[http://www.simmpl.nl/downloads/Simmpl_snelstarthandleiding_Yealink-C2D-adresboek.pdf](http://www.simmpl.nl/downloads/Simmpl_snelstarthandleiding_Yealink-C2D-adresboek.pdf "http://www.simmpl.nl/downloads/Simmpl_snelstarthandleiding_Yealink-C2D-adresboek.pdf")" class="button">Yealink adresboek</a>
 
-<a href="[http://www.simmpl.nl/downloads/Simmpl_snelstarthandleiding_ClicktoDial.pdf](http://www.simmpl.nl/downloads/Simmpl_snelstarthandleiding_ClicktoDial.pdf "http://www.simmpl.nl/downloads/Simmpl_snelstarthandleiding_ClicktoDial.pdf")" class="button">Handleiding</a>
-
-<a href="[http://www.simmpl.nl/downloads/Simmpl_snelstarthandleiding_Yealink-C2D-adresboek.pdf](http://www.simmpl.nl/downloads/Simmpl_snelstarthandleiding_Yealink-C2D-adresboek.pdf "http://www.simmpl.nl/downloads/Simmpl_snelstarthandleiding_Yealink-C2D-adresboek.pdf")" class="button">Yealink adresboek</a>
+<br>
 
 ## Update januari 2019
 
