@@ -23,7 +23,7 @@ blocks:
 
     Voor veel pakketten is de installatie eenvoudig: installeer de Client software per gebruiker en gebruik de CRM Configurator om de koppeling tot stand te brengen.
 
-    Hier links ziet u slechts een selectie van pakketten waarmee onze Hosted VoIP centrale gekoppeld kan worden. In totaal kan er met meer dan 100 pakketten een koppeling worden gemaakt! Benieuwd of de telefooncentrale gekoppeld kan worden?
+    Hier links ziet u slechts een selectie van pakketten waarmee onze Hosted VoIP centrale gekoppeld kan worden. In totaal kan er met meer dan 100 pakketten een koppeling worden gemaakt! Benieuwd of de telefooncentrale gekoppeld kan worden met uw pakket?
 
     <a href="/offerte/" class="button">Vraag dan nu een offerte aan</a>
   image: "/v1557910637/SC-logos-cti.png"
