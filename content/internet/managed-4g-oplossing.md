@@ -2,8 +2,8 @@
 title: Managed 4G-oplossing
 description: ''
 images: []
-type: ''
-layout: ''
+type: 'page'
+layout: 'default'
 logos: false
 hero:
   title: Managed 4G-oplossing
@@ -83,9 +83,9 @@ menu:
     post: fa-wifi
 
 ---
-Let op:  
-– Installatiekosten kunnen variëren obv wensen, dit wordt met u besproken  
-– De abonnementskosten worden per 12 maanden vooraf in rekening gebracht.  
-– Dataverbruik wordt gemonitord, uitbreiding naar passende bundel is mogelijk tegen meerprijzen  
-– Alle bedragen zijn excl. BTW.  
+Let op:
+– Installatiekosten kunnen variëren obv wensen, dit wordt met u besproken
+– De abonnementskosten worden per 12 maanden vooraf in rekening gebracht.
+– Dataverbruik wordt gemonitord, uitbreiding naar passende bundel is mogelijk tegen meerprijzen
+– Alle bedragen zijn excl. BTW.
 – Vragen of meer informatie? Neem contact met ons op!

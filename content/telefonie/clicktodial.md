@@ -3,8 +3,8 @@ title: Click-to-Dial
 description: ''
 images:
 - "/v1559637062/click-to-dial_icon.png"
-type: ''
-layout: ''
+type: 'page'
+layout: 'default'
 logos: false
 hero:
   title: Click-to-Dial
@@ -76,7 +76,7 @@ menu:
 ---
 ## Gelijk aan de slag!
 
-**Installeer de gratis app gelijk!  
+**Installeer de gratis app gelijk!
 **Met onze handleiding heeft u de plugin in een handomdraai geïnstalleerd. Bel/mail gerust voor hulp!
 
 <a href="[https://chrome.google.com/webstore/detail/simmpl-click-to-dial/hnjepanannlajhppemgdmcjjpimlhkgm?hl=nl](https://chrome.google.com/webstore/detail/simmpl-click-to-dial/hnjepanannlajhppemgdmcjjpimlhkgm?hl=nl "https://chrome.google.com/webstore/detail/simmpl-click-to-dial/hnjepanannlajhppemgdmcjjpimlhkgm?hl=nl")" class="button">Download plugin</a>
