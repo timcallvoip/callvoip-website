@@ -37,11 +37,6 @@ blocks:
   content: |-
     Alle telefoonnummers in uw Chrome browser worden belbaar. Nummers worden getoond met een groen hoorntje of u kunt ze rechts-klikken of kopieren ien plakken in de Click to Dial app.
     Zodra u klikt, rechts klikt of het nummer plakt in de app, zal uw eigen telefoon direct overgaan. Zodra u de hoorn opneemt, zal uw telefoon starten met bellen naar het nummer waarop u klikte. Hierdoor hoeft u zelf geen telefoonnummers meer in te toetsen: geen fouten, geen bril op zetten, geen tijdverlies: gewoon snel en simmpl bellen!
-
-    Telefoonboek
-    Voeg telefoonnummers toe aan het telefoonboek door in tabblad LOG te klikken op het STER-icoon te klikken. Geef het contact een naam en het staat in uw adresboek.
-    Het contact staat nu in tab TELEFOONBOEK. U kunt een contact naar wens PRIVE of GEDEELD maken door op het icoon (één of meer poppetjes) te klikken.
-    Voeg losse contacten toe in tab TELEFOONBOEK via de [ + ] button.
   position: image_right
 usps:
   title: Voordelen Simmpl Click to Dial
