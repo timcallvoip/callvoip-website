@@ -48,35 +48,14 @@ usps:
     gaat verder dan alleen maar telefonie. Betrouwbaar internet en goede apparatuur
   items:
   - icon: fa-cloud
-    title: Moderne centrale in de cloud
-    content: Callvoip is er voor elke ondernemer. Voor de zelfstandige, die graag
-      bereikbaar is op een vast nummer. Maar wij zijn er ook voor de international
-      met 10.000 werkplekken.
+    title: Efficiënt
+    content: Zet heel eenvoudig een gesprek op door op het nummer te klikken
   - icon: fa-user-lock
-    title: Je eigen beveiligde omgeving
-    content: Callvoip is er voor elke ondernemer. Voor de zelfstandige, die graag
-      bereikbaar is op een vast nummer. Maar wij zijn er ook voor de international
-      met 10.000 werkplekken.
+    title: Klantvriendelijk
+    content: U weet wie u aan de lijn hebt en kan de klant snel en efficiënt helpen
   - icon: fa-comment-alt-smile
-    title: Geen moeilijke software
-    content: Callvoip is er voor elke ondernemer. Voor de zelfstandige, die graag
-      bereikbaar is op een vast nummer. Maar wij zijn er ook voor de international
-      met 10.000 werkplekken.
-  - icon: fa-laptop
-    title: Werkt op Apple en Windows
-    content: Callvoip is er voor elke ondernemer. Voor de zelfstandige, die graag
-      bereikbaar is op een vast nummer. Maar wij zijn er ook voor de international
-      met 10.000 werkplekken.
-  - icon: fa-comment-alt-smile
-    title: Geen moeilijke software
-    content: Callvoip is er voor elke ondernemer. Voor de zelfstandige, die graag
-      bereikbaar is op een vast nummer. Maar wij zijn er ook voor de international
-      met 10.000 werkplekken.
-  - icon: fa-comment-alt-smile
-    title: Geen moeilijke software
-    content: Callvoip is er voor elke ondernemer. Voor de zelfstandige, die graag
-      bereikbaar is op een vast nummer. Maar wij zijn er ook voor de international
-      met 10.000 werkplekken.
+    title: Werknemerstevredenheid
+    content: Het werk wordt gemakkelijker, geen verkeerde nummers meer!
 description: ''
 images: []
 intro:
