@@ -47,21 +47,15 @@ usps:
   title: Voordelen Simmpl Click to Dial
   content: ''
   items:
-  - icon: fa-comment-alt-smile
-    title: gratis
-    content: voor alle CallvoipTelefonie-abonnees!
   - icon: fa-laptop
-    title: popup notificatie
-    content: van inkomende gesprekken
+    title: Pop-up notificatie
+    content: Krijg een melding bij inkomende gesprekken
   - icon: fa-comment-alt-smile
-    title: eenvoudige installatie
-    content: met handleiding
-  - icon: fa-user-lock
-    title: elk telefoonnummer
-    content: in Chrome Browser klik- en belbaar
-  - icon: fa-cloud
-    title: klik en bel
-    content: uw telefoon gaat gelijk een nummer bellen
+    title: Eenvoudige installatie
+    content: Gemakkelijk geïnstalleerd met onze handleiding
+  - icon: fa-mouse-pointer
+    title: Gemak
+    content: Elk telefoonnummer in Chrome Browser klik- en belbaar
 intro:
   title: ''
   content: ''
