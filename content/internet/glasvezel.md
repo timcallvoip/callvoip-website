@@ -9,8 +9,8 @@ hero:
     Ee upload- als de downloadsnelheid staan aan elkaar gelijk. Zo heeft u 1 aanspreekpunt
     en ontvangt u korting op de maandelijkse abonnementsprijs.
   button:
-    content: ''
-    link: ''
+    content: Offerte aanvragen
+    link: "/offerte/"
   image: ''
 blocks:
 - title: Callvoip FTTH Glasvezel – dé beste basis voor VoIP telefonie!
