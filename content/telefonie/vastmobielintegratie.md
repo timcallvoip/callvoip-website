@@ -28,13 +28,13 @@ usps:
   title: Geniet van een beter telefoongesprek
   content: 'Enkele voordelen van Vast-Mobiel op een rijtje:'
   items:
-  - icon: fa-cloud
+  - icon: fa-spinner
     title: Bereikbaarheid
     content: Vergroot de bereikbaarheid van uw organisatie en medewerkers
   - icon: fa-user-lock
     title: Integratie
     content: Uw mobiele telefoon onderdeel van de Simmpl Hosted VoIP oplossing.
-  - icon: fa-comment-alt-smile
+  - icon: fa-hand-pointer
     title: Alles bij 1 provider
     content: 'Alles bij één leverancier: één aanspreekpunt, één factuur'
   - title: Kostenbesparing
@@ -42,8 +42,8 @@ usps:
     icon: fa-piggy-bank
   - title: Werkt
     content: Vamos is geschikt voor elke mobiele telefoon.
-    icon: fa-cloud
-  - icon: fa-cloud
+    icon: fa-mobile
+  - icon: fa-comment-alt-smile
     title: Keuzevrijheid
     content: U kunt uitbellen met zaak- of mobiel nummer, óf anoniem
 description: ''
