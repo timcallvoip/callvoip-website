@@ -41,36 +41,36 @@ usps:
     in het basispakket bevinden? Klik op de knop hieronder!</p>  <a href="/overons/team"
     class="button">Overzicht functionaliteiten</a>
   items:
-  - icon: fa-piggy-bank
+  - icon: fa-file-audio
     title: Voicemailbox
     content: 'Met de <a href="/telefonie/functionaliteiten/voicemail/">voicemailbox</a>
       kunt u gemiste gesprekken opvangen. De beller kan, na het door u ingestelde
       melding, een bericht inspreken. Deze berichten worden als .mp3-bestand naar
       één of meerdere e-mailadressen gestuurd. '
-  - icon: fa-file-signature
+  - icon: fa-clock
     title: Tijdscondities
     content: Met de <a href="/telefonie/functionaliteiten/tijdsconditie/">tijdsconditie-app</a>
       definieert u vooraf tijden waarop één of meerdere acties moeten plaatsvinden.
       Denkt u bijvoorbeeld aan een belroute voor binnen en buiten werktijd of een
       gewijzigde belroute tijdens de lunchpauze, feestdagen, etc.
-  - icon: fa-megaphone
+  - icon: fa-arrows-h
     title: Doorverbinden
     content: Met de <a href="/telefonie/functionaliteiten/doorverbinden/">doorverbinden-app</a>
       zet u eenvoudig inkomende belletjes door naar een toestel bij u op kantoor of
       naar een extern nummer. Denk hierbij bijvoorbeeld aan een mobiele telefoon of
       een externe telefoondienst.
-  - icon: fa-megaphone
+  - icon: fa-users
     title: Belgroep (Huntgroup)
     content: De <a href="/telefonie/functionaliteiten/belgroep/">belgroep-app</a>
       biedt u de mogelijkheid om een inkomend gesprek naar één of meerdere interne
       of externe nummers door te schakelen. Daarnaast kunt u ervoor kiezen in welke
       volgorde de toestellen rinkelen.
-  - icon: fa-megaphone
+  - icon: fa-random
     title: Omleiding (Flow Control)
     content: Een <a href="/telefonie/functionaliteiten/omleiding/">omleiding</a> is
       een schakelaar waarmee u eenvoudig acties aan- of uitzet. U kunt voor elk nummer
       omleidingen aanmaken. Daarnaast kunt u in één nummer meerdere omleidingen plaatsen.
-  - icon: fa-megaphone
+  - icon: fa-bell
     title: Meldteksten
     content: Met deze functionaliteit kunt u verschillende <a href="/telefonie/functionaliteiten/meldteksten/">meldtekst</a>
       in uw belplan plaatsen. Denk hierbij aan bijvoorbeeld een welkomst-meldtekst,
@@ -141,7 +141,7 @@ options:
     title: Je eigen centrale in de cloud
     content: Geen telefooncentrale op locatie, maar een moderne centrale in de cloud.
     link: ''
-  - icon: fa-desktop
+  - icon: fa-wifi
     title: Kabel, ADSL of toch glasvezel?
     content: Samen kijken we wat het beste bij uw situatie past. Kabel, ADSL of toch
       glasvezel?
