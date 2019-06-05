@@ -82,15 +82,15 @@ usps:
       van de mogelijkheden op uw adres.
 intro:
   title: Wat kost bellen met Callvoip?
-  content: Iedere klant is anders en dat betekent dus ook dat geen telefooncentrale
+  content: "Iedere klant is anders en dat betekent dus ook dat geen telefooncentrale
     gelijk is. Hieronder enkele cases uitgewerkt. Benieuwd wat de kosten zijn voor
-    uw situatie? Bel met <b><u><a href="tel:+31508200000">050 820 0000</a></u></b>.
-    of bereken het via onze <b><u><a href="/calculator">calculator</a></u></b>.
+    uw situatie? \nBel met <b><u><a href=\"tel:+31508200000\">050 820 0000</a></u></b>.
+    of bereken het via onze <b><u><a href=\"/calculator\">calculator</a></u></b>."
 prijzen:
 - title: Zelfstandigen
   content: Online telefooncentrale, geen poespas én bereikbaar op één toestel.
   button:
-    title: Bereken het via onze calculator
+    title: Bereken uw situatie via de calculator
     link: "/calculator"
   tarieven:
     title: Maandelijkse kosten
@@ -107,7 +107,7 @@ prijzen:
     moeten ook mobiel kunnen uitbellen met het zakelijke nummer. Verder is de wens
     om inkomend verkeer via een keuzemenu te begeleiden naar de juiste medewerker.
   button:
-    title: Bereken het via onze calculator
+    title: Bereken uw situatie via de calculator
     link: "/calculator"
   tarieven:
     title: Maandelijkse kosten
@@ -127,8 +127,8 @@ prijzen:
   content: 'Beheer van eigen telefooncentrale via onze trunkoplossing met 10 gesprekskanalen.
     Allemaal bereikbaar onder één nummer. . '
   button:
-    title: Bereken het via onze calculator
-    link: "/calculator"
+    title: Vraag een offerte aan
+    link: "/offerte"
   tarieven:
     title: Maandelijkse kosten
     footer: Prijzen zijn excl. BTW
