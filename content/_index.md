@@ -80,35 +80,35 @@ usps:
   content: 'Elke telefoniesituatie is anders. Het zou dus zomaar kunnen dat u de basis
     telefooncentrale wenst uit te breiden met één van de volgende betaalde functionaliteiten:'
   items:
-  - icon: fa-cloud
+  - icon: fa-bars
     title: Keuzemenu (IVR)
     content: 'Met een <a href="/telefonie/functionaliteiten/keuzemenu/">keuzemenu</a>
       begeleidt u de bellers direct naar de juiste medewerker of afdeling. Professioneel,
       plezierig voor uw klant, efficiënt (door minder doorverbinden) en kortere gesprekken.
       Ook straalt u met een keuzemenu professionaliteit uit. '
-  - icon: fa-user-lock
+  - icon: fa-sort-numeric-down
     title: Wachtrij (Queue)
     content: Met een <a href="/telefonie/functionaliteiten/wachtrij/">wachtrij</a>
       kunt alle bellers beantwoorden en te woord staan. De beller wordt bijvoorbeeld
       begroet met een meldtekst en vervolgens in de wachtgezet. Tijdens deze wachtperiode
       hoort de beller een toon of wachtmuziek totdat hij/zij zelf aan de beurt is.
-  - icon: fa-comment-alt-smile
+  - icon: fa-file-pdf
     title: Faxbox
     content: 'Inkomende faxberichten komen als PDF-bericht per email op één of meer
       emailadressen binnen. Wilt u een <a href="/telefonie/functionaliteiten/fax/">fax</a>
       versturen, dan kunt u het te faxen bestand als PDF-document uploaden op de telefooncentrale. '
-  - icon: fa-laptop
+  - icon: fa-deaf
     title: Gespreksopname (Call Recording)
     content: 'Met <a href="/telefonie/functionaliteiten/gespreksopname/">gespreksopname</a>
       kunt u uw telefoongesprekken opnemen en terugluisteren.De gespreksopnamefunctie
       kunt u zelf per gebruiker in- en uitschakelen. '
-  - icon: fa-laptop
+  - icon: fa-unlock
     title: SRTP (versleutelde gesprekken)
     content: Veiligheid staat bij ons hoog in het vaandel en daarom bieden wij de
       mogelijkheid om uw telefonie te versleutelen en zo uw privacy te waarborgen.
       Dit doen we door middel van <a href="/telefonie/functionaliteiten/srtp/">SRTP</a>
       en TLS.
-  - icon: fa-laptop
+  - icon: fa-mobile
     title: Qaller Plus (mobiele app)
     content: |-
       Met <a href="/telefonie/qaller/">Qaller</a> wordt uw mobiele telefoon onderdeel van de online telefooncentrale:
@@ -119,12 +119,12 @@ usps:
   content: Leuk al die functionaliteiten van de telefooncentrale, maar integratie
     met CRM-, ERP en klantsysteempakketten wordt steeds belangrijker!
   items:
-  - icon: fa-code-branch
+  - icon: fa-mouse-pointer
     title: Click-to-Dial plugin
     content: Met de nieuwe Simmpl <a href="/telefonie/clicktodial/">Click-to-Dial
       plugin</a>  van CallvoipTelefonie maakt u in een handomdraai alle telefoonnummers
       in uw Chrome webbrowser klikbaar én veel meer!
-  - icon: fa-phone-volume
+  - icon: fa-window-restore
     title: VoIP CTI
     content: <a href="/telefonie/integratiemetcrm/">VoIP CTI</a> biedt gemak en bespaart
       tijd bij het bellen naar klanten (Click-to-Dial), en als de klant u belt verschijnt
@@ -146,7 +146,7 @@ options:
     content: Samen kijken we wat het beste bij uw situatie past. Kabel, ADSL of toch
       glasvezel?
     link: ''
-  - icon: fa-tablet-alt
+  - icon: fa-tty
     title: Nieuwe apparatuur nodig?
     content: Geen opdringerige verkopers. Met onze specialist kijk je samen of je
       huidige apparatuur geschikt is.
