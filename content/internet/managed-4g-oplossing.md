@@ -38,7 +38,7 @@ usps:
   - icon: fa-rocket
     title: Snel en stabiel internet
     content: ''
-  - icon: fa-gear
+  - icon: fa-cog
     title: Inclusief apparatuur en installatie
     content: ''
   - icon: fa-heartbeat
@@ -51,8 +51,8 @@ prijzen:
 - title: Snel 4G internet
   content: De eenmalige kosten zijn een schatting en verschillen per situatie.
   button:
-    title: ''
-    link: ''
+    title: Aanvragen
+    link: "/mijncallvoip/aanvragen/managed-4g"
   tarieven:
     items:
     - title: Maandelijks
@@ -62,10 +62,10 @@ prijzen:
     footer: Prijzen zijn excl. BTW
     title: Snel 4G internet
 - title: Snel 4G internet met onbeperkt data
-  content: ''
+  content: De eenmalige kosten zijn een schatting en verschillen per situatie.
   button:
-    title: ''
-    link: ''
+    title: Aanvragen
+    link: "/mijncallvoip/aanvragen/managed-4g"
   tarieven:
     title: Snel 4G internet met onbeperkt data
     items:
