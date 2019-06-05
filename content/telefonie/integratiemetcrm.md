@@ -14,8 +14,11 @@ hero:
 blocks:
 - content: |-
     Voor VoIP CTI heeft u nodig:
+
     • een Windows-PC of Server – aan Apple-mogelijkheden wordt gewerkt
+
     • uw CRM-pakket: check hier of neem contact op
+
     • de Simmpl telefooncentrale met VoIP CTI licentie per gebruiker
 
     Voor veel pakketten is de installatie eenvoudig: installeer de Client software per gebruiker en gebruik de CRM Configurator om de koppeling tot stand te brengen.
@@ -27,23 +30,21 @@ blocks:
 
     <a href="/offerte/" class="button">Vraag dan nu een offerte aan</a>
   image: "/v1557910637/SC-logos-cti.png"
-  position: image_left
+  position: image_right
   title: " Welke CRM applicaties kunt u koppelen?"
 - title: Vergelijking met andere integratie
   image: "/v1557910428/SIMMPL_INTGRATIETABEL_141118MT.png"
-  content: "Hoe efficiënt wilt u het hebben? Koppel uw telefoonsysteem met andere
-    applicaties.\n\nDe Simmpl telefooncentrale van CallvoipTelefonie is klaar om te
-    koppelen!\nU weet het: we houden het graag Simmpl! En daarom ontwikkelden we een
-    koppeling die een basisintegratie biedt: een app voor de Chrome Browser met een
-    <a href=\"/telefonie/clicktodial/\">Click-to-Dial</a>, een gesprekslog en een
-    bedrijfstelefoonboek. Deze app is voor u als Simmpl klant kostenloos.\n\nWilt
-    u meer? Dan is er VoIP CTI: een kant-en-klare koppelingsmogelijkheid met een grote
-    keur aan CRM en ERP-pakketten. Deze biedt u een specifiekere koppeling dan de
-    click-to-dial.\n\nWilt u nóg meer? De <a href=\"/telefonie/realtime-api/\">Realtime
+  content: "De Simmpl telefooncentrale van CallvoipTelefonie is klaar om te koppelen!\nU
+    weet het: we houden het graag Simmpl! En daarom ontwikkelden we een koppeling
+    die een basisintegratie biedt: een app voor de Chrome Browser met een <a href=\"/telefonie/clicktodial/\">Click-to-Dial</a>,
+    een gesprekslog en een bedrijfstelefoonboek. Deze app is voor u als Simmpl klant
+    kostenloos.\n\nWilt u meer? Dan is er VoIP CTI: een kant-en-klare koppelingsmogelijkheid
+    met een grote keur aan CRM en ERP-pakketten. Deze biedt u een specifiekere koppeling
+    dan de click-to-dial.\n\nWilt u nóg meer? De <a href=\"/telefonie/realtime-api/\">Realtime
     API</a> van de Simmpl-centrale maakt het mogelijk om een eigen maatwerkkoppeling
     te laten ontwikkelen. Desgewenst brengen wij u in contact met deskundige programmeurs
     die de kunst van programmeren verstaan én de Simmpl API kennen. "
-  position: image_right
+  position: image_left
 usps:
   title: Geniet van een beter telefoongesprek
   content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent, dat
