@@ -67,11 +67,12 @@ usps:
       voorziet u van alle gewenste functionaliteiten.  '
   - icon: fa-cloud
     title: Biedt VoIP voldoende functionaliteiten?
-    content: 'Bij CallvoipTelefonie hoeft u echt niets aan functionaliteiten in te
-      leveren. Via een geavanceerde online telefooncentrale (hosted PBX) beschikt
-      u over tal van professionele functionaliteiten waarvoor u tot op heden een dure
-      eigen telefooncentrale voor nodig had. U krijgt persoonlijke inloggegevens voor
-      de telefooncentrale waarop u via internet kunt inloggen. '
+    content: 'Bij Callvoip hoeft u echt niets aan functionaliteiten in te leveren.
+      Via een geavanceerde online telefooncentrale (hosted PBX) beschikt u over tal
+      van <a href="''/telefonie/functionaliteiten/">professionele functionaliteiten</a>
+      waarvoor u tot op heden een dure eigen telefooncentrale voor nodig had. U krijgt
+      persoonlijke inloggegevens voor de telefooncentrale waarop u via internet kunt
+      inloggen. '
   - icon: fa-wifi
     title: Welke internetverbinding is het meest geschikt?
     content: Praktisch iedere internetverbinding is geschikt. Dit kan zowel <a href="/internet/dsl/">dsl</a>,
