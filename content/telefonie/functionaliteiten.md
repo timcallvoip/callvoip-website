@@ -13,9 +13,9 @@ layout: ''
 
 [![](https://www.callvoiptelefonie.nl/wp-content/uploads/2016/10/Voicemail-app.png "Voicemailbox")](/telefonie/functionaliteiten/voicemail "Voicemailbox")[**Voicemail**](/telefonie/functionaliteiten/voicemail "Voicemail")**:** Ontvang ingesproken voicemails automatisch in uw email
 
-![](https://www.callvoiptelefonie.nl/wp-content/uploads/2016/10/Fax-app.png)[**Fax**](/telefonie/functionaliteiten/fax "Fax"): Digitaal faxen ontvangen en versturen zonder faxapparaat.
+[![](https://www.callvoiptelefonie.nl/wp-content/uploads/2016/10/Fax-app.png)**Fax**](/telefonie/functionaliteiten/fax "Fax"): Digitaal faxen ontvangen en versturen zonder faxapparaat.
 
-[![](https://www.callvoiptelefonie.nl/wp-content/uploads/2016/10/trasfer_round.png)]()[**Doorverbinden**](/telefonie/functionaliteiten/doorverbinden "Doorverbinden"): Verbind door naar een intern- of extern nummer
+[![](https://www.callvoiptelefonie.nl/wp-content/uploads/2016/10/trasfer_round.png)**Doorverbinden**](/telefonie/functionaliteiten/doorverbinden "Doorverbinden"): Verbind door naar een intern- of extern nummer
 
 ![](https://www.callvoiptelefonie.nl/wp-content/uploads/2016/10/omleiding_round.png)[**Omleiding**](/telefonie/functionaliteiten/omleiding "Omleiding"): Met één druk op de knop een doorschakeling activeren.
 
