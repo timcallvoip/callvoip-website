@@ -63,8 +63,8 @@ usps:
     title: klik en bel
     content: uw telefoon gaat gelijk een nummer bellen
 intro:
-  title: Wat kost de Click-to-Dial?
-  content: Helemaal niets!
+  title: ''
+  content: ''
 prijzen: []
 menu:
   main:
@@ -74,6 +74,11 @@ menu:
     post: fa-laptop
 
 ---
+## Wat kost de Click-to-Dial?
+
+Helemaal niets!
+
+<br>
 
 ## Gelijk aan de slag!
 
@@ -83,7 +88,7 @@ menu:
 
 <br>
 
-## Update januari 2019
+#### Update januari 2019
 
 Geef uw Yealink-telefoon toegang tot het Click-to-Dial telefoonboek
 
