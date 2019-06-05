@@ -3,6 +3,18 @@ title: Vast Mobiel Integratie (Vamos)
 type: page
 layout: default
 blocks:
+- content: "Welke vorm van vast mobiel past bij u?\n\n<b>1. Ik wil mijn vaste nummer
+    kunnen doorschakelen naar mobiel</b>\nDan is een <a href=\"/telefonie/functionaliteiten/doorverbinden/\">doorschakeling</a>
+    naar uw mobiel handig en snel in te stellen op de Simmpl centrale. \n\n<b>2. Ik
+    wil vanaf mijn mobiel kunnen uitbellen met mijn vaste nummer</b>\n<a href=\"/telefonie/qaller/\">Qaller</a>
+    Plus biedt uitkomst: installeer hem in een halve minuut; met Qaller Plus telefoonnota\n\n<b>3.
+    Ik wil mijn mobiel zakelijk gebruiken alsof het mijn zakelijke vaste toestel is</b>\nDan
+    is <b>Vamos</b> iets voor u: u krijgt een SIM kaart met daarop uw eigen of een
+    nieuw 06-nummer en 2, 5 of 10 GB data. Samen met onze Vamos SIM is uw mobiele
+    nummer dan volledig geïntegreerd in de Simmpl omgeving.\n"
+  image: "/v1557906507/matrix_vast-mobiel-integratie_060519MT.png"
+  position: image_left
+  title: Overzicht vast-mobiel integratie
 - content: |-
     - Telefoonboek met statusindicatie (BLF): zie of collega's vrij of in gesprek zijn
     - Een mobiel gesprek doorverbinden vanaf uw smartphone naar collega's
@@ -10,20 +22,8 @@ blocks:
     - Een mobiel gesprek overnemen op uw vaste toestel, of andersom
     - Een mobiel gesprek opnemen als u gespreksopname aan heeft staan
   image: "/v1552466820/phones.png"
-  position: image_left
+  position: image_right
   title: 'Vamos update april 2019:'
-- content: "Welke vorm van vast mobiel past bij u?\n<b>1. Ik wil mijn vaste nummer
-    kunnen doorschakelen naar mobiel</b>\nDan is een <a href=\"/telefonie/functionaliteiten/doorverbinden/\">doorschakeling</a>
-    naar uw mobiel handig en snel in te stellen op de Simmpl centrale. \n<b>2. Ik
-    wil vanaf mijn mobiel kunnen uitbellen met mijn vaste nummer</b>\n<a href=\"/telefonie/qaller/\">Qaller</a>
-    Plus biedt uitkomst: installeer hem in een halve minuut; met Qaller Plus telefoonnota\n<b>3.
-    Ik wil mijn mobiel zakelijk gebruiken alsof het mijn zakelijke vaste toestel is</b>\nDan
-    is <b>Vamos</b> iets voor u: u krijgt een SIM kaart met daarop uw eigen of een
-    nieuw 06-nummer en 2, 5 of 10 GB data. Samen met onze Vamos SIM is uw mobiele
-    nummer dan volledig geïntegreerd in de Simmpl omgeving.\n"
-  image: "/v1557906507/matrix_vast-mobiel-integratie_060519MT.png"
-  position: ''
-  title: Overzicht vast-mobiel integratie
 usps:
   title: Geniet van een beter telefoongesprek
   content: 'Enkele voordelen van Vast-Mobiel op een rijtje:'
@@ -114,21 +114,21 @@ menu:
 
 <div class="row">
 
-<div class="medium-3 columns"><img class="alignright size-full wp-image-6985" src="![](https://www.callvoiptelefonie.nl/wp-content/uploads/2019/01/Vamos-logo.png)" alt="Vamos" width="499" height="389"></div>
+<div class="medium-3 columns"><img class="alignright size-full wp-image-6985" src="![](https://res.cloudinary.com/callvoip/image/upload/v1559635655/Vamos-logo.png)" alt="Vamos" width="499" height="389"></div>
 
 <div class="medium-9 columns">
 
 <ul>
 
- 	<li><a href="[https://play.google.com/store/apps/details?id=com.digifoon.fmc](https://play.google.com/store/apps/details?id=com.digifoon.fmc "https://play.google.com/store/apps/details?id=com.digifoon.fmc")" target="_blank" rel="noopener noreferrer">Download Vamos app voor Android</a></li>
-
- 	<li><a href="[https://itunes.apple.com/nl/app/vamos-vast-mobiel/id1449692498](https://play.google.com/store/apps/details?id=com.digifoon.fmc "https://play.google.com/store/apps/details?id=com.digifoon.fmc")" target="_blank" rel="noopener noreferrer">Download Vamos App voor Apple</a></li>
-
- 	<li><a href="[http://www.simmpl.nl/downloads/Simmpl_Vast-Mobiel-Integratie-mogelijkheden.pdf](https://play.google.com/store/apps/details?id=com.digifoon.fmc "https://play.google.com/store/apps/details?id=com.digifoon.fmc")" target="_blank" rel="noopener noreferrer">Overzicht Vast-Mobiel integratie</a></li>
-
- 	<li><a href="[https://www.simmpl.nl/downloads/Simmpl_informatie_Vamos-vast-mobiel-integratie.pdf](https://play.google.com/store/apps/details?id=com.digifoon.fmc "https://play.google.com/store/apps/details?id=com.digifoon.fmc")" target="_blank" rel="noopener noreferrer">Informatie over Vamos</a></li>
-
- 	<li><a href="[https://www.simmpl.nl/downloads/Simmpl_handleiding_ingebruikname_Vamos.pdf](https://play.google.com/store/apps/details?id=com.digifoon.fmc "https://play.google.com/store/apps/details?id=com.digifoon.fmc")" target="_blank" rel="noopener noreferrer">Handleiding Vamos</a></li>
+    <li><a href="[https://play.google.com/store/apps/details?id=com.digifoon.fmc](https://play.google.com/store/apps/details?id=com.digifoon.fmc "https://play.google.com/store/apps/details?id=com.digifoon.fmc")" target="_blank" rel="noopener noreferrer">Download Vamos app voor Android</a></li>
+    
+    <li><a href="[https://itunes.apple.com/nl/app/vamos-vast-mobiel/id1449692498](https://play.google.com/store/apps/details?id=com.digifoon.fmc "https://play.google.com/store/apps/details?id=com.digifoon.fmc")" target="_blank" rel="noopener noreferrer">Download Vamos App voor Apple</a></li>
+    
+    <li><a href="[http://www.simmpl.nl/downloads/Simmpl_Vast-Mobiel-Integratie-mogelijkheden.pdf](https://play.google.com/store/apps/details?id=com.digifoon.fmc "https://play.google.com/store/apps/details?id=com.digifoon.fmc")" target="_blank" rel="noopener noreferrer">Overzicht Vast-Mobiel integratie</a></li>
+    
+    <li><a href="[https://www.simmpl.nl/downloads/Simmpl_informatie_Vamos-vast-mobiel-integratie.pdf](https://play.google.com/store/apps/details?id=com.digifoon.fmc "https://play.google.com/store/apps/details?id=com.digifoon.fmc")" target="_blank" rel="noopener noreferrer">Informatie over Vamos</a></li>
+    
+    <li><a href="[https://www.simmpl.nl/downloads/Simmpl_handleiding_ingebruikname_Vamos.pdf](https://play.google.com/store/apps/details?id=com.digifoon.fmc "https://play.google.com/store/apps/details?id=com.digifoon.fmc")" target="_blank" rel="noopener noreferrer">Handleiding Vamos</a></li>
 
 </ul>
 
