@@ -6,7 +6,7 @@ logos: false
 hero:
   title: Glasvezel
   content: Met een glasvezel verbinding heeft u uw eigen lijn en een stabiele snelheid.
-    Ee upload- als de downloadsnelheid staan aan elkaar gelijk. Zo heeft u 1 aanspreekpunt
+    Een upload- als de downloadsnelheid staan aan elkaar gelijk. Zo heeft u 1 aanspreekpunt
     en ontvangt u korting op de maandelijkse abonnementsprijs.
   button:
     content: Offerte aanvragen
