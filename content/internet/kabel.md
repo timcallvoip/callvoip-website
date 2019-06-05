@@ -44,7 +44,7 @@ prijzen:
     link: https://www.callvoip.nl/download/callvoip/callvoip_aanvraagformulier_ziggo-connect-zzp.pdf
   tarieven:
     title: Maandelijkse kosten
-    footer: 3 verschillende pakketten om tussenuit te kiezen
+    footer: 3 verschillende pakketten om tussen te kiezen
     items:
     - title: Start (60-om-10)
       price: 39
@@ -64,7 +64,7 @@ prijzen:
     link: https://bestellen.ziggozakelijk.nl/zakelijk_internet_pro
   tarieven:
     title: Maandelijkse kosten
-    footer: 3 verschillende pakketten om tussenuit te kiezen
+    footer: 3 verschillende pakketten om tussen te kiezen
     items:
     - title: Start Pro (60-om-10)
       price: 59
