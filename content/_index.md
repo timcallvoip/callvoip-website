@@ -158,8 +158,8 @@ options:
     link: ''
 prefooter:
   title: Wil je ook zorgeloos bereikbaar zijn?
-  content: 95% van onze klanten adviseert ons bij hun netwerk. Benieuwd naar testimonials
-    van onze klanten? U vindt ze <a href="/testimonials/">hier</a>
+  content: "95% van onze klanten adviseert ons bij hun netwerk. Benieuwd naar testimonials
+    van onze klanten? \nU vindt ze <a href=\"/testimonials/\">hier</a>"
 testimonial:
   image: "/v1556267419/Callvoip-website-logo-AlphaLabs.png"
   title: Carlo Giliam - Alpha Labs
