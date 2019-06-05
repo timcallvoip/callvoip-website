@@ -42,7 +42,7 @@ usps:
     content: 3 maanden gratis Beheer & Monitoring
     icon: ''
 intro:
-  title: ''
+  title: Welke abonnementen zijn er?
   content: ''
 prijzen:
 - title: ADSL
