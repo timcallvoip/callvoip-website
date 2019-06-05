@@ -63,7 +63,8 @@ intro:
   content: ''
 prijzen:
 - title: ''
-  content: ''
+  content: U betaalt eenmalig als organisatie voor de koppeling. Maandelijks betaalt
+    u per gebruiker die gebruik maakt van VoIP CTI
   button:
     title: Direct aanvragen
     link: mijncallvoip/aanvragen/voip-cti/
