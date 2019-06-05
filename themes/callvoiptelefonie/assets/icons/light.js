@@ -32,8 +32,30 @@ import { faGlobe } from "@fortawesome/pro-light-svg-icons/faGlobe";
 import { faMobile } from "@fortawesome/pro-light-svg-icons/faMobile";
 import { faClock } from "@fortawesome/pro-light-svg-icons/faClock";
 import { faFileAudio } from "@fortawesome/pro-light-svg-icons/faFileAudio";
+import { faCog } from "@fortawesome/pro-light-svg-icons/faCog";
+import { faSpinner } from "@fortawesome/pro-light-svg-icons/faSpinner";
+import { faTrophy } from "@fortawesome/pro-light-svg-icons/faTrophy";
+import { faRocket } from "@fortawesome/pro-light-svg-icons/faRocket";
+import { faCalculator } from "@fortawesome/pro-light-svg-icons/faCalculator";
+import { faFax } from "@fortawesome/pro-light-svg-icons/faFax";
+import { faMoneyBill } from "@fortawesome/pro-light-svg-icons/faMoneyBill";
+import { faExclamationCircle } from "@fortawesome/pro-light-svg-icons/faExclamationCircle";
+import { faHeartbeat } from "@fortawesome/pro-light-svg-icons/faHeartbeat";
+import { faTty } from "@fortawesome/pro-light-svg-icons/faTty";
+import { faWindowRestore } from "@fortawesome/pro-light-svg-icons/faWindowRestore";
+import { faUnlock } from "@fortawesome/pro-light-svg-icons/faUnlock";
+import { faFilePdf } from "@fortawesome/pro-light-svg-icons/faFilePdf";
+import { faBell } from "@fortawesome/pro-light-svg-icons/faBell";
+import { faRandom } from "@fortawesome/pro-light-svg-icons/faRandom";
+import { faUsers } from "@fortawesome/pro-light-svg-icons/faUsers";
+import { faArrowsH } from "@fortawesome/pro-light-svg-icons/faArrowsH";
+import { faSortNumericDown } from "@fortawesome/pro-light-svg-icons/faSortNumericDown";
+import { faDeaf } from "@fortawesome/pro-light-svg-icons/faDeaf";
+import { faMousePointer } from "@fortawesome/pro-light-svg-icons/faMousePointer";
+import { faHandPointer } from "@fortawesome/pro-light-svg-icons/faHandPointer";
+import { faIdCard } from "@fortawesome/pro-light-svg-icons/faIdCard";
 
-library.add(faCloud, faClock, faLaptop, faFileAudio, faSearch, faEnvelope, faFile, faMobile, faGlobe, faWifi, faBars, faUser, faMegaphone, faBoxOpen, faCommentAlt, faUserLock, faMobileAlt, faPhoneVolume, faCodeBranch, faCommentAltSmile, faFileSignature, faPiggyBank, faFileContract, faBoxesAlt, faAngleRight, faHome, faBuilding, faComments, faPhone, faDesktop, faTabletAlt,faHeadset);
+library.add(faCloud, faClock, faHeartbeat, faLaptop, faTty, faIdCard, faWindowRestore, faMousePointer, faHandPointer,  faRandom, faDeaf, faSortNumericDown, faArrowsH, faUsers, faFilePdf, faBell, faUnlock, faFileAudio, faCog, faSpinner, faMoneyBill, faExclamationCircle, faFax, faCalculator, faTrophy, faRocket, faSearch, faEnvelope, faFile, faMobile, faGlobe, faWifi, faBars, faUser, faMegaphone, faBoxOpen, faCommentAlt, faUserLock, faMobileAlt, faPhoneVolume, faCodeBranch, faCommentAltSmile, faFileSignature, faPiggyBank, faFileContract, faBoxesAlt, faAngleRight, faHome, faBuilding, faComments, faPhone, faDesktop, faTabletAlt,faHeadset);
 
 
 dom.watch();
