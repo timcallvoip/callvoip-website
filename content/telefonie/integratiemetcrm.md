@@ -43,9 +43,9 @@ blocks:
     die de kunst van programmeren verstaan én de Simmpl API kennen. "
   position: image_right
 usps:
-  title: Geniet van een beter telefoongesprek
-  content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent, dat
-    gaat verder dan alleen maar telefonie. Betrouwbaar internet en goede apparatuur
+  title: De voordelen op een rij
+  content: 'Naast dat VoIP CTI een uitgebreide koppeling biedt, biedt het ook de volgende
+    voordelen:'
   items:
   - icon: fa-cloud
     title: Efficiënt
@@ -59,9 +59,22 @@ usps:
 description: ''
 images: []
 intro:
-  title: ''
+  title: Abonnementskosten van VoIP CTI
   content: ''
-prijzen: []
+prijzen:
+- title: ''
+  content: ''
+  button:
+    title: Direct aanvragen
+    link: mijncallvoip/aanvragen/voip-cti/
+  tarieven:
+    footer: Prijzen zijn excl. BTW
+    items:
+    - title: Maandelijks per gebruiker
+      price: 5
+    - title: Eenmalig per organisatie
+      price: 150
+    title: ''
 menu:
   main:
     weight: 3
@@ -70,4 +83,3 @@ menu:
     post: fa-comment-alt-smile
 
 ---
-## 
