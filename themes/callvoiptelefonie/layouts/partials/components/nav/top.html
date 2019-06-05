@@ -5,9 +5,10 @@
     {{ range .menu }}
     {{ $is := $page.IsMenuCurrent "main" . }}
     {{ $has := $page.HasMenuCurrent "main" . }}
-    <a href="{{.URL}}" class="uppercase text-xs font-medium text-grey-dark no-underline mr-3 md:mr-0 md:ml-6">
+    {{ $pre := printf "%s" .Pre }}
+    <a href="{{.URL}}" {{ if eq $pre "external" }} target="_blank" {{ end }}
+        class="uppercase text-xs font-medium text-grey-dark no-underline mr-3 md:mr-0 md:ml-6">
         {{ .Name }}
     </a>
-
     {{ end }}
-  </nav>
+</nav>

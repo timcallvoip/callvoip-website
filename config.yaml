@@ -16,18 +16,22 @@ menu:
   - url: https://status.kwebbl.com/
     name: Status
     weight: 1
+    pre: external
   - url: https://callvoip.shop/
     name: Webshop
     weight: 4
+    pre: external
   - url: "/ondersteuning"
     name: Ondersteuning
     weight: 2
   - url: https://panel.callvoip.nl/login/panel
     name: Login
     weight: 5
+    pre: external
   - url: https://www.callvoiptelefonie.nl/mijncallvoip/
     name: Mijn Callvoip
     weight: 3
+    pre: external
   main:
   - name: Testimonials
     parent: Over ons
