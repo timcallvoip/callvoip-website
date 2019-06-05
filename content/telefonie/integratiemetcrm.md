@@ -35,12 +35,13 @@ blocks:
     applicaties.\n\nDe Simmpl telefooncentrale van CallvoipTelefonie is klaar om te
     koppelen!\nU weet het: we houden het graag Simmpl! En daarom ontwikkelden we een
     koppeling die een basisintegratie biedt: een app voor de Chrome Browser met een
-    click to dial, een gesprekslog en een bedrijfstelefoonboek. Deze app is voor u
-    als Simmpl klant kostenloos.\n\nWilt u meer? Dan is er VoIP CTI: een kant-en-klare
-    koppelingsmogelijikheid met een grote keur aan CRM en ERP-pakketten. Deze biedt
-    u een specifiekere koppeling dan de click to dial.\n\nWilt u nóg meer? De Realtime
-    API van de Simmpl-centrale maakt het mogelijk om een eigen maatwerkkoppeling te
-    laten ontwikkelen. Desgewenst brengen wij u in contact met deskundige programmeurs
+    <a href=\"/telefonie/clicktodial/\">Click-to-Dial</a>, een gesprekslog en een
+    bedrijfstelefoonboek. Deze app is voor u als Simmpl klant kostenloos.\n\nWilt
+    u meer? Dan is er VoIP CTI: een kant-en-klare koppelingsmogelijkheid met een grote
+    keur aan CRM en ERP-pakketten. Deze biedt u een specifiekere koppeling dan de
+    click-to-dial.\n\nWilt u nóg meer? De <a href=\"/telefonie/realtime-api/\">Realtime
+    API</a> van de Simmpl-centrale maakt het mogelijk om een eigen maatwerkkoppeling
+    te laten ontwikkelen. Desgewenst brengen wij u in contact met deskundige programmeurs
     die de kunst van programmeren verstaan én de Simmpl API kennen. "
   position: image_right
 usps:
