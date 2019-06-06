@@ -42,7 +42,7 @@ team:
   image: "/v1557495164/Portretfoto.jpg"
 - content: Commercieel Medewerker
   function: Commercieel Medewerker
-  name: Ralf
+  name: Ralph Elshot
   image: "/v1557495164/Portretfoto.jpg"
 description: ''
 images: []
