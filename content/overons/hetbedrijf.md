@@ -9,9 +9,9 @@ intro:
   title: Het bedrijf
 blocks:
 - content: |-
-    <p>Wij zijn CallvoipTelefonie, VoIP-provider voor de zakelijke markt. We voorzien professionele telefonie-oplossingen voor kleine en grote bedrijven. Daarbij leveren we de producten en internetverbindingen die nodig zijn om optimaal gebruik te kunnen maken van onze telefoniedienst.
+    <p>Wij zijn Callvoip, VoIP-provider voor de zakelijke markt. We voorzien professionele telefonie-oplossingen voor kleine en grote bedrijven. Daarbij leveren we de producten en internetverbindingen die nodig zijn om optimaal gebruik te kunnen maken van onze telefoniedienst.
 
-    Een overstap van traditionele telefonie naar VoIP telefonie is een complex traject. Dankzij meer dan 10 jaar ervaring en een uitgebreid netwerk van betrouwbare partners, kunnen wij dit complexe traject uitstekend begeleiden en managen. Verder hebben we uitgebreide kennis van de apparatuur die we leveren, zodat we iedere klant goed en snel van dienst kunnen zijn.</p>
+    Een overstap van traditionele telefonie naar VoIP telefonie is een complex traject. Dankzij <b>meer dan 10 jaar ervaring</b> en een uitgebreid netwerk van betrouwbare partners, kunnen wij dit complexe traject uitstekend begeleiden en managen. Verder hebben we uitgebreide kennis van de apparatuur die we leveren, zodat we iedere klant goed en snel van dienst kunnen zijn.</p>
   image: "/v1559804645/_MG_9000.jpg"
   position: image_left
   title: Wie wij zijn
