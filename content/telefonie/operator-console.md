@@ -42,7 +42,7 @@ usps:
   title: Voordelen Operator Console
   content: ''
   items:
-  - icon: ''
+  - icon: fa-rocket
     title: Eenvoud
     content: Het Operator Console biedt een uitgebreide receptiemodule. U ziet overzichtelijk
       wie er belt en u kunt eenvoudig gesprekken doorverbinden naar collega’s of naar
@@ -51,8 +51,8 @@ usps:
     content: Vanaf nu kunt u uw collega’s gemakkelijk trainen. U luistert mee (listen
       in) met een gesprek, fluistert (whisper in) uw collega wat in of neemt het hele
       gesprek over (barge in).
-    icon: ''
-  - icon: ''
+    icon: fa-headset
+  - icon: fa-sort-numeric-asc
     title: Statistieken
     content: Bekijk hoe lang de beller in de wacht staat en wat per gebruiker de gemiddelde
       gespreksduur is. Deze statistieken kunt u gebruiken als basis voor het verbeteren
