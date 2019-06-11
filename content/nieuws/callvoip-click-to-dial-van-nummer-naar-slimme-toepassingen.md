@@ -7,8 +7,8 @@ featured: false
 hero:
   image: ''
 author: ''
-date: 
-url: ''
+date: 2019-04-08T22:00:00+00:00
+url: click-to-dial-van-nummer-naar-slimme-toepassingen
 contactpersoon: []
 categories: []
 tags: []
