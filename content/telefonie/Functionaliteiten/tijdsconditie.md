@@ -21,3 +21,5 @@ Met de tijdsconditie-app definieert u vooraf tijden waarop één of meerdere act
 ## Waarom een tijdsconditie?
 
 Beperk het aantal minuten dat u steekt in het beheren van de online telefooncentrale. Dankzij de tijdsconditie-app stelt u veel al van te voren in. U kunt zelfs al jaren vooruit kijken indien gewenst.
+
+## Wat zijn de kosten van een tijdsconditie?

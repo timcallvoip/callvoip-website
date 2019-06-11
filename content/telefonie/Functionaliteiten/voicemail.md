@@ -22,3 +22,5 @@ Met de voicemailbox kunt u gemiste gesprekken opvangen. De beller kan, na het do
 ## Waarom een voicemail?
 
 Soms heeft u het even te druk om alle inkomende belletjes te beantwoorden of bent u gewoon simpelweg gesloten. Toch wilt u graag in contact komen met de beller. Dankzij de voicemailbox bereikt u dit. U biedt de beller de mogelijkheid om een bericht achter te laten. Vervolgens kunt u deze weer beluisteren en contact opnemen met de desbetreffende beller.
+
+## Wat zijn de kosten van voicemail?

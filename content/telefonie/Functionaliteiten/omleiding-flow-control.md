@@ -22,3 +22,5 @@ Een omleiding is een schakelaar waarmee u eenvoudig acties aan- of uitzet. U kun
 ## Waarom een omleiding?
 
 Er zijn meerdere toepassingsmogelijkheden van de omleidings-app. Denk hierbij bijvoorbeeld aan het inschakelen van een doorschakeling naar een (wisselend) mobiel nummer als u kantoor verlaat. Of een omleiding bij vergaderingen, bedrijfsuitjes, kerstborrel, maar ook bij calamiteiten, storingen, etc. U kunt alle functionaliteiten van ons bedieningspaneel in de omleiding plaatsen.
+
+## Wat zijn de kosten van een omleiding?

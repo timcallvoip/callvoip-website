@@ -24,3 +24,5 @@ Met de doorverbinden-app zet u eenvoudig inkomende belletjes door naar een toest
 ## Waarom ‘Doorverbinden’ gebruiken?
 
 Door inkomende belletjes door te verbinden bent u optimaal bereikbaar voor uw klanten. Zowel intern (VoIP-toestellen) als extern (Mobiele telefoon of telefoondienst). Dit zorgt voor een professionele uitstraling naar de klant toe.
+
+## Wat zijn de kosten van een 'doorverbinden'?
