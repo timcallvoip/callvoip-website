@@ -5,7 +5,7 @@ description: ''
 images: []
 slug: fax
 hero:
-  image: ''
+  image: "/v1560260985/callvoip-website-fax.png"
 layout: ''
 
 ---
