@@ -5,7 +5,7 @@ description: ''
 images: []
 slug: wachtrij
 hero:
-  image: ''
+  image: "/v1560254596/callvoip-website-wachtrij.png"
 layout: ''
 
 ---
@@ -31,13 +31,6 @@ Dankzij de de geavanceerde wachtrijstatistieken ziet u snel wanneer u de meeste 
 
 ## Wat zijn de kosten van een wachtrij?
 
-    <TABLE BORDER="1">
-    <TR>
-    <TD WIDTH="120" HEIGHT="60">Eenmalig</TD>
-    <TD WIDTH="80">4,- excl. BTW</TD>
-    </TR>
-    <TR>
-    <TD HEIGHT="40">Maandelijks</TD>
-    <TD>15,- excl. BTW</TD>
-    </TR>
-    </TABLE>
+Maandelijks: **€ 4,00** excl. BTW (per wachtrij) 
+
+Eenmalig: **€ 5,00** excl. BTW (per wachtrij)
