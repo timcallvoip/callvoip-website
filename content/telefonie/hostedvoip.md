@@ -38,16 +38,12 @@ usps:
     content: 'Voor VoIP telefonie heeft u een aantal dingen nodig om te kunnen bellen.
       Ten eerste uiteraard een <a href="/telefonie/telefoonnummers/">telefoonnummer</a>
       waar u op te bereiken bent. Daarnaast is de internetverbinding en de bijbehorende
-      (netwerk)apparatuur van groot belang. U heeft een stabiele internetverbinding
-      nodig met voldoende bandbreedte. Per gesprek heeft u ongeveer 100Kbit/seconde
-      nodig. In de praktijk betekent dit dat u over 1Mb uploadsnelheid ongeveer 8
-      gesprekken kunt voeren.  '
+      (netwerk)apparatuur van groot belang. '
   - icon: fa-cog
     title: Hoe werkt VoIP?
     content: VoIP (Voice over Internet Protocol) is kort gezegd bellen over internet.
       Voorheen had u ISDN lijnen nodig om hierover te bellen, maar met VoIP worden
       deze overbodig. Een telefoontoestel sluit u voortaan aan op uw internetverbinding.
-      Deze toestellen melden zich aan op de online telefooncentrale op het internet.
   - icon: fa-exlamation-circle
     title: Is VoIP betrouwbaar?
     content: CallvoipTelefonie is uiterst betrouwbaar. Mocht uw internetverbinding
