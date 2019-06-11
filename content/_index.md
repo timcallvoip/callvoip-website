@@ -110,15 +110,14 @@ usps:
   items:
   - icon: fa-mouse-pointer
     title: Click-to-Dial plugin
-    content: Met de nieuwe Simmpl <a href="/telefonie/clicktodial/">Click-to-Dial
-      plugin</a>  van CallvoipTelefonie maakt u in een handomdraai alle telefoonnummers
-      in uw Chrome webbrowser klikbaar én veel meer!
+    content: Met de Simmpl <a href="/telefonie/clicktodial/">Click-to-Dial plugin</a>  van
+      Callvoip maakt u in een hand- omdraai alle telefoonnummers in uw Chrome browser
+      klikbaar én veel meer!
   - icon: fa-window-restore
     title: VoIP CTI
     content: <a href="/telefonie/integratiemetcrm/">VoIP CTI</a> biedt gemak en bespaart
-      tijd bij het bellen naar klanten (Click-to-Dial), en als de klant u belt verschijnt
-      een pop-up met klantinformatie op uw scherm. Klik op de pop-up en de klantenkaart
-      in uw CRM pakket wordt geopend.
+      tijd bij het bellen naar klanten, en als de klant u belt verschijnt een pop-up
+      met klantinformatie op uw scherm.
 options:
   image: "/v1556267113/callplan-2x.png"
   title: Telefonie en Internet zoals het echt hoort
