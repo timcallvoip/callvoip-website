@@ -34,3 +34,5 @@ Eenmalig: **€ 0,00** excl. BTW
 Deze functionaliteit is onderdeel van het basispakket (waar u €7,50 excl. BTW voor betaalt).
 
 Let op: als u via doorverbinden het inkomend gesprek doorzet naar een extern nummer, dan betaalt u de reguliere [gesprekskosten]().
+
+<a href="/telefonie/functionaliteiten/" class="button">Overzicht van alle functionaliteiten</a>

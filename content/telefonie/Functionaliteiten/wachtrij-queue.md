@@ -36,3 +36,5 @@ Dankzij de de geavanceerde wachtrijstatistieken ziet u snel wanneer u de meeste 
 Maandelijks: **€ 4,00** excl. BTW (per wachtrij)
 
 Eenmalig: **€ 5,00** excl. BTW (per wachtrij)
+
+<a href="/telefonie/functionaliteiten/" class="button">Overzicht van alle functionaliteiten</a>

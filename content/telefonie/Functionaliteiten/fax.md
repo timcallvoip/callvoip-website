@@ -30,3 +30,5 @@ Maakt u nog gebruik van een faxapparaat of staat uw faxnummer nog op uw briefpap
 Maandelijks: **€ 4,00** excl. BTW (per faxbox)
 
 Eenmalig: **€ 5,00** excl. BTW (per faxbox)
+
+<a href="/telefonie/functionaliteiten/" class="button">Overzicht van alle functionaliteiten</a>

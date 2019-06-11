@@ -29,4 +29,6 @@ Maandelijks: **€ 0,00** excl. BTW
 
 Eenmalig: **€ 0,00** excl. BTW
 
-Deze functionaliteit is onderdeel van het basispakket (waar u €7,50 excl. BTW voor betaalt). 
+Deze functionaliteit is onderdeel van het basispakket (waar u €7,50 excl. BTW voor betaalt).
+
+<a href="/telefonie/functionaliteiten/" class="button">Overzicht van alle functionaliteiten</a>
