@@ -5,8 +5,8 @@ hero:
   image: "/v1552398058/Team/logo-bord-breed.jpg"
 intro:
   title: Werken bij Callvoip
-  content: Ben je op zoek naar een echte uitdaging en een leuk team? Bekijk dan hieronder
-    welke interessante vacatures wij op dit moment hebben.
+  content: Ben je op zoek naar een echte uitdaging en een leuk team? <br> Bekijk dan
+    hieronder welke interessante vacatures wij op dit moment hebben.
 blocks:
 - title: Wie wij zijn
   content: "<p>Bij CallvoipTelefonie kom je in de wereld van ICT. Veel technologieën
