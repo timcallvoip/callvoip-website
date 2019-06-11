@@ -15,6 +15,8 @@ Ook straalt u met een keuzemenu professionaliteit uit. Uw telefooncentrale voegt
 
 **De Simmpl online telefooncentrale biedt een onovertroffen gebruiksgemak** in het maken en aanpassen van uw belplannen in de telefooncentrale. Dankzij drag-and-drop doet u dit als niet-techneut voortaan eenvoudig zelf!
 
+<a href="/calculator/" class="button">Bereken uw kosten</a>
+
 ## De voordelen van een keuzemenu
 
 * **_Bedieningsgemak_**: bouw, bedien en wijzig alles eenvoudig zelf, online!
