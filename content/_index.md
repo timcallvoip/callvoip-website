@@ -41,12 +41,6 @@ usps:
     in het basispakket bevinden? Klik op de knop hieronder!</p>  <a href="/telefonie/functionaliteiten/"
     class="button">Overzicht functionaliteiten</a>
   items:
-  - icon: fa-file-audio
-    title: Voicemailbox
-    content: 'Met de <a href="/telefonie/functionaliteiten/voicemail/">voicemailbox</a>
-      kunt u gemiste gesprekken opvangen. De beller kan, na het door u ingestelde
-      melding, een bericht inspreken. Deze berichten worden als .mp3-bestand naar
-      één of meerdere e-mailadressen gestuurd. '
   - icon: fa-clock
     title: Tijdscondities
     content: Met de <a href="/telefonie/functionaliteiten/tijdsconditie/">tijdsconditie-app</a>
@@ -76,6 +70,11 @@ usps:
       in uw belplan plaatsen. Denk hierbij aan bijvoorbeeld een welkomst-meldtekst,
       een tekst wanneer iedereen in gesprek is, meldteksten voor binnen & buiten werktijd
       en aparte vakantiemeldingen.
+  - icon: fa-file-audio
+    title: Voicemailbox
+    content: Met de <a href="/telefonie/functionaliteiten/voicemail/">voicemailbox</a>
+      kunt u gemiste gesprekken opvangen. De beller kan, na het door u ingestelde
+      melding, een bericht inspreken.
 - title: Breid uw telefooncentrale eenvoudig uit
   content: 'Elke telefoniesituatie is anders. Het zou dus zomaar kunnen dat u de basis
     telefooncentrale wenst uit te breiden met één van de volgende betaalde functionaliteiten:'
