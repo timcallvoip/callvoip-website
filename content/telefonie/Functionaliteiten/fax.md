@@ -26,3 +26,7 @@ Uw faciliteiten zijn dus modern, maar u bent dus volledig in staat om zaken te d
 Maakt u nog gebruik van een faxapparaat of staat uw faxnummer nog op uw briefpapier? Dan kunt u het faxnummer behouden en binnenkomende faxen worden naar uw email gestuurd. Ook uitgaand kunt u faxen door een PDF te uploaden op de telefooncentrale. Zo kunt u faxen ontvangen en verzenden zonder faxapparaat.
 
 ## Wat kost een faxbox?
+
+Maandelijks: **€ 4,00** excl. BTW (per faxbox)
+
+Eenmalig: **€ 5,00** excl. BTW (per faxbox)
