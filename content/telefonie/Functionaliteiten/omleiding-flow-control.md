@@ -24,3 +24,9 @@ Een omleiding is een schakelaar waarmee u eenvoudig acties aan- of uitzet. U kun
 Er zijn meerdere toepassingsmogelijkheden van de omleidings-app. Denk hierbij bijvoorbeeld aan het inschakelen van een doorschakeling naar een (wisselend) mobiel nummer als u kantoor verlaat. Of een omleiding bij vergaderingen, bedrijfsuitjes, kerstborrel, maar ook bij calamiteiten, storingen, etc. U kunt alle functionaliteiten van ons bedieningspaneel in de omleiding plaatsen.
 
 ## Wat zijn de kosten van een omleiding?
+
+Maandelijks: **€ 0,00** excl. BTW
+
+Eenmalig: **€ 0,00** excl. BTW
+
+Deze functionaliteit is onderdeel van het basispakket (waar u €7,50 excl. BTW voor betaalt). 
