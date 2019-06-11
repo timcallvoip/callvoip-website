@@ -46,3 +46,5 @@ fields:
 - type: list
   name: tags
   label: tags
+pages:
+- content/nieuws/bèta-testers-gezocht.md
