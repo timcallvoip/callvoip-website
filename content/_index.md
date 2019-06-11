@@ -82,8 +82,8 @@ usps:
   - icon: fa-sort-numeric-down
     title: Wachtrij (Queue)
     content: Met een <a href="/telefonie/functionaliteiten/wachtrij/">wachtrij</a>
-      kunt alle bellers te woord staan. De beller wordt bijvoorbeeld begroet met een
-      meldtekst en vervolgens in de wacht gezet.
+      kunt alle bellers te woord staan. De beller wordt bijv. begroet met een meldtekst
+      en vervolgens in de wacht gezet.
   - icon: fa-file-pdf
     title: Faxbox
     content: Inkomende <a href="/telefonie/functionaliteiten/fax/">faxberichten</a>
