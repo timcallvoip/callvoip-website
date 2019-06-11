@@ -14,7 +14,7 @@ categories: []
 tags: []
 
 ---
-Voor de Click-to-Dial zijn wij opzoek naar bèta testers! Een grote update van de Click-to-Dial is aanstaande. Na deze update kunt u de beschikbaarheid van uw collega’s zien én kunt u gesprekken doorverbinden naar uw collega’s!
+Voor de Click-to-Dial zijn wij opzoek naar bèta testers! Een grote update van de Click-to-Dial is aanstaande. Na deze update kunt u de beschikbaarheid van uw collega’s zien én kunt u gesprekken doorverbinden naar uw collega’s!<!--more-->
 
 ## Wat houden de updates precies in?
 
