@@ -76,26 +76,24 @@ usps:
   items:
   - icon: fa-bars
     title: Keuzemenu (IVR)
-    content: 'Met een <a href="/telefonie/functionaliteiten/keuzemenu/">keuzemenu</a>
-      begeleidt u de bellers direct naar de juiste medewerker of afdeling. Professioneel,
-      plezierig voor uw klant, efficiënt (door minder doorverbinden) en kortere gesprekken.
-      Ook straalt u met een keuzemenu professionaliteit uit. '
+    content: Met een <a href="/telefonie/functionaliteiten/keuzemenu/">keuzemenu</a>
+      begeleidt u de bellers direct naar de juiste medewerker of afdeling. Professioneel
+      & plezierig voor uw klant.
   - icon: fa-sort-numeric-down
     title: Wachtrij (Queue)
     content: Met een <a href="/telefonie/functionaliteiten/wachtrij/">wachtrij</a>
       kunt alle bellers beantwoorden en te woord staan. De beller wordt bijvoorbeeld
-      begroet met een meldtekst en vervolgens in de wachtgezet. Tijdens deze wachtperiode
-      hoort de beller een toon of wachtmuziek totdat hij/zij zelf aan de beurt is.
+      begroet met een meldtekst en vervolgens in de wacht gezet.
   - icon: fa-file-pdf
     title: Faxbox
-    content: 'Inkomende faxberichten komen als PDF-bericht per email op één of meer
-      emailadressen binnen. Wilt u een <a href="/telefonie/functionaliteiten/fax/">fax</a>
-      versturen, dan kunt u het te faxen bestand als PDF-document uploaden op de telefooncentrale. '
+    content: Inkomende <a href="/telefonie/functionaliteiten/fax/">faxberichten</a>
+      komen als PDF-bericht per email op één of meer e-mailadressen binnen. Ook kunt
+      u eenvoudig faxen versturen.
   - icon: fa-deaf
     title: Gespreksopname (Call Recording)
     content: 'Met <a href="/telefonie/functionaliteiten/gespreksopname/">gespreksopname</a>
-      kunt u uw telefoongesprekken opnemen en terugluisteren.De gespreksopnamefunctie
-      kunt u zelf per gebruiker in- en uitschakelen. '
+      kunt u uw telefoongesprekken opnemen en terugluisteren. U kunt zelf per gebruiker
+      in- en uitschakelen. '
   - icon: fa-unlock
     title: SRTP (versleutelde gesprekken)
     content: Veiligheid staat bij ons hoog in het vaandel en daarom bieden wij de
