@@ -82,31 +82,28 @@ usps:
   - icon: fa-sort-numeric-down
     title: Wachtrij (Queue)
     content: Met een <a href="/telefonie/functionaliteiten/wachtrij/">wachtrij</a>
-      kunt alle bellers beantwoorden en te woord staan. De beller wordt bijvoorbeeld
-      begroet met een meldtekst en vervolgens in de wacht gezet.
+      kunt alle bellers te woord staan. De beller wordt bijvoorbeeld begroet met een
+      meldtekst en vervolgens in de wacht gezet.
   - icon: fa-file-pdf
     title: Faxbox
     content: Inkomende <a href="/telefonie/functionaliteiten/fax/">faxberichten</a>
       komen als PDF-bericht per email op één of meer e-mailadressen binnen. Ook kunt
       u eenvoudig faxen versturen.
   - icon: fa-deaf
-    title: Gespreksopname (Call Recording)
+    title: Gespreksopname
     content: 'Met <a href="/telefonie/functionaliteiten/gespreksopname/">gespreksopname</a>
       kunt u uw telefoongesprekken opnemen en terugluisteren. U kunt zelf per gebruiker
       in- en uitschakelen. '
   - icon: fa-unlock
-    title: SRTP (versleutelde gesprekken)
-    content: Veiligheid staat bij ons hoog in het vaandel en daarom bieden wij de
-      mogelijkheid om uw telefonie te versleutelen en zo uw privacy te waarborgen.
-      Dit doen we door middel van <a href="/telefonie/functionaliteiten/srtp/">SRTP</a>
+    title: Versleutelde gesprekken
+    content: Wij bieden de mogelijkheid om uw telefonie te versleutelen en zo uw privacy
+      te waarborgen. Dit doen we door middel van <a href="/telefonie/functionaliteiten/srtp/">SRTP</a>
       en TLS.
   - icon: fa-mobile
     title: Qaller Plus (mobiele app)
-    content: |-
-      Met <a href="/telefonie/qaller/">Qaller</a> wordt uw mobiele telefoon onderdeel van de online telefooncentrale:
-      1) bedien de telefooncentrale vanaf uw Smartphone
-      2) gebruik uw Smartphone alsof het een kantoortoestel is: bellen en gebeld worden.
-      3) stuur uw zaaknummer mee bij uitbellen
+    content: Met <a href="/telefonie/qaller/">Qaller</a> wordt uw mobiele telefoon
+      onderdeel van de telefooncentrale (bediening) én belt u in- & uitgaand met het
+      nummer van de zaak.
 - title: Behoefte aan integratie
   content: Leuk al die functionaliteiten van de telefooncentrale, maar integratie
     met CRM-, ERP en klantsysteempakketten wordt steeds belangrijker!
