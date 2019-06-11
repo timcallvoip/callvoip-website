@@ -11,6 +11,8 @@ layout: ''
 ---
 Met deze functionaliteit kunt u verschillende meldteksten in uw belplan plaatsen. Denk hierbij aan bijvoorbeeld een welkomst-meldtekst, een tekst wanneer iedereen in gesprek is, meldteksten voor binnen & buiten werktijd en aparte vakantiemeldingen.
 
+<a href="/calculator/" class="button">Bereken uw kosten</a>
+
 ## De voordelen van een meldtekst
 
 * **_Bibliotheek_**: Bewaar de geluidsbestanden en vind ze gemakkelijk terug

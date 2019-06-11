@@ -9,3 +9,5 @@ hero:
 layout: ''
 
 ---
+
+<a href="/calculator/" class="button">Bereken uw kosten</a>

@@ -11,6 +11,8 @@ layout: ''
 ---
 De belgroep-app biedt u de mogelijkheid om een inkomend gesprek naar één of meerdere interne of externe nummers door te schakelen. Daarnaast kunt u ervoor kiezen in welke volgorde de toestellen rinkelen.
 
+<a href="/calculator/" class="button">Bereken uw kosten</a>
+
 ## De voordelen van de belgroep
 
 * **_Rinkelvolgorde_**: U bepaalt zelf of de toestellen tegelijk of in een specifieke volgorde rinkelen

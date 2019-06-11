@@ -11,6 +11,8 @@ layout: ''
 ---
 Met de tijdsconditie-app definieert u vooraf tijden waarop één of meerdere acties moeten plaatsvinden. Denkt u bijvoorbeeld aan een belroute voor binnen en buiten werktijd of een gewijzigde belroute tijdens de lunchpauze, feestdagen, etc.
 
+<a href="/calculator/" class="button">Bereken uw kosten</a>
+
 ## De voordelen van tijdscondities
 
 * **_Minder beheer_**: U stelt eenvoudig alles van te voren in en heeft er dus minder omkijken naar

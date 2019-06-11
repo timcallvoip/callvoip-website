@@ -13,6 +13,8 @@ Heeft u veel inkomend verkeer of wenst u een professionele uitstraling? **U heef
 
 Bepaal zelf de **rinkelvolgorde** en **wachtmuziek**. Voeg **externe nummers** toe en bekijk de **statistieken**. Met de Simmpl telefooncentrale is een wachtrij slechts enkele klikken werk.
 
+<a href="/calculator/" class="button">Bereken uw kosten</a>
+
 ## De voordelen van de wachtrij:
 
 * **_Professioneel_**: voorzie de wachtrij van meldteksten en wachtmuziek
@@ -31,6 +33,6 @@ Dankzij de de geavanceerde wachtrijstatistieken ziet u snel wanneer u de meeste 
 
 ## Wat zijn de kosten van een wachtrij?
 
-Maandelijks: **€ 4,00** excl. BTW (per wachtrij) 
+Maandelijks: **€ 4,00** excl. BTW (per wachtrij)
 
 Eenmalig: **€ 5,00** excl. BTW (per wachtrij)

@@ -9,9 +9,11 @@ hero:
 layout: ''
 
 ---
-Met een faxbox kunt u faxberichten ontvangen én versturen. Hiervoor heeft u geen fysiek faxapparaat meer nodig, alles gaat via internet. **Inkomende faxberichten** komen als PDF-bericht per email op één of meer emailadressen binnen. Wilt u een **fax versturen**, dan kunt u het te faxen bestand als PDF-document uploaden op de telefooncentrale. Het bericht komt dan bij uw relatie als fax binnen.   
-  
+Met een faxbox kunt u faxberichten ontvangen én versturen. Hiervoor heeft u geen fysiek faxapparaat meer nodig, alles gaat via internet. **Inkomende faxberichten** komen als PDF-bericht per email op één of meer emailadressen binnen. Wilt u een **fax versturen**, dan kunt u het te faxen bestand als PDF-document uploaden op de telefooncentrale. Het bericht komt dan bij uw relatie als fax binnen.
+
 Uw faciliteiten zijn dus modern, maar u bent dus volledig in staat om zaken te doen met mensen die nog niet aan de moderne technieken toe zijn.
+
+<a href="/calculator/" class="button">Bereken uw kosten</a>
 
 ## Voordelen van een faxbox:
 

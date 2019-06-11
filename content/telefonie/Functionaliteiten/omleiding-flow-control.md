@@ -11,6 +11,8 @@ layout: ''
 ---
 Een omleiding is een schakelaar waarmee u eenvoudig acties aan- of uitzet. U kunt voor elk nummer omleidingen aanmaken. Daarnaast kunt u in één nummer meerdere omleidingen plaatsen.
 
+<a href="/calculator/" class="button">Bereken uw kosten</a>
+
 ## De voordelen van de omleiding-app
 
 * **_Snel & efficient_**: Met een druk op de knop verandert u de huidige belroute

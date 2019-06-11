@@ -11,6 +11,8 @@ layout: ''
 ---
 Met de ‘voorwaarde-app’ kunt u gesprekken filteren. Door (delen van) het nummer te noteren kunt u aangeven hoe de telefooncentrale dit belletje afhandelt. Wordt u bijvoorbeeld lastig gevallen door een nummer? Vult dit nummer in als voorwaarde, met daarachter direct een voicemailbox.
 
+<a href="/calculator/" class="button">Bereken uw kosten</a>
+
 ## Waarom zou u gebruik maken van voorwaarden/filters?
 
 Er zijn meerdere mogelijkheden om de voorwaarde-app te gebruiken in uw belplan. Hieronder enkele voorbeelden:

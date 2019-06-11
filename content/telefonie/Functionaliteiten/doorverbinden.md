@@ -11,6 +11,8 @@ layout: ''
 ---
 Met de doorverbinden-app zet u eenvoudig inkomende belletjes door naar een toestel bij u op kantoor of naar een extern nummer. Denk hierbij bijvoorbeeld aan een mobiele telefoon of een externe telefoondienst.
 
+<a href="/calculator/" class="button">Bereken uw kosten</a>
+
 ## De voordelen van de doorverbinden-app
 
 * Altijd bereikbaar voor de inkomende beller
