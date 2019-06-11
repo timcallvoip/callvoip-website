@@ -5,7 +5,7 @@ description: ''
 images: []
 slug: voorwaarde
 hero:
-  image: ''
+  image: "/v1560261249/callvoip-website-voorwaarde.png"
 layout: ''
 
 ---

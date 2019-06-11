@@ -5,7 +5,7 @@ description: ''
 images: []
 slug: voicemail
 hero:
-  image: ''
+  image: "/v1560261248/callvoip-website-voicemailbox.png"
 layout: ''
 
 ---

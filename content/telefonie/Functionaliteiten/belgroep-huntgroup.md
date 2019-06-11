@@ -5,7 +5,7 @@ description: ''
 images: []
 slug: belgroep
 hero:
-  image: ''
+  image: "/v1560261248/callvoip-website-belgroep.png"
 layout: ''
 
 ---
