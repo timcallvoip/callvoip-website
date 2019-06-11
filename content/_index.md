@@ -44,21 +44,17 @@ usps:
   - icon: fa-clock
     title: Tijdscondities
     content: Met de <a href="/telefonie/functionaliteiten/tijdsconditie/">tijdsconditie-app</a>
-      definieert u vooraf tijden waarop één of meerdere acties moeten plaatsvinden.
-      Denkt u bijvoorbeeld aan een belroute voor binnen en buiten werktijd of een
-      gewijzigde belroute tijdens de lunchpauze, feestdagen, etc.
+      definieert u vooraf tijden waarop één of meerdere acties in de belroute plaatsvinden.
   - icon: fa-arrows-h
     title: Doorverbinden
     content: Met de <a href="/telefonie/functionaliteiten/doorverbinden/">doorverbinden-app</a>
       zet u eenvoudig inkomende belletjes door naar een toestel bij u op kantoor of
-      naar een extern nummer. Denk hierbij bijvoorbeeld aan een mobiele telefoon of
-      een externe telefoondienst.
+      naar een extern nummer.
   - icon: fa-users
     title: Belgroep (Huntgroup)
     content: De <a href="/telefonie/functionaliteiten/belgroep/">belgroep-app</a>
-      biedt u de mogelijkheid om een inkomend gesprek naar één of meerdere interne
-      of externe nummers door te schakelen. Daarnaast kunt u ervoor kiezen in welke
-      volgorde de toestellen rinkelen.
+      biedt u de mogelijkheid om een inkomend gesprek naar interne of externe nummers
+      door te schakelen.
   - icon: fa-random
     title: Omleiding (Flow Control)
     content: Een <a href="/telefonie/functionaliteiten/omleiding/">omleiding</a> is
