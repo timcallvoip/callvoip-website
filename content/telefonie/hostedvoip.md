@@ -46,20 +46,15 @@ usps:
       deze overbodig. Een telefoontoestel sluit u voortaan aan op uw internetverbinding.
   - icon: fa-exlamation-circle
     title: Is VoIP betrouwbaar?
-    content: CallvoipTelefonie is uiterst betrouwbaar. Mocht uw internetverbinding
-      onverhoopt uitvallen, dan schakelt de telefooncentrale automatisch door naar
-      uw mobiele nummer. Indien u zeer afhankelijk bent van uw internetverbinding
-      kunt u overwegen om een backup verbinding te nemen. Met een speciale router
-      kunt u beide verbindingen samenvoegen en indien één verbinding uitvalt, neemt
-      de andere het verkeer automatisch over.
+    content: Callvoip is uiterst betrouwbaar. Mocht uw internetverbinding onverhoopt
+      uitvallen, dan schakelt de telefooncentrale automatisch door naar uw mobiele
+      nummer. Indien u zeer afhankelijk bent van uw internet, overweeg dan een backup
+      internetverbinding.
   - icon: fa-money-bill
     title: Is VoIP een alternatief voor ISDN?
-    content: 'Heeft u één of meerdere ISDN aansluitingen en een telefooncentrale?
-      Dan is Callvoip zeker een goed alternatief. Callvoip biedt u een volwaardig
-      alternatief voor ISDN. Bovendien is Callvoip zeer flexibel inzetbaar (denk aan
-      thuiswerken en verhuizen) en uiteraard stukken goedkoper. <a href="/calculator/">Bereken
-      het zelf!</a> Porteer uw huidige telefoonnummers of vraag nieuwe nummers aan.
-      Elk nummer heeft een onbeperkt aantal lijnen.   '
+    content: 'Callvoip biedt u een volwaardig alternatief voor ISDN. Bovendien is
+      Callvoip zeer flexibel inzetbaar (denk aan thuiswerken en verhuizen) en uiteraard
+      stukken goedkoper. <a href="/calculator/">Bereken het zelf!</a> '
   - icon: fa-cloud
     title: Biedt VoIP voldoende functionaliteiten?
     content: 'Bij Callvoip hoeft u echt niets aan functionaliteiten in te leveren.
