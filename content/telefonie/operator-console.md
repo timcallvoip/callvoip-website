@@ -65,12 +65,12 @@ prijzen:
   content: ''
   tarieven:
     items:
-    - title: Maandelijks (excl. BTW) per gebruiker
+    - title: Maandelijks
       price: 25
-    - title: Eenmalig (excl. BTW) per gebruiker
+    - title: Eenmalig
       price: 25
-    title: ''
-    footer: ''
+    title: Per gebruiker
+    footer: Prijzen zijn excl. BTW
   button:
     title: Al klant? U vraagt het Operator Console hier aan
     link: "/aanvragen/operator-console/"
