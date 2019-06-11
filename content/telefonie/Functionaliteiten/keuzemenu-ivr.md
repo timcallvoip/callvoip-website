@@ -5,7 +5,7 @@ description: ''
 images: []
 slug: keuzemenu
 hero:
-  image: ''
+  image: "/v1552991205/Team/logo-bord-breed.jpg"
 layout: ''
 
 ---
