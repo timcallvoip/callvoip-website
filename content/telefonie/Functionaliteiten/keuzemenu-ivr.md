@@ -5,7 +5,7 @@ description: ''
 images: []
 slug: keuzemenu
 hero:
-  image: "/v1560254343/callvoip-website-keuzemenu.png"
+  image: "/v1560256070/callvoip-website-keuzemenu.png"
 layout: ''
 
 ---
