@@ -14,13 +14,13 @@ blocks:
     \n<p>De wereld van VoIP verandert snel en betekent dus: snel schakelen, bijblijven
     en nieuwe mogelijkheden verkennen. Spreekt dit je aan en ben je op zoek naar een
     veelzijdige dynamische stageplek of werkplek? Dan horen wij graag van je!</p>"
-  image: "/v1552466837/placeholder-werken1.jpg"
+  image: "/v1560244458/callvoip-website-werkenbij1.jpg"
   position: image_right
 - title: Met wie kom je te werken?
   content: |-
     <p>Om je alvast voor te bereiden op misschien wel je toekomstige collega’s, hebben wij een team-pagina gemaakt. Hier vertellen wij allemaal ons verhaal, hoe zijn wij bij CallvoipTelefonie terecht gekomen?</p>
     <a href="/overons/team" class="button">Bekijk de medewerkers van Callvoip hier!</a>
-  image: "/v1552466820/placeholder-werken2.jpg"
+  image: "/v1560244521/callvoip-website-werkenbij2.jpg"
   position: image_left
 description: ''
 images: []
