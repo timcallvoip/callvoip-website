@@ -23,3 +23,9 @@ Met de tijdsconditie-app definieert u vooraf tijden waarop één of meerdere act
 Beperk het aantal minuten dat u steekt in het beheren van de online telefooncentrale. Dankzij de tijdsconditie-app stelt u veel al van te voren in. U kunt zelfs al jaren vooruit kijken indien gewenst.
 
 ## Wat zijn de kosten van een tijdsconditie?
+
+Maandelijks: **€ 0,00** excl. BTW
+
+Eenmalig: **€ 0,00** excl. BTW
+
+Deze functionaliteit is onderdeel van het basispakket (waar u €7,50 excl. BTW voor betaalt). 

@@ -26,3 +26,9 @@ Er zijn meerdere mogelijkheden om de voorwaarde-app te gebruiken in uw belplan. 
 * Herken mobiele gesprekken en laat deze eerst naar een wachtrij gaan en daarna naar een bepaalde afdeling.
 
 ## Wat zijn de kosten van de voorwaarde-app?
+
+Maandelijks: **€ 0,00** excl. BTW
+
+Eenmalig: **€ 0,00** excl. BTW
+
+Deze functionaliteit is onderdeel van het basispakket (waar u €7,50 excl. BTW voor betaalt). 

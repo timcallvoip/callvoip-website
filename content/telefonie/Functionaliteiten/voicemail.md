@@ -24,3 +24,9 @@ Met de voicemailbox kunt u gemiste gesprekken opvangen. De beller kan, na het do
 Soms heeft u het even te druk om alle inkomende belletjes te beantwoorden of bent u gewoon simpelweg gesloten. Toch wilt u graag in contact komen met de beller. Dankzij de voicemailbox bereikt u dit. U biedt de beller de mogelijkheid om een bericht achter te laten. Vervolgens kunt u deze weer beluisteren en contact opnemen met de desbetreffende beller.
 
 ## Wat zijn de kosten van voicemail?
+
+Maandelijks: **€ 0,00** excl. BTW
+
+Eenmalig: **€ 0,00** excl. BTW
+
+Deze functionaliteit is onderdeel van het basispakket (waar u €7,50 excl. BTW voor betaalt). 
