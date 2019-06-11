@@ -45,6 +45,7 @@ usps:
     title: Tijdscondities
     content: Met de <a href="/telefonie/functionaliteiten/tijdsconditie/">tijdsconditie-app</a>
       definieert u vooraf tijden waarop één of meerdere acties in de belroute plaatsvinden.
+      Bijv. tijdens de Feestdagen.
   - icon: fa-arrows-h
     title: Doorverbinden
     content: Met de <a href="/telefonie/functionaliteiten/doorverbinden/">doorverbinden-app</a>
@@ -59,13 +60,11 @@ usps:
     title: Omleiding (Flow Control)
     content: Een <a href="/telefonie/functionaliteiten/omleiding/">omleiding</a> is
       een schakelaar waarmee u eenvoudig acties aan- of uitzet. U kunt voor elk nummer
-      omleidingen aanmaken. Daarnaast kunt u in één nummer meerdere omleidingen plaatsen.
+      omleidingen aanmaken.
   - icon: fa-bell
     title: Meldteksten
     content: Met deze functionaliteit kunt u verschillende <a href="/telefonie/functionaliteiten/meldtekst/">meldtekst</a>
-      in uw belplan plaatsen. Denk hierbij aan bijvoorbeeld een welkomst-meldtekst,
-      een tekst wanneer iedereen in gesprek is, meldteksten voor binnen & buiten werktijd
-      en aparte vakantiemeldingen.
+      in uw belplan plaatsen. Denk hierbij aan bijvoorbeeld een welkomst-meldtekst.
   - icon: fa-file-audio
     title: Voicemailbox
     content: Met de <a href="/telefonie/functionaliteiten/voicemail/">voicemailbox</a>
