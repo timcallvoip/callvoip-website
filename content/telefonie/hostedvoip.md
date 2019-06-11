@@ -57,20 +57,15 @@ usps:
       stukken goedkoper. <a href="/calculator/">Bereken het zelf!</a> '
   - icon: fa-cloud
     title: Biedt VoIP voldoende functionaliteiten?
-    content: 'Bij Callvoip hoeft u echt niets aan functionaliteiten in te leveren.
-      Via een geavanceerde online telefooncentrale (hosted PBX) beschikt u over tal
-      van <a href="''/telefonie/functionaliteiten/">professionele functionaliteiten</a>
-      waarvoor u tot op heden een dure eigen telefooncentrale voor nodig had. U krijgt
-      persoonlijke inloggegevens voor de telefooncentrale waarop u via internet kunt
-      inloggen. '
+    content: Bij Callvoip hoeft u echt niets aan functionaliteiten in te leveren.
+      Via de online telefooncentrale beschikt u over tal van <a href="'/telefonie/functionaliteiten/">professionele
+      functionaliteiten</a>.
   - icon: fa-wifi
     title: Welke internetverbinding is het meest geschikt?
-    content: Praktisch iedere internetverbinding is geschikt. Dit kan zowel <a href="/internet/dsl/">dsl</a>,
+    content: 'Praktisch iedere internetverbinding is geschikt. Dit kan zowel <a href="/internet/dsl/">dsl</a>,
       <a href="/internet/glasvezel/">glasvezel</a> of <a href="/internet/kabel/">via
-      de kabel</a> Echter is het modem het belangrijkste bij de werking van VoIP.
-      Niet alle modems laten het VoIP verkeer goed door. CallvoipTelefonie adviseert
-      u daarom ten alle tijden over een geschikte internetverbinding, afhankelijk
-      van de mogelijkheden op uw adres.
+      de kabel</a>. Echter is het netwerkapparatuur zeer belangrijks bij de werking
+      van VoIP. '
 intro:
   title: Wat kost bellen met Callvoip?
   content: "Iedere klant is anders en dat betekent dus ook dat geen telefooncentrale
