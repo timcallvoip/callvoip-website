@@ -5,7 +5,7 @@ description: ''
 images: []
 slug: meldtekst
 hero:
-  image: "/v1560259436/callvoip-website-meldtekst.png"
+  image: "/v1560261248/callvoip-website-meldtekst.png"
 layout: ''
 
 ---

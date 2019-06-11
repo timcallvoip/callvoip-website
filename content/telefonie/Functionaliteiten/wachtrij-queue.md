@@ -5,7 +5,7 @@ description: ''
 images: []
 slug: wachtrij
 hero:
-  image: "/v1560259287/callvoip-website-wachtrij.png"
+  image: "/v1560261248/callvoip-website-wachtrij.png"
 layout: ''
 
 ---
