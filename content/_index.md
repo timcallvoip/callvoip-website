@@ -36,9 +36,9 @@ intro:
 usps:
 - title: Callvoip is er voor de ondernemers
   content: <p>Callvoip levert met Simmpl een telefooncentrale dat zorgt voor optimale
-    bereikbaarheid én een professionele uitstraling naar uw klanten. In het basispakket
-    zitten al veel functionaliteiten. Benieuwd naar alle functionaliteiten die zich
-    in het basispakket bevinden? Klik op de knop hieronder!</p>  <a href="/telefonie/functionaliteiten/"
+    bereikbaarheid én een professionele uitstraling naar uw klanten. <br></br> In
+    het basispakket zitten al veel functionaliteiten. Benieuwd naar alle functionaliteiten
+    die zich in het basispakket bevinden? Klik op de knop hieronder!</p>  <a href="/telefonie/functionaliteiten/"
     class="button">Overzicht functionaliteiten</a>
   items:
   - icon: fa-clock
@@ -112,7 +112,7 @@ usps:
     title: Click-to-Dial plugin
     content: Met de Simmpl <a href="/telefonie/clicktodial/">Click-to-Dial plugin</a>  van
       Callvoip maakt u in een hand- omdraai alle telefoonnummers in uw Chrome browser
-      klikbaar én veel meer!
+      klikbaar én meer!
   - icon: fa-window-restore
     title: VoIP CTI
     content: <a href="/telefonie/integratiemetcrm/">VoIP CTI</a> biedt gemak en bespaart
