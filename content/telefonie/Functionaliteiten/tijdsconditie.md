@@ -5,7 +5,7 @@ description: ''
 images: []
 slug: tijdsconditie
 hero:
-  image: "/v1560260365/callvoip-website-tijdsconditie.png"
+  image: "/v1560261248/callvoip-website-tijdsconditie.png"
 layout: ''
 
 ---

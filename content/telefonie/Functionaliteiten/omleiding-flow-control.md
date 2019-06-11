@@ -5,7 +5,7 @@ description: ''
 images: []
 slug: omleiding
 hero:
-  image: "/v1560259568/callvoip-website-omleiding.png"
+  image: "/v1560261248/callvoip-website-omleiding.png"
 layout: ''
 
 ---

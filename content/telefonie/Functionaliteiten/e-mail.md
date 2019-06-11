@@ -5,7 +5,7 @@ description: ''
 images: []
 slug: email
 hero:
-  image: "/v1560260946/callvoip-website-email.png"
+  image: "/v1560261248/callvoip-website-email.png"
 layout: ''
 
 ---

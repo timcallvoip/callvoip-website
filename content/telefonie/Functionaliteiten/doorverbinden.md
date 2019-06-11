@@ -5,7 +5,7 @@ description: ''
 images: []
 slug: doorverbinden
 hero:
-  image: "/v1560260010/callvoip-website-doorverbinden.png"
+  image: "/v1560261248/callvoip-website-doorverbinden.png"
 layout: ''
 
 ---
