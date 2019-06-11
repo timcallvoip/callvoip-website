@@ -33,5 +33,5 @@ Hiermee creëert uw meer keuzemogelijkheden. Handig als een afdeling meer colleg
 
 ## Wat zijn de kosten van een keuzemenu?
 
-Maandelijks: € 4,00 excl. BTW (per keuzemenu)  
-Eenmalig: € 5,00 excl. BTW (per keuzemenu) 
+Maandelijks: € **4,00** excl. BTW (per keuzemenu)  
+Eenmalig: € **5,00** excl. BTW (per keuzemenu)
