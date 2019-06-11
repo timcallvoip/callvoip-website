@@ -24,3 +24,5 @@ Er zijn meerdere mogelijkheden om de voorwaarde-app te gebruiken in uw belplan. 
 * Verbind gesprekken uit een netnummergebied meteen door naar de juiste vestiging.
 * Filter gesprekken uit het buitenland en voorzie deze van een prefix (bv: Duitsland).
 * Herken mobiele gesprekken en laat deze eerst naar een wachtrij gaan en daarna naar een bepaalde afdeling.
+
+## Wat zijn de kosten van de voorwaarde-app?
