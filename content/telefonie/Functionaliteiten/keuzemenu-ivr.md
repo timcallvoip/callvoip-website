@@ -32,3 +32,6 @@ U kunt de beller gelijk doorsturen naar een keuzemenu of als er niet wordt aange
 Hiermee creëert uw meer keuzemogelijkheden. Handig als een afdeling meer collega’s omvat of als een een keuzemenu wenst met meerdere meldteksten die antwoord geven op vragen.
 
 ## Wat zijn de kosten van een keuzemenu?
+
+Maandelijks: € 4,00 excl. BTW (per keuzemenu)  
+Eenmalig: € 5,00 excl. BTW (per keuzemenu) 
