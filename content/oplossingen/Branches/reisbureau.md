@@ -9,7 +9,11 @@ hero:
 layout: ''
 
 ---
-Een reisbureau met 3 werknemers heeft een ISDN-lijn en gebruikt DECT-toestellen die zijn aangesloten op een kleine ISDN-2 centrale. Men belt veel naar Duitsland, Spanje, Italië en Griekenland. Men heeft een basic ADSL-abonnement dat toereikend is voor het gebruik van VoIP. Men vraagt zich af wat de mogelijkheden zijn van VoIP in de eigen situatie.
+Als reisbureau is het belangrijk dat u altijd bereikbaar bent voor uw klanten. 
+
+## Situatiebeschrijving
+
+Een reisbureau met 3 werknemers heeft een ISDN-lijn en gebruikt DECT-toestellen die zijn aangesloten op een kleine ISDN-2 centrale. Men belt veel naar Duitsland, Spanje, Italië en Griekenland.  Men vraagt zich af wat de mogelijkheden zijn van VoIP in de eigen situatie.
 
 ## De oplossing van Callvoip
 
