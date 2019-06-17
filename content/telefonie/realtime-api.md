@@ -9,11 +9,11 @@ hero:
 layout: ''
 
 ---
-Met de Realtime API (application programming interface) van CallvoipTelefonie koppelt u uw telefooncentrale met een extern systeem. Of nu gaat om een integratie met uw CRM systeem of een Call-me-Back button. Met de API-koppeling kan het.
+Met de Realtime API (application programming interface) van Callvoip koppelt u uw telefooncentrale met een extern systeem. Of nu gaat om een integratie met uw CRM systeem of een Call-me-Back button. Met de API-koppeling kan het.
 
-Mogelijkheden Realtime API
+## Mogelijkheden Realtime API
 
-De Realtime API van CallvoipTelefonie is universeel en zeer breed in te zetten. Het biedt u de mogelijkheid om de telefooncentrale intelligent te koppelen met andere systemen en software. Denkt u bijvoorbeeld aan de volgende toepassingen:
+De Realtime API van Callvoip is universeel en zeer breed in te zetten. Het biedt u de mogelijkheid om de telefooncentrale intelligent te koppelen met andere systemen en software. Denkt u bijvoorbeeld aan de volgende toepassingen:
 
 ![API](https://www.callvoiptelefonie.nl/wp-content/uploads/2017/02/seamless-integration-icon.png)
 
@@ -24,7 +24,7 @@ De Realtime API van CallvoipTelefonie is universeel en zeer breed in te zetten. 
 
 ## Hoe realiseer ik dit?
 
-Als u klant bent van CallvoipTelefonie kunt u beginnen. Neem contact met ons op en wij kunnen u voorzien van de juiste documentatie.
+Als u klant bent van Callvoip kunt u beginnen. Neem contact met ons op en wij kunnen u voorzien van de juiste documentatie.
 
 ## Doen jullie dit ook?
 
