@@ -39,7 +39,8 @@ team:
   function: Commercieel Medewerker
   name: Lennart Swennenhuis
   image: "/v1557495164/Portretfoto.jpg"
-- content: Commercieel Medewerker
+- content: Met de opgedane ervaring geeft Dion u een gerichte service én biedt een
+    hierbij passende oplossing.
   function: Commercieel Medewerker
   name: Dion Steen
   image: "/v1557495164/Portretfoto.jpg"
