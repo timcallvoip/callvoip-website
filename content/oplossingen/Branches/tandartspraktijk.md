@@ -32,3 +32,7 @@ De tandarts heeft voor het gehele jaar de dienstdoende tandartsen al ingesteld d
 #### Meldteksten
 
 Voor elke tandarts is een aparte meldtekst ingesproken waarin het telefoonnummer wordt vermeld. Deze meldtekst wordt afgespeeld als de desbetreffende tijdsconditie actief is.
+
+### Benieuwd naar de mogelijkheden voor uw situatie?
+
+<a href="/offerte/" class="button">Vraag offerte aan!</a>

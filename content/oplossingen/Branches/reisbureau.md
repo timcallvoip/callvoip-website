@@ -14,3 +14,7 @@ Een reisbureau met 3 werknemers heeft een ISDN-lijn en gebruikt DECT-toestellen 
 ## De oplossing van Callvoip
 
 Het huidige telefoon- en faxnummer zijn overgedragen (geporteerd) naar Callvoip. Er wordt een FRITZ!Box VoIP-modem-router aangeschaft. De nummers worden op de FRITZ!Box 7490 geregistreerd. De ISDN-centrale kan op de FRITZ! worden aangesloten. Men kan op de bestaande toestellen bellen en gebeld worden. Faxen komen binnen via e-mail als PDF bestand. Dit is handig omdat alle bevestigingen nu direct elektronisch kunnen worden gearchiveerd en men de faxen op iedere plek waar e-mail beschikbaar is, kan bekijken. Ook het kunnen verzenden van een fax door een PDF te uploaden is een bijzonder welkome bijkomstigheid!.
+
+### Benieuwd naar de mogelijkheden voor uw situatie?
+
+<a href="/offerte/" class="button">Vraag offerte aan!</a>

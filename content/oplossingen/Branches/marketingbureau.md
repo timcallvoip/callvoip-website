@@ -16,3 +16,7 @@ Een nieuw opgericht marketingbureau met 4 medewerkers betrekt een nieuw kantoorp
 Gelijk na aanvraag verstrekt Callvoip een tweetal nummers – de nummers zijn direct te gebruiken. Het telefoonnummer wordt geforward naar twee mobiele nummers (volgtijdelijk). Het faxnummer ontvangt inkomende faxen en stuurt deze als PDF door naar het mailadres. Via PDF-2-Fax kan er gelijk via de Simmpl telefooncentrale worden uitgefaxt – hiervoor is geen faxapparaat nodig; het uploaden van een PDF is voldoende.  
 Callvoip verzorgt en begeleidt de aanvraag van de internetverbinding. Zodra deze na 14 dagen wordt opgeleverd plaatst Callvoip vier IP-telefoons: 2 draadloze en 2 vaste bureautoestellen. Inkomende gesprekken gaan op twee toestellen over. Inkomende gesprekken zijn er overigens nauwelijks – er wordt voor vrijwel alleen uitgebeld.  
 Inmiddels groeit de onderneming en is zij op zoek naar nieuwe huisvesting. De nummers verhuizen zonder moeite en zonder kosten mee.
+
+### Benieuwd naar de mogelijkheden voor uw situatie?
+
+<a href="/offerte/" class="button">Vraag offerte aan!</a>
