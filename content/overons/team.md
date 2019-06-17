@@ -13,8 +13,8 @@ team:
   function: Algemeen Directeur
   image: "/v1552398058/Team/team-robert.jpg"
   name: Robert Tijdhof
-- content: Toegewijd en persoonlijk. Vertaalt techniek naar normale taal. Procesregisseur.
-    Enthousiast en gedreven. Spin in het web. Organisator en teamwerker.
+- content: Kent u graag persoonlijk, weet wat u belangrijk vindt, adviseert en begeleidt
+    u naar het eindpunt. Vertaalt technische taal daarnaast naar begrijpelijke termen.
   function: Business Operations
   image: "/v1552398057/Team/team-marieke.jpg"
   name: Marieke Timmer
