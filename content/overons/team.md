@@ -23,8 +23,9 @@ team:
   function: Technisch logistiek medewerker
   image: "/v1552398058/Team/team-herman.jpg"
   name: Herman Willems
-- content: Marketingman. Multi-inzetbaar. Vindt en bouwt uw telefonie-oplossing. Verantwoordelijk.
-    Sfeermaker. Creatief brein. Behulpzaam. Regelt het voor u.
+- content: Speelt een belangrijke rol bij de vormgeving van de website en daarbij
+    behorende tools. Verstuurt ook de mailingen. Groot fan van reizen & ontdekken
+    van andere culturen.
   function: Marketing
   image: "/v1557495164/Portretfoto.jpg"
   name: Milan Littooy
