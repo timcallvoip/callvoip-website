@@ -5,7 +5,7 @@ description: ''
 images: []
 slug: autodealer
 hero:
-  image: ''
+  image: "/v1560763707/callvoip-website-branches-autodealer.png"
 layout: ''
 
 ---
