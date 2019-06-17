@@ -23,8 +23,6 @@ De **gespreksopnamefunctie** kunt u zelf per gebruiker in- en uitschakelen. U ku
 Veel gesprekken zijn het waard, uit oogpunt van belang of diversiteit van inhoud, om nog eens terug te kunnen luisteren. Of het nu voor training, verdere uitwerking, begeleiding of het nakomen van overeengekomen mondelinge afspraken gaat: is het niet ideaal als u deze mogelijkheid heeft?  
 **De Simmpl-telefooncentrale biedt gespreksopname met één druk op de knop**: zet opname aan, bepaal het aantal bewaar-dagen (30, 90, 180 of 365), en klaar. Gesprekken worden opgenomen, u kunt ze terugluisteren en downloaden.
 
-Handige toepassing van de gespreksopname functie zijn het kunnen trainen en coachen van (nieuwe) collega’s. In sommige bedrijfstakken is gespreksopname een vereiste of pré. In verkoopomgevingen kan het wenselijk zijn om tijdens salesgesprekken mondelinge afspraken/overeenkomsten op te nemen. Mocht er dan later een discussie ontstaan, dan kunt u aan de hand van de opgenomen gesprekken aantonen wat er afgesproken is. Ook tijdens conference-gesprekken is gespreksopname ook een uitkomst: zo kunnen alle deelnemers van deze meeting, maar ook niet-deelnemers, het gesprek later nog eens terugluisteren.
-
 ## Wat kost gespreksopname?
 
 Gespreksopname wordt berekend op het aantal gebruikers en op basis van de ingestelde bewaarperiode:
