@@ -18,14 +18,14 @@ team:
   function: Business Operations
   image: "/v1552398057/Team/team-marieke.jpg"
   name: Marieke Timmer
-- content: Zorgvuldig en precies. Structuur en orde. Overzicht. Superieure productkennis.
-    Technische vraagbaak. Ontfermt zich over uw apparatuur. Proactief en scherp.
+- content: Is zeer toegewijd en voelt zich persoonlijk verantwoordelijk dat uw order
+    100% goed werkend de deur uitgaat. Door zijn grote technische kennis is hij voor
+    veel collega’s een waardevolle vraagbaak
   function: Technisch logistiek medewerker
   image: "/v1552398058/Team/team-herman.jpg"
   name: Herman Willems
 - content: Speelt een belangrijke rol bij de vormgeving van de website en daarbij
-    behorende tools. Verstuurt ook de mailingen. Groot fan van reizen & ontdekken
-    van andere culturen.
+    behorende tools. Verstuurt ook de maandelijkse mailing.
   function: Marketing
   image: "/v1557495164/Portretfoto.jpg"
   name: Milan Littooy
