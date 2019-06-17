@@ -17,4 +17,6 @@ Het huidige telefoon- en faxnummer zijn overgedragen (geporteerd) naar Callvoip.
 
 ### Benieuwd naar de mogelijkheden voor uw situatie?
 
-<a href="/offerte/" class="button">Vraag offerte aan!</a>
+<br>
+
+<a href="/offerte/" class="button">Vraag hier een offerte aan!</a>

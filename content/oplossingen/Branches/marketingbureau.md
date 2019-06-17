@@ -19,4 +19,6 @@ Inmiddels groeit de onderneming en is zij op zoek naar nieuwe huisvesting. De nu
 
 ### Benieuwd naar de mogelijkheden voor uw situatie?
 
-<a href="/offerte/" class="button">Vraag offerte aan!</a>
+<br>
+
+<a href="/offerte/" class="button">Vraag hier een offerte aan!</a>
