@@ -40,7 +40,8 @@ team:
   function: Commercieel Medewerker
   name: Dion Steen
   image: "/v1557495164/Portretfoto.jpg"
-- content: Commercieel Medewerker
+- content: 'Deskundig en altijd op de hoogte. Creatief met oplossingen. Analytisch
+    en zorgvuldig. Meedenker. '
   function: Commercieel Medewerker
   name: Ralph Elshot
   image: "/v1557495164/Portretfoto.jpg"
