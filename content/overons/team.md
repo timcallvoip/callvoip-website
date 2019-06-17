@@ -8,8 +8,8 @@ intro:
     staat. Maak daarom kennis met ons team en weet wie u aan de lijn heeft.
   title: Het team van Callvoip
 team:
-- content: Founder. Toekomstvisie. Win-win. Schept de kaders. Analytisch brein. Partnership.
-    Klant op voetstuk. Lef en focus. Rots in de branding. No limits. Serviceminded.
+- content: 'Passie voor ondernermerschap en grote affiniteit met ICT & database-applicaties.
+    Resultaat? Tijdhof Consulting in 1997 en Callvoip in 2007! '
   function: Algemeen Directeur
   image: "/v1552398058/Team/team-robert.jpg"
   name: Robert Tijdhof
