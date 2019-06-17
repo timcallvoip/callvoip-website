@@ -5,7 +5,7 @@ description: ''
 images: []
 slug: zorg
 hero:
-  image: ''
+  image: "/v1560762162/callvoip-website-branches-zorg.png"
 layout: ''
 
 ---
