@@ -9,13 +9,13 @@ hero:
 layout: ''
 
 ---
-Als reisbureau is het belangrijk dat u altijd bereikbaar bent voor uw klanten. 
+Als reisbureau is het belangrijk dat u altijd bereikbaar bent voor uw klanten.
 
-## Situatiebeschrijving
+### Situatiebeschrijving
 
 Een reisbureau met 3 werknemers heeft een ISDN-lijn en gebruikt DECT-toestellen die zijn aangesloten op een kleine ISDN-2 centrale. Men belt veel naar Duitsland, Spanje, Italië en Griekenland.  Men vraagt zich af wat de mogelijkheden zijn van VoIP in de eigen situatie.
 
-## De oplossing van Callvoip
+### De oplossing van Callvoip
 
 Het huidige telefoon- en faxnummer zijn overgedragen (geporteerd) naar Callvoip. Er wordt gebruik gemaakt van de volgende functionaliteiten:
 

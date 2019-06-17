@@ -11,14 +11,14 @@ layout: ''
 ---
 Als autodealer is het belangrijk dat u altijd bereikbaar bent voor uw klanten.
 
-## Situatiebeschrijving
+### Situatiebeschrijving
 
 Een grote regionale autodealer met meerdere vestigingen besluit zich uit oogpunt van kosten en flexibiliteit over VoIP te informeren. Het hoofdkantoor heeft een blok van 10 opéénvolgende nummers en een ISDN15-abonnement (= er kunnen 15 gesprekken tegelijkertijd worden gevoerd). Deze capaciteit wordt te krap. Er is een flinke telefooncentrale die alweer 5 jaar in gebruik is. Er zijn 2 receptie-werkplekken (hoofdkantoor), 20 werkplekken met toestel (hoofdkantoor en vestigingen) en 1 fax (hoofdkantoor).  
 De twee regiokantoren hebben elk een ISDN2-aansluiting met een Quattrovox, met daarachter enkele toestellen en een fax. De regiokantoren hebben niet altijd een bemande receptie. Tot nu toe werd de telefoon middels de KPN sterretjesdienst naar het hoofdkantoor doorgeschakeld.  
 Het bedrijf heeft diverse servicenummers die rechtstreeks door klanten worden gebeld: verkoop, verhuur, werkplaats, dealerlijn, etc. Er wordt meer naar het bedrijf gebeld (inbound) dan dat er wordt uitgebeld (outbound). Er is vrij veel telefonisch verkeer tussen de vestigingen.  
 Het hoofdkantoor beschikt sinds een half jaar over een glasvezel-verbinding die voorziet in de benodigde bandbreedte.
 
-## De oplossing van Callvoip
+### De oplossing van Callvoip
 
 #### Tijdscondities
 
