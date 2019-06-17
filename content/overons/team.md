@@ -34,7 +34,8 @@ team:
   image: "/v1557495164/Portretfoto.jpg"
   content: Houdt zich voornamelijk bezig met het verwerken van aanvragen, wijzigingen
     en opzeggingen. Daarnaast bewaakt ze de administratieve processen.
-- content: Commercieel Medewerker
+- content: Zoekt samen met u naar de beste telefonieoplossing. Geen situatie is te
+    gek voor hem. Lennart begeleidt u van lead naar blije klant.
   function: Commercieel Medewerker
   name: Lennart Swennenhuis
   image: "/v1557495164/Portretfoto.jpg"
