@@ -32,11 +32,6 @@ Gespreksopname wordt berekend op het aantal gebruikers en op basis van de ingest
 * €5,00 p/mnd per gebruiker
 * €5,00 eenmalig
 
-#### 90 dagen bewaren
-
-* €10,00 p/mnd per gebruiker
-* €5,00 eenmalig
-
 #### 180 dagen bewaren
 
 * €10,00 p/mnd per gebruiker
