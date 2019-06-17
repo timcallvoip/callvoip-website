@@ -32,7 +32,8 @@ team:
 - function: Administratie
   name: Lynn de Goede
   image: "/v1557495164/Portretfoto.jpg"
-  content: Administratie
+  content: Houdt zich voornamelijk bezig met het verwerken van aanvragen, wijzigingen
+    en opzeggingen. Daarnaast bewaakt ze de administratieve processen.
 - content: Commercieel Medewerker
   function: Commercieel Medewerker
   name: Lennart Swennenhuis
