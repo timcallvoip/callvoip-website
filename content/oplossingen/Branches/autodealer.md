@@ -9,7 +9,7 @@ hero:
 layout: ''
 
 ---
-Intro
+Als autodealer is het belangrijk dat u altijd bereikbaar bent voor uw klanten.
 
 ## Situatiebeschrijving
 
