@@ -32,6 +32,7 @@ fields:
   hidden: true
 pages:
 - content/oplossingen/Branches/reisbureau.md
+- content/oplossingen/Branches/tandartspraktijk.md
 - content/oplossingen/Branches/zorg.md
 - content/telefonie/Functionaliteiten/meldtekst.md
 - content/telefonie/Functionaliteiten/wachtrij-queue.md
