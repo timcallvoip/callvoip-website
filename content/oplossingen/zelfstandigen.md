@@ -13,12 +13,12 @@ hero:
     link: "/calculator"
   image: "/v1552466820/hostedvoip.svg"
 blocks:
-- content: "<p>Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent,
-    dat gaat verder dan alleen maar telefonie. Betrouwbaar internet en goede apparatuur
-    mogen daarbij niet ontbreken.</p>"
+- content: |-
+    Klanten van Callvoip gebruiken de Simmpl online telefooncentrale.
+    Simmpl, omdat de telefooncentrale u voorziet van zeer veel professionele functionaliteiten en uitblinkt in bedieningseenvoud.
   image: "/v1552466820/phones.png"
   position: image_left
-  title: Zakelijke VoIP waar je op kan vertrouwen
+  title: Callvoip = Simmpl!
 - content: "<p>Callvoip is de zakelijke telefonieprovider waar persoonlijk contact
     centraal staat. Maak daarom kennis met [ons team](/team) en weet wie u aan de
     lijn heeft.</p>"
