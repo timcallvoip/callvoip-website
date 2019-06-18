@@ -69,21 +69,19 @@ prijzen:
       price: 10
     - title: Eenmalig
       price: 15
-- title: Grootzakelijk
-  content: Geen telefooncentrale op locatie, maar een moderne gebruiksvriendelijk.
+- title: Extra spraakkanaal
+  content: Waarschijnlijk heeft u extra spraakkanalen nodig.
   button:
-    title: Stel je pakket samen
+    title: ''
     link: ''
   tarieven:
-    title: Maandelijkse kosten
-    footer: Prijzen zijn vanaf en per maand
+    title: Extra spraakkanaal (per kanaal)
+    footer: Prijzen zijn excl. BTW
     items:
-    - title: Basis Abonnement
-      price: 4
-    - title: Telefoonnummer
-      price: 3
-    - title: Voicemail
-      price: 1
+    - title: Maandelijks
+      price: '2.50'
+    - title: Eenmalig
+      price: 5
 - title: Telefoonnummer
   content: U heeft één of meer telefoonnummers (nieuw of bestaand)
   button:
