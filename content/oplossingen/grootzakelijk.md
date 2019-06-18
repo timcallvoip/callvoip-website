@@ -56,36 +56,19 @@ intro:
     gaat verder dan alleen maar telefonie. Betrouwbaar internet en goede apparatuur
     mogen daarbij niet ontbreken.
 prijzen:
-- title: Zelfstandigen
-  content: Geen telefooncentrale op locatie, maar een moderne gebruiksvriendelijk.
+- title: Trunk
+  content: De basis trunk bestaat uit 4 spraakkanalen
   button:
-    title: Stel je pakket samen
+    title: ''
     link: ''
   tarieven:
-    title: Maandelijkse kosten
-    footer: Prijzen zijn vanaf en per maand
+    title: Trunk
+    footer: Prijzen zijn excl. BTW
     items:
-    - title: Basis Abonnement
-      price: 4
-    - title: Telefoonnummer
-      price: 3
-    - title: Voicemail
-      price: 1
-- title: MKB
-  content: Geen telefooncentrale op locatie, maar een moderne gebruiksvriendelijk.
-  button:
-    title: Stel je pakket samen
-    link: ''
-  tarieven:
-    title: Maandelijkse kosten
-    footer: Prijzen zijn vanaf en per maand
-    items:
-    - title: Basis Abonnement
-      price: 4
-    - title: Telefoonnummer
-      price: 3
-    - title: Voicemail
-      price: 1
+    - title: Maandelijks
+      price: 10
+    - title: Eenmalig
+      price: 15
 - title: Grootzakelijk
   content: Geen telefooncentrale op locatie, maar een moderne gebruiksvriendelijk.
   button:
@@ -101,6 +84,19 @@ prijzen:
       price: 3
     - title: Voicemail
       price: 1
+- title: Telefoonnummer
+  content: U heeft één of meer telefoonnummers (nieuw of bestaand)
+  button:
+    title: ''
+    link: ''
+  tarieven:
+    title: Per telefoonnummer
+    footer: Prijzen zijn excl. BTW
+    items:
+    - title: Maandelijks
+      price: 2
+    - title: Eenmalig
+      price: 15
 description: ''
 images: []
 menu:
