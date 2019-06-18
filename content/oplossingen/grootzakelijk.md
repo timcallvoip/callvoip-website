@@ -20,10 +20,10 @@ blocks:
   image: "/v1552466820/phones.png"
   position: image_left
   title: VoIP Trunk van Callvoip
-- content: Met Callvoip krijgt u toegang tot de modernste online telefooncentrale;
-    Simmpl.
-  image: "/v1552466837/windows.svg"
-  position: ''
+- content: CallvoipTelefonie VoIP-trunks zijn te gebruiken bij bijna alle IP-centrales,
+    waaronder o.a. volgende populaire systemen
+  image: "/v1560861389/callvoip-website-trunk-centrales.png"
+  position: image_right
   title: Toch liever Hosted VoIP?
 usps:
   title: Geniet van een beter telefoongesprek
