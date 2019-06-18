@@ -77,6 +77,8 @@ prijzen:
       price: 2
     - title: Toestelaccount
       price: 4
+    - title: Gesprekskosten
+      price: 
 - title: Bundel 500 min
   content: U koopt 500 belminuten (per toestel) af per maand. Komt u over deze bundel,
     dan betaalt u onze reguliere lage gesprekskosten.
