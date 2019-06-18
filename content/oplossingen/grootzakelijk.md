@@ -13,12 +13,13 @@ hero:
     link: "/calculator"
   image: "/v1552466820/hostedvoip.svg"
 blocks:
-- content: "<p>Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent,
-    dat gaat verder dan alleen maar telefonie. Betrouwbaar internet en goede apparatuur
-    mogen daarbij niet ontbreken.</p>"
+- content: 'Een VoIP-trunk is een verbinding tussen het CallvoipTelefonie-platform
+    en uw eigen centrale. Door deze trunk lopen alle gesprekken van al uw nummers:
+    inkomend en uitgaand. Uw eigen centrale blijft het centrale punt waar u instelt
+    wat er met gesprekken gebeurt, op welke toestellen deze rinkelen, en dergelijke.'
   image: "/v1552466820/phones.png"
   position: image_left
-  title: Zakelijke VoIP waar je op kan vertrouwen
+  title: VoIP Trunk van Callvoip
 - content: "<p>Callvoip is de zakelijke telefonieprovider waar persoonlijk contact
     centraal staat. Maak daarom kennis met [ons team](/team) en weet wie u aan de
     lijn heeft.</p>"
