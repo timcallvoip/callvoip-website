@@ -62,51 +62,57 @@ intro:
     past en bel voor een vast bedrag per maand. Liever bellen tegen onze vaste lage
     gesprekskosten? Dan kiest u voor Flexibel bellen.
 prijzen:
-- title: Zelfstandigen
-  content: Geen telefooncentrale op locatie, maar een moderne gebruiksvriendelijk.
+- title: Flexibel bellen
+  content: U betaalt per gesprek en per minuut, natuurlijk tegen onze zeer lage gesprekskosten.
   button:
-    title: Stel je pakket samen
-    link: ''
+    title: Offerte aanvragen
+    link: "/offerte"
+  tarieven:
+    title: Maandelijkse kosten
+    footer: Prijzen zijn excl. BTW & excl. gesprekskosten
+    items:
+    - title: Basis Abonnement
+      price: '7.50'
+    - title: Telefoonnummer
+      price: 2
+    - title: Toestelaccount
+      price: 4
+- title: Bundel 500 min
+  content: U koopt 500 belminuten (per toestel) af per maand. Komt u over deze bundel,
+    dan betaalt u onze reguliere lage gesprekskosten.
+  button:
+    title: Offerte aanvragen
+    link: "/offerte"
+  tarieven:
+    title: Maandelijkse kosten
+    footer: Prijzen zijn excl. BTW
+    items:
+    - title: Basis Abonnement
+      price: '7.50'
+    - title: Telefoonnummer
+      price: 2
+    - title: Toestelaccount
+      price: 4
+    - title: Bundel 500min
+      price: 10
+- title: Bundel 1500 min
+  content: U koopt 1500 belminuten (per toestel) af per maand. Komt u over deze bundel,
+    dan betaalt u onze reguliere lage gesprekskosten.
+  button:
+    title: Offerte aanvragen
+    link: "/offerte"
   tarieven:
     title: Maandelijkse kosten
     footer: Prijzen zijn vanaf en per maand
     items:
     - title: Basis Abonnement
-      price: 4
+      price: '7.50'
     - title: Telefoonnummer
-      price: 3
-    - title: Voicemail
-      price: 1
-- title: MKB
-  content: Geen telefooncentrale op locatie, maar een moderne gebruiksvriendelijk.
-  button:
-    title: Stel je pakket samen
-    link: ''
-  tarieven:
-    title: Maandelijkse kosten
-    footer: Prijzen zijn vanaf en per maand
-    items:
-    - title: Basis Abonnement
+      price: 2
+    - title: Toestelaccount
       price: 4
-    - title: Telefoonnummer
-      price: 3
-    - title: Voicemail
-      price: 1
-- title: Grootzakelijk
-  content: Geen telefooncentrale op locatie, maar een moderne gebruiksvriendelijk.
-  button:
-    title: Stel je pakket samen
-    link: ''
-  tarieven:
-    title: Maandelijkse kosten
-    footer: Prijzen zijn vanaf en per maand
-    items:
-    - title: Basis Abonnement
-      price: 4
-    - title: Telefoonnummer
-      price: 3
-    - title: Voicemail
-      price: 1
+    - title: Bundel 1500min
+      price: '12.50'
 description: ''
 images: []
 menu:
