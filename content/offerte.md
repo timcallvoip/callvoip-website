@@ -9,7 +9,7 @@ images: []
 layout: ''
 
 ---
-Vul hieronder uw gegevens in en u ontvangt **binnen één werkdag** een vrijblijvende offerte. Wilt u tevens advies over **internetverbindingen** of aanvullende **apparatuur**? Laat het ons weten in de toelichting, want ook deze **kennis** hebben wij in huis. 
+Vul hieronder uw gegevens in en u ontvangt **binnen één werkdag** een vrijblijvende offerte. Wilt u tevens advies over **internetverbindingen** of aanvullende **apparatuur**? Laat het ons weten in de toelichting, want ook deze **kennis** hebben wij in huis.
 
 ### Ontvang een vrijblijvende offerte
 
