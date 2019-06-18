@@ -26,35 +26,25 @@ blocks:
   position: image_right
   title: Toch liever Hosted VoIP?
 usps:
-  title: Geniet van een beter telefoongesprek
+  title: De voordelen van een trunkoplossing
   content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent, dat
     gaat verder dan alleen maar telefonie. Betrouwbaar internet en goede apparatuur
   items:
   - icon: fa-cloud
-    title: Moderne centrale in de cloud
-    content: Callvoip is er voor elke ondernemer. Voor de zelfstandige, die graag
-      bereikbaar is op een vast nummer. Maar wij zijn er ook voor de international
-      met 10.000 werkplekken.
+    title: Vertrouwd
+    content: Bediening en gemak van uw eigen telefooncentrale
   - icon: fa-user-lock
-    title: Je eigen beveiligde omgeving
-    content: Callvoip is er voor elke ondernemer. Voor de zelfstandige, die graag
-      bereikbaar is op een vast nummer. Maar wij zijn er ook voor de international
-      met 10.000 werkplekken.
+    title: Flexibel
+    content: Zelf het aantal gesprekskanalen bepalen en aanpassen
   - icon: fa-comment-alt-smile
-    title: Geen moeilijke software
-    content: Callvoip is er voor elke ondernemer. Voor de zelfstandige, die graag
-      bereikbaar is op een vast nummer. Maar wij zijn er ook voor de international
-      met 10.000 werkplekken.
+    title: Betrouwbaar
+    content: Backup-trunk en fallback op hosted centrale
   - icon: fa-laptop
-    title: Werkt op Apple en Windows
-    content: Callvoip is er voor elke ondernemer. Voor de zelfstandige, die graag
-      bereikbaar is op een vast nummer. Maar wij zijn er ook voor de international
-      met 10.000 werkplekken.
+    title: Veilig
+    content: Uitgebreid palet aan beveiligingsopties
   - icon: fa-comment-alt-smile
-    title: Geen moeilijke software
-    content: Callvoip is er voor elke ondernemer. Voor de zelfstandige, die graag
-      bereikbaar is op een vast nummer. Maar wij zijn er ook voor de international
-      met 10.000 werkplekken.
+    title: Voordelig
+    content: Scherpe gesprekstarieven, lage abonnementskosten
   - icon: fa-comment-alt-smile
     title: Geen moeilijke software
     content: Callvoip is er voor elke ondernemer. Voor de zelfstandige, die graag
