@@ -5,8 +5,9 @@ layout: default
 logos: true
 hero:
   title: Grootzakelijk
-  content: Met Hosted VoIP bespaart u voortaan op uw kosten en bent u voortaan overal
-    en altijd bereikbaar. Omdat uw zakelijke telefonie over het internet gaat.
+  content: 'Sinds 2007 doen wij al aan VoIP. Wij mogen ons dan ook wel een specialist
+    in het veld noemen. Voor de grootzakelijke markt hebben wij dan ook de perfecte
+    oplossing. '
   button:
     content: Bereken je kosten
     link: "/calculator"
@@ -69,7 +70,7 @@ prijzen:
   content: Geen telefooncentrale op locatie, maar een moderne gebruiksvriendelijk.
   button:
     title: Stel je pakket samen
-    link: 
+    link: ''
   tarieven:
     title: Maandelijkse kosten
     footer: Prijzen zijn vanaf en per maand
@@ -84,7 +85,7 @@ prijzen:
   content: Geen telefooncentrale op locatie, maar een moderne gebruiksvriendelijk.
   button:
     title: Stel je pakket samen
-    link: 
+    link: ''
   tarieven:
     title: Maandelijkse kosten
     footer: Prijzen zijn vanaf en per maand
@@ -99,7 +100,7 @@ prijzen:
   content: Geen telefooncentrale op locatie, maar een moderne gebruiksvriendelijk.
   button:
     title: Stel je pakket samen
-    link: 
+    link: ''
   tarieven:
     title: Maandelijkse kosten
     footer: Prijzen zijn vanaf en per maand
@@ -110,6 +111,8 @@ prijzen:
       price: 3
     - title: Voicemail
       price: 1
+description: ''
+images: []
 menu:
   main:
     weight: 3
