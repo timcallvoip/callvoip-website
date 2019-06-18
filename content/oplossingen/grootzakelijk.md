@@ -20,12 +20,11 @@ blocks:
   image: "/v1552466820/phones.png"
   position: image_left
   title: VoIP Trunk van Callvoip
-- content: "<p>Callvoip is de zakelijke telefonieprovider waar persoonlijk contact
-    centraal staat. Maak daarom kennis met [ons team](/team) en weet wie u aan de
-    lijn heeft.</p>"
+- content: Met Callvoip krijgt u toegang tot de modernste online telefooncentrale;
+    Simmpl.
   image: "/v1552466837/windows.svg"
-  position: " image_right"
-  title: Met wie kom je te werken?
+  position: ''
+  title: Toch liever Hosted VoIP?
 usps:
   title: Geniet van een beter telefoongesprek
   content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent, dat
