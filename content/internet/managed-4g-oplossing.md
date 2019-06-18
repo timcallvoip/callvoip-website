@@ -13,7 +13,7 @@ hero:
   button:
     content: Vraag nu een offerte aan
     link: "/offerte"
-  image: ''
+  image: "/v1560863687/callvoip-website-managed4g-1.jpg"
 blocks:
 - title: Hoe werkt het?
   image: "/v1559644006/geuzenet_logo.png"
@@ -23,7 +23,7 @@ blocks:
     Voor ons 4G internet-aanbod werken wij samen met Geuzenet, specialist in aanleg en beheer van 4G verbindingen. Veel bedrijven in heel Nederland werden reeds door hen van 4G internet voorzien.
   position: image_left
 - title: 'Uw 4G draadloze internetoplossing in 4 stappen:'
-  image: ''
+  image: "/v1560863784/callvoip-website-managed4g-2.jpg"
   content: |-
     1. <a href="/mijncallvoip/aanvragen/managed-4g/">klik hier</a> en vraag Managed 4G internet aan
     2. Er volgt een locatie-scan om wensen en mogelijkheden te bespreken
