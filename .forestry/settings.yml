@@ -65,6 +65,11 @@ sections:
   match: "**/*"
   templates:
   - ondersteuning-item
+- type: directory
+  path: content/testimonials
+  label: Testimonials
+  create: documents
+  match: "**/*"
 - type: heading
   label: Settings
 - type: document
