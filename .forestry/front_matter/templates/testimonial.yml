@@ -31,5 +31,3 @@ fields:
 - type: text
   name: name
   label: name
-pages:
-- content/oplossingen/branches.md
