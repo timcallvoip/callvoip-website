@@ -1,6 +1,6 @@
 ---
 title: Branches
-type: page
+type: testimonial
 layout: default
 logos: true
 hero:
@@ -69,7 +69,7 @@ prijzen:
   content: Geen telefooncentrale op locatie, maar een moderne gebruiksvriendelijk.
   button:
     title: Stel je pakket samen
-    link: 
+    link: ''
   tarieven:
     title: Maandelijkse kosten
     footer: Prijzen zijn vanaf en per maand
@@ -84,7 +84,7 @@ prijzen:
   content: Geen telefooncentrale op locatie, maar een moderne gebruiksvriendelijk.
   button:
     title: Stel je pakket samen
-    link: 
+    link: ''
   tarieven:
     title: Maandelijkse kosten
     footer: Prijzen zijn vanaf en per maand
@@ -99,7 +99,7 @@ prijzen:
   content: Geen telefooncentrale op locatie, maar een moderne gebruiksvriendelijk.
   button:
     title: Stel je pakket samen
-    link: 
+    link: ''
   tarieven:
     title: Maandelijkse kosten
     footer: Prijzen zijn vanaf en per maand
@@ -110,6 +110,12 @@ prijzen:
       price: 3
     - title: Voicemail
       price: 1
+description: ''
+images: []
+headless: true
+link: ''
+logo: ''
+name: ''
 menu:
   main:
     weight: 4
