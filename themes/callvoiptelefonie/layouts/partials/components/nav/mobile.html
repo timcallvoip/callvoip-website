@@ -1,9 +1,35 @@
-<div  class="absolute z-20 bg-white mt-6  w-full shadow py-6 px-6 flex flex-col ist-reset litems-center justify-between w-full text-lg" >
-    <nav class="">
-      {{ range $index, $element := .Site.Menus.main }}
-      <a href="{{.URL}}" class="no-underline flex w-full px-4 py-3 no-underline items-center">
-        {{ .Name }}
-      </a>
+<nav class="relative z-20   w-full  clearfix top-0 left-0  pb-6 hidden" id="mobileNavigation">
+  <div class=" mx-auto">
+    <ul>
+      {{ range .Site.Menus.main }}
+      {{ if .HasChildren }}
+      <li>
+        <a href="{{.URL}}" class="no-underline flex w-full pt-3 pb-1 no-underline items-center font-medium text-lg flex justify-between has-dropdown">
+          <span>
+            {{ .Name }}
+          </span>
+          <span>
+            <i class="fal fa-angle-down"></i>
+          </span>
+        </a>
+        <ul class="is-dropdown hidden">
+          {{ range .Children }}
+            <li>
+              <a href="{{.URL}}" class="no-underline flex w-full py-2 no-underline ">
+                  {{ .Name }}
+              </a>
+            </li>
+          {{ end }}
+        </ul>
+      </li>
+      {{ else }}
+      <li>
+        <a href="{{.URL}}" class="no-underline flex w-full py-3 no-underline items-center font-medium">
+          {{ .Name }}
+        </a>
+      </li>
       {{ end }}
-    </nav>
-</div>
+      {{ end }}
+    </ul>
+  </div>
+</nav>

@@ -41,6 +41,8 @@ a {
   position: relative;
 }
 
+@screen lg {
+
 .active.has-dropdown::after {
   content: "";
   position: absolute;
@@ -65,6 +67,8 @@ a {
   left: 50%;
   margin-left: -25px;
   @apply shadow;
+}
+
 }
 
 .user-content p, .user-content ul, .user-content ol {

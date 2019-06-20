@@ -4,22 +4,14 @@ var menu = function () {
 
   Array.prototype.forEach.call(elements, function (element, index) {
 
-    console.log('element', element)
-
-
-
       element.addEventListener('click', function (e) {
           e.preventDefault();
 
-          console.log('klik', element)
-
           if(element.classList.contains('active')) {
-            console.log('deze is actief');
             element.classList.toggle('active');
             var dropdown = element.nextElementSibling;
             dropdown.classList.toggle('hidden');
             dropdown.classList.toggle('active-dropdown');
-
             return
           }
 
@@ -189,3 +181,21 @@ var myTabs = tabs({
   myTabs.init();
 }
 
+
+
+var showmenu = function () {
+  var button = document.getElementById('menuToggle');
+
+  if(!button) {
+      return;
+  }
+
+  var menu = document.getElementById('mobileNavigation');
+
+  button.addEventListener('click', function (e) {
+      e.preventDefault();
+      menu.classList.toggle('hidden');
+  });
+
+
+}();

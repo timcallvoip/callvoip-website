@@ -32,15 +32,8 @@ menu:
   - url: "/ondersteuning"
     name: Ondersteuning
     weight: 2
-  main:
-  - name: Testimonials
-    parent: Over ons
-    weight: 5
   footer:
   - url: https://www.callvoip.nl/download/callvoip/CallVoip_telefonie_aanvraagformulier.pdf
     name: Direct klant worden?
     weight: 4
-  overons:
-  - Name: Testimonials
-    name: Testimonials
-    weight: 5
+
