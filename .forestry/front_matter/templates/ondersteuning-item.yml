@@ -22,6 +22,7 @@ fields:
   label: SEO
   description: Seo
 pages:
+- content/ondersteuning/algemeen/simmpl-overzicht-shortcodes.md
 - content/ondersteuning/algemeen/overzicht-sip-statuscodes.md
 - content/ondersteuning/simmpl-functionaliteiten/prefix.md
 - content/ondersteuning/belplan/overzicht.md
