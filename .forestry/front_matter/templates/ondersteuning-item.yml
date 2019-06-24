@@ -22,6 +22,7 @@ fields:
   label: SEO
   description: Seo
 pages:
+- content/ondersteuning/Integraties/vamos-vast-mobiel.md
 - content/ondersteuning/fax-voicemail/tips-voor-slagend-faxverkeer.md
 - content/ondersteuning/fax-voicemail/fax-versturen-zonder-faxapparaat.md
 - content/ondersteuning/fax-voicemail/fax-versturen.md
