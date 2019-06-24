@@ -1,5 +1,5 @@
 ---
-title: Fax versturen
+title: Snelstarthandleiding fax versturen
 weight: 
 description: ''
 images: []
