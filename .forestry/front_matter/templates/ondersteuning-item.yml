@@ -22,6 +22,7 @@ fields:
   label: SEO
   description: Seo
 pages:
+- content/ondersteuning/simmpl-functionaliteiten/omleidings-app.md
 - content/ondersteuning/simmpl-functionaliteiten/email-app.md
 - content/ondersteuning/simmpl-functionaliteiten/wachtrij-app.md
 - content/ondersteuning/Integraties/click-to-dial.md
