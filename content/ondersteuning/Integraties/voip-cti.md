@@ -9,10 +9,10 @@ Met VoIP CTI (= Computer Telephony Integration) verbindt u de Simmpl telefooncen
 
 <a href="http://www.simmpl.nl/downloads/Simmpl_handleiding_bij_VoIP-CTI_CRM-koppelingen.pdf" target="_blank" class="button">Bekijk de handleiding</a>
 
-De Simmpl telefooncentrale ondersteunt de onderstaande CRM-pakketten.
-
-<a href="http://www.simmpl.nl/downloads/Overzicht_veel_voorkomende_CRM-systemen.pdf" target="_blank" class="button">Bekijk het overzicht</a>
-
 <a href="http://www.simmpl.nl/downloads/VoipCTIClientSetup.exe" class="button">Download VoIP CTI client software</a>
 
 <a href="http://www.simmpl.nl/downloads/VoipCTIRecognitionConfigToolSetup.exe" class="button">Download VoIP CTI CRM configurator software</a>
+
+De Simmpl telefooncentrale ondersteunt de onderstaande CRM-pakketten.
+
+<a href="http://www.simmpl.nl/downloads/Overzicht_veel_voorkomende_CRM-systemen.pdf" target="_blank" class="button">Bekijk het overzicht</a>
