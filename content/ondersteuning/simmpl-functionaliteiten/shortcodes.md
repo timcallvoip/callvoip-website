@@ -3,7 +3,6 @@ title: Shortcodes
 weight: 
 description: ''
 images: []
-draft: true
 
 ---
 De Simmpl telefooncentrale is uitgerust met een aantal shortcodes ofwel codes waarmee u een bepaalde functie kunt in- of uitschakelen.
