@@ -1,12 +1,11 @@
 ---
-title: Overzicht SIP statuscodes
+title: Simmpl overzicht SIP statuscodes
 weight: 
 description: ''
 images: []
-draft: true
 
 ---
-Overzicht SIP statuscodes
+Simmpl overzicht SIP statuscodes
 
 Een statuscode geeft informatie over de oorzaak van het feit dat een gesprek niet tot stand kan komen. In dit overzicht worden de foutcodes en de betekenissen uitgelegd.
 
