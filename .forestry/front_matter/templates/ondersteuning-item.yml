@@ -22,6 +22,7 @@ fields:
   label: SEO
   description: Seo
 pages:
+- content/ondersteuning/fax-voicemail/fax-versturen-zonder-faxapparaat.md
 - content/ondersteuning/fax-voicemail/fax-versturen.md
 - content/ondersteuning/fax-voicemail/voicemail-instellen-afluisteren.md
 - content/ondersteuning/Integraties/voip-cti.md
