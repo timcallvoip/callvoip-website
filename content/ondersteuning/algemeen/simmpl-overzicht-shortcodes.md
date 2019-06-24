@@ -3,6 +3,7 @@ title: Simmpl overzicht shortcodes
 weight: 
 description: ''
 images: []
+draft: true
 
 ---
 Simmpl overzicht shortcodes

@@ -3,6 +3,7 @@ title: Simmpl overzicht SIP statuscodes
 weight: 
 description: ''
 images: []
+draft: true
 
 ---
 Simmpl overzicht SIP statuscodes
