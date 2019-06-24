@@ -22,6 +22,7 @@ fields:
   label: SEO
   description: Seo
 pages:
+- content/ondersteuning/Integraties/voip-cti.md
 - content/ondersteuning/algemeen/contact.md
 - content/ondersteuning/netwerk-ondersteuning/eerste-hulp-bij-voip-problemen.md
 - content/ondersteuning/netwerk-ondersteuning/tips-bij-router-firewall-problemen.md
