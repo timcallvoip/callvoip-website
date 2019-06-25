@@ -35,21 +35,19 @@ usps:
   items:
   - icon: fa-heartbeat
     title: Wat heb ik nodig?
-    content: 'Voor VoIP telefonie heeft u een aantal dingen nodig om te kunnen bellen.
-      Ten eerste uiteraard een <a href="/telefonie/telefoonnummers/">telefoonnummer</a>
+    content: 'Ten eerste uiteraard een <a href="/telefonie/telefoonnummers/">telefoonnummer</a>
       waar u op te bereiken bent. Daarnaast is de internetverbinding en de bijbehorende
       (netwerk)apparatuur van groot belang. '
   - icon: fa-cog
     title: Hoe werkt VoIP?
     content: VoIP (Voice over Internet Protocol) is kort gezegd bellen over internet.
-      Voorheen had u ISDN lijnen nodig om hierover te bellen, maar met VoIP worden
-      deze overbodig. Een telefoontoestel sluit u voortaan aan op uw internetverbinding.
+      Voorheen had u ISDN lijnen nodig, maar met VoIP worden deze overbodig. Een telefoontoestel
+      sluit u voortaan aan op uw internetverbinding.
   - icon: fa-exlamation-circle
     title: Is VoIP betrouwbaar?
-    content: Callvoip is uiterst betrouwbaar. Mocht uw internetverbinding onverhoopt
-      uitvallen, dan schakelt de telefooncentrale automatisch door naar uw mobiele
-      nummer. Indien u zeer afhankelijk bent van uw internet, overweeg dan een backup
-      internetverbinding.
+    content: Mocht uw internetverbinding onverhoopt uitvallen, dan schakelt de telefooncentrale
+      automatisch door naar uw mobiele nummer. Indien u zeer afhankelijk bent van
+      uw internet, overweeg dan een backup internetverbinding.
   - icon: fa-money-bill
     title: Is VoIP een alternatief voor ISDN?
     content: 'Callvoip biedt u een volwaardig alternatief voor ISDN. Bovendien is
