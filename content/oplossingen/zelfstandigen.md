@@ -16,7 +16,7 @@ blocks:
 - content: |-
     Klanten van Callvoip gebruiken de Simmpl online telefooncentrale.
     Simmpl, omdat de telefooncentrale u voorziet van zeer veel professionele functionaliteiten en uitblinkt in bedieningseenvoud.
-  image: "/v1552466820/phones.png"
+  image: "/v1557757556/hero-home-2x.png"
   position: image_left
   title: Callvoip = Simmpl!
 usps:
