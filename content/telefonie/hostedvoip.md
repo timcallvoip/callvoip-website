@@ -1,5 +1,5 @@
 ---
-title: Hosted VoIP telefonie van Callvoip
+title: Hosted VoIP telefonie
 type: page
 layout: default
 logos: false
@@ -16,7 +16,7 @@ blocks:
 - content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent, dat
     gaat verder dan alleen maar telefonie via vaste teostellen. Ook op uw mobiele
     telefoon bent u altijd bereikbaar met onze <a href="/telefonie/qaller/">Qaller</a>
-    en <a href="/telefonie/vamos/">Vamos</a> oplossing.
+    en <a href="/telefonie/vastmobielintegratie/">Vamos</a> oplossing.
   image: "/v1552466820/phones.png"
   position: image_left
   title: Zakelijke VoIP waar je op kan vertrouwen, ook met uw mobiel!
