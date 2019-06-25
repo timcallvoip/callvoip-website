@@ -28,7 +28,7 @@ usps:
     title: Moderne centrale in de cloud
     content: 'U krijgt toegang tot de revolutionaire Simmpl-centrale met eenvoudige
       bediening. '
-  - icon: fa-hand-pointer
+  - icon: fa-file-contract
     title: Maandelijks opzegbaar
     content: Wij doen niet aan lange & lastige contracten. Alles is bij ons maandelijks
       opzegbaar.
@@ -36,6 +36,13 @@ usps:
     title: Besparing
     content: U belt bij ons voor een vast bedrag per maand of tegen de reguliere lage
       gesprekskosten.
+  - title: Vast mobiel integratie
+    content: Een simkaart waarbij u op bereikbaar bent voor uw mobiele als zakelijke
+      telefoonnummer.
+    icon: fa-mobile
+  - icon: fa
+    title: ''
+    content: ''
 intro:
   title: Wat kost bellen met Callvoip?
   content: Bij Callvoip heeft u altijd een abonnement op maat. Alle diensten zijn
