@@ -58,9 +58,9 @@ intro:
   title: Wat kost bellen met Callvoip?
   content: Bij Callvoip heeft u altijd een abonnement op maat. Alle diensten zijn
     maandelijks opzegbaar en maandelijks schaalbaar; zo past uw telefonie altijd bij
-    uw situatie en betaalt u nooit teveel. Kies voor de belbundel die bij uw situatie
-    past en bel voor een vast bedrag per maand. Liever bellen tegen onze vaste lage
-    gesprekskosten? Dan kiest u voor Flexibel bellen.
+    uw situatie en betaalt u nooit teveel. <br> Kies voor de belbundel die bij uw
+    situatie past en bel voor een vast bedrag per maand. Liever bellen tegen onze
+    vaste lage gesprekskosten? Dan kiest u voor Flexibel bellen.
 prijzen:
 - title: Flexibel bellen
   content: U betaalt per gesprek en per minuut, natuurlijk tegen onze zeer lage gesprekskosten.
@@ -77,8 +77,6 @@ prijzen:
       price: 2
     - title: Toestelaccount
       price: 4
-    - title: Gesprekskosten
-      price: 
 - title: Bundel 500 min
   content: U koopt 500 belminuten (per toestel) af per maand. Komt u over deze bundel,
     dan betaalt u onze reguliere lage gesprekskosten.
