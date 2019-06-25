@@ -1,5 +1,5 @@
 ---
-title: Grootzakelijk
+title: Trunk
 type: page
 layout: default
 logos: true
@@ -45,11 +45,6 @@ usps:
   - icon: fa-comment-alt-smile
     title: Voordelig
     content: Scherpe gesprekstarieven, lage abonnementskosten
-  - icon: fa-comment-alt-smile
-    title: Geen moeilijke software
-    content: Callvoip is er voor elke ondernemer. Voor de zelfstandige, die graag
-      bereikbaar is op een vast nummer. Maar wij zijn er ook voor de international
-      met 10.000 werkplekken.
 intro:
   title: Wat kost bellen met Callvoip?
   content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent, dat
