@@ -13,7 +13,7 @@ Met deze functionaliteit kunt u verschillende meldteksten in uw belplan plaatsen
 
 <a href="/calculator/" class="button">Bereken uw kosten</a>
 
-## De voordelen van een meldtekst
+## De voordelen:
 
 * **_Bibliotheek_**: Bewaar de geluidsbestanden en vind ze gemakkelijk terug
 * **_Professioneel_**: Professionele look dankzij bijvoorbeeld een welkomst-meldtekst
@@ -24,10 +24,9 @@ Met deze functionaliteit kunt u verschillende meldteksten in uw belplan plaatsen
 
 Met meldteksten maakt u al veel duidelijk aan de beller voordat u de beller aan de lijn hebt. De beller weet bijvoorbeeld of hij/zij het juiste nummer heeft gebeld. Ook kunt u bijvoorbeeld belletjes filteren met een keuzemenu i.c.m. verschillende meldteksten.
 
-## Wat zijn de kosten van de 'meldtekst-app'?
+## Wat zijn de kosten?
 
-Maandelijks: **€ 0,00** excl. BTW
-
+Maandelijks: **€ 0,00** excl. BTW  
 Eenmalig: **€ 0,00** excl. BTW
 
 Deze functionaliteit is onderdeel van het basispakket (waar u €7,50 excl. BTW voor betaalt).
