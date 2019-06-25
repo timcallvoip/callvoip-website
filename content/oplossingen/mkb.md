@@ -62,8 +62,8 @@ intro:
     gaat verder dan alleen maar telefonie. Betrouwbaar internet en goede apparatuur
     mogen daarbij niet ontbreken.
 prijzen:
-- title: Zelfstandigen
-  content: Geen telefooncentrale op locatie, maar een moderne gebruiksvriendelijk.
+- title: Tandartspraktijk
+  content: ''
   button:
     title: Stel je pakket samen
     link: ''
@@ -77,8 +77,8 @@ prijzen:
       price: 3
     - title: Voicemail
       price: 1
-- title: MKB
-  content: Geen telefooncentrale op locatie, maar een moderne gebruiksvriendelijk.
+- title: Callcenter
+  content: ''
   button:
     title: Stel je pakket samen
     link: ''
@@ -92,21 +92,19 @@ prijzen:
       price: 3
     - title: Voicemail
       price: 1
-- title: Grootzakelijk
-  content: Geen telefooncentrale op locatie, maar een moderne gebruiksvriendelijk.
+- title: Uw organisatie
+  content: Via onze calculator krijgt u eenvoudig en snel een eerste indruk van de
+    kosten. Bespreekt u liever telefonisch de mogelijkheden en kosten? Bel ons dan
+    op +31508200000
   button:
-    title: Stel je pakket samen
-    link: ''
+    title: Bereken het zelf
+    link: "/calculator"
   tarieven:
     title: Maandelijkse kosten
     footer: Prijzen zijn vanaf en per maand
     items:
     - title: Basis Abonnement
       price: 4
-    - title: Telefoonnummer
-      price: 3
-    - title: Voicemail
-      price: 1
 description: ''
 images: []
 menu:
