@@ -109,7 +109,7 @@ prijzen:
       price: 4
 - title: Eigen telefooncentrale
   content: 'Beheer van eigen telefooncentrale via onze trunkoplossing met 10 gesprekskanalen.
-    Allemaal bereikbaar onder één nummer. . '
+    Allemaal bereikbaar onder één nummer. '
   button:
     title: Vraag een offerte aan
     link: "/offerte"
