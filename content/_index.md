@@ -120,7 +120,7 @@ usps:
       met klantinformatie op uw scherm.
 options:
   image: "/v1556267113/callplan-2x.png"
-  title: Telefonie en Internet zoals het echt hoort
+  title: Lekker gemakkelijk, alles onder één dak!
   content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent, dat
     gaat verder dan alleen maar telefonie. Betrouwbaar internet en goede apparatuur
     mogen daarbij niet ontbreken.
@@ -128,12 +128,12 @@ options:
   - icon: fa-cloud
     title: Je eigen centrale in de cloud
     content: Geen telefooncentrale op locatie, maar een moderne centrale in de cloud.
-    link: ''
+    link: "/telefonie/hostedvoip/"
   - icon: fa-wifi
-    title: Kabel, ADSL of toch glasvezel?
+    title: Kabel, DSL of toch glasvezel?
     content: Samen kijken we wat het beste bij uw situatie past. Kabel, ADSL of toch
       glasvezel?
-    link: ''
+    link: "/internet/postcodecheck/"
   - icon: fa-tty
     title: Nieuwe apparatuur nodig?
     content: Geen opdringerige verkopers. Met onze specialist kijk je samen of je
