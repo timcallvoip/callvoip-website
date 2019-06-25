@@ -97,7 +97,7 @@ usps:
   - icon: fa-unlock
     title: Versleutelde gesprekken
     content: Wij bieden de mogelijkheid om uw telefonie te versleutelen en zo uw privacy
-      te waarborgen. Dit doen we door middel van <a href="/telefonie/functionaliteiten/srtp/">SRTP</a>
+      te waarborgen. Dit doen we door middel van <a href="/telefonie/functionaliteiten/versleutelde-telefoongesprekken-met-srtp">SRTP</a>
       en TLS.
   - icon: fa-mobile
     title: Qaller Plus (mobiele app)
@@ -138,12 +138,12 @@ options:
     title: Nieuwe apparatuur nodig?
     content: Geen opdringerige verkopers. Met onze specialist kijk je samen of je
       huidige apparatuur geschikt is.
-    link: ''
+    link: https://callvoip.shop/
   - icon: fa-headset
     title: Hulp nodig? Wij staan voor je klaar
     content: Geen lange wachttijden of doorverbinden. Bij Callvoip spreek je altijd
       direct met een specialist.
-    link: ''
+    link: "/ondersteuning/"
 prefooter:
   title: Wil je ook zorgeloos bereikbaar zijn?
   content: "95% van onze klanten adviseert ons bij hun netwerk. Benieuwd naar testimonials
