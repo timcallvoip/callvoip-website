@@ -64,18 +64,20 @@ prijzen:
 - title: Tandartspraktijk
   content: ''
   button:
-    title: Stel je pakket samen
-    link: ''
+    title: 'Bekijk de case hier: '
+    link: "/oplossingen/branches/tandarts/"
   tarieven:
     title: Maandelijkse kosten
     footer: Prijzen zijn vanaf en per maand
     items:
     - title: Basis Abonnement
+      price: '7.50'
+    - title: Telefoonnummer (1x)
+      price: 2
+    - title: Toestelaccount (4x)
+      price: 16
+    - title: Wachtrij (1x)
       price: 4
-    - title: Telefoonnummer
-      price: 3
-    - title: Voicemail
-      price: 1
 - title: Callcenter
   content: ''
   button:
