@@ -25,8 +25,7 @@ Soms heeft u het even te druk om alle inkomende belletjes te beantwoorden of ben
 
 ## Wat zijn de kosten van voicemail?
 
-Maandelijks: **€ 0,00** excl. BTW
-
+Maandelijks: **€ 0,00** excl. BTW  
 Eenmalig: **€ 0,00** excl. BTW
 
 Deze functionaliteit is onderdeel van het basispakket (waar u €7,50 excl. BTW voor betaalt).
