@@ -20,11 +20,11 @@ blocks:
   image: "/v1552466820/phones.png"
   position: image_left
   title: VoIP Trunk van Callvoip
-- content: CallvoipTelefonie VoIP-trunks zijn te gebruiken bij bijna alle IP-centrales,
-    waaronder o.a. volgende populaire systemen
+- content: 'CallvoipTelefonie VoIP-trunks zijn te gebruiken bij bijna alle IP-centrales,
+    waaronder o.a. volgende populaire systemen:'
   image: "/v1560861389/callvoip-website-trunk-centrales.png"
   position: image_right
-  title: Toch liever Hosted VoIP?
+  title: Welke VoIP-trunks zijn geschikt?
 usps:
   title: De voordelen van een trunkoplossing
   content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent, dat
