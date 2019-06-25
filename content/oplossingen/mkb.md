@@ -5,8 +5,9 @@ layout: default
 logos: true
 hero:
   title: MKB
-  content: Met Hosted VoIP bespaart u voortaan op uw kosten en bent u voortaan overal
-    en altijd bereikbaar. Omdat uw zakelijke telefonie over het internet gaat.
+  content: Hosted VoIP is de perfecte oplossing voor het MKB. U maakt gebruik van
+    de modernste online telefooncentrale. Simpel in gebruik, flexibel en schaalbaar.
+    U betaalt daardoor nooit teveel!
   button:
     content: Bereken je kosten
     link: "/calculator"
@@ -69,7 +70,7 @@ prijzen:
   content: Geen telefooncentrale op locatie, maar een moderne gebruiksvriendelijk.
   button:
     title: Stel je pakket samen
-    link: 
+    link: ''
   tarieven:
     title: Maandelijkse kosten
     footer: Prijzen zijn vanaf en per maand
@@ -84,7 +85,7 @@ prijzen:
   content: Geen telefooncentrale op locatie, maar een moderne gebruiksvriendelijk.
   button:
     title: Stel je pakket samen
-    link: 
+    link: ''
   tarieven:
     title: Maandelijkse kosten
     footer: Prijzen zijn vanaf en per maand
@@ -99,7 +100,7 @@ prijzen:
   content: Geen telefooncentrale op locatie, maar een moderne gebruiksvriendelijk.
   button:
     title: Stel je pakket samen
-    link: 
+    link: ''
   tarieven:
     title: Maandelijkse kosten
     footer: Prijzen zijn vanaf en per maand
@@ -110,6 +111,8 @@ prijzen:
       price: 3
     - title: Voicemail
       price: 1
+description: ''
+images: []
 menu:
   main:
     weight: 2
