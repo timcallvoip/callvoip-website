@@ -44,6 +44,10 @@ usps:
     title: Gratis Click-to-Dial
     content: Om het leven & telefonie nog gemakkelijker te maken, bieden wij onze
       Click-to-Dial gratis aan u aan.
+  - icon: fa-arrows-h
+    title: Nummerbehoud
+    content: Heeft u al een telefoonnummer? Dit nummer nemen wij eenvoudig en snel
+      over van uw huidige provider.
 intro:
   title: Wat kost bellen met Callvoip?
   content: Bij Callvoip heeft u altijd een abonnement op maat. Alle diensten zijn
