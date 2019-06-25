@@ -49,16 +49,13 @@ usps:
     title: Geen lange contracten
     content: Geen lange contracten of kleine lettertjes. Alle diensten van Callvoip
       zijn maandelijks opzegbaar.
-  - icon: fa-comment-alt-smile
-    title: Geen moeilijke software
-    content: Callvoip is er voor elke ondernemer. Voor de zelfstandige, die graag
-      bereikbaar is op een vast nummer. Maar wij zijn er ook voor de international
-      met 10.000 werkplekken.
-  - icon: fa-comment-alt-smile
-    title: Geen moeilijke software
-    content: Callvoip is er voor elke ondernemer. Voor de zelfstandige, die graag
-      bereikbaar is op een vast nummer. Maar wij zijn er ook voor de international
-      met 10.000 werkplekken.
+  - icon: fa-trophy
+    title: Meer dan 10 jaar ervaring
+    content: Al jaren ervaring en duizenden klanten geholpen naar de beste telefonieoplossing.
+  - icon: fa-mouse-pointer
+    title: Gratis Click-to-Dial
+    content: Om het leven & telefonie nog gemakkelijker te maken, bieden wij onze
+      Click-to-Dial gratis aan u aan.
 intro:
   title: Wat kost bellen met Callvoip?
   content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent, dat
