@@ -32,11 +32,10 @@ usps:
     title: Maandelijks opzegbaar
     content: Wij doen niet aan lange & lastige contracten. Alles is bij ons maandelijks
       opzegbaar.
-  - icon: fa-comment-alt-smile
-    title: Geen moeilijke software
-    content: Callvoip is er voor elke ondernemer. Voor de zelfstandige, die graag
-      bereikbaar is op een vast nummer. Maar wij zijn er ook voor de international
-      met 10.000 werkplekken.
+  - icon: fa-piggy-bank
+    title: Besparing
+    content: U belt bij ons voor een vast bedrag per maand of tegen de reguliere lage
+      gesprekskosten.
 intro:
   title: Wat kost bellen met Callvoip?
   content: Bij Callvoip heeft u altijd een abonnement op maat. Alle diensten zijn
