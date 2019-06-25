@@ -20,9 +20,11 @@ blocks:
   image: "/v1552466820/phones.png"
   position: image_left
   title: Zakelijke VoIP waar je op kan vertrouwen
-- content: |-
-    Uw organisatie is uniek en heeft eigen telefonie-wensen en -eisen.
-    Dankzij de uitgebreide en zeer flexibele Simmpl telefooncentrale biedt Callvoip wat u zoekt: een complete hosted VoIP-oplossing met telefoonnummers en als u wenst hardware en internetverbinding. Veel extra features, zoals een wachtrij, keuzemenu of gespreksopname, zijn beschikbaar. Dat is telefonie voor MKB.
+- content: "Uw organisatie is uniek en heeft eigen telefonie-wensen en -eisen.\nDankzij
+    de uitgebreide en zeer flexibele Simmpl telefooncentrale biedt Callvoip wat u
+    zoekt: een complete hosted VoIP-oplossing met telefoonnummers en als u wenst hardware
+    en internetverbinding. Veel extra features, zoals een wachtrij, keuzemenu of gespreksopname,
+    zijn beschikbaar. "
   image: "/v1552466837/windows.svg"
   position: ''
   title: Iedere organisatie is uniek
@@ -31,11 +33,10 @@ usps:
   content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent, dat
     gaat verder dan alleen maar telefonie. Betrouwbaar internet en goede apparatuur
   items:
-  - icon: fa-cloud
-    title: Moderne centrale in de cloud
-    content: Callvoip is er voor elke ondernemer. Voor de zelfstandige, die graag
-      bereikbaar is op een vast nummer. Maar wij zijn er ook voor de international
-      met 10.000 werkplekken.
+  - icon: fa-home
+    title: Flexibiliteit
+    content: 'De dienst is zeer flexibel en schaalbaar, handig bij uitbreiding van
+      of juist vertrek van collega''s. '
   - icon: fa-user-lock
     title: Je eigen beveiligde omgeving
     content: Callvoip is er voor elke ondernemer. Voor de zelfstandige, die graag
