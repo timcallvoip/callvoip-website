@@ -63,8 +63,8 @@ intro:
 prijzen:
 - title: Tandartspraktijk
   content: Er is één receptietoestel en die kan de inkomende belletjes niet aan. Deze
-    oproepen worden opgevangen in een wachtrij. Verder hebben de drie behandelkamers
-    allemaal een eigen handset.
+    oproepen worden opgevangen in een wachtrij. Bij aangenomen gesprekken moet de
+    klantkaart getoond worden. De drie behandelkamers allemaal een eigen handset.
   button:
     title: 'Bekijk de case hier: '
     link: "/oplossingen/branches/tandarts/"
@@ -80,21 +80,26 @@ prijzen:
       price: 16
     - title: Wachtrij (1x)
       price: 4
+    - title: Koppeling CRM (1x)
+      price: 5
 - title: Callcenter
-  content: ''
+  content: Er werken 10 medewerkers en bellen allemaal veel uit. Inkomende bereikbaarheid
+    is minder van belang. Gemiste oproepen worden gemaild en opgevangen in de voicemail.
   button:
-    title: Stel je pakket samen
-    link: ''
+    title: Bekijk de case hier
+    link: "/branches/callcenter/"
   tarieven:
     title: Maandelijkse kosten
     footer: Prijzen zijn vanaf en per maand
     items:
     - title: Basis Abonnement
-      price: 4
-    - title: Telefoonnummer
-      price: 3
-    - title: Voicemail
-      price: 1
+      price: '7.50'
+    - title: Telefoonnummer (1x)
+      price: 2
+    - title: Toestelaccount (10x)
+      price: 40
+    - title: Belbundel 5000min (10x)
+      price: 250
 - title: Uw organisatie
   content: Via onze calculator krijgt u eenvoudig en snel een eerste indruk van de
     kosten. Bespreekt u liever telefonisch de mogelijkheden en kosten? Bel ons dan
