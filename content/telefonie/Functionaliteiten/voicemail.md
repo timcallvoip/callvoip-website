@@ -13,7 +13,7 @@ Met de voicemailbox kunt u gemiste gesprekken opvangen. De beller kan, na het do
 
 <a href="/calculator/" class="button">Bereken uw kosten</a>
 
-## De voordelen
+## De voordelen:
 
 * **_Persoonlijk_**: Vang de beller op met een gepersonaliseerd voicemailbericht
 * **_Voicemail-2-Email_**: De ingesproken berichten worden naar uw e-mail gestuurd
