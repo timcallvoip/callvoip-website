@@ -63,7 +63,8 @@ intro:
     vaste lage gesprekskosten? Dan kiest u voor Flexibel bellen.
 prijzen:
 - title: Flexibel bellen
-  content: U betaalt per gesprek en per minuut, natuurlijk tegen onze zeer lage gesprekskosten.
+  content: U betaalt per gesprek een starttik en verder betaalt u per minuut, natuurlijk
+    tegen onze zeer lage gesprekskosten.
   button:
     title: Offerte aanvragen
     link: "/offerte"
@@ -78,8 +79,9 @@ prijzen:
     - title: Toestelaccount
       price: 4
 - title: Bundel 500 min
-  content: U koopt 500 belminuten (per toestel) af per maand. Komt u over deze bundel,
-    dan betaalt u onze reguliere lage gesprekskosten.
+  content: U koopt 500 belminuten (per toestel) af per maand. Belt u meer minuten
+    dan in deze bundel zit, dan betaalt u voor de overige minuten onze reguliere lage
+    gesprekskosten.
   button:
     title: Offerte aanvragen
     link: "/offerte"
@@ -96,8 +98,9 @@ prijzen:
     - title: Bundel 500min
       price: 10
 - title: Bundel 1500 min
-  content: U koopt 1500 belminuten (per toestel) af per maand. Komt u over deze bundel,
-    dan betaalt u onze reguliere lage gesprekskosten.
+  content: U koopt 1500 belminuten (per toestel) af per maand. Belt u meer minuten
+    dan in deze bundel zit, dan betaalt u voor de overige minuten onze reguliere lage
+    gesprekskosten.
   button:
     title: Offerte aanvragen
     link: "/offerte"
