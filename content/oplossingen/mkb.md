@@ -57,10 +57,9 @@ usps:
     content: Om het leven & telefonie nog gemakkelijker te maken, bieden wij onze
       Click-to-Dial gratis aan u aan.
 intro:
-  title: Wat kost bellen met Callvoip?
-  content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent, dat
-    gaat verder dan alleen maar telefonie. Betrouwbaar internet en goede apparatuur
-    mogen daarbij niet ontbreken.
+  title: Iedere organisatie is uniek!
+  content: 'Daarom is het lastig te vertellen wat u precies gaat betalen. Hieronder
+    twee cases kort uitgewerkt. '
 prijzen:
 - title: Tandartspraktijk
   content: ''
