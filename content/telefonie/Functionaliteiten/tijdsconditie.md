@@ -13,7 +13,7 @@ Met de tijdsconditie-app definieert u vooraf tijden waarop één of meerdere act
 
 <a href="/calculator/" class="button">Bereken uw kosten</a>
 
-## De voordelen van tijdscondities
+## De voordelen:
 
 * **_Minder beheer_**: U stelt eenvoudig alles van te voren in en heeft er dus minder omkijken naar
 * **_Professioneel_**: Waarom zou u toestellen laten rinkelen als u toch niet aanwezig bent?
@@ -22,10 +22,9 @@ Met de tijdsconditie-app definieert u vooraf tijden waarop één of meerdere act
 
 Beperk het aantal minuten dat u steekt in het beheren van de online telefooncentrale. Dankzij de tijdsconditie-app stelt u veel al van te voren in. U kunt zelfs al jaren vooruit kijken indien gewenst.
 
-## Wat zijn de kosten van een tijdsconditie?
+## Wat zijn de kosten?
 
-Maandelijks: **€ 0,00** excl. BTW
-
+Maandelijks: **€ 0,00** excl. BTW  
 Eenmalig: **€ 0,00** excl. BTW
 
 Deze functionaliteit is onderdeel van het basispakket (waar u €7,50 excl. BTW voor betaalt).
