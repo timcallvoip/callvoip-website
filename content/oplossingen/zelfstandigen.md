@@ -40,9 +40,10 @@ usps:
     content: Een simkaart waarbij u op bereikbaar bent voor uw mobiele als zakelijke
       telefoonnummer.
     icon: fa-mobile
-  - icon: fa
-    title: ''
-    content: ''
+  - icon: fa-mouse-pointer
+    title: Gratis Click-to-Dial
+    content: Om het leven & telefonie nog gemakkelijker te maken, bieden wij onze
+      Click-to-Dial gratis aan u aan.
 intro:
   title: Wat kost bellen met Callvoip?
   content: Bij Callvoip heeft u altijd een abonnement op maat. Alle diensten zijn
