@@ -16,7 +16,7 @@ Een omleiding is een schakelaar waarmee u eenvoudig acties aan- of uitzet. U kun
 ## De voordelen:
 
 * **_Snel & efficiënt_**: Met een druk op de knop verandert u de huidige belroute
-* **_Meerdere schakelmogelijkheden_**: Via uw telefoon, [Qaller](https://www.callvoip.nl/qaller/ "Qaller") of online bedieningspaneel
+* **_Meerdere schakelmogelijkheden_**: Via uw telefoon, [Qaller](/telefonie/qaller/ "Qaller") of online bedieningspaneel
 * **_Groepen_**: Definieer groepen. Wanneer u één omleiding aanzet, schakelt u de rest automatisch uit
 
 ## Waarom een omleiding?
