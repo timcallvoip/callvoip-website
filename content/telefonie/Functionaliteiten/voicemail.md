@@ -13,7 +13,7 @@ Met de voicemailbox kunt u gemiste gesprekken opvangen. De beller kan, na het do
 
 <a href="/calculator/" class="button">Bereken uw kosten</a>
 
-## De voordelen van de voicemailbox
+## De voordelen
 
 * **_Persoonlijk_**: Vang de beller op met een gepersonaliseerd voicemailbericht
 * **_Voicemail-2-Email_**: De ingesproken berichten worden naar uw e-mail gestuurd
@@ -23,7 +23,7 @@ Met de voicemailbox kunt u gemiste gesprekken opvangen. De beller kan, na het do
 
 Soms heeft u het even te druk om alle inkomende belletjes te beantwoorden of bent u gewoon simpelweg gesloten. Toch wilt u graag in contact komen met de beller. Dankzij de voicemailbox bereikt u dit. U biedt de beller de mogelijkheid om een bericht achter te laten. Vervolgens kunt u deze weer beluisteren en contact opnemen met de desbetreffende beller.
 
-## Wat zijn de kosten van voicemail?
+## Wat zijn de kosten?
 
 Maandelijks: **€ 0,00** excl. BTW  
 Eenmalig: **€ 0,00** excl. BTW

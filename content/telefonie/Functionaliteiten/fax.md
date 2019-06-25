@@ -13,7 +13,7 @@ Met een faxbox kunt u faxberichten ontvangen én versturen. Hiervoor heeft u gee
 
 <a href="/calculator/" class="button">Bereken uw kosten</a>
 
-## Voordelen van een faxbox:
+## De voordelen:
 
 * **_PDF-2-Fax_**: Faxen zonder faxapparaat. Upload en .PDF-bestand en verstuur deze als fax
 * **_Fax-2-PDF_**: Ontvang inkomende faxberichten als .PDF-bestand in uw email
@@ -23,7 +23,7 @@ Met een faxbox kunt u faxberichten ontvangen én versturen. Hiervoor heeft u gee
 
 Maakt u nog gebruik van een faxapparaat of staat uw faxnummer nog op uw briefpapier? Dan kunt u het faxnummer behouden en binnenkomende faxen worden naar uw email gestuurd. Ook uitgaand kunt u faxen door een PDF te uploaden op de telefooncentrale. Zo kunt u faxen ontvangen en verzenden zonder faxapparaat.
 
-## Wat kost een faxbox?
+## Wat zijn de kosten?
 
 Maandelijks: **€ 4,00** excl. BTW (per faxbox)  
 Eenmalig: **€ 5,00** excl. BTW (per faxbox)

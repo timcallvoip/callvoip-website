@@ -13,7 +13,7 @@ Met de doorverbinden-app zet u eenvoudig inkomende belletjes door naar een toest
 
 <a href="/calculator/" class="button">Bereken uw kosten</a>
 
-## De voordelen van de doorverbinden-app
+## De voordelen
 
 * Altijd bereikbaar voor de inkomende beller
 * Eenvoudig belroutes maken
@@ -25,10 +25,9 @@ Met de doorverbinden-app zet u eenvoudig inkomende belletjes door naar een toest
 
 Door inkomende belletjes door te verbinden bent u optimaal bereikbaar voor uw klanten. Zowel intern (VoIP-toestellen) als extern (Mobiele telefoon of telefoondienst). Dit zorgt voor een professionele uitstraling naar de klant toe.
 
-## Wat zijn de kosten van de'doorverbinden-app'?
+## Wat zijn de kosten?
 
-Maandelijks: **€ 0,00** excl. BTW
-
+Maandelijks: **€ 0,00** excl. BTW  
 Eenmalig: **€ 0,00** excl. BTW
 
 Deze functionaliteit is onderdeel van het basispakket (waar u €7,50 excl. BTW voor betaalt).
