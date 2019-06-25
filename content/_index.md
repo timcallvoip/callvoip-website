@@ -4,7 +4,7 @@ hero:
   title: Altijd bereikbaar zijn voor je klanten
   content: Kies voor zakelijke telefonie van Callvoip en ervaar het gebruiksgemak
     van de modernste online telefooncentrale! <br> Bellen via internet, op kantoor
-    en onderweg. Eenvoudig én in de cloud. Dat is de kracht van bellen met Callvoip.
+    en onderweg. Dat is de kracht van bellen met Callvoip.
   button:
     content: Bekijk ons aanbod
     link: "/aanbod"
@@ -20,15 +20,15 @@ hero:
 intro:
   image: "/v1557750090/hero-home-2x.png"
   title: Voordelig bellen vanuit de cloud
-  content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent. Op kantoor
-    via een vast toestel of onderweg via uw eigen mobiel. Altijd bereikbaar zijn op
-    één en hetzelfde nummer.
+  content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent op één
+    en hetzelfde nummer. Op kantoor via een vast toestel of onderweg via uw eigen
+    mobiel. Én dat tegen scherpe tarieven!
   button:
     content: Benieuwd hoeveel je kan besparen?
     link: "/calculator"
   items:
   - icon: fa-file-contract
-    content: Elke dag opzegbaar, geen lange moeilijke contracten.
+    content: Maandelijks opzegbaar, geen lange moeilijke contracten.
   - icon: fa-boxes-alt
     content: Eenvoudig te bedienen via uw eigen beveiligde omgeving.
   - icon: fa-piggy-bank
