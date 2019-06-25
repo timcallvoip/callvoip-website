@@ -33,25 +33,22 @@ usps:
   content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent, dat
     gaat verder dan alleen maar telefonie. Betrouwbaar internet en goede apparatuur
   items:
-  - icon: fa-home
+  - icon: fa-comment-alt-smile
     title: Flexibiliteit
     content: 'De dienst is zeer flexibel en schaalbaar, handig bij uitbreiding van
       of juist vertrek van collega''s. '
-  - icon: fa-user-lock
-    title: Je eigen beveiligde omgeving
-    content: Callvoip is er voor elke ondernemer. Voor de zelfstandige, die graag
-      bereikbaar is op een vast nummer. Maar wij zijn er ook voor de international
-      met 10.000 werkplekken.
-  - icon: fa-comment-alt-smile
-    title: Geen moeilijke software
-    content: Callvoip is er voor elke ondernemer. Voor de zelfstandige, die graag
-      bereikbaar is op een vast nummer. Maar wij zijn er ook voor de international
-      met 10.000 werkplekken.
-  - icon: fa-laptop
-    title: Werkt op Apple en Windows
-    content: Callvoip is er voor elke ondernemer. Voor de zelfstandige, die graag
-      bereikbaar is op een vast nummer. Maar wij zijn er ook voor de international
-      met 10.000 werkplekken.
+  - icon: fa-group
+    title: Één beheeromgeving
+    content: Heeft u meerdere vestigingen? U bedient ze allemaal eenvoudig vanuit
+      één beheeromgeving.
+  - icon: fa-home
+    title: Optimale bereikbaarheid
+    content: U bent bereikbaar onder één of meer nummers. Ook thuiswerkers zijn bereikbaar
+      onder het zakelijk nummer.
+  - icon: fa-file-contract
+    title: Geen lange contracten
+    content: Geen lange contracten of kleine lettertjes. Alle diensten van Callvoip
+      zijn maandelijks opzegbaar.
   - icon: fa-comment-alt-smile
     title: Geen moeilijke software
     content: Callvoip is er voor elke ondernemer. Voor de zelfstandige, die graag
