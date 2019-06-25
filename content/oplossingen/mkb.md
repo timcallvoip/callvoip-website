@@ -13,18 +13,19 @@ hero:
     link: "/calculator"
   image: "/v1552466820/hostedvoip.svg"
 blocks:
-- content: "<p>Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent,
-    dat gaat verder dan alleen maar telefonie. Betrouwbaar internet en goede apparatuur
-    mogen daarbij niet ontbreken.</p>"
+- content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent, dat
+    gaat verder dan alleen maar telefonie. Betrouwbaar internet en goede apparatuur
+    mogen daarbij niet ontbreken. Callvoip begeleid u daar graag bij en zo heeft u
+    alles onder één dak.
   image: "/v1552466820/phones.png"
   position: image_left
   title: Zakelijke VoIP waar je op kan vertrouwen
-- content: "<p>Callvoip is de zakelijke telefonieprovider waar persoonlijk contact
-    centraal staat. Maak daarom kennis met [ons team](/team) en weet wie u aan de
-    lijn heeft.</p>"
+- content: |-
+    Uw organisatie is uniek en heeft eigen telefonie-wensen en -eisen.
+    Dankzij de uitgebreide en zeer flexibele Simmpl telefooncentrale biedt Callvoip wat u zoekt: een complete hosted VoIP-oplossing met telefoonnummers en als u wenst hardware en internetverbinding. Veel extra features, zoals een wachtrij, keuzemenu of gespreksopname, zijn beschikbaar. Dat is telefonie voor MKB.
   image: "/v1552466837/windows.svg"
-  position: " image_right"
-  title: Met wie kom je te werken?
+  position: ''
+  title: Iedere organisatie is uniek
 usps:
   title: Geniet van een beter telefoongesprek
   content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent, dat
