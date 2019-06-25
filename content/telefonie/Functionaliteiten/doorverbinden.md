@@ -15,9 +15,8 @@ Met de doorverbinden-app zet u eenvoudig inkomende belletjes door naar een toest
 
 ## De voordelen
 
-* Altijd bereikbaar voor de inkomende beller
-* Eenvoudig belroutes maken
-* Stuur het zakelijk nummer mee
+* Altijd **bereikbaar** voor de inkomende beller
+* Stuur het **zakelijk nummer** mee
 * De beller ziet niet uw mobiele nummer
 * Bepaal zelf de rinkeltijd
 
@@ -32,6 +31,6 @@ Eenmalig: **€ 0,00** excl. BTW
 
 Deze functionaliteit is onderdeel van het basispakket (waar u €7,50 excl. BTW voor betaalt).
 
-Let op: als u via doorverbinden het inkomend gesprek doorzet naar een extern nummer, dan betaalt u de reguliere [gesprekskosten]().
+**_Let op_**: als u via doorverbinden het inkomend gesprek doorzet naar een extern nummer, dan betaalt u de reguliere [gesprekskosten](/telefonie/gesprekskosten/).
 
 <a href="/telefonie/functionaliteiten/" class="button">Overzicht van alle functionaliteiten</a>
