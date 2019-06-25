@@ -20,32 +20,16 @@ blocks:
   position: image_left
   title: Callvoip = Simmpl!
 usps:
-  title: Geniet van een beter telefoongesprek
+  title: Geniet als ZZP-er van optimale bereikbaarheid
   content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent, dat
-    gaat verder dan alleen maar telefonie. Betrouwbaar internet en goede apparatuur
+    gaat verder dan alleen maar telefonie.
   items:
   - icon: fa-cloud
     title: Moderne centrale in de cloud
-    content: Callvoip is er voor elke ondernemer. Voor de zelfstandige, die graag
-      bereikbaar is op een vast nummer. Maar wij zijn er ook voor de international
-      met 10.000 werkplekken.
+    content: 'U krijgt toegang tot de revolutionaire Simmpl-centrale met eenvoudige
+      bediening. '
   - icon: fa-user-lock
     title: Je eigen beveiligde omgeving
-    content: Callvoip is er voor elke ondernemer. Voor de zelfstandige, die graag
-      bereikbaar is op een vast nummer. Maar wij zijn er ook voor de international
-      met 10.000 werkplekken.
-  - icon: fa-comment-alt-smile
-    title: Geen moeilijke software
-    content: Callvoip is er voor elke ondernemer. Voor de zelfstandige, die graag
-      bereikbaar is op een vast nummer. Maar wij zijn er ook voor de international
-      met 10.000 werkplekken.
-  - icon: fa-laptop
-    title: Werkt op Apple en Windows
-    content: Callvoip is er voor elke ondernemer. Voor de zelfstandige, die graag
-      bereikbaar is op een vast nummer. Maar wij zijn er ook voor de international
-      met 10.000 werkplekken.
-  - icon: fa-comment-alt-smile
-    title: Geen moeilijke software
     content: Callvoip is er voor elke ondernemer. Voor de zelfstandige, die graag
       bereikbaar is op een vast nummer. Maar wij zijn er ook voor de international
       met 10.000 werkplekken.
