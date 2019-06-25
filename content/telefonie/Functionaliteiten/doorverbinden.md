@@ -13,7 +13,7 @@ Met de doorverbinden-app zet u eenvoudig inkomende belletjes door naar een toest
 
 <a href="/calculator/" class="button">Bereken uw kosten</a>
 
-## De voordelen
+## De voordelen:
 
 * Altijd **bereikbaar** voor de inkomende beller
 * Stuur het **zakelijk nummer** mee

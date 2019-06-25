@@ -13,9 +13,9 @@ Een omleiding is een schakelaar waarmee u eenvoudig acties aan- of uitzet. U kun
 
 <a href="/calculator/" class="button">Bereken uw kosten</a>
 
-## De voordelen
+## De voordelen:
 
-* **_Snel & efficient_**: Met een druk op de knop verandert u de huidige belroute
+* **_Snel & efficiënt_**: Met een druk op de knop verandert u de huidige belroute
 * **_Meerdere schakelmogelijkheden_**: Via uw telefoon, [Qaller](https://www.callvoip.nl/qaller/ "Qaller") of online bedieningspaneel
 * **_Groepen_**: Definieer groepen. Wanneer u één omleiding aanzet, schakelt u de rest automatisch uit
 
@@ -25,12 +25,11 @@ Er zijn meerdere toepassingsmogelijkheden van de 'omleiding-app'. Denk hierbij b
 
 ## Wat zijn de kosten?
 
-Maandelijks: **€ 0,00** excl. BTW
-
+Maandelijks: **€ 0,00** excl. BTW  
 Eenmalig: **€ 0,00** excl. BTW
 
 Deze functionaliteit is onderdeel van het basispakket (waar u €7,50 excl. BTW voor betaalt).
 
-Let op: als u via de omleiding het inkomend gesprek doorzet naar een extern nummer, dan betaalt u de reguliere [gesprekskosten]().
+**_Let op_**: als u via de omleiding het inkomend gesprek doorzet naar een extern nummer, dan betaalt u de reguliere [gesprekskosten](/telefonie/gesprekskosten/).
 
 <a href="/telefonie/functionaliteiten/" class="button">Overzicht van alle functionaliteiten</a>
