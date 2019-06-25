@@ -7,7 +7,6 @@ headless: true
 link: "/"
 logo: "/v1555508013/On%20Dark%20Background.svg"
 name: Stefan van Vliet
-draft: true
 
 ---
 “Wij maken al sinds dag één gebruik van de diensten van Callvoip. We begonnen met simpelweg 1 vast telefoonnummer via VOIP, welke schakelden we doorschakelden naar een GSM.

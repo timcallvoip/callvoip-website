@@ -1,13 +1,12 @@
 ---
-title: Blint Makelaardij
+title: Bakker Auto Centrum Winsum
 type: testimonial
 hero:
-  image: "/v1552398058/Team/logo-bord-breed.jpg"
+  image: v1561018246/callvoip-website-branches-autodealer-groot.png
 headless: true
 link: "/"
 logo: "/v1555508013/On%20Dark%20Background.svg"
 name: Germ Wijnia
-draft: true
 
 ---
 “Korte lijnen, duidelijke communicatie en altijd nieuwe innovaties”
