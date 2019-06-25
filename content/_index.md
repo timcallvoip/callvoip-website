@@ -30,7 +30,7 @@ intro:
   - icon: fa-file-contract
     content: Maandelijks opzegbaar, geen lange moeilijke contracten.
   - icon: fa-boxes-alt
-    content: Eenvoudig te bedienen via uw eigen beveiligde omgeving.
+    content: Flexibel en schaalbaar. Eenvoudig via uw eigen beveiligde omgeving.
   - icon: fa-piggy-bank
     content: Tot wel 50% voordeliger dan tradionele telefooncentrale
 usps:
