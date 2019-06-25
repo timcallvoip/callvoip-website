@@ -47,7 +47,7 @@ usps:
     title: Is VoIP betrouwbaar?
     content: Mocht uw internetverbinding onverhoopt uitvallen, dan schakelt de telefooncentrale
       automatisch door naar uw mobiele nummer. Indien u zeer afhankelijk bent van
-      uw internet, overweeg dan een backup internetverbinding.
+      uw internet, overweeg dan een backup verbinding.
   - icon: fa-money-bill
     title: Is VoIP een alternatief voor ISDN?
     content: 'Callvoip biedt u een volwaardig alternatief voor ISDN. Bovendien is
