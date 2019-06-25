@@ -62,7 +62,9 @@ intro:
     twee cases kort uitgewerkt. '
 prijzen:
 - title: Tandartspraktijk
-  content: ''
+  content: Er is één receptietoestel en die kan de inkomende belletjes niet aan. Deze
+    oproepen worden opgevangen in een wachtrij. Verder hebben de drie behandelkamers
+    allemaal een eigen handset.
   button:
     title: 'Bekijk de case hier: '
     link: "/oplossingen/branches/tandarts/"
