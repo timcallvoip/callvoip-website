@@ -22,7 +22,7 @@ blocks:
   position: image_left
   title: Bedien de telefooncentrale (Qaller)
 - content: |-
-    Met Qaller Plus:
+    Met Qaller Plus:<br>
     …bedient u de telefooncentrale.<br>
     …belt u vanaf uw smartphone met uw zakelijke telefoonnummer.<br>
     …zien relaties uw mobiele telefoonnummer niet.<br>
@@ -51,7 +51,7 @@ usps:
   - icon: fa-spinner
     title: Bereikbaar
     content: Overal inkomend bereikbaar voor uw klanten (extern) en collega’s (intern).
-  - icon: fa-gear
+  - icon: fa-file-contract
     title: Schaalbaar
     content: Qaller is eenvoudig aan- & uit te zetten én is maandelijks opzegbaar.
 intro:
