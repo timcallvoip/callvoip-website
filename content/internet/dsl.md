@@ -29,7 +29,7 @@ usps:
     title: Één aanspreekpunt
     content: U heeft 1 aanspreekpunt voor uw telefonie en internet.
   - icon: fa-rocket
-    content: 'Callvoip levert de beloofde snelheid! '
+    content: Callvoip levert de beloofde snelheid! Wij bekijken vooraf met u de mogelijkheden.
     title: Snelheid
   - content: Callvoip klanten krijgen 10% korting op de standaard prijzen.
     title: Korting
@@ -38,7 +38,8 @@ usps:
     title: Vast IP-adres
     content: Standaard 1 vast IP adres – mogelijkheid voor meer natuurlijk.
   - title: Beheer
-    content: 3 maanden gratis Beheer & Monitoring door Callvoip.
+    content: U krijgt 3 maanden gratis Beheer & Monitoring door Callvoip (i.c.m. Draytek
+      router).
     icon: fa-window-restore
   - icon: fa-trophy
     title: Beste apparatuur
