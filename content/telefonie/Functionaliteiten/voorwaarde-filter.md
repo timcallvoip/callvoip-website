@@ -13,7 +13,12 @@ Met de ‘voorwaarde-app’ kunt u gesprekken filteren. Door (delen van) het num
 
 <a href="/calculator/" class="button">Bereken uw kosten</a>
 
-## Waarom zou u gebruik maken van voorwaarden/filters?
+## De voordelen:
+
+* **Efficiëntie**: klanten of leveranciers worden meteen aangeboden bij de juiste medewerker
+* **Doeltreffend**: 'lastige bellers' worden niet of anders aangeboden.
+
+## Waarom voorwaarden/filters?
 
 Er zijn meerdere mogelijkheden om de voorwaarde-app te gebruiken in uw belplan. Hieronder enkele voorbeelden:
 
@@ -25,10 +30,9 @@ Er zijn meerdere mogelijkheden om de voorwaarde-app te gebruiken in uw belplan. 
 * Filter gesprekken uit het buitenland en voorzie deze van een prefix (bv: Duitsland).
 * Herken mobiele gesprekken en laat deze eerst naar een wachtrij gaan en daarna naar een bepaalde afdeling.
 
-## Wat zijn de kosten van de voorwaarde-app?
+## Wat zijn de kosten?
 
-Maandelijks: **€ 0,00** excl. BTW
-
+Maandelijks: **€ 0,00** excl. BTW  
 Eenmalig: **€ 0,00** excl. BTW
 
 Deze functionaliteit is onderdeel van het basispakket (waar u €7,50 excl. BTW voor betaalt).
