@@ -21,15 +21,15 @@ blocks:
   image: "/v1557822664/C2D-update-feb19.png"
   content: |2-
 
-    -<b>· Click-to-dial:</b> klik en bel een nummer op uw toestel
-    -<b>· Select-and-dial:</b> selecteer en right-click om te bellen
-    -<b>· Paste-and-dial:</b> plak/type een nummer in de app en bel!
-    -<b>· Log met gesprekken (in/uit)</b> met datum en tijd
-    -<b>· Popup inkomend gesprek:</b> met nummer en naam
-    -<b>· Adresboek:</b> voeg naam toe en bookmark: prive/gedeeld
-    -<b>· Bedrijfstelefoonboek:</b> gedeelde nrs ook zichtbaar bij collega’s
-    -<b>· Nummer-kopie-functie:</b> kopieer een nummer en vind bellers nog sneller in uw CRM!
-    -<b>· Yealink-adresboek:</b> koppel uw Yealink toestel met uw Click to Dial adresboek!
+    -<b>Click-to-dial:</b> klik en bel een nummer op uw toestel.<br>
+    -<b>Select-and-dial:</b> selecteer en right-click om te bellen.<br>
+    -<b>Paste-and-dial:</b> plak/type een nummer in de app en bel!<br>
+    -<b>Log met gesprekken (in/uit)</b> met datum en tijd.<br>
+    -<b>Popup inkomend gesprek:</b> met nummer en naam.<br>
+    -<b>Adresboek:</b> voeg naam toe en bookmark: prive/gedeeld.<br>
+    -<b>Bedrijfstelefoonboek:</b> gedeelde nrs ook zichtbaar bij collega’s.<br>
+    -<b>Nummer-kopie-functie:</b> kopieer een nummer en vind bellers nog sneller in uw CRM!<br>
+    -<b>Yealink-adresboek:</b> koppel uw Yealink toestel met uw Click to Dial adresboek!
   position: image_left
 - title: Hoe werkt het?
   image: "/v1557823877/c2d_3xnw_270119MT-2.png"
