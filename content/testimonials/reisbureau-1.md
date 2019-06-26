@@ -1,12 +1,12 @@
 ---
-title: Marketing
+title: Reisbureau
 type: testimonial
 hero:
-  image: "/v1561542997/callvoip-website-branches-marketing-groot.png"
+  image: "/v1561018299/callvoip-website-branches-reizen-groot.png"
 headless: true
-link: "/oplossingen/branches/marketing"
+link: "/oplossingen/branches/reisbureau"
 logo: v1561018210/callvoip-website-branches-tandarts-groot.png
-name: Naam Achternaam - Marketing
+name: Naam Achternaam - Reisbureau
 draft: true
 
 ---
