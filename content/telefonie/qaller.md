@@ -45,21 +45,15 @@ usps:
     title: Eenvoudig
     content: U wijzigt gemakkelijk de belroute van uw toestel of nummers in ad hoc
       situaties.
-  - icon: fa-laptop
-    title: Werkt op Apple en Windows
-    content: Callvoip is er voor elke ondernemer. Voor de zelfstandige, die graag
-      bereikbaar is op een vast nummer. Maar wij zijn er ook voor de international
-      met 10.000 werkplekken.
-  - icon: fa-comment-alt-smile
-    title: Geen moeilijke software
-    content: Callvoip is er voor elke ondernemer. Voor de zelfstandige, die graag
-      bereikbaar is op een vast nummer. Maar wij zijn er ook voor de international
-      met 10.000 werkplekken.
-  - icon: fa-comment-alt-smile
-    title: Geen moeilijke software
-    content: Callvoip is er voor elke ondernemer. Voor de zelfstandige, die graag
-      bereikbaar is op een vast nummer. Maar wij zijn er ook voor de international
-      met 10.000 werkplekken.
+  - icon: fa-trophy
+    title: Professioneel
+    content: Bel uit met uw smartphone en stuur uw vaste (zaak-)telefoonnummer mee!
+  - icon: fa-spinner
+    title: Bereikbaar
+    content: Overal inkomend bereikbaar voor uw klanten (extern) en collega’s (intern).
+  - icon: fa-gear
+    title: Schaalbaar
+    content: Qaller is eenvoudig aan- & uit te zetten én is maandelijks opzegbaar.
 intro:
   title: Dit is een pagina met vrije content
   content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent, dat
