@@ -114,24 +114,8 @@ menu:
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1559635655/Vamos-logo.png)
 
-<div class="row">
-
-<div class="medium-9 columns">
-
-<ul>
-
-    <li><a href="[https://play.google.com/store/apps/details?id=com.digifoon.fmc](https://play.google.com/store/apps/details?id=com.digifoon.fmc "https://play.google.com/store/apps/details?id=com.digifoon.fmc")" target="_blank" rel="noopener noreferrer">Download Vamos app voor Android</a></li>
-    
-    <li><a href="[https://itunes.apple.com/nl/app/vamos-vast-mobiel/id1449692498](https://play.google.com/store/apps/details?id=com.digifoon.fmc "https://play.google.com/store/apps/details?id=com.digifoon.fmc")" target="_blank" rel="noopener noreferrer">Download Vamos App voor Apple</a></li>
-    
-    <li><a href="[http://www.simmpl.nl/downloads/Simmpl_Vast-Mobiel-Integratie-mogelijkheden.pdf](https://play.google.com/store/apps/details?id=com.digifoon.fmc "https://play.google.com/store/apps/details?id=com.digifoon.fmc")" target="_blank" rel="noopener noreferrer">Overzicht Vast-Mobiel integratie</a></li>
-    
-    <li><a href="[https://www.simmpl.nl/downloads/Simmpl_informatie_Vamos-vast-mobiel-integratie.pdf](https://play.google.com/store/apps/details?id=com.digifoon.fmc "https://play.google.com/store/apps/details?id=com.digifoon.fmc")" target="_blank" rel="noopener noreferrer">Informatie over Vamos</a></li>
-    
-    <li><a href="[https://www.simmpl.nl/downloads/Simmpl_handleiding_ingebruikname_Vamos.pdf](https://play.google.com/store/apps/details?id=com.digifoon.fmc "https://play.google.com/store/apps/details?id=com.digifoon.fmc")" target="_blank" rel="noopener noreferrer">Handleiding Vamos</a></li>
-
-</ul>
-
-</div>
-
-</div>
+* [Download Vamos app voor Anroid](https://play.google.com/store/apps/details?id=com.digifoon.fmc)
+* [Download Vamos app voor Apple](https://itunes.apple.com/nl/app/vamos-vast-mobiel/id1449692498)
+* [Overzicht Vast-Mobiel integratie](http://www.simmpl.nl/downloads/Simmpl_Vast-Mobiel-Integratie-mogelijkheden.pdf)
+* [Informatie over Vamos](https://www.simmpl.nl/downloads/Simmpl_informatie_Vamos-vast-mobiel-integratie.pdf)
+* [Handleiding Vamos](https://www.simmpl.nl/downloads/Simmpl_handleiding_ingebruikname_Vamos.pdf)
