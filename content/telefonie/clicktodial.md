@@ -21,15 +21,15 @@ blocks:
   image: "/v1557822664/C2D-update-feb19.png"
   content: |2-
 
-    <ul><b>· Click-to-dial:</b> klik en bel een nummer op uw toestel</ul>
-    <ul><b>· Select-and-dial:</b> selecteer en right-click om te bellen</ul>
-    <ul><b>· Paste-and-dial:</b> plak/type een nummer in de app en bel!</ul>
-    <ul><b>· Log met gesprekken (in/uit)</b> met datum en tijd</ul>
-    <ul><b>· Popup inkomend gesprek:</b> met nummer en naam</ul>
-    <ul><b>· Adresboek:</b> voeg naam toe en bookmark: prive/gedeeld</ul>
-    <ul><b>· Bedrijfstelefoonboek:</b> gedeelde nrs ook zichtbaar bij collega’s</ul>
-    <ul><b>· Nummer-kopie-functie:</b> kopieer een nummer en vind bellers nog sneller in uw CRM!</ul>
-    <ul><b>· Yealink-adresboek:</b> koppel uw Yealink toestel met uw Click to Dial adresboek!</ul>
+    -<b>· Click-to-dial:</b> klik en bel een nummer op uw toestel
+    -<b>· Select-and-dial:</b> selecteer en right-click om te bellen
+    -<b>· Paste-and-dial:</b> plak/type een nummer in de app en bel!
+    -<b>· Log met gesprekken (in/uit)</b> met datum en tijd
+    -<b>· Popup inkomend gesprek:</b> met nummer en naam
+    -<b>· Adresboek:</b> voeg naam toe en bookmark: prive/gedeeld
+    -<b>· Bedrijfstelefoonboek:</b> gedeelde nrs ook zichtbaar bij collega’s
+    -<b>· Nummer-kopie-functie:</b> kopieer een nummer en vind bellers nog sneller in uw CRM!
+    -<b>· Yealink-adresboek:</b> koppel uw Yealink toestel met uw Click to Dial adresboek!
   position: image_left
 - title: Hoe werkt het?
   image: "/v1557823877/c2d_3xnw_270119MT-2.png"
@@ -38,15 +38,15 @@ blocks:
     Zodra u klikt, rechts klikt of het nummer plakt in de app, zal uw eigen telefoon direct overgaan. Zodra u de hoorn opneemt, zal uw telefoon starten met bellen naar het nummer waarop u klikte. Hierdoor hoeft u zelf geen telefoonnummers meer in te toetsen: geen fouten, geen bril op zetten, geen tijdverlies: gewoon snel en simmpl bellen!
   position: image_right
 usps:
-  title: Voordelen Simmpl Click to Dial
+  title: Voordelen Click-to-Dial
   content: ''
   items:
   - icon: fa-laptop
     title: Pop-up notificatie
-    content: Krijg een melding bij inkomende gesprekken
+    content: Krijg een melding met naam & telefoonnummer bij inkomende gesprekken.
   - icon: fa-comment-alt-smile
     title: Eenvoudige installatie
-    content: Gemakkelijk geïnstalleerd met onze handleiding
+    content: Gemakkelijk geïnstalleerd met onze handleiding.
   - icon: fa-mouse-pointer
     title: Gemak
     content: Elk telefoonnummer in Chrome Browser klik- en belbaar
