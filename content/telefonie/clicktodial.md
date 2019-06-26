@@ -49,16 +49,16 @@ usps:
     content: Gemakkelijk geïnstalleerd met onze handleiding.
   - icon: fa-mouse-pointer
     title: Gemak
-    content: Elk telefoonnummer in Chrome Browser klik- en belbaar
+    content: Elk telefoonnummer in Chrome Browser klik- en belbaar.
   - icon: fa-users
     title: Telefoonboek
-    content: Houd eenvoudig een privé en bedrijfstelefoonboek bij
+    content: Houd eenvoudig een privé en bedrijfstelefoonboek bij.
   - icon: fa-rocket
     title: BLF
-    content: Zie snel of uw collega in gesprek is
+    content: 'Zie snel & eenvoudig of uw collega in gesprek of beschikbaar is. '
   - icon: fa-arrows-h
     title: Verbind gesprekken door
-    content: U kunt nu inkomende oproepen doorverbinden naar uw collega's
+    content: U kunt nu inkomende oproepen doorverbinden naar uw collega's.
 intro:
   title: ''
   content: ''
@@ -73,7 +73,7 @@ menu:
 ---
 ## Wat kost de Click-to-Dial?
 
-Helemaal niets!
+Helemaal niets! De Click-to-Dial is gratis voor klanten van Callvoip.
 
 <br>
 
@@ -85,9 +85,9 @@ Helemaal niets!
 
 <br>
 
-#### Update januari 2019
+#### Laatste update (januari '19)
 
 Geef uw Yealink-telefoon toegang tot het Click-to-Dial telefoonboek
 
-* Kopieer nummers vanuit Click to Dial en lokaliseer uw relatie snel in bv. uw CRM
+* Kopieer nummers vanuit Click-to-Dial en lokaliseer uw relatie snel in bv. uw CRM
 * Regelbutton CLICK-TO-DIAL hernoemd naar NUMMERHERKENNING, deze staat default uit. De groene telefoontjes worden pas zichtbaar als u de button inschakelt.
