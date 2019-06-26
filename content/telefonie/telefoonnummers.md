@@ -17,7 +17,7 @@ Met de **overstapservice** van Callvoip kunt u zorgeloos overstappen. Wij zorgen
 
 ### Regionale nummers
 
-Wilt u een regionale uitstraling? CallvoipTelefonie levert telefoonnummers uit **alle regio’s**.
+Wilt u een regionale uitstraling? Callvoip levert telefoonnummers uit **alle regio’s**.
 
 Heeft u meer telefoonnummers nodig? Dan kunt u kiezen voor een nummerblok met 10 opéénvolgende telefoonnummers. Handig als u iedere afdeling een eigen nummer wilt geven of als iedere medewerker direct bereikbaar moet zijn.
 
@@ -30,14 +30,14 @@ Heeft u meer telefoonnummers nodig? Dan kunt u kiezen voor een nummerblok met 10
 Werkt u landelijk of wilt u een landelijke uitstraling? Kies voor **landelijke nummers: 085- en 088-nummers** zijn niet aan een specifieke regio verbonden. Uw activiteiten krijgen een landelijke uitstraling. Handig als u meerdere vestigingen heeft, landelijk opereert of meerdere vestigingen in Nederland heeft.
 
 <u>085-nummer</u>:  
-Een 085-nummer is een telefoonnummer voor de zakelijke markt en geeft u een professionele landelijke uitstraling. Een 085-nummer kunt u per stuk of in blokken van 10 of 100 stuks aanvragen bij CallvoipTelefonie.
+Een 085-nummer is een telefoonnummer voor de zakelijke markt en geeft u een professionele landelijke uitstraling. Een 085-nummer kunt u per stuk of in blokken van 10 of 100 stuks aanvragen bij Callvoip.
 
 <u>088-nummer</u>:  
 088-nummers zijn zakelijke, landelijke nummerblokken. 088-nummers kunt u per 100 of zelfs per 1000 stuks aanvragen. U vraagt ze aan bij de [ACM ](https://www.acm.nl/nl/onderwerpen/telecommunicatie/telefoonnummers/aanvragen-nummers/formulieren/2-088-bedrijfsnummers/)en u kunt ze daarna koppelen met onze centrale.
 
 ### Internationale nummers
 
-Met **internationale** nummers bent u ook bereikbaar voor uw buitenlandse klanten. Heeft u een Belgisch- of Duits telefoonnummer? Dan heeft u geluk, want het is mogelijk om deze nummers te verhuizen (porteren) naar CallvoipTelefonie.
+Met **internationale** nummers bent u ook bereikbaar voor uw buitenlandse klanten. Heeft u een Belgisch- of Duits telefoonnummer? Dan heeft u geluk, want het is mogelijk om deze nummers te verhuizen (porteren) naar Callvoip.
 
 ### Service nummers
 
