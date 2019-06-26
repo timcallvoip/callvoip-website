@@ -2,7 +2,7 @@
 title: Feestkleding 365
 type: testimonial
 hero:
-  image: "/v1552398058/Team/logo-bord-breed.jpg"
+  image: "/v1561541927/callvoip-website-branches-webshop-groot.png"
 headless: true
 link: "/oplossingen/branches/tandarts/"
 logo: "/v1555508013/On%20Dark%20Background.svg"
