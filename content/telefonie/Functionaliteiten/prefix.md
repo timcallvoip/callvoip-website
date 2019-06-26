@@ -13,7 +13,7 @@ Met de prefix-app kunt u zelf een code, naam of nummer ingeven. Deze wordt in he
 
 <a href="/calculator/" class="button">Bereken uw kosten</a>
 
-## De voordelen van de prefix
+## De voordelen:
 
 * **_Keuzes in het keuzemenu_**: Zie snel via welke keuze de beller bij u binnenkomt
 * **_Meerdere nummers_**: Maak onderscheid tussen bijvoorbeeld zakelijke- en privé nummers
@@ -24,10 +24,9 @@ Met de prefix-app kunt u zelf een code, naam of nummer ingeven. Deze wordt in he
 Stel dat u een zakelijk- en privételefoonnummer heeft. U kunt in beide belroutes een prefix instellen. Bij het zakelijk nummer plaatst u \[Zaak: \] en in de belroute van het privénummer  
 kunt u als prefix instellen: \[Prive: \]. Zo ziet u duidelijk op uw toestel via welk nummer het gesprek binnenkomt en hoe u dus kunt opnemen.
 
-## Wat kost de prefix?
+## Wat zijn de kosten?
 
-Maandelijks: **€ 0,00** excl. BTW
-
+Maandelijks: **€ 0,00** excl. BTW  
 Eenmalig: **€ 0,00** excl. BTW
 
 Deze functionaliteit is onderdeel van het basispakket (waar u €7,50 excl. BTW voor betaalt).
