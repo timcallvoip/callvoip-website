@@ -30,13 +30,13 @@ usps:
   items:
   - icon: fa-spinner
     title: Bereikbaarheid
-    content: Vergroot de bereikbaarheid van uw organisatie en medewerkers
+    content: Vergroot de bereikbaarheid van uw organisatie en medewerkers.
   - icon: fa-user-lock
     title: Integratie
     content: Uw mobiele telefoon onderdeel van de Simmpl Hosted VoIP oplossing.
   - icon: fa-hand-pointer
     title: Alles bij 1 provider
-    content: 'Alles bij één leverancier: één aanspreekpunt, één factuur'
+    content: 'Alles bij één leverancier: één aanspreekpunt, één factuur.'
   - title: Kostenbesparing
     content: Geen doorschakelkosten meer van de telefooncentrale naar uw mobiele telefoon.
     icon: fa-piggy-bank
@@ -45,7 +45,7 @@ usps:
     icon: fa-mobile
   - icon: fa-comment-alt-smile
     title: Keuzevrijheid
-    content: U kunt uitbellen met zaak- of mobiel nummer, óf anoniem
+    content: U kunt uitbellen met zaak- of mobiel nummer, óf anoniem.
 description: ''
 images:
 - "/v1559635655/Vamos-logo.png"
