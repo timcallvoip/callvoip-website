@@ -4,9 +4,12 @@ type: page
 layout: default
 logos: true
 hero:
-  title: Bellen vanaf je laptop
-  content: Met Hosted VoIP bespaart u voortaan op uw kosten en bent u voortaan overal
-    en altijd bereikbaar. Omdat uw zakelijke telefonie over het internet gaat.
+  title: Qaller (mobiele app)
+  content: |-
+    Met Qaller wordt uw mobiele telefoon onderdeel van de online telefooncentrale:
+    - bedien de telefooncentrale vanaf uw smartphone <br>
+    - gebruik uw Smartphone alsof het een kantoortoestel is: bellen en gebeld worden  <br>
+    - stuur uw zaaknummer mee bij uitbellen  <br>
   button:
     content: Bereken je kosten
     link: "/calculator"
