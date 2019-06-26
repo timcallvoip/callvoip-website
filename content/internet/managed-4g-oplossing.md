@@ -43,7 +43,7 @@ usps:
     content: ''
   - icon: fa-heartbeat
     title: 365-dagen monitoring
-    content: ''
+    content: Uw verbinding wordt 24/7 beheerd om zo snel storingen op te lossen.
 intro:
   title: ''
   content: ''
