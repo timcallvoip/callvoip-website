@@ -32,20 +32,15 @@ blocks:
   position: ''
   title: Bel met uw zakelijke telefoonnummer (Qaller Plus)
 usps:
-  title: Geniet van een beter telefoongesprek
-  content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent, dat
-    gaat verder dan alleen maar telefonie. Betrouwbaar internet en goede apparatuur
+  title: Welke voordelen heeft Qaller?
+  content: ''
   items:
   - icon: fa-cloud
-    title: Moderne centrale in de cloud
-    content: Callvoip is er voor elke ondernemer. Voor de zelfstandige, die graag
-      bereikbaar is op een vast nummer. Maar wij zijn er ook voor de international
-      met 10.000 werkplekken.
+    title: Flexibel
+    content: Met de mobiele app Qaller heeft altijd en overal toegang tot uw telefooncentrale.
   - icon: fa-user-lock
-    title: Je eigen beveiligde omgeving
-    content: Callvoip is er voor elke ondernemer. Voor de zelfstandige, die graag
-      bereikbaar is op een vast nummer. Maar wij zijn er ook voor de international
-      met 10.000 werkplekken.
+    title: Veilig
+    content: U bepaalt welke werknemers toegang krijgen tot gebruik van de app.
   - icon: fa-comment-alt-smile
     title: Geen moeilijke software
     content: Callvoip is er voor elke ondernemer. Voor de zelfstandige, die graag
