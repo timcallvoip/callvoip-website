@@ -90,7 +90,7 @@ prijzen:
     title: Nu aanvragen
     link: "/mijncallvoip/aanvragen/vamos"
 - title: 10 GB data
-  content: Onbeperkt bellen in EU + 2GB data
+  content: Onbeperkt bellen in EU + 10GB data
   button:
     title: Nu aanvragen
     link: "/mijncallvoip/aanvragen/vamos"
