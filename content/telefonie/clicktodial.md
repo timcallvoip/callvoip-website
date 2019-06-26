@@ -8,9 +8,8 @@ layout: default
 logos: false
 hero:
   title: Click-to-Dial
-  content: 'Met de nieuwe Simmpl Click-to-Dial-plugin van CallvoipTelefonie maakt
-    u in een handomdraai alle telefoonnummers in uw Chrome webbrowser klikbaar. Maar
-    dat is lang niet alles!
+  content: 'Met de Click-to-Dial-plugin van Callvoip maakt u in een handomdraai alle
+    telefoonnummers in uw Chrome webbrowser klikbaar én meer!
 
 '
   button:
