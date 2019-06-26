@@ -2,7 +2,7 @@
 title: Postcode Check
 
 ---
-Vul hieronder uw gegevens in en u wij zoeken de mogelijkheden qua internet voor u uit, U ontvangt **binnen één werkdag** een vrijblijvende offerte. Wilt u tevens advies over **telefonie van Callvoip** of aanvullende **apparatuur**? Laat het ons weten in de toelichting! 
+Vul hieronder uw gegevens in en u wij zoeken de mogelijkheden qua internet voor u uit, U ontvangt **binnen één werkdag** een vrijblijvende offerte. Wilt u tevens advies over **telefonie van Callvoip** of aanvullende **apparatuur**? Laat het ons weten in de toelichting!
 
 ### Ontvang een vrijblijvende internetcheck
 
@@ -25,6 +25,8 @@ Heeft u eerst advies nodig of heeft u nog vragen, bel ons gerust op [**050 820 0
 {{< form/email "Postcode" required >}}
 
 {{< form/input "Huisnummer + aanvulling" required >}}
+
+{{< /layout/split >}}
 
 {{< layout/split >}}
 

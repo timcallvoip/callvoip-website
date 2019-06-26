@@ -38,8 +38,7 @@ usps:
     title: Vast IP-adres
     content: Standaard 1 vast IP adres – mogelijkheid voor meer natuurlijk.
   - title: Beheer
-    content: U krijgt 3 maanden gratis Beheer & Monitoring door Callvoip (i.c.m. Draytek
-      router).
+    content: U krijgt 3 maanden gratis Beheer & Monitoring (i.c.m. Draytek router).
     icon: fa-window-restore
   - icon: fa-trophy
     title: Beste apparatuur
