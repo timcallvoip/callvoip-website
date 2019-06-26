@@ -10,8 +10,8 @@ hero:
     300 meter van uw voordeur uit coaxkabel. Hierdoor krijgt u supersnel internet
     van een betrouwbare leverancier.
   button:
-    content: Bereken je kosten
-    link: "/calculator"
+    content: Benieuwd naar de mogelijkheden?
+    link: "/offerte/"
   image: "/v1552466820/hostedvoip.svg"
 blocks:
 - content: |-
@@ -29,9 +29,9 @@ usps:
   items: []
 intro:
   title: Wat kost internet via de kabel van Ziggo?
-  content: 'Of u nu een startende ondernemer bent met beperkte eisen en wensen of
-    een MKB’er met behoefte aan een stabiele verbinding, Ziggo heeft altijd een passende
-    internetdienst voor u. U kunt kiezen uit de volgende diensten:'
+  content: Of u nu een startende ondernemer bent met beperkte eisen en wensen of een
+    MKB’er met behoefte aan een stabiele verbinding, Ziggo heeft altijd een passende
+    internetdienst voor u.
 prijzen:
 - title: Ziggo Zakelijk Internet
   content: 'Supersnel en betrouwbaar zakelijk internet tot wel 500 Mbit/s. Het is
