@@ -9,9 +9,9 @@ hero:
 layout: ''
 
 ---
-Als eerste provider in Nederland levert CallvoipTelefonie versleutelde telefoongesprekken. Veiligheid staat bij ons hoog in het vaandel en daarom bieden wij de mogelijkheid om uw telefonie te versleutelen en zo uw privacy te waarborgen. Dit doen we door middel van SRTP en TLS.
+Als eerste provider in Nederland levert Callvoip versleutelde telefoongesprekken. Veiligheid staat bij ons hoog in het vaandel en daarom bieden wij de mogelijkheid om uw telefonie te versleutelen en zo uw privacy te waarborgen. Dit doen we door middel van SRTP en TLS.
 
-**CallvoipTelefonie biedt twee lagen van beveiliging:**
+**Callvoip biedt twee lagen van beveiliging:**
 
 * **TLS:** een soort HTTPS-certificaat voor beveiligde telefonie tussen centrale en uw telefoon
 * **SRTP:** de daadwerkelijke versleuteling van het gesprek vanaf uw telefoontoestel
@@ -20,7 +20,7 @@ Als eerste provider in Nederland levert CallvoipTelefonie versleutelde telefoong
 
 TLS staat voor Transport Layer Security: dit is te vergelijken met een HTTPS-verbinding (het slotje ten teken van beveiligd internetverkeer) en dan specifiek voor VoIP. Dankzij de TLS-beveiliging gaan alle gegevens van uw telefoon beveiligd naar onze telefooncentrale: een veilig idee.
 
-Alle internetverkeer van CallvoipTelefonie verloopt via TLS – dit is standaard inbegrepen. TLS als standaard voor VoIP-verkeer is uniek in Nederland en dat maakt CallvoipTelefonie een van de veiligste providers.
+Alle internetverkeer van Callvoip verloopt via TLS – dit is standaard inbegrepen. TLS als standaard voor VoIP-verkeer is uniek in Nederland en dat maakt Callvoip een van de veiligste providers.
 
 **TLS is standaard inbegrepen en gratis voor alle klanten.**
 
@@ -45,6 +45,6 @@ Het kan zijn dat dit gesprek tussen de (mobiele) telefoon en de ontvangende prov
 
 ![voorbeelden](https://www.callvoiptelefonie.nl/wp-content/uploads/2016/10/voorbeelden_SRTP_vb3.png)
 
-**Wilt u gebruik maken van SRTP? Dan kunt u dit hieronder aanvragen:**
+**Wilt u gebruik maken van SRTP? En bent u al klant? Dan kunt u dit hieronder aanvragen:**
 
-LINK NAAR FORMULIER
+<a href="/mijncallvoip/aanvragen/srtp/" class="button">SRTP aanvragen</a>
