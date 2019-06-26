@@ -72,7 +72,8 @@ prijzen:
     - title: Maandelijks
       price: 5
 - title: Qaller Plus
-  content: ''
+  content: "- Mobiel doorschakelen <br> - Aan/-uitzetten omleidingen <br> - Qaller
+    als kantoortoestel <br> - Uitbellen met zakelijk nummer"
   tarieven:
     title: Per gebruiker
     footer: Prijzen zijn excl. BTW
