@@ -10,10 +10,10 @@ hero:
   title: Operator Console
   content: De Operator Panel is speciaal ontwikkeld voor receptionisten, supervisors
     en callcenter trainers en biedt realtime informatie, statistieken en extra telefoniemogelijkheden.
-    Zo zie je gemakkelijk en centraal wat er binnen het bedrijf gebeurt..
+    Zo zie je gemakkelijk en centraal wat er binnen het bedrijf gebeurt.
   button:
     content: Vraag nu een offerte aan
-    link: "/offerte"
+    link: "/offerte/"
   image: "/v1560247728/Callvoip-website-operatorconsole.jpg"
 blocks:
 - title: Wat is het?
