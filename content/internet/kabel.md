@@ -33,6 +33,9 @@ usps:
   - icon: fa-trophy
     title: De beste provider
     content: Bij de Tweakers Awards 18/19 is Ziggo als beste provider uit de bus gekomen.
+  - icon: fa-hand-pointer-o
+    title: Één aanspreekpunt
+    content: Ondanks dat het internet van Ziggo is, zijn wij uw aanspreekpunt.
 intro:
   title: Wat kost internet via de kabel van Ziggo?
   content: Of u nu een startende ondernemer bent met beperkte eisen en wensen of een
