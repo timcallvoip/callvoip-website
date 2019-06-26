@@ -53,13 +53,13 @@ usps:
     title: Schaalbaar
     content: Qaller is eenvoudig aan- & uit te zetten én is maandelijks opzegbaar.
 intro:
-  title: Dit is een pagina met vrije content
-  content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent, dat
-    gaat verder dan alleen maar telefonie. Betrouwbaar internet en goede apparatuur
-    mogen daarbij niet ontbreken.
+  title: Waar download ik de app?
+  content: |-
+    <a href="https://play.google.com/store/apps/details?id=com.digifoon.qaller&amp;hl=nl" target="_blank" rel="noopener noreferrer">Qaller voor Android downloaden</a><br>
+    <a href="https://itunes.apple.com/nl/app/qaller/id1140548146?mt=8" target="_blank" rel="noopener noreferrer">Qaller voor Apple downloaden</a>
 prijzen:
 - title: Qaller
-  content: ''
+  content: "- Mobiel doorschakelen <br> - Aan/-uitzetten omleidingen"
   button:
     title: Handleiding
     link: http://www.simmpl.nl/downloads/Simmpl_handleiding_qaller_plus_mobile_app.pdf
