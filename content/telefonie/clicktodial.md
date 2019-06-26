@@ -27,7 +27,7 @@ blocks:
     -<b>Log met gesprekken (in/uit)</b> met datum en tijd.<br>
     -<b>Popup inkomend gesprek:</b> met nummer en naam.<br>
     -<b>Adresboek:</b> voeg naam toe en bookmark: prive/gedeeld.<br>
-    -<b>Bedrijfstelefoonboek:</b> gedeelde nrs ook zichtbaar bij collega’s.<br>
+    -<b>Bedrijfstelefoonboek:</b> gedeelde nummers ook zichtbaar bij collega’s.<br>
     -<b>Nummer-kopie-functie:</b> kopieer een nummer en vind bellers nog sneller in uw CRM!<br>
     -<b>Yealink-adresboek:</b> koppel uw Yealink toestel met uw Click to Dial adresboek!
   position: image_left
