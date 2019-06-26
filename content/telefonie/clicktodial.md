@@ -81,7 +81,7 @@ Helemaal niets! De Click-to-Dial is gratis voor klanten van Callvoip.
 
 <br>
 
-<a href="[https://chrome.google.com/webstore/detail/simmpl-click-to-dial/hnjepanannlajhppemgdmcjjpimlhkgm?hl=nl](https://chrome.google.com/webstore/detail/simmpl-click-to-dial/hnjepanannlajhppemgdmcjjpimlhkgm?hl=nl "https://chrome.google.com/webstore/detail/simmpl-click-to-dial/hnjepanannlajhppemgdmcjjpimlhkgm?hl=nl")" class="button">Download plugin</a><a href="[http://www.simmpl.nl/downloads/Simmpl_snelstarthandleiding_ClicktoDial.pdf](http://www.simmpl.nl/downloads/Simmpl_snelstarthandleiding_ClicktoDial.pdf "http://www.simmpl.nl/downloads/Simmpl_snelstarthandleiding_ClicktoDial.pdf")" class="button">Handleiding</a><a href="[http://www.simmpl.nl/downloads/Simmpl_snelstarthandleiding_Yealink-C2D-adresboek.pdf](http://www.simmpl.nl/downloads/Simmpl_snelstarthandleiding_Yealink-C2D-adresboek.pdf "http://www.simmpl.nl/downloads/Simmpl_snelstarthandleiding_Yealink-C2D-adresboek.pdf")" class="button">Yealink adresboek</a>
+<a href="https://chrome.google.com/webstore/detail/simmpl-click-to-dial/hnjepanannlajhppemgdmcjjpimlhkgm?hl=nl" class="button">Download plugin</a><a href="http://www.simmpl.nl/downloads/Simmpl_snelstarthandleiding_ClicktoDial.pdf" class="button">Handleiding</a><a href="http://www.simmpl.nl/downloads/Simmpl_snelstarthandleiding_Yealink-C2D-adresboek.pdf" class="button">Yealink adresboek</a>
 
 <br>
 
