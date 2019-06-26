@@ -15,18 +15,22 @@ hero:
     link: "/calculator"
   image: "/v1552466820/hostedvoip.svg"
 blocks:
-- content: "<p>Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent,
-    dat gaat verder dan alleen maar telefonie. Betrouwbaar internet en goede apparatuur
-    mogen daarbij niet ontbreken.</p>"
+- content: Met de mobiele app Qaller kunt u uw telefooncentrale beheren en bedienen
+    via uw smartphone of tablet. Wanneer dan ook, waar dan ook. Snel en gemakkelijk.
+    Dat biedt vrijheid en onafhankelijkheid. Deze variant van Qaller is <b>gratis</b>.
   image: "/v1552466820/phones.png"
   position: image_left
-  title: Zakelijke VoIP waar je op kan vertrouwen
-- content: "<p>Callvoip is de zakelijke telefonieprovider waar persoonlijk contact
-    centraal staat. Maak daarom kennis met [ons team](/team) en weet wie u aan de
-    lijn heeft.</p>"
+  title: Bedien de telefooncentrale (Qaller)
+- content: |-
+    Met Qaller Plus:
+    …bedient u de telefooncentrale.<br>
+    …belt u vanaf uw smartphone met uw zakelijke telefoonnummer.<br>
+    …zien relaties uw mobiele telefoonnummer niet.<br>
+    …loopt zakelijk belverkeer via de telefooncentrale.<br>
+    …bent u inkomend bereikbaar, zowel intern als extern.<br>
   image: "/v1552466837/windows.svg"
-  position: " image_right"
-  title: Met wie kom je te werken?
+  position: ''
+  title: Bel met uw zakelijke telefoonnummer (Qaller Plus)
 usps:
   title: Geniet van een beter telefoongesprek
   content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent, dat
