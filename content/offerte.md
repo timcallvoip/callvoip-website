@@ -35,4 +35,4 @@ Heeft u eerst advies nodig of heeft u nog vragen, bel ons gerust op [**050 820 0
 
 {{</ layout/split >}}
 
-{{< form/textarea "Je wensen" >}} {{< form/button "Verstuur formulier" >}}{{</ form >}}
+{{< form/textarea "Uw wensen" >}} {{< form/button "Verstuur formulier" >}}{{</ form >}}
