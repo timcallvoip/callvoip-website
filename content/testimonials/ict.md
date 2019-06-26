@@ -2,7 +2,7 @@
 title: ICT
 type: testimonial
 hero:
-  image: "/v1561543538/callvoip-website-branches-kapper-groot.png"
+  image: "/v1561543731/callvoip-website-branches-ict-groot.png"
 headless: true
 link: "/oplossingen/branches/ict"
 logo: v1561018210/callvoip-website-branches-tandarts-groot.png
