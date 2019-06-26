@@ -16,12 +16,12 @@ blocks:
   position: image_left
   title: Wie wij zijn
 - content: |-
-    <p>Callvoip is de zakelijke telefonieprovider waar persoonlijk contact centraal staat. We voelen en nemen de verantwoordelijkheid voor de situatie van de klant en hechten belang aan een persoonlijk contact met onze klanten. Daardoor hebben we een plezierig contact met veel klanten. We vinden het belangrijk dat de klant een plezierig gevoel aan het gesprek overhoudt. Maak daarom kennis met button en weet wie u aan de lijn heeft:</p>
+    <p>Callvoip is de zakelijke telefonieprovider waar persoonlijk contact centraal staat. We voelen en nemen de verantwoordelijkheid voor de situatie van de klant en hechten belang aan een persoonlijk contact met onze klanten. Daardoor hebben we een plezierig contact met veel klanten. We vinden het belangrijk dat de klant een plezierig gevoel aan het gesprek overhoudt. Maak daarom kennis met het team en weet wie u aan de lijn heeft:</p>
 
     <a href="/overons/team/" class="button">Leer het team kennen</a>
   image: "/v1559804581/_MG_8702.jpg"
   position: " image_right"
-  title: Met wie kom je te werken?
+  title: Wie heeft u aan de lijn?
 description: ''
 images: []
 menu:
