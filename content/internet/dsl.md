@@ -4,10 +4,10 @@ type: page
 layout: default
 blocks:
 - content: Voor een goede kwaliteit VoIP is een stabiele internetverbinding een noodzakelijk
-    ingrediënt. CallvoipTelefonie biedt daarom een ruim scala aan ADSL- en VDSL-verbindingen.
-    Situaties en wensen verschillen – wij zijn u daarom graag van dienst bij het vinden
-    van de juiste mix aan diensten en producten. Alles zodat u verzekerd bent van
-    de beste basis voor VoIP telefonie.
+    ingrediënt. Callvoip biedt daarom een ruim scala aan verbindingen. Situaties en
+    wensen verschillen – wij zijn u daarom graag van dienst bij het vinden van de
+    juiste mix aan diensten en producten. Alles zodat u verzekerd bent van de beste
+    basis voor uw telefonie.
   image: "/v1552466820/phones.png"
   position: image_left
   title: DSL-verbinding waar je op kan vertrouwen
@@ -102,11 +102,6 @@ menu:
 ---
 ## Extra mogelijkheden CallvoipDSL
 
-* <b>PIN over IP</b> - €5,- per maand (excl. BTW)
-  Een gecertificeerde ADSL-lijn is uitstekend voor PIN over IP. Pinnen duurt voortaan slechts enkele seconden en zonder kosten.
-* <b>Alarm over IP</b> - €5,- per maand (excl. BTW)
-
-  Laat uw alarm voortaan over IP lopen. Met een IP kiezer heeft u geen dure analoge lijn meer nodig. U betaalt geen gesprekskosten meer.
-* <b>Extra vaste IP-adressen</b> - vanaf €5,- per maand (excl. BTW)
-
-  Standaard krijgt u 1 vast IP-adres. Heeft u meer IP adressen nodig, dan kunt u een extra subnet aanvragen.
+* <b>PIN over IP</b> - €5,- per maand (excl. BTW)<br> Een gecertificeerde ADSL-lijn is uitstekend voor PIN over IP. Pinnen duurt voortaan slechts enkele seconden en zonder kosten.
+* <b>Alarm over IP</b> - €5,- per maand (excl. BTW) <br> Laat uw alarm voortaan over IP lopen. Met een IP kiezer heeft u geen dure analoge lijn meer nodig. U betaalt geen gesprekskosten meer.
+* <b>Extra vaste IP-adressen</b> - vanaf €5,- per maand (excl. BTW) <br> Standaard krijgt u 1 vast IP-adres. Heeft u meer IP adressen nodig, dan kunt u een extra subnet aanvragen.
