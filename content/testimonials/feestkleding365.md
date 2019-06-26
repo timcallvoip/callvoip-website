@@ -4,7 +4,7 @@ type: testimonial
 hero:
   image: "/v1552398058/Team/logo-bord-breed.jpg"
 headless: true
-link: "/"
+link: "/oplossingen/branches/tandarts/"
 logo: "/v1555508013/On%20Dark%20Background.svg"
 name: Stefan van Vliet
 

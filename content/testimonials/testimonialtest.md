@@ -2,9 +2,9 @@
 title: Tandartspraktijk Krans
 type: testimonial
 hero:
-  image: ''
+  image: v1561018210/callvoip-website-branches-tandarts-groot.png
 headless: true
-link: "/test"
+link: "/oplossingen/branches/tandarts/"
 logo: v1561018210/callvoip-website-branches-tandarts-groot.png
 name: Sandra
 
