@@ -33,7 +33,7 @@ usps:
   - icon: fa-trophy
     title: De beste provider
     content: Bij de Tweakers Awards 18/19 is Ziggo als beste provider uit de bus gekomen.
-  - icon: fa-hand-pointer-o
+  - icon: fa-hand-pointer
     title: Één aanspreekpunt
     content: Ondanks dat het internet van Ziggo is, zijn wij uw aanspreekpunt.
 intro:
