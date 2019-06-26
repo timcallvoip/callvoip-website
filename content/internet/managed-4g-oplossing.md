@@ -11,8 +11,8 @@ hero:
     internet via 4G: goed internet op elke plek, compleet met apparatuur, installatie
     en monitoring. U heeft al snel internet via 4G vanaf €99,- excl. BTW per maand. '
   button:
-    content: Vraag nu een offerte aan
-    link: "/offerte"
+    content: Benieuwd naar de mogelijkheden?
+    link: "/internet/postcodecheck/"
   image: "/v1560863687/callvoip-website-managed4g-1.jpg"
 blocks:
 - title: Hoe werkt het?
