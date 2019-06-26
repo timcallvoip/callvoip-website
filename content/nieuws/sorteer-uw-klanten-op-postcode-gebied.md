@@ -7,8 +7,8 @@ featured: true
 hero:
   image: ''
 author: ''
-date: 2019-05-26T22:00:00+00:00
-url: sorteer-uw-klanten-op-postcodegebied
+date: 2019-05-26T22:00:00.000+00:00
+url: "/nieuws/sorteer-uw-klanten-op-postcodegebied/"
 contactpersoon: []
 categories: []
 tags: []
