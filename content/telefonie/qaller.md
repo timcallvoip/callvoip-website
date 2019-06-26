@@ -60,6 +60,19 @@ intro:
 prijzen:
 - title: Qaller
   content: ''
+  button:
+    title: Handleiding
+    link: http://www.simmpl.nl/downloads/Simmpl_handleiding_qaller_plus_mobile_app.pdf
+  tarieven:
+    title: Per gebruiker
+    footer: Prijzen zijn excl. BTW
+    items:
+    - title: Eenmalig
+      price: 0
+    - title: Maandelijks
+      price: 5
+- title: Qaller Plus
+  content: ''
   tarieven:
     title: Per gebruiker
     footer: Prijzen zijn excl. BTW
@@ -69,17 +82,8 @@ prijzen:
     - title: Maandelijks
       price: 4
   button:
-    title: ''
-    link: ''
-- title: Qaller Plus
-  content: ''
-  button:
-    title: ''
-    link: ''
-  tarieven:
-    title: ''
-    footer: ''
-    items: []
+    title: Handleiding
+    link: http://www.simmpl.nl/downloads/Simmpl_handleiding_qaller_plus_mobile_app.pdf
 description: ''
 images: []
 
