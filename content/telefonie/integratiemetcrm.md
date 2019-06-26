@@ -15,10 +15,8 @@ blocks:
 - content: |-
     Voor VoIP CTI heeft u nodig:
 
-    • een Windows-PC of Server – aan Apple-mogelijkheden wordt gewerkt
-
+    • een Windows-PC of Server. Aan Apple-mogelijkheden wordt gewerkt
     • uw CRM-pakket: check hier of neem contact op
-
     • de Simmpl telefooncentrale met VoIP CTI licentie per gebruiker
 
     Voor veel pakketten is de installatie eenvoudig: installeer de Client software per gebruiker en gebruik de CRM Configurator om de koppeling tot stand te brengen.
