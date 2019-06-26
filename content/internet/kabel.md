@@ -24,9 +24,15 @@ blocks:
   position: image_left
   title: Ziggo Zakelijk
 usps:
-  title: ''
+  title: Waarom kiezen voor Ziggo?
   content: ''
-  items: []
+  items:
+  - icon: fa-rocket
+    title: Het snelste internet
+    content: U behaalt downloadsnelheden tot wel 600 Mbit/s bij Ziggo.
+  - icon: fa-trophy
+    title: De beste provider
+    content: Bij de Tweakers Awards 18/19 is Ziggo als beste provider uit de bus gekomen.
 intro:
   title: Wat kost internet via de kabel van Ziggo?
   content: Of u nu een startende ondernemer bent met beperkte eisen en wensen of een
