@@ -29,7 +29,7 @@ Een telefonisch keuzemenu of IVR (Interactive Voice Respons systeem) geeft belle
 U kunt de beller gelijk doorsturen naar een keuzemenu of als er niet wordt aangenomen. U heeft dit allemaal zelf in de hand. In een keuzemenu kunt u ook verschillende submenu’s toevoegen.  
 Hiermee creëert uw meer keuzemogelijkheden. Handig als een afdeling meer collega’s omvat of als een een keuzemenu wenst met meerdere meldteksten die antwoord geven op vragen.
 
-## Wat zijn de kosten van een keuzemenu?
+## Wat zijn de kosten?
 
 Maandelijks: € **4,00** excl. BTW (per keuzemenu)  
 Eenmalig: € **5,00** excl. BTW (per keuzemenu)
