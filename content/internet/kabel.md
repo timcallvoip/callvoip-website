@@ -11,7 +11,7 @@ hero:
     van een betrouwbare leverancier.
   button:
     content: Benieuwd naar de mogelijkheden?
-    link: "/offerte/"
+    link: "/internet/postcodecheck/"
   image: "/v1552466820/hostedvoip.svg"
 blocks:
 - content: |-

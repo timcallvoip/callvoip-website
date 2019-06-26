@@ -19,7 +19,7 @@ hero:
     ook steeds meer voor.
   button:
     content: Benieuwd naar de mogelijkheden?
-    link: "/offerte/"
+    link: "/internet/postcodecheck/"
   image: ''
 usps:
   title: Waarom kiezen voor CallvoipDSL
