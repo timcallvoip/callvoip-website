@@ -42,10 +42,9 @@ usps:
     title: Veilig
     content: U bepaalt welke werknemers toegang krijgen tot gebruik van de app.
   - icon: fa-comment-alt-smile
-    title: Geen moeilijke software
-    content: Callvoip is er voor elke ondernemer. Voor de zelfstandige, die graag
-      bereikbaar is op een vast nummer. Maar wij zijn er ook voor de international
-      met 10.000 werkplekken.
+    title: Eenvoudig
+    content: U wijzigt gemakkelijk de belroute van uw toestel of nummers in ad hoc
+      situaties.
   - icon: fa-laptop
     title: Werkt op Apple en Windows
     content: Callvoip is er voor elke ondernemer. Voor de zelfstandige, die graag
