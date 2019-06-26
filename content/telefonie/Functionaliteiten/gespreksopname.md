@@ -5,7 +5,7 @@ description: ''
 images: []
 slug: gespreksopname
 hero:
-  image: ''
+  image: "/v1561534316/callvoip-website-gespreksopname.jpg"
 layout: ''
 
 ---
