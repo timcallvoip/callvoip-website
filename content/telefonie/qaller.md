@@ -57,11 +57,30 @@ intro:
   content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent, dat
     gaat verder dan alleen maar telefonie. Betrouwbaar internet en goede apparatuur
     mogen daarbij niet ontbreken.
-prijzen: []
+prijzen:
+- title: Qaller
+  content: ''
+  tarieven:
+    title: Per gebruiker
+    footer: Prijzen zijn excl. BTW
+    items:
+    - title: Eenmalig
+      price: 5
+    - title: Maandelijks
+      price: 4
+  button:
+    title: ''
+    link: ''
+- title: Qaller Plus
+  content: ''
+  button:
+    title: ''
+    link: ''
+  tarieven:
+    title: ''
+    footer: ''
+    items: []
 description: ''
 images: []
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu auctor tortor. Morbi vel ante arcu. Pellentesque ante neque, pharetra vel tempor non, dapibus in eros. Vivamus congue nulla in felis imperdiet finibus. Ut aliquam rutrum mauris, interdum fringilla leo volutpat non. Donec egestas lorem sed nisi volutpat, non auctor mauris volutpat. Cras dictum dignissim risus eget aliquam.
-
-Donec sollicitudin erat vel dolor accumsan, ornare auctor urna consectetur. Nulla tempor mauris nec cursus malesuada. Integer eget fringilla ex. Duis leo ipsum, pulvinar mattis sodales quis, porta non dolor. Ut eget felis eu lorem vehicula semper. Nunc non erat et nulla cursus tincidunt. Vivamus faucibus magna sit amet posuere accumsan.
