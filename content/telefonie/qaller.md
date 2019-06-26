@@ -59,7 +59,7 @@ intro:
     <a href="https://itunes.apple.com/nl/app/qaller/id1140548146?mt=8" target="_blank" rel="noopener noreferrer">Qaller voor Apple downloaden</a>
 prijzen:
 - title: Qaller
-  content: "- Mobiel doorschakelen <br> - Aan/-uitzetten omleidingen"
+  content: Mobiel doorschakelen <br> Aan/-uitzetten omleidingen <br>
   button:
     title: Handleiding
     link: http://www.simmpl.nl/downloads/Simmpl_handleiding_qaller_plus_mobile_app.pdf
@@ -70,10 +70,10 @@ prijzen:
     - title: Eenmalig
       price: 0
     - title: Maandelijks
-      price: 5
+      price: 0
 - title: Qaller Plus
-  content: "- Mobiel doorschakelen <br> - Aan/-uitzetten omleidingen <br> - Qaller
-    als kantoortoestel <br> - Uitbellen met zakelijk nummer"
+  content: Mobiel doorschakelen <br> Aan/-uitzetten omleidingen <br> Qaller als kantoortoestel
+    <br> Uitbellen met zakelijk nummer <br>
   tarieven:
     title: Per gebruiker
     footer: Prijzen zijn excl. BTW
