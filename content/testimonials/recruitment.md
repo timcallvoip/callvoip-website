@@ -1,13 +1,12 @@
 ---
-title: Advocatuur
+title: Recruitment
 type: testimonial
 hero:
-  image: "/v1561638043/callvoip-website-branches-advocatuur-groot.png"
+  image: "/v1561638618/callvoip-website-branches-recruitment-groot.png"
 headless: true
-link: "/oplossingen/branches/advocatuur"
-logo: "/v1561638026/callvoip-website-testimonial-advocatuur.png"
-name: M. Dekker - Sec Arbeidsrecht Advocaten
-draft: true
+link: "/oplossingen/branches/recruitment"
+logo: "/v1561638426/callvoip-website-testimonial-recruitment.png"
+name: J. Visser - NGage Recruitment
 
 ---
-“Callvoip heeft een uitstekende telefoniedienst. De centrale biedt alles wat we wensen: gebruiksgemak, veel opties en bovendien een **API voor ons CRM** systeem! Dit is echt de oplossing die we zochten.”
+“Als recruitmentbureau bellen we uiteraard erg veel. Dit gaat **probleemloos**. Net zo belangrijk is het gemak waarmee de centrale bediend kan worden en als er een keer wat is worden we snel en goed geholpen.”
