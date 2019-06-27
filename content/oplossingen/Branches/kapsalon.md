@@ -9,29 +9,27 @@ hero:
 layout: ''
 
 ---
-Als kapsol is het belangrijk dat u goed bereikbaar bent voor uw klanten. Binnen werktijd moeten de toestellen rinkelen en moet op drukke momenten de beller worden opgevangen. Buiten werktijd moet de beller de melding krijgen dat jullie gesloten zijn.
+Als kapsalon is het belangrijk dat u goed bereikbaar bent voor uw klanten. Binnen werktijd moeten de toestellen rinkelen en moet op drukke momenten de beller worden opgevangen. Buiten werktijd moet de beller de melding krijgen dat jullie gesloten zijn.
 
 ### Situatiebeschrijving
 
-De tandarts merkt dat er veel inkomende belletjes gemist worden door de beperking van het aantal lijnen. Deze bellers komen in de voicemail terecht en laten hier vervolgens een bericht achter. Het kost veel tijd om al die voicemails af te luisteren, daarnaast is tijdens het afluisteren meteen weer een toestel bezet.
-
-Ook moest de tandarts elk weekend weer een nieuwe voicemail in te spreken om de dienstdoende tandarts te vermelden en op welk telefoonnummer deze tandarts bereikbaar is.
+De eigenaar van de verschillende kapsalons merkt dat er veel inkomende belletjes gemist worden doordat alleen de desbetreffende kapsalon kan opnemen. De wens is er om inkomende oproepen door te schakelen naar kantoor om zo alle oproepen op te vangen.
 
 ### De oplossing van Callvoip
 
-Dankzij de professionele functionaliteiten van de online telefooncentrale van Callvoip is de tandarts beter bereikbaar en kan men efficiënter werken. De volgende functionaliteiten zijn ingezet bij de tandarts:
+Dankzij de professionele functionaliteiten van de online telefooncentrale van Callvoip zijn de kapsalons beter bereikbaar en kan men efficiënter werken. De volgende functionaliteiten zijn ingezet:
 
-#### Wachtrij
+#### Meldtekst
 
-Inkomende belletjes worden opgevangen door een wachtrij. In de wachtrij krijgt de beller eerst een meldtekst gevolgd door een wachtmuziek. Mocht één van de receptietoestellen weer beschikbaar zijn, dan wordt de beller hier op aangeboden.
+Om meer professionaliteit uit te stralen krijgt elke beller eerst een meldtekst te horen. In deze meldtekst wordt men welkom geheten bij de salon. Vervolgens rinkelt het toestel op de desbetreffende vestiging die wordt gebeld.
 
-#### Openingstijden + weekenddiensten
+#### Belgroep + Prefix
 
-De tandarts heeft voor het gehele jaar de dienstdoende tandartsen al ingesteld dankzij de tijdsconditie-app.
+Mocht de salon niet in staat zijn om op te nemen, dan wordt de beller na een halve minuut doorgeschakeld naar het hoofdkantoor. In de belgroep staan meerdere toestellen en deze rinkelen simultaan. Door middel van een prefix weet het toestel op het hoofdkantoor naar welke salon wordt gebeld.
 
-#### Meldteksten
+#### Openingstijden
 
-Voor elke tandarts is een aparte meldtekst ingesproken waarin het telefoonnummer wordt vermeld. Deze meldtekst wordt afgespeeld als de desbetreffende tijdsconditie actief is.
+Via tijdscondities wordt bepaalt welke belroute de beller volgt. 
 
 ### Benieuwd naar de mogelijkheden voor uw situatie?
 
