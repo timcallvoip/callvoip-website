@@ -1,5 +1,5 @@
 ---
-title: Tandartspraktijk Krans
+title: Tandartspraktijk
 type: testimonial
 hero:
   image: v1561018210/callvoip-website-branches-tandarts-groot.png

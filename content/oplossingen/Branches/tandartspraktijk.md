@@ -13,7 +13,7 @@ Als tandartspraktijk is het belangrijk dat u altijd bereikbaar bent voor uw pati
 
 ### Situatiebeschrijving
 
-Tandarts de Vries heeft op het moment een ISDN2 abonnement en merkt dat er veel inkomende belletjes gemist worden door de beperking van het aantal lijnen. Deze bellers komen in de voicemail terecht en laten hier vervolgens een bericht achter. Het kost veel tijd om al die voicemails af te luisteren, daarnaast is tijdens het afluisteren meteen weer een toestel bezet.
+De tandarts merkt dat er veel inkomende belletjes gemist worden door de beperking van het aantal lijnen. Deze bellers komen in de voicemail terecht en laten hier vervolgens een bericht achter. Het kost veel tijd om al die voicemails af te luisteren, daarnaast is tijdens het afluisteren meteen weer een toestel bezet.
 
 Ook moest de tandarts elk weekend weer een nieuwe voicemail in te spreken om de dienstdoende tandarts te vermelden en op welk telefoonnummer deze tandarts bereikbaar is.
 
