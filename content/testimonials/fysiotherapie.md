@@ -9,6 +9,4 @@ logo: v1561018210/callvoip-website-branches-tandarts-groot.png
 name: R. Graziani - Kirchhoff Fysio
 
 ---
-“Wij van Kirchhoff Fysio bellen al sinds 2011 er zijn **erg tevreden** over CallvoipTelefonie. Samengevat kiezen wij voor CallvoipTelefonie als telefonieprovider vanwege: <br>
-
-a. de kosten <br> b. de service <br> c. klantgericht”
+“Wij van Kirchhoff Fysio bellen al sinds 2011 er zijn **erg tevreden** over CallvoipTelefonie. Samengevat kiezen wij voor CallvoipTelefonie als telefonieprovider vanwege: de kosten, de service en de klantgerichtheid."
