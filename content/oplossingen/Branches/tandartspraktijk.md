@@ -17,7 +17,7 @@ De tandarts merkt dat er veel inkomende belletjes gemist worden door de beperkin
 
 Ook moest de tandarts elk weekend weer een nieuwe voicemail in te spreken om de dienstdoende tandarts te vermelden en op welk telefoonnummer deze tandarts bereikbaar is.
 
-### De oplossing van CallvoipTelefonie
+### De oplossing van Callvoip
 
 Dankzij de professionele functionaliteiten van de online telefooncentrale van Callvoip is de tandarts beter bereikbaar en kan men efficiënter werken. De volgende functionaliteiten zijn ingezet bij de tandarts:
 
