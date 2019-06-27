@@ -29,7 +29,7 @@ Mocht de salon niet in staat zijn om op te nemen, dan wordt de beller na een hal
 
 #### Openingstijden
 
-Via tijdscondities wordt bepaalt welke belroute de beller volgt. 
+Via tijdscondities wordt bepaalt welke belroute de beller volgt. Binnen werktijd rinkelen toestellen. Buiten werktijd krijgt de beller een melding dat men gesloten is, wat de regulier openingstijden zijn en wordt vervolgens de verbinding verbroken.
 
 ### Benieuwd naar de mogelijkheden voor uw situatie?
 
