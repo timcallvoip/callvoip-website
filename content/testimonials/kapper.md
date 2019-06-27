@@ -4,9 +4,9 @@ type: testimonial
 hero:
   image: "/v1561543538/callvoip-website-branches-kapper-groot.png"
 headless: true
-link: "/oplossingen/branches/kapper"
+link: "/oplossingen/branches/kapsalon"
 logo: v1561018210/callvoip-website-branches-tandarts-groot.png
-name: Naam Achternaam - Kapper
+name: Ton - Schettering Hair & Beauty
 
 ---
-"Al <strong>meer dan 10 jaar</strong> levert CallVoip ons de benodigde oplossingen voor vaste telefonie. Van beginnende ondernemer tot en met personeel; ze denken altijd met je mee."
+“Met Callvoip kunnen wij onze 10 kapsalons beheren alsof iedereen op één locatie is. Dus naast de **besparing** op telefonie hebben we ook besparing op onze organisatie kosten”
