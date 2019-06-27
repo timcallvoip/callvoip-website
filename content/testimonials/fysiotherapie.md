@@ -6,7 +6,11 @@ hero:
 headless: true
 link: "/oplossingen/branches/fysiotherapie"
 logo: v1561018210/callvoip-website-branches-tandarts-groot.png
-name: Naam Achternaam - Fysiotherapie
+name: R. Graiani - Kirchhoff Fysio
 
 ---
-"Al <strong>meer dan 10 jaar</strong> levert CallVoip ons de benodigde oplossingen voor vaste telefonie. Van beginnende ondernemer tot en met personeel; ze denken altijd met je mee."
+“Wij van Kirchhoff Fysio bellen al sinds 2011 er zijn erg tevreden over CallvoipTelefonie.
+
+Samengevat kiezen wij voor CallvoipTelefonie als telefonieprovider vanwege: <br>
+
+a. de kosten <br> b. de service <br> c. klantgericht”
