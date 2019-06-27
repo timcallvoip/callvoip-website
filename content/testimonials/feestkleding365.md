@@ -4,8 +4,8 @@ type: testimonial
 hero:
   image: "/v1561541927/callvoip-website-branches-webshop-groot.png"
 headless: true
-link: "/oplossingen/branches/tandarts/"
-logo: "/v1555508013/On%20Dark%20Background.svg"
+link: "/oplossingen/branches/webshop/"
+logo: "/v1561636224/callvoip-website-testimonial-webshop.png"
 name: Stefan van Vliet - Feestkleding 365
 
 ---
