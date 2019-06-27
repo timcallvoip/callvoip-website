@@ -6,7 +6,7 @@ hero:
 headless: true
 link: "/oplossingen/branches/fysiotherapie"
 logo: v1561018210/callvoip-website-branches-tandarts-groot.png
-name: R. Graiani - Kirchhoff Fysio
+name: R. Graziani - Kirchhoff Fysio
 
 ---
 “Wij van Kirchhoff Fysio bellen al sinds 2011 er zijn erg tevreden over CallvoipTelefonie.
