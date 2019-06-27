@@ -9,7 +9,7 @@ hero:
 layout: ''
 
 ---
-Als tandartspraktijk is het belangrijk dat u altijd bereikbaar bent voor uw patiënten. Binnen werktijd moet op drukke momenten de beller worden opgevangen & buiten werktijd moet de beller in contact gebracht worden met de dienstdoende tandarts.
+Als kapsol is het belangrijk dat u goed bereikbaar bent voor uw klanten. Binnen werktijd moeten de toestellen rinkelen en moet op drukke momenten de beller worden opgevangen. Buiten werktijd moet de beller de melding krijgen dat jullie gesloten zijn.
 
 ### Situatiebeschrijving
 
