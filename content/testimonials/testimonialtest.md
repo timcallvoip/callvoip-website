@@ -6,7 +6,11 @@ hero:
 headless: true
 link: "/oplossingen/branches/tandarts/"
 logo: v1561018210/callvoip-website-branches-tandarts-groot.png
-name: Sandra Pals - Tandartspraktijk Noorderplantsoen
+name: R. Tideman - Tandartspraktijk de Wolvenstraat
 
 ---
-"Al <strong>meer dan 10 jaar</strong> levert CallVoip ons de benodigde oplossingen voor vaste telefonie. Van beginnende ondernemer tot en met personeel; ze denken altijd met je mee."
+“Voor ons als tandartspraktijk is het heel belangrijk dat wij permanent een goede telefoonverbinding hebben en dat er een snelle service is wanneer nodig en dat biedt Callvoip.
+
+Via de Simmpl telefooncentrale kunnen wij alles heel gemakkelijk en snel aanpassen. Zo hebben wij altijd een wachtrij en een voicemail die past bij ons bedrijf en kan iedere medewerker iets zelf aanpassen als het nodig is.
+
+Wij bevelen Callvoip zeker aan, want ze hebben een goede service, zijn behulpzaam en denken altijd met je mee!”
