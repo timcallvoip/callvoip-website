@@ -17,8 +17,6 @@ layout: ''
 
 [**Voicemail**](/telefonie/functionaliteiten/voicemail "Voicemail")**:** Ontvang ingesproken voicemails automatisch in uw email
 
-<a href="/telefonie/functionaliteiten/voicemail"><b>Voicemail</b></a>:
-
 {{</ layout/column2 >}}
 
 {{< layout/column2 >}}
@@ -147,25 +145,19 @@ layout: ''
 
 {{< layout/column2 >}}
 
-![](https://www.callvoiptelefonie.nl/wp-content/uploads/2016/10/Wachtrij-app.png)
+[**Wachtrij**](/telefonie/functionaliteiten/wachtrij "Wachtrij"): Veel inkomende gesprekken? Beantwoord ze allemaal met een wachtrij.
 
 {{</ layout/column2 >}}
 
 {{< layout/column2 >}}
 
-[**Wachtrij**](/telefonie/functionaliteiten/wachtrij "Wachtrij"): Veel inkomende gesprekken? Beantwoord ze allemaal met een wachtrij.
+![](https://www.callvoiptelefonie.nl/wp-content/uploads/2016/10/Wachtrij-app.png)
 
 {{</ layout/column2 >}}
 
 {{</ layout/columns >}}
 
 {{< layout/columns >}}
-
-{{< layout/column2 >}}
-
-![](https://www.callvoiptelefonie.nl/wp-content/uploads/2016/10/Keuzemenu-app.png)
-
-{{</ layout/column2 >}}
 
 {{< layout/column2 >}}
 
@@ -173,19 +165,25 @@ layout: ''
 
 {{</ layout/column2 >}}
 
+{{< layout/column2 >}}
+
+![](https://www.callvoiptelefonie.nl/wp-content/uploads/2016/10/Keuzemenu-app.png)
+
+{{</ layout/column2 >}}
+
 {{</ layout/columns >}}
 
 {{< layout/columns >}}
 
 {{< layout/column2 >}}
 
-![](https://www.callvoiptelefonie.nl/wp-content/uploads/2016/10/test-qaller.png)
+[**Qaller**](/telefonie/qaller "Qaller"): Beheer de centrale en bel met uw mobiele telefoon.
 
 {{</ layout/column2 >}}
 
 {{< layout/column2 >}}
 
-[**Qaller**](/telefonie/qaller "Qaller"): Beheer de centrale en bel met uw mobiele telefoon.
+![](https://www.callvoiptelefonie.nl/wp-content/uploads/2016/10/test-qaller.png)
 
 {{</ layout/column2 >}}
 
