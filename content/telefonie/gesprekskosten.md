@@ -100,7 +100,11 @@ Op deze pagina vindt u een overzicht van de gesprekskosten van Callvoip. Bij Cal
 
 {{</ layout/columns >}}
 
+<br>
+
 ### Internationale bestemmingen (meest voorkomend)
+
+<br>
 
 {{< layout/columns >}}
 
@@ -275,3 +279,9 @@ Op deze pagina vindt u een overzicht van de gesprekskosten van Callvoip. Bij Cal
 {{</ layout/column3 >}}
 
 {{</ layout/columns >}}
+
+### Benieuwd naar de mogelijkheden voor uw situatie?
+
+<br>
+
+<a href="/offerte/" class="button">Vraag hier een offerte aan!</a>
