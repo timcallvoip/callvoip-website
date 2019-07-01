@@ -13,88 +13,86 @@ layout: ''
 
 {{< layout/columns >}}
 
- {{< layout/column3 >}}
+{{< layout/column3 >}}
 
-   **Bestemming**
+{{</ layout/column3 >}}
 
- {{</ layout/column3 >}}
+{{< layout/column3 >}}
 
- {{< layout/column3 >}}
+**Callvoip**
 
-   **Callvoip**
+{{</ layout/column3 >}}
 
- {{</ layout/column3 >}}
+{{< layout/column3 >}}
 
- {{< layout/column3 >}}
+**KPN**
 
-   **KPN**
-
- {{</ layout/column3 >}}
+{{</ layout/column3 >}}
 
 {{</ layout/columns >}}
 
 {{< layout/columns >}}
 
- {{< layout/column3 >}}
+{{< layout/column3 >}}
 
-   Starttarief
+**Starttarief**
 
- {{</ layout/column3 >}}
+{{</ layout/column3 >}}
 
- {{< layout/column3 >}}
+{{< layout/column3 >}}
 
-   € 0,0650
+€ 0,0650
 
- {{</ layout/column3 >}}
+{{</ layout/column3 >}}
 
- {{< layout/column3 >}}
+{{< layout/column3 >}}
 
-   € 0,0765
+€ 0,0765
 
- {{</ layout/column3 >}}
-
-{{</ layout/columns >}}
-
-{{< layout/columns >}}
-
- {{< layout/column3 >}}
-
-   NL vast
-
- {{</ layout/column3 >}}
-
- {{< layout/column3 >}}
-
-   € 0,0195
-
- {{</ layout/column3 >}}
-
- {{< layout/column3 >}}
-
-   € 0,0224
-
- {{</ layout/column3 >}}
+{{</ layout/column3 >}}
 
 {{</ layout/columns >}}
 
 {{< layout/columns >}}
 
- {{< layout/column3 >}}
+{{< layout/column3 >}}
 
-   NL mobiel
+**NL vast**
 
- {{</ layout/column3 >}}
+{{</ layout/column3 >}}
 
- {{< layout/column3 >}}
+{{< layout/column3 >}}
 
-   € 0,0790
+€ 0,0195
 
- {{</ layout/column3 >}}
+{{</ layout/column3 >}}
 
- {{< layout/column3 >}}
+{{< layout/column3 >}}
 
-   € 0,0832
+€ 0,0224
 
- {{</ layout/column3 >}}
+{{</ layout/column3 >}}
+
+{{</ layout/columns >}}
+
+{{< layout/columns >}}
+
+{{< layout/column3 >}}
+
+**NL mobiel**
+
+{{</ layout/column3 >}}
+
+{{< layout/column3 >}}
+
+€ 0,0790
+
+{{</ layout/column3 >}}
+
+{{< layout/column3 >}}
+
+€ 0,0832
+
+{{</ layout/column3 >}}
 
 {{</ layout/columns >}}
