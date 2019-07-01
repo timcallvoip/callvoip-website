@@ -2,6 +2,12 @@
 title: Stage Webdesign
 tag: stage
 excerpt: Zoals u misschien wel hebt gezien of gehoord waren wij als CallvoipTelefonie aanwezig op de Promotiedagen in de MartiniPlaza, deze vonden plaats op 6 en 7 novembe
+card:
+  title: Stage Webdesign
+  content: Denk jij dat deze functie bij jou past en wil je graag bij ons komen werken? Vul dan het formulier in en geef  je motivatie!
+  link:
+    url: #
+    content: Soliciteer nu
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at accumsan purus. Aenean sit amet dui in erat pulvinar venenatis ut a nisl. Integer facilisis tempor pulvinar. Morbi scelerisque dui vitae accumsan placerat. Aliquam ut velit pellentesque nunc tempor lacinia nec in tortor. Phasellus turpis urna, tincidunt vel est at, suscipit volutpat lacus. Sed ullamcorper iaculis tempus. Proin ut magna efficitur, eleifend augue id, rutrum mi. Nunc nec arcu blandit, maximus eros scelerisque, tristique neque. Vestibulum tincidunt libero sit amet odio porta ultricies. Praesent laoreet nulla eget augue maximus aliquam. Donec at hendrerit nunc.

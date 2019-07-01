@@ -14,12 +14,20 @@
         {{ end }}
       </div>
       <div class="lg:w-1/3 lg:px-4 xl:px-8">
+        {{ with .Params.card }}
         <div class="flex flex-col items-start bg-white font-medium  shadow no-underline py-6 lg:py-12 px-6 lg:px-8 xl:px-10 rounded-lg text-grey-dark">
           <span class="block opacity-50 text-grey-dark no-underline lg:text-lg mb-4 lg:mb-6">Vacature</span>
-          <h4 class="block font-medium text-lg xxl:text-2xl block mb-2">{{ .Title }}</h4>
+          {{ with .title }}
+          <h4 class="block font-medium text-lg xxl:text-2xl block mb-2">{{ . }}</h4>
+          {{ end }}
+          {{ with .content }}
           <div class="block opacity-75 lg:text-lg mb-4 lg:mb-8 user-content">Denk jij dat deze functie bij jou past en wil je graag bij ons komen werken? Vul dan het formulier in en geef  je motivatie!</div>
-          <a href="#" class="button">Soliciteer nu</a>
+          {{ end }}
+          {{ with .link }}
+          <a href="{{.url}}" class="button">{{.content}}</a>
+          {{ end }}
         </div>
+        {{ end }}
       </div>
     </div>
   </div>
