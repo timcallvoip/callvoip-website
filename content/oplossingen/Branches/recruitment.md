@@ -13,7 +13,7 @@ Bij recruitment is het belangrijk dat er veel uitgebeld kan worden tegen een sch
 
 ### Situatiebeschrijving
 
-Het advocatenkantoor wordt veel gebeld door de cliënten. Echter zijn de advocaten vaak onderweg en daardoor slecht bereikbaar. Men is opzoek naar een oplossing hiervoor. Ook blijft faxen belangrijk in de advocatuur, echter is de techniek achterhaald en heeft men liever geen fysieke fax meer.
+Als recruitment consultancy is men opzoek naar een telefonieprovider waar de gesprekstarieven laag zijn en de gesprekskwaliteit hoog. De huidige provider biedt beide niet. 
 
 ### De oplossing van Callvoip
 
