@@ -9,8 +9,7 @@ hero:
 layout: ''
 
 ---
-
-Als advocatenpraktijk is het belangrijk dat u altijd bereikbaar bent voor uw cliënten. Daarnaast is er veel contact met de rechtbank, via de telefoon en via de fax.
+Bij recruitment is het belangrijk dat er veel uitgebeld kan worden tegen een scherp tarief. Daarnaast moet men natuurlijk bereikbaar zijn, maar de focus ligt hier niet.
 
 ### Situatiebeschrijving
 
@@ -18,15 +17,19 @@ Het advocatenkantoor wordt veel gebeld door de cliënten. Echter zijn de advocat
 
 ### De oplossing van Callvoip
 
-Dankzij de professionele functionaliteiten van de online telefooncentrale van Callvoip is de praktijk beter bereikbaar en kan men efficiënter werken. De volgende functionaliteiten zijn ingezet:
+Dankzij de professionele functionaliteiten van de online telefooncentrale van Callvoip is de organisatie beter bereikbaar en kan men veel voordeliger uitbellen. De volgende functionaliteiten zijn ingezet:
 
-#### Faxbox
+#### Belbundel
 
-Door gebruik te maken van de fax-oplossing van Callvoip blijft de praktijk inkomende bereikbaar onder het faxnummer. Echter komen de faxen nu niet meer fysiek uit een faxapparaat gerold, maar als .pdf bestand binnen via de e-mail. Niet meer onnodig printen én alles al digitaal. Ook het uit-faxen gaat nu digitaal via de online telefooncentrale. Je stuurt digitaal een .pdf-bestand naar een faxnummer.
+Alle medewerkers bellen veel uit. Callvoip biedt drie verschillende belbundels (500/1500 en 5000 minuten. Op basis van gemiddelde belminuten heeft men gekozen voor de 1500-bundel. Mocht een toestel meer bellen, dan betaalt men de reguliere (lage) gesprekstarieven.
 
-#### Qaller
+#### Belgroep
 
-Om de bereikbaarheid te optimaliseren is gekozen voor onze mobiele app Qaller. Hiermee kunnen inkomende telefoongesprekken eenvoudig worden doorgezet naar een advocaat die bijvoorbeeld onderweg is. Ook kan de advocaat uitbellen met de app en stuurt daarbij het zakelijk telefoonnummer mee.
+Inkomende staan alle toestellen in één belgroep. Deze toestellen rinkelen simultaan. Het toestel dat dus als eerste opneemt heeft het gesprek. 
+
+#### Email
+
+Mocht iedereen in gesprek zijn of wordt het gesprek niet opgenomen, dan wordt er een e-mail gestuurd met het telefoonnummer dat belde. Zo kan een medewerker éénvoudig en snel terugbellen. 
 
 ### Benieuwd naar de mogelijkheden voor uw situatie?
 
