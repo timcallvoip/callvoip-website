@@ -68,9 +68,9 @@ prijzen:
     footer: Prijzen zijn excl. BTW
     items:
     - title: Eenmalig
-      price: 
+      price: 0,-
     - title: Maandelijks
-      price: 
+      price: 0,-
 - title: Qaller Plus
   content: Mobiel doorschakelen <br> Aan/-uitzetten omleidingen <br> Qaller als kantoortoestel
     <br> Uitbellen met zakelijk nummer <br>
