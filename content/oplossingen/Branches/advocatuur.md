@@ -26,3 +26,9 @@ Door gebruik te maken van de fax-oplossing van Callvoip blijft de praktijk inkom
 #### Qaller
 
 Om de bereikbaarheid te optimaliseren is gekozen voor onze mobiele app Qaller. Hiermee kunnen inkomende telefoongesprekken eenvoudig worden doorgezet naar een advocaat die bijvoorbeeld onderweg is. Ook kan de advocaat uitbellen met de app en stuurt daarbij het zakelijk telefoonnummer mee.
+
+### Benieuwd naar de mogelijkheden voor uw situatie?
+
+<br>
+
+<a href="/offerte/" class="button">Vraag hier een offerte aan!</a>
