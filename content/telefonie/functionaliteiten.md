@@ -11,7 +11,21 @@ layout: ''
 ---
 #### Dit krijgt u bij de basis telefooncentrale:
 
-[![](https://www.callvoiptelefonie.nl/wp-content/uploads/2016/10/Voicemail-app.png "Voicemailbox")](/telefonie/functionaliteiten/voicemail "Voicemailbox")[**Voicemail**](/telefonie/functionaliteiten/voicemail "Voicemail")**:** Ontvang ingesproken voicemails automatisch in uw email
+{< layout/columns >}}
+
+ {{< layout/column2 >}}
+
+[![](https://www.callvoiptelefonie.nl/wp-content/uploads/2016/10/Voicemail-app.png "Voicemailbox")](/telefonie/functionaliteiten/voicemail "Voicemailbox")
+
+ {{</ layout/column2 >}}
+
+ {{< layout/column2 >}}
+
+[**Voicemail**](/telefonie/functionaliteiten/voicemail "Voicemail")**:** Ontvang ingesproken voicemails automatisch in uw email
+
+ {{</ layout/column2 >}}
+
+{{</ layout/columns >}}
 
 [![](https://www.callvoiptelefonie.nl/wp-content/uploads/2016/10/Fax-app.png)**Fax**](/telefonie/functionaliteiten/fax "Fax"): Digitaal faxen ontvangen en versturen zonder faxapparaat.
 

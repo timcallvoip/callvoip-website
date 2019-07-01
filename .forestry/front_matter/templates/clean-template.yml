@@ -31,6 +31,7 @@ fields:
   label: layout
   hidden: true
 pages:
+- content/telefonie/functionaliteiten.md
 - content/oplossingen/Branches/kapsalon.md
 - content/oplossingen/Branches/recruitment.md
 - content/oplossingen/Branches/advocatuur.md
@@ -60,7 +61,6 @@ pages:
 - content/oplossingen/Branches/tandartspraktijk.md
 - content/oplossingen/Branches/autodealer.md
 - content/oplossingen/Branches/reisbureau.md
-- content/telefonie/functionaliteiten.md
 - content/telefonie/realtime-api.md
 - content/telefonie/Functionaliteiten/test.md
 - content/bedank/offerte-aanvraag-ontvangen.md
