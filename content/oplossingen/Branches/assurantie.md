@@ -23,6 +23,10 @@ Dankzij de professionele functionaliteiten van de online telefooncentrale van Ca
 
 Beide telefoonnummers (zakelijk & privé) staan op de online telefooncentrale van Callvoip; Simmpl. Inkomende gesprekken van beide nummers komen terecht op twee handsets die door Callvoip zijn geconfigureerd. Op de handset hoort men (via de de verschillende ringtones) of het inkomend gesprek zakelijk of privé is. 
 
+#### Qaller + Prefix
+
+Voor wanneer men onderweg is worden de gesprekken doorgezet naar Qaller. Via de prefix ziet men snel of het gesprek privé of zakelijk is. 
+
 #### Postcodecheck
 
 Verder heeft het assurantiekantoor gebruik gemaakt van de vrijblijvende postcodecheck van Callvoip. Hier kwam naar voren dat in dit geval een internetverbinding van Ziggo de snelste verbinding is. Callvoip heeft het gehele aanvraagtraject begeleid. 
