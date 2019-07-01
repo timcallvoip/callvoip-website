@@ -1,5 +1,5 @@
 ---
-title: Qaller
+title: 'Qaller: de mobiele app voor uw Simmpl telefooncentrale'
 type: page
 layout: default
 logos: true
@@ -68,9 +68,9 @@ prijzen:
     footer: Prijzen zijn excl. BTW
     items:
     - title: Eenmalig
-      price: 0
+      price: 
     - title: Maandelijks
-      price: 0
+      price: 
 - title: Qaller Plus
   content: Mobiel doorschakelen <br> Aan/-uitzetten omleidingen <br> Qaller als kantoortoestel
     <br> Uitbellen met zakelijk nummer <br>
@@ -85,7 +85,9 @@ prijzen:
   button:
     title: Handleiding
     link: http://www.simmpl.nl/downloads/Simmpl_handleiding_qaller_plus_mobile_app.pdf
-description: ''
+description: Zoekt u een zakelijke telefonieoplossing waar uw mobiele telefoon meedoet?
+  Met Qaller van Callvoip kunt u bellen en gebeld worden. Ook bedient u eenvoudig
+  de online telefooncentrale.
 images: []
 
 ---
