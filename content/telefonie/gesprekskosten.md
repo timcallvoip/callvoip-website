@@ -173,7 +173,7 @@ layout: ''
 
 {{< layout/column3 >}}
 
-€ € 0,030
+€ 0,030
 
 {{</ layout/column3 >}}
 
@@ -217,8 +217,7 @@ layout: ''
 
 {{< layout/column3 >}}
 
-| --- |
-| € 0,030 |
+€ 0,030
 
 {{</ layout/column3 >}}
 
@@ -269,28 +268,6 @@ layout: ''
 {{< layout/column3 >}}
 
 € 0,066
-
-{{</ layout/column3 >}}
-
-{{</ layout/columns >}}
-
-{{< layout/columns >}}
-
-{{< layout/column3 >}}
-
-**NL vast**
-
-{{</ layout/column3 >}}
-
-{{< layout/column3 >}}
-
-€ 0,0195
-
-{{</ layout/column3 >}}
-
-{{< layout/column3 >}}
-
-€ 0,0224
 
 {{</ layout/column3 >}}
 
