@@ -3,8 +3,8 @@ title: Operator Console
 description: ''
 images:
 - "/v1557821337/quadrant.png"
-type: ''
-layout: ''
+type: page
+layout: default
 logos: false
 hero:
   title: Operator Console

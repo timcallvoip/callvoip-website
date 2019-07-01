@@ -13,7 +13,7 @@ hero:
     title: Kleine en middelgrote bedrijven
     content: Kies voor de Hosted VoIP oplossing
     link: telefonie/hostedvoip/
-  - icon: fa-mobile-android-alt
+  - icon: fa-tty
     title: Mobiele telefoon onderdeel van de zakelijke telefonieoplossing?
     content: Kies dan voor de Vast Mobiel Integratie (Vamos) van Callvoip!
     link: telefonie/vastmobielintegratie/
