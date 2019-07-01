@@ -27,15 +27,87 @@ layout: ''
 
 {{</ layout/columns >}}
 
-[![](https://www.callvoiptelefonie.nl/wp-content/uploads/2016/10/Fax-app.png)**Fax**](/telefonie/functionaliteiten/fax "Fax"): Digitaal faxen ontvangen en versturen zonder faxapparaat.
+{< layout/columns >}}
 
-[![](https://www.callvoiptelefonie.nl/wp-content/uploads/2016/10/trasfer_round.png)**Doorverbinden**](/telefonie/functionaliteiten/doorverbinden "Doorverbinden"): Verbind door naar een intern- of extern nummer
+ {{< layout/column2 >}}
 
-[![](https://www.callvoiptelefonie.nl/wp-content/uploads/2016/10/omleiding_round.png)**Omleiding**](/telefonie/functionaliteiten/omleiding "Omleiding"): Met één druk op de knop een doorschakeling activeren.
+[![](https://www.callvoiptelefonie.nl/wp-content/uploads/2016/10/Fax-app.png)](/telefonie/functionaliteiten/fax "Fax")
 
-[![](https://www.callvoiptelefonie.nl/wp-content/uploads/2016/10/tijdsconditie_round.png)**Tijdsconditie**](/telefonie/functionaliteiten/tijdsconditie "Tijdsconditie"): Stel uw openingstijden eenvoudig in en zorg dat u optimaal bereikbaar bent.
+ {{</ layout/column2 >}}
 
-[![](https://www.callvoiptelefonie.nl/wp-content/uploads/2016/10/Huntgroup_round.png)](/telefonie/functionaliteiten/belgroep "Belgroep")[**Belgroep**](/telefonie/functionaliteiten/Belgroep "Belgroep"): Bepaal welke telefoons moeten rinkelen en in welke volgorde.
+ {{< layout/column2 >}}
+
+[**Fax**](/telefonie/functionaliteiten/fax "Fax"): Digitaal faxen ontvangen en versturen zonder faxapparaat.
+
+ {{</ layout/column2 >}}
+
+{{</ layout/columns >}}
+
+{< layout/columns >}}
+
+ {{< layout/column2 >}}
+
+[![](https://www.callvoiptelefonie.nl/wp-content/uploads/2016/10/trasfer_round.png)](/telefonie/functionaliteiten/doorverbinden "Doorverbinden")
+
+ {{</ layout/column2 >}}
+
+ {{< layout/column2 >}}
+
+[**Doorverbinden**](/telefonie/functionaliteiten/doorverbinden "Doorverbinden"): Verbind door naar een intern- of extern nummer
+
+ {{</ layout/column2 >}}
+
+{{</ layout/columns >}}
+
+{< layout/columns >}}
+
+ {{< layout/column2 >}}
+
+[![](https://www.callvoiptelefonie.nl/wp-content/uploads/2016/10/omleiding_round.png)](/telefonie/functionaliteiten/omleiding "Omleiding")
+
+ {{</ layout/column2 >}}
+
+ {{< layout/column2 >}}
+
+[**Omleiding**](/telefonie/functionaliteiten/omleiding "Omleiding"): Met één druk op de knop een doorschakeling activeren.
+
+ {{</ layout/column2 >}}
+
+{{</ layout/columns >}}
+
+{< layout/columns >}}
+
+ {{< layout/column2 >}}
+
+[![](https://www.callvoiptelefonie.nl/wp-content/uploads/2016/10/tijdsconditie_round.png)](/telefonie/functionaliteiten/tijdsconditie "Tijdsconditie")
+
+ {{</ layout/column2 >}}
+
+ {{< layout/column2 >}}
+
+[**Tijdsconditie**](/telefonie/functionaliteiten/tijdsconditie "Tijdsconditie"): Stel uw openingstijden eenvoudig in en zorg dat u optimaal bereikbaar bent.
+
+ {{</ layout/column2 >}}
+
+{{</ layout/columns >}}
+
+{< layout/columns >}}
+
+ {{< layout/column2 >}}
+
+[![](https://www.callvoiptelefonie.nl/wp-content/uploads/2016/10/Huntgroup_round.png)](/telefonie/functionaliteiten/belgroep "Belgroep")
+
+ {{</ layout/column2 >}}
+
+ {{< layout/column2 >}}
+
+[**Belgroep**](/telefonie/functionaliteiten/Belgroep "Belgroep"): Bepaal welke telefoons moeten rinkelen en in welke volgorde.
+
+ {{</ layout/column2 >}}
+
+{{</ layout/columns >}}
+
+[**Belgroep**](/telefonie/functionaliteiten/Belgroep "Belgroep"): Bepaal welke telefoons moeten rinkelen en in welke volgorde.
 
 [![](https://www.callvoiptelefonie.nl/wp-content/uploads/2016/10/soundapp_round.png)**Meldtekst**](/telefonie/functionaliteiten/meldtekst "Meldtekst"): Stuur een geschreven tekst naar uw toestellen.
 
