@@ -8,7 +8,7 @@ hero:
   image: ''
 author: ''
 date: 2019-02-26T23:00:00+00:00
-url: beta-testers-gezocht/
+url: /beta-testers-gezocht/
 contactpersoon: []
 categories: []
 tags: []

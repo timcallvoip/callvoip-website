@@ -8,7 +8,7 @@ hero:
   image: ''
 author: ''
 date: 2019-04-08T22:00:00+00:00
-url: click-to-dial-van-nummer-naar-slimme-toepassingen
+url: /click-to-dial-van-nummer-naar-slimme-toepassingen/
 contactpersoon: []
 categories: []
 tags: []
@@ -24,7 +24,7 @@ Door Click-to-Dial wordt een eenvoudige integratie met de browser gerealiseerd, 
 
 ![](https://www.callvoiptelefonie.nl/wp-content/uploads/2019/04/C2D-sb.png)
 
-Voor de verdere ontwikkeling van Click-to-Dial was de meest gehoorde wens het kunnen beschikken over een online telefoonboek. Via één klik op een nummer in de belhistorie wordt een nummer met de bijbehorende naam direct toegevoegd in het telefoonboek. Vervolgens kan worden aangegeven of het een bedrijfsbreed gedeeld nummer of privénummer betreft.   
+Voor de verdere ontwikkeling van Click-to-Dial was de meest gehoorde wens het kunnen beschikken over een online telefoonboek. Via één klik op een nummer in de belhistorie wordt een nummer met de bijbehorende naam direct toegevoegd in het telefoonboek. Vervolgens kan worden aangegeven of het een bedrijfsbreed gedeeld nummer of privénummer betreft.
 **Yealink-toestellen** zijnsinds kort ook compatibel met Click-to-Dial: met een paar simpele handelingen kan het toestel worden gekoppeld met het **Click-to-Dial telefoonboek** zodat de telefoonlijst in het toestel wordt gesynchroniseerd met Click-to-Dial.
 
 #### **Doorverbinden**

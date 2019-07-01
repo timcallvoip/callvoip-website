@@ -8,7 +8,7 @@ hero:
   image: ''
 author: ''
 date: 2019-03-20T23:00:00+00:00
-url: we-maken-telefonie-leuk-en-gemakkelijk
+url: /we-maken-telefonie-leuk-en-gemakkelijk/
 contactpersoon: []
 categories: []
 tags: []
