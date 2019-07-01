@@ -1,6 +1,7 @@
 ---
-title: Operator Console
-description: ''
+title: Operator Console - Uitgebreide telefoniemogelijkheden via uw dashboard
+description: Het Operator Console is een dashboard met realtime gespreksinformatie
+  & verschillende telefonieacties. Ook biedt het  trainingsmogelijkheden.
 images:
 - "/v1557821337/quadrant.png"
 type: page

@@ -1,7 +1,8 @@
 ---
 type: page
-title: Versleutelde telefoongesprekken met SRTP
-description: ''
+title: Versleutelde telefoongesprekken (SRTP)
+description: Bescherm uw privacy en zorg dat uw gesprekken niet zomaar worden afgeluisterd,
+  dankzij versleutelde telefoongesprekken met SRTP en TLS.
 images: []
 slug: versleutelde-telefoongesprekken/
 hero:
