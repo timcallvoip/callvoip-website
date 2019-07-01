@@ -1,6 +1,7 @@
 ---
-title: Click-to-Dial
-description: ''
+title: Click-to-Dial | Klik en bel met uw VoIP toestel én meer!
+description: Met de Click-to-Dial-plugin van Callvoip maakt u in een handomdraai alle
+  telefoonnummers in uw Chrome webbrowser klikbaar én meer!
 images:
 - "/v1559637062/click-to-dial_icon.png"
 type: page
