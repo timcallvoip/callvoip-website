@@ -54,7 +54,8 @@ usps:
   - icon: fa-comment-alt-smile
     title: Werknemerstevredenheid
     content: Het werk wordt gemakkelijker, geen verkeerde nummers meer!
-description: ''
+description: Met VoIP CTI verbindt u uw Windowsomgeving met uw telefoonsysteem. Zo
+  koppelt u eenvoudig uw klantsysteem (CRM-, ERP- en administratiepakketten).
 images: []
 intro:
   title: Abonnementskosten van VoIP CTI
