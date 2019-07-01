@@ -46,7 +46,8 @@ usps:
   - icon: fa-comment-alt-smile
     title: Keuzevrijheid
     content: U kunt uitbellen met zaak- of mobiel nummer, óf anoniem.
-description: ''
+description: Met de Vast Mobiel Integratie (fixed mobile) van Callvoip bent u altijd
+  & overal bereikbaar. Bekijk de mogelijkheden van Vamos.
 images:
 - "/v1559635655/Vamos-logo.png"
 logos: false
