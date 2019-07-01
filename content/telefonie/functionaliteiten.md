@@ -1,7 +1,8 @@
 ---
 type: page
 title: Functionaliteiten
-description: ''
+description: 'U krijgt een tal van professionele functionaliteiten met Simmpl; de
+  modernste online telefooncentrale ter wereld! '
 images: []
 slug: functionaliteiten
 hero:
