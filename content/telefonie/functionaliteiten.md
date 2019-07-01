@@ -161,6 +161,22 @@ layout: ''
 
 {{< layout/column2 >}}
 
+![](https://res.cloudinary.com/callvoip/image/upload/v1559743416/prefix_round.png)
+
+{{</ layout/column2 >}}
+
+{{< layout/column2 >}}
+
+[**Prefix**](/telefonie/functionaliteiten/prefix/ "Prefix"): Stuur een geschreven tekst mee naar uw VoIP-toestel.
+
+{{</ layout/column2 >}}
+
+{{</ layout/columns >}}
+
+{{< layout/columns >}}
+
+{{< layout/column2 >}}
+
 ![](https://www.callvoiptelefonie.nl/wp-content/uploads/2016/10/test-qaller.png)
 
 {{</ layout/column2 >}}
