@@ -107,14 +107,68 @@ layout: ''
 
 {{</ layout/columns >}}
 
-[**Belgroep**](/telefonie/functionaliteiten/Belgroep "Belgroep"): Bepaal welke telefoons moeten rinkelen en in welke volgorde.
+{< layout/columns >}}
 
-[![](https://www.callvoiptelefonie.nl/wp-content/uploads/2016/10/soundapp_round.png)**Meldtekst**](/telefonie/functionaliteiten/meldtekst "Meldtekst"): Stuur een geschreven tekst naar uw toestellen.
+ {{< layout/column2 >}}
+
+[![](https://www.callvoiptelefonie.nl/wp-content/uploads/2016/10/soundapp_round.png)](/telefonie/functionaliteiten/meldtekst "Meldtekst")
+
+ {{</ layout/column2 >}}
+
+ {{< layout/column2 >}}
+
+[**Meldtekst**](/telefonie/functionaliteiten/meldtekst "Meldtekst"): Stuur een geschreven tekst naar uw toestellen.
+
+ {{</ layout/column2 >}}
+
+{{</ layout/columns >}}
 
 #### Extra functionaliteiten (betaald):
 
-[![](https://www.callvoiptelefonie.nl/wp-content/uploads/2016/10/Wachtrij-app.png)**Wachtrij**](/telefonie/functionaliteiten/wachtrij "Wachtrij"): Veel inkomende gesprekken? Beantwoord ze allemaal met een wachtrij.
+{< layout/columns >}}
 
-[![](https://www.callvoiptelefonie.nl/wp-content/uploads/2016/10/Keuzemenu-app.png)**Keuzemenu**](/telefonie/functionaliteiten/keuzemenu "Keuzemenu"): Iedere beller direct met de juiste afdeling verbinden
+ {{< layout/column2 >}}
 
-[![](https://www.callvoiptelefonie.nl/wp-content/uploads/2016/10/test-qaller.png)](/telefonie/functionaliteiten/qaller "Qaller")[**Qaller**](/telefonie/qaller "Qaller"): Beheer de centrale en bel met uw mobiele telefoon.
+[![](https://www.callvoiptelefonie.nl/wp-content/uploads/2016/10/Wachtrij-app.png)](/telefonie/functionaliteiten/wachtrij "Wachtrij")
+
+ {{</ layout/column2 >}}
+
+ {{< layout/column2 >}}
+
+[**Wachtrij**](/telefonie/functionaliteiten/wachtrij "Wachtrij"): Veel inkomende gesprekken? Beantwoord ze allemaal met een wachtrij.
+
+ {{</ layout/column2 >}}
+
+{{</ layout/columns >}}
+
+{< layout/columns >}}
+
+ {{< layout/column2 >}}
+
+[![](https://www.callvoiptelefonie.nl/wp-content/uploads/2016/10/Keuzemenu-app.png)](/telefonie/functionaliteiten/keuzemenu "Keuzemenu")
+
+ {{</ layout/column2 >}}
+
+ {{< layout/column2 >}}
+
+[**Keuzemenu**](/telefonie/functionaliteiten/keuzemenu "Keuzemenu"): Iedere beller direct met de juiste afdeling verbinden
+
+ {{</ layout/column2 >}}
+
+{{</ layout/columns >}}
+
+{< layout/columns >}}
+
+ {{< layout/column2 >}}
+
+[![](https://www.callvoiptelefonie.nl/wp-content/uploads/2016/10/test-qaller.png)](/telefonie/functionaliteiten/qaller "Qaller")
+
+ {{</ layout/column2 >}}
+
+ {{< layout/column2 >}}
+
+[**Qaller**](/telefonie/qaller "Qaller"): Beheer de centrale en bel met uw mobiele telefoon.
+
+ {{</ layout/column2 >}}
+
+{{</ layout/columns >}}
