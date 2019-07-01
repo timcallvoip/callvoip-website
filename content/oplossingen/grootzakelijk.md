@@ -1,10 +1,10 @@
 ---
-title: Trunk
+title: Trunk (mkb & grootzakelijk)
 type: page
 layout: default
 logos: true
 hero:
-  title: Grootzakelijk
+  title: Trunkoplossing
   content: 'Sinds 2007 doen wij al aan VoIP. Wij mogen ons dan ook wel een specialist
     in het veld noemen. Voor de grootzakelijke markt hebben wij dan ook de perfecte
     oplossing. '
