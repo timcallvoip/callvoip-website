@@ -35,7 +35,7 @@ layout: ''
 
 {{< layout/column3 >}}
 
-**Belgi**
+**België**
 
 {{</ layout/column3 >}}
 
