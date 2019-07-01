@@ -15,27 +15,21 @@ layout: ''
 
 {{< layout/column2 >}}
 
-![](https://www.callvoiptelefonie.nl/wp-content/uploads/2016/10/Voicemail-app.png "Voicemailbox")
-
-{{</ layout/column2 >}}
-
-{{< layout/column2 >}}
-
 [**Voicemail**](/telefonie/functionaliteiten/voicemail "Voicemail")**:** Ontvang ingesproken voicemails automatisch in uw email
 
 <a href="/telefonie/functionaliteiten/voicemail"><b>Voicemail</b></a>:
 
 {{</ layout/column2 >}}
 
+{{< layout/column2 >}}
+
+![](https://www.callvoiptelefonie.nl/wp-content/uploads/2016/10/Voicemail-app.png "Voicemailbox")
+
+{{</ layout/column2 >}}
+
 {{</ layout/columns >}}
 
 {{< layout/columns >}}
-
-{{< layout/column2 >}}
-
-![](https://www.callvoiptelefonie.nl/wp-content/uploads/2016/10/Fax-app.png)
-
-{{</ layout/column2 >}}
 
 {{< layout/column2 >}}
 
@@ -43,15 +37,15 @@ layout: ''
 
 {{</ layout/column2 >}}
 
+{{< layout/column2 >}}
+
+![](https://www.callvoiptelefonie.nl/wp-content/uploads/2016/10/Fax-app.png)
+
+{{</ layout/column2 >}}
+
 {{</ layout/columns >}}
 
 {{< layout/columns >}}
-
-{{< layout/column2 >}}
-
-![](https://www.callvoiptelefonie.nl/wp-content/uploads/2016/10/trasfer_round.png)
-
-{{</ layout/column2 >}}
 
 {{< layout/column2 >}}
 
@@ -59,15 +53,15 @@ layout: ''
 
 {{</ layout/column2 >}}
 
+{{< layout/column2 >}}
+
+![](https://www.callvoiptelefonie.nl/wp-content/uploads/2016/10/trasfer_round.png)
+
+{{</ layout/column2 >}}
+
 {{</ layout/columns >}}
 
 {{< layout/columns >}}
-
-{{< layout/column2 >}}
-
-![](https://www.callvoiptelefonie.nl/wp-content/uploads/2016/10/omleiding_round.png)
-
-{{</ layout/column2 >}}
 
 {{< layout/column2 >}}
 
@@ -75,15 +69,15 @@ layout: ''
 
 {{</ layout/column2 >}}
 
+{{< layout/column2 >}}
+
+![](https://www.callvoiptelefonie.nl/wp-content/uploads/2016/10/omleiding_round.png)
+
+{{</ layout/column2 >}}
+
 {{</ layout/columns >}}
 
 {{< layout/columns >}}
-
-{{< layout/column2 >}}
-
-![](https://www.callvoiptelefonie.nl/wp-content/uploads/2016/10/tijdsconditie_round.png)
-
-{{</ layout/column2 >}}
 
 {{< layout/column2 >}}
 
@@ -91,15 +85,15 @@ layout: ''
 
 {{</ layout/column2 >}}
 
+{{< layout/column2 >}}
+
+![](https://www.callvoiptelefonie.nl/wp-content/uploads/2016/10/tijdsconditie_round.png)
+
+{{</ layout/column2 >}}
+
 {{</ layout/columns >}}
 
 {{< layout/columns >}}
-
-{{< layout/column2 >}}
-
-![](https://www.callvoiptelefonie.nl/wp-content/uploads/2016/10/Huntgroup_round.png)
-
-{{</ layout/column2 >}}
 
 {{< layout/column2 >}}
 
@@ -107,9 +101,21 @@ layout: ''
 
 {{</ layout/column2 >}}
 
+{{< layout/column2 >}}
+
+![](https://www.callvoiptelefonie.nl/wp-content/uploads/2016/10/Huntgroup_round.png)
+
+{{</ layout/column2 >}}
+
 {{</ layout/columns >}}
 
 {{< layout/columns >}}
+
+{{< layout/column2 >}}
+
+[**Meldtekst**](/telefonie/functionaliteiten/meldtekst "Meldtekst"): Stuur een geschreven tekst naar uw toestellen.
+
+{{</ layout/column2 >}}
 
 {{< layout/column2 >}}
 
@@ -117,9 +123,19 @@ layout: ''
 
 {{</ layout/column2 >}}
 
+{{</ layout/columns >}}
+
+{{< layout/columns >}}
+
 {{< layout/column2 >}}
 
-[**Meldtekst**](/telefonie/functionaliteiten/meldtekst "Meldtekst"): Stuur een geschreven tekst naar uw toestellen.
+[**Prefix**](/telefonie/functionaliteiten/prefix/ "Prefix"): Stuur een geschreven tekst mee naar uw VoIP-toestel.
+
+{{</ layout/column2 >}}
+
+{{< layout/column2 >}}
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1559743416/prefix_round.png)
 
 {{</ layout/column2 >}}
 
@@ -154,22 +170,6 @@ layout: ''
 {{< layout/column2 >}}
 
 [**Keuzemenu**](/telefonie/functionaliteiten/keuzemenu "Keuzemenu"): Iedere beller direct met de juiste afdeling verbinden
-
-{{</ layout/column2 >}}
-
-{{</ layout/columns >}}
-
-{{< layout/columns >}}
-
-{{< layout/column2 >}}
-
-![](https://res.cloudinary.com/callvoip/image/upload/v1559743416/prefix_round.png)
-
-{{</ layout/column2 >}}
-
-{{< layout/column2 >}}
-
-[**Prefix**](/telefonie/functionaliteiten/prefix/ "Prefix"): Stuur een geschreven tekst mee naar uw VoIP-toestel.
 
 {{</ layout/column2 >}}
 
