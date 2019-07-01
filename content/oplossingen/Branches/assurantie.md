@@ -25,7 +25,7 @@ Beide telefoonnummers (zakelijk & privé) staan op de online telefooncentrale va
 
 #### Postcodecheck
 
-Om de bereikbaarheid te optimaliseren is gekozen voor onze mobiele app Qaller. Hiermee kunnen inkomende telefoongesprekken eenvoudig worden doorgezet naar een advocaat die bijvoorbeeld onderweg is. Ook kan de advocaat uitbellen met de app en stuurt daarbij het zakelijk telefoonnummer mee.
+Verder heeft het assurantiekantoor gebruik gemaakt van de vrijblijvende postcodecheck van Callvoip. Hier kwam naar voren dat in dit geval een internetverbinding van Ziggo de snelste verbinding is. Callvoip heeft het gehele aanvraagtraject begeleid. 
 
 ### Benieuwd naar de mogelijkheden voor uw situatie?
 
