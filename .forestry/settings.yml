@@ -70,6 +70,11 @@ sections:
   label: Testimonials
   create: documents
   match: "**/*"
+- type: directory
+  path: content/vacatures
+  label: Vacatures
+  create: documents
+  match: "**/*"
 - type: heading
   label: Settings
 - type: document

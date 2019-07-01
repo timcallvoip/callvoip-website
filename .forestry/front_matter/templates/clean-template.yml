@@ -31,9 +31,9 @@ fields:
   label: layout
   hidden: true
 pages:
+- content/oplossingen/Branches/kapsalon.md
 - content/oplossingen/Branches/recruitment.md
 - content/oplossingen/Branches/advocatuur.md
-- content/oplossingen/Branches/kapsalon.md
 - content/oplossingen/Branches/fysiotherapie.md
 - content/telefonie/versleutelde-telefoongesprekken-met-srtp.md
 - content/oplossingen/Branches/makelaardij.md
