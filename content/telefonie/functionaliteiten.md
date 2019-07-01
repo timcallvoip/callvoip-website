@@ -23,6 +23,8 @@ layout: ''
 
 [**Voicemail**](/telefonie/functionaliteiten/voicemail "Voicemail")**:** Ontvang ingesproken voicemails automatisch in uw email
 
+<a href="/telefonie/functionaliteiten/voicemail"><b>Voicemail</b></a>:
+
 {{</ layout/column2 >}}
 
 {{</ layout/columns >}}
