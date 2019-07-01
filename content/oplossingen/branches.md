@@ -1,6 +1,6 @@
 ---
 title: Branches
-type: testimonial
+type: page
 layout: default
 logos: true
 hero:
