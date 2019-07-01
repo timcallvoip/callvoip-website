@@ -11,7 +11,7 @@ layout: ''
 ---
 #### Dit krijgt u bij de basis telefooncentrale:
 
-{< layout/columns >}}
+{{< layout/columns >}}
 
  {{< layout/column2 >}}
 
@@ -27,7 +27,7 @@ layout: ''
 
 {{</ layout/columns >}}
 
-{< layout/columns >}}
+{{< layout/columns >}}
 
  {{< layout/column2 >}}
 
@@ -43,7 +43,7 @@ layout: ''
 
 {{</ layout/columns >}}
 
-{< layout/columns >}}
+{{< layout/columns >}}
 
  {{< layout/column2 >}}
 
@@ -59,7 +59,7 @@ layout: ''
 
 {{</ layout/columns >}}
 
-{< layout/columns >}}
+{{< layout/columns >}}
 
  {{< layout/column2 >}}
 
@@ -75,7 +75,7 @@ layout: ''
 
 {{</ layout/columns >}}
 
-{< layout/columns >}}
+{{< layout/columns >}}
 
  {{< layout/column2 >}}
 
@@ -91,7 +91,7 @@ layout: ''
 
 {{</ layout/columns >}}
 
-{< layout/columns >}}
+{{< layout/columns >}}
 
  {{< layout/column2 >}}
 
@@ -107,7 +107,7 @@ layout: ''
 
 {{</ layout/columns >}}
 
-{< layout/columns >}}
+{{< layout/columns >}}
 
  {{< layout/column2 >}}
 
@@ -125,7 +125,7 @@ layout: ''
 
 #### Extra functionaliteiten (betaald):
 
-{< layout/columns >}}
+{{< layout/columns >}}
 
  {{< layout/column2 >}}
 
@@ -141,7 +141,7 @@ layout: ''
 
 {{</ layout/columns >}}
 
-{< layout/columns >}}
+{{< layout/columns >}}
 
  {{< layout/column2 >}}
 
@@ -157,7 +157,7 @@ layout: ''
 
 {{</ layout/columns >}}
 
-{< layout/columns >}}
+{{< layout/columns >}}
 
  {{< layout/column2 >}}
 
