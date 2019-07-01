@@ -85,9 +85,8 @@ prijzen:
   button:
     title: Handleiding
     link: http://www.simmpl.nl/downloads/Simmpl_handleiding_qaller_plus_mobile_app.pdf
-description: Zoekt u een zakelijke telefonieoplossing waar uw mobiele telefoon meedoet?
-  Met Qaller van Callvoip kunt u bellen en gebeld worden. Ook bedient u eenvoudig
-  de online telefooncentrale.
+description: Met Qaller bent u inkomend bereikbaar op- en belt u uit met het zakelijk
+  nummer. Tevens bedient u eenvoudig de online telefooncentrale.
 images: []
 
 ---
