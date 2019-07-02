@@ -19,15 +19,14 @@ blocks:
   image: "/v1552466820/phones.png"
   position: image_left
   title: VoIP Trunk van Callvoip
-- content: 'CallvoipTelefonie VoIP-trunks zijn te gebruiken bij bijna alle IP-centrales,
+- content: 'De trunkoplossing van Callvoip is te gebruiken bij bijna alle IP-centrales,
     waaronder o.a. volgende populaire systemen:'
   image: "/v1560861389/callvoip-website-trunk-centrales.png"
   position: image_right
   title: Welke VoIP-trunks zijn geschikt?
 usps:
   title: De voordelen van een trunkoplossing
-  content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent, dat
-    gaat verder dan alleen maar telefonie. Betrouwbaar internet en goede apparatuur
+  content: ''
   items:
   - icon: fa-cloud
     title: Vertrouwd
@@ -99,3 +98,12 @@ menu:
     post: fa-building
 
 ---
+### Veiligheid hoog in het vaandel
+
+Callvoip heeft veiligheid hoog in het vaandel. Daarom is de Callvoip-centrale voorzien van een breed palet aan veiligheidsfuncties en signaleringen voor een optimale beveiliging van de trunk en uw telefoonverkeer.
+
+* **IP-Whitelist**: alleen verbinding mogelijk van de door u opgegeven eigen IP-subnetten
+* **Destination whitelist**: alleen verkeer mogelijk van en naar de door u bepaalde bestemmingen
+* Adequaat **limiteringssysteem** met email alerts op uur-, dag-, en weekbasis
+* Door uzelf instelbaar en aanpasbaar aantal **gesprekskanalen**
+* Standaardlevering met een **fallback**-trunk account
