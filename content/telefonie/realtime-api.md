@@ -16,12 +16,24 @@ Met de Realtime API (application programming interface) van Callvoip koppelt u u
 
 De Realtime API van Callvoip is universeel en zeer breed in te zetten. Het biedt u de mogelijkheid om de telefooncentrale intelligent te koppelen met andere systemen en software. Denkt u bijvoorbeeld aan de volgende toepassingen:
 
-![API](https://www.callvoiptelefonie.nl/wp-content/uploads/2017/02/seamless-integration-icon.png)
+{{< layout/columns >}}
+
+ {{< layout/column2 >}}
 
 * **_BLF Dashboard_**: maak een dashboard waarop u ziet wie in gesprek is.
 * **_Click-to-Dial_**; klik op een nummer en uw telefoon gaat bellen.
 * **_Call-Me-Back Button_**: Uw toestel belt (potentiële) klant terug.
 * **_Koppeling CRM systeem_**: Uw CRM-pakket opent bij inkomende telefonie.
+
+ {{</ layout/column2 >}}
+
+ {{< layout/column2 >}}
+
+   ![API](https://www.callvoiptelefonie.nl/wp-content/uploads/2017/02/seamless-integration-icon.png)
+
+ {{</ layout/column2 >}}
+
+{{</ layout/columns >}}
 
 ## Hoe realiseer ik dit?
 
