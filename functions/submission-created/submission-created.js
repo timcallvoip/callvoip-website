@@ -27,7 +27,11 @@ exports.handler = (event, context, callback) => {
       }
     };
 
+    console.log('sending mail with', msg)
+
     return sgMail.send(msg);
+
+
 
 
 };
