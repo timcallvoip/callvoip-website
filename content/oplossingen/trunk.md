@@ -85,9 +85,9 @@ prijzen:
     footer: Prijzen zijn excl. BTW
     items:
     - title: Maandelijks
-      price: 2
+      price: '2.00'
     - title: Eenmalig
-      price: 15
+      price: '15.00'
 description: ''
 images: []
 menu:
