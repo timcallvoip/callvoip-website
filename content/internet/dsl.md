@@ -58,9 +58,9 @@ prijzen:
     title: 'Als u klant bent van Callvoip:'
     items:
     - title: Maandelijks
-      price: 25
+      price: '25.00'
     - title: Eenmalig
-      price: 50
+      price: '50.00'
     footer: Prijzen zijn excl. BTW
 - title: VDSL
   button:
@@ -71,9 +71,9 @@ prijzen:
     title: 'U bent klant van Callvoip:'
     items:
     - title: Maandelijks
-      price: 29
+      price: '29.00'
     - title: Eenmalig
-      price: 50
+      price: '50.00'
   content: 'Tot 50/5 Mbps. Bij 2 of 3 jaar looptijd krijgt u 1 of 3 maandbedragen
     tegoed ter besteding in onze shops. '
 - title: VVDSL
@@ -87,9 +87,9 @@ prijzen:
     footer: Prijzen zijn excl. BTW
     items:
     - title: Maandelijks
-      price: 35
+      price: '35.00'
     - title: Eenmalig
-      price: 50
+      price: '50.00'
 description: ''
 images: []
 menu:

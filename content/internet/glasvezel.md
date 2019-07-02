@@ -47,7 +47,7 @@ prijzen:
     footer: Prijzen zijn excl. BTW
     items:
     - title: Maandelijks
-      price: 45
+      price: '45.00'
     title: 'U bent klant van Callvoip:'
 - title: 100-om-100 Mbit/s
   content: De eenmalige kosten verschillen per situatie. Wij informeren u graag!
@@ -58,7 +58,7 @@ prijzen:
     footer: Prijzen zijn excl. BTW
     items:
     - title: Maandelijks
-      price: 55
+      price: '55.00'
     title: 'U bent klant van Callvoip:'
 - title: 500-om-500 Mbit/s
   content: De eenmalige kosten verschillen per situatie. Wij informeren u graag!
@@ -68,7 +68,7 @@ prijzen:
   tarieven:
     items:
     - title: Maandelijks
-      price: 75
+      price: '75.00'
     footer: Prijzen zijn excl. BTW
     title: 'U bent klant van Callvoip:'
 description: ''
