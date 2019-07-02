@@ -52,8 +52,8 @@ prijzen:
 - title: Trunk
   content: De basis trunk bestaat uit 4 spraakkanalen
   button:
-    title: ''
-    link: ''
+    title: Trunk aanvragen
+    link: https://www.callvoip.nl/download/callvoip/CallVoip_telefonie_aanvraagformulier.pdf
   tarieven:
     title: Trunk
     footer: Prijzen zijn excl. BTW
@@ -65,8 +65,8 @@ prijzen:
 - title: Extra spraakkanaal
   content: Waarschijnlijk heeft u extra spraakkanalen nodig.
   button:
-    title: ''
-    link: ''
+    title: Al klant? Extra spraakkanaal aanvragen
+    link: "/mijncallvoip/aanvragen/"
   tarieven:
     title: Extra spraakkanaal (per kanaal)
     footer: Prijzen zijn excl. BTW
@@ -78,8 +78,8 @@ prijzen:
 - title: Telefoonnummer
   content: U heeft één of meer telefoonnummers (nieuw of bestaand)
   button:
-    title: ''
-    link: ''
+    title: Meer over telefoonnummers?
+    link: "/telefonie/telefoonnummers/"
   tarieven:
     title: Per telefoonnummer
     footer: Prijzen zijn excl. BTW
