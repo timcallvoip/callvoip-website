@@ -21,8 +21,7 @@ exports.handler = (event, context, callback) => {
 
       // template id from sendgrid
       templateId: 'd-5f1602c68c8a42919ddf340e285386e3',
-      substitutionWrappers: ['{{', '}}'],
-      substitutions: {
+      dynamic_template_data: {
         first_name: "test voornaam",
         last_name: "test lastnaam",
       }
