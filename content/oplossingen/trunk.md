@@ -44,6 +44,9 @@ usps:
   - icon: fa-comment-alt-smile
     title: Voordelig
     content: Scherpe gesprekstarieven en lage abonnementskosten.
+  - title: Geschikt voor veel typen
+    icon: fa-tty
+    content: De VoIP-trunk van Callvoip is geschikt voor veel typen centrales.
 intro:
   title: Wat kost bellen met Callvoip?
   content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent, dat
