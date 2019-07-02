@@ -79,9 +79,9 @@ prijzen:
     footer: Prijzen zijn excl. BTW
     items:
     - title: Eenmalig
-      price: 5
+      price: '5.00'
     - title: Maandelijks
-      price: 4
+      price: '4.00'
   button:
     title: Handleiding
     link: http://www.simmpl.nl/downloads/Simmpl_handleiding_qaller_plus_mobile_app.pdf

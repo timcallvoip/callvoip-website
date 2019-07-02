@@ -1,7 +1,7 @@
 ---
 title: Operator Console - Uitgebreide telefoniemogelijkheden via uw dashboard
 description: Het Operator Console is een dashboard met realtime gespreksinformatie
-  & verschillende telefonieacties. Ook biedt het  trainingsmogelijkheden.
+  & verschillende telefonieacties. Ook biedt het trainingsmogelijkheden.
 images:
 - "/v1557821337/quadrant.png"
 type: page
@@ -35,9 +35,9 @@ blocks:
 
     Ideaal voor:
 
-    1) Receptionisten: zie in één oogopslag of collega’s beschikbaar zijn; klik en neem aan, verbind door, zet in de wacht of trek een gesprek naar je toe. Hou overzicht.
-    2) Supervisor: zie in één oogopslag uw wachtrijen: key statistics (wachtenden, gem. wachttijd, ingelogde agenten). Klik door naar details per wachtrij (welke bellers wachten, worden geholpen)
-    3) Trainer: geavanceerde training voor inbound callcenter. Luister mee met gesprekken, fluister uw collega iets toe of breek op het gesprek in (listen-in, whisper-in, barge-in).
+    1. Receptionisten: zie in één oogopslag of collega’s beschikbaar zijn; klik en neem aan, verbind door, zet in de wacht of trek een gesprek naar je toe. Hou overzicht.
+    2. Supervisor: zie in één oogopslag uw wachtrijen: key statistics (wachtenden, gem. wachttijd, ingelogde agenten). Klik door naar details per wachtrij (welke bellers wachten, worden geholpen)
+    3.Trainer: geavanceerde training voor inbound callcenter. Luister mee met gesprekken, fluister uw collega iets toe of breek op het gesprek in (listen-in, whisper-in, barge-in).
   position: image_left
 usps:
   title: Voordelen Operator Console
@@ -46,8 +46,8 @@ usps:
   - icon: fa-rocket
     title: Eenvoud
     content: Het Operator Console biedt een uitgebreide receptiemodule. U ziet overzichtelijk
-      wie er belt en u kunt eenvoudig gesprekken doorverbinden naar collega’s of naar
-      uzelf toetrekken.
+      wie er belt en u kunt eenvoudig gesprekken door- verbinden naar collega’s of
+      naar uzelf halen.
   - title: Trainingsmogelijkheden
     content: Vanaf nu kunt u uw collega’s gemakkelijk trainen. U luistert mee (listen
       in) met een gesprek, fluistert (whisper in) uw collega wat in of neemt het hele
@@ -56,24 +56,24 @@ usps:
   - icon: fa-sort-numeric-asc
     title: Statistieken
     content: Bekijk hoe lang de beller in de wacht staat en wat per gebruiker de gemiddelde
-      gespreksduur is. Deze statistieken kunt u gebruiken als basis voor het verbeteren
-      van uw inkomende telefonie
+      gespreks- duur is. De statistieken kunt u gebruiken als basis voor het verbeteren
+      van uw telefonie.
 intro:
   title: ''
   content: ''
 prijzen:
 - title: Wat kost het Operator Console?
-  content: ''
+  content: Bent u al klant? Klik dan op de knop hieronder om aan te vragen.
   tarieven:
     items:
     - title: Maandelijks
-      price: 25
+      price: '25.00'
     - title: Eenmalig
-      price: 25
+      price: '25.00'
     title: Per gebruiker
     footer: Prijzen zijn excl. BTW
   button:
-    title: Al klant? U vraagt het Operator Console hier aan
+    title: Operator Console aanvragen
     link: "/aanvragen/operator-console/"
 
 ---

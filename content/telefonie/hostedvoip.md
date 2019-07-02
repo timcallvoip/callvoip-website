@@ -41,13 +41,11 @@ usps:
   - icon: fa-cog
     title: Hoe werkt VoIP?
     content: VoIP (Voice over Internet Protocol) is kort gezegd bellen over internet.
-      Voorheen had u ISDN lijnen nodig, maar met VoIP worden deze overbodig. Een telefoontoestel
-      sluit u voortaan aan op uw internetverbinding.
+      Voorheen had u ISDN lijnen nodig, voortaan sluit u een toestel aan op uw internetverbinding.
   - icon: fa-exlamation-circle
     title: Is VoIP betrouwbaar?
-    content: Mocht uw internetverbinding onverhoopt uitvallen, dan schakelt de telefooncentrale
-      automatisch door naar uw mobiele nummer. Indien u zeer afhankelijk bent van
-      uw internet, overweeg dan een backup verbinding.
+    content: Geen internet? Dan schakelt de telefooncentrale door naar uw mobiele
+      nummer. Zeer afhankelijk van uw internet? Overweeg dan een backup verbinding.
   - icon: fa-money-bill
     title: Is VoIP een alternatief voor ISDN?
     content: 'Callvoip biedt u een volwaardig alternatief voor ISDN. Bovendien is
@@ -74,8 +72,8 @@ prijzen:
 - title: Zelfstandigen
   content: Online telefooncentrale, geen poespas én bereikbaar op één toestel.
   button:
-    title: Bereken uw situatie via de calculator
-    link: "/calculator"
+    title: Oplossingen voor het ZZP
+    link: oplossingen/zelfstandigen/
   tarieven:
     title: Maandelijkse kosten
     footer: Prijzen zijn excl. BTW
@@ -83,16 +81,16 @@ prijzen:
     - title: Basis Abonnement
       price: '7.50'
     - title: Telefoonnummer (1x)
-      price: 2
+      price: '2.00'
     - title: Toestelaccount (1x)
-      price: 4
+      price: '4.00'
 - title: MKB
   content: 10 medewerkers met allemaal een eigen telefoonnummer en toestel. 5 medewerkers
     moeten ook mobiel kunnen uitbellen met het zakelijke nummer. Verder is de wens
     om inkomend verkeer via een keuzemenu te begeleiden naar de juiste medewerker.
   button:
-    title: Bereken uw situatie via de calculator
-    link: "/calculator"
+    title: Oplossingen voor het MKB
+    link: "/oplossingen/mkb/"
   tarieven:
     title: Maandelijkse kosten
     footer: Prijzen zijn excl. BTW
@@ -100,29 +98,29 @@ prijzen:
     - title: Basis Abonnement
       price: '7.50'
     - title: Telefoonnummer (10x)
-      price: 20
+      price: '20.00'
     - title: Toestelaccount (10x)
-      price: 40
+      price: '40.00'
     - title: Qaller (5x)
-      price: 20
+      price: '20.00'
     - title: Keuzemenu (1x)
-      price: 4
+      price: '4.00'
 - title: Eigen telefooncentrale
   content: 'Beheer van eigen telefooncentrale via onze trunkoplossing met 10 gesprekskanalen.
     Allemaal bereikbaar onder één nummer. '
   button:
-    title: Vraag een offerte aan
-    link: "/offerte"
+    title: Trunk-oplossingen
+    link: "/oplossingen/trunk/"
   tarieven:
     title: Maandelijkse kosten
     footer: Prijzen zijn excl. BTW
     items:
     - title: Basis Trunk
-      price: 10
+      price: '10.00'
     - title: Telefoonnummer
-      price: 2
+      price: '2.00'
     - title: Extra kanalen (6x)
-      price: 15
+      price: '15.00'
 description: ''
 images: []
 menu:

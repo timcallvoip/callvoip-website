@@ -71,9 +71,9 @@ prijzen:
     footer: Prijzen zijn excl. BTW
     items:
     - title: Maandelijks per gebruiker
-      price: 5
+      price: '5.00'
     - title: Eenmalig per organisatie
-      price: 150
+      price: '150.00'
     title: Kosten VoIP CTI
 menu:
   main:

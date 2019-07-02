@@ -73,9 +73,9 @@ prijzen:
     footer: Prijzen zijn excl. BTW
     items:
     - title: Maandelijks
-      price: 39
+      price: '39.00'
     - title: Eenmalig
-      price: 25
+      price: '25.00'
   title: 2 GB data
 - title: 5 GB Data
   content: Onbeperkt bellen in EU + 5GB data
@@ -84,9 +84,9 @@ prijzen:
     footer: Prijzen zijn excl. BTW
     items:
     - title: Maandelijks
-      price: 45
+      price: '45.00'
     - title: Eenmalig
-      price: 25
+      price: '25.00'
   button:
     title: Nu aanvragen
     link: "/mijncallvoip/aanvragen/vamos"
@@ -100,9 +100,9 @@ prijzen:
     footer: Prijzen zijn excl. BTW
     items:
     - title: Maandelijks
-      price: 49
+      price: '49.00'
     - title: Eenmalig
-      price: 25
+      price: '25.00'
 menu:
   main:
     weight: 2
@@ -113,10 +113,22 @@ menu:
 ---
 <h2>De mobiele app in gebruik nemen</h2>
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1559635655/Vamos-logo.png)
+{{< layout/columns >}}
+
+ {{< layout/column2 >}}
 
 * [Download Vamos app voor Anroid](https://play.google.com/store/apps/details?id=com.digifoon.fmc)
 * [Download Vamos app voor Apple](https://itunes.apple.com/nl/app/vamos-vast-mobiel/id1449692498)
 * [Overzicht Vast-Mobiel integratie](http://www.simmpl.nl/downloads/Simmpl_Vast-Mobiel-Integratie-mogelijkheden.pdf)
 * [Informatie over Vamos](https://www.simmpl.nl/downloads/Simmpl_informatie_Vamos-vast-mobiel-integratie.pdf)
 * [Handleiding Vamos](https://www.simmpl.nl/downloads/Simmpl_handleiding_ingebruikname_Vamos.pdf)
+
+ {{</ layout/column2 >}}
+
+ {{< layout/column2 >}}
+
+ ![](https://res.cloudinary.com/callvoip/image/upload/v1559635655/Vamos-logo.png)
+
+ {{</ layout/column2 >}}
+
+{{</ layout/columns >}}
