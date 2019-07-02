@@ -6,7 +6,7 @@ description: 'U krijgt een tal van professionele functionaliteiten met Simmpl; d
 images: []
 slug: functionaliteiten
 hero:
-  image: ''
+  image: "/v1562068304/Callvoip-website-bannerfunctionaliteiten.png"
 layout: ''
 
 ---
