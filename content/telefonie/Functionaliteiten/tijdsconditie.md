@@ -1,7 +1,8 @@
 ---
 type: page
 title: Tijdsconditie
-description: ''
+description: Met de tijdsconditie-app stelt u eenvoudig uw openingstijden in. Ook
+  creëert u gemakkelijk andere tijdscondities zoals feestdagen, vakantie etc.
 images: []
 slug: tijdsconditie
 hero:

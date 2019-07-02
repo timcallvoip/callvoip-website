@@ -1,7 +1,8 @@
 ---
 type: page
 title: Omleiding (Flow Control)
-description: ''
+description: Met de omleiding-app stelt u zo een andere belroute in werking. Erg handig
+  voor ad hoc afwezigheid of op drukke momenten qua inkomende telefonie.
 images: []
 slug: omleiding
 hero:
