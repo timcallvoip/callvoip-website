@@ -41,8 +41,7 @@ usps:
   - icon: fa-cog
     title: Hoe werkt VoIP?
     content: VoIP (Voice over Internet Protocol) is kort gezegd bellen over internet.
-      Voorheen had u ISDN lijnen nodig, voortaan sluit u een telefoontoestel aan op
-      uw internetverbinding.
+      Voorheen had u ISDN lijnen nodig, voortaan sluit u een toestel aan op uw internetverbinding.
   - icon: fa-exlamation-circle
     title: Is VoIP betrouwbaar?
     content: Geen internet? Dan schakelt de telefooncentrale door naar uw mobiele
@@ -111,18 +110,18 @@ prijzen:
   content: 'Beheer van eigen telefooncentrale via onze trunkoplossing met 10 gesprekskanalen.
     Allemaal bereikbaar onder één nummer. '
   button:
-    title: Vraag een offerte aan
-    link: "/offerte"
+    title: Trunk-oplossingen
+    link: "/oplossingen/trunk/"
   tarieven:
     title: Maandelijkse kosten
     footer: Prijzen zijn excl. BTW
     items:
     - title: Basis Trunk
-      price: 10
+      price: '10.00'
     - title: Telefoonnummer
-      price: 2
+      price: '2.00'
     - title: Extra kanalen (6x)
-      price: 15
+      price: '15.00'
 description: ''
 images: []
 menu:
