@@ -47,7 +47,7 @@ usps:
     title: Eenvoud
     content: Het Operator Console biedt een uitgebreide receptiemodule. U ziet overzichtelijk
       wie er belt en u kunt eenvoudig gesprekken door- verbinden naar collega’s of
-      naar uzelf toetrekken.
+      naar uzelf halen.
   - title: Trainingsmogelijkheden
     content: Vanaf nu kunt u uw collega’s gemakkelijk trainen. U luistert mee (listen
       in) met een gesprek, fluistert (whisper in) uw collega wat in of neemt het hele
@@ -67,9 +67,9 @@ prijzen:
   tarieven:
     items:
     - title: Maandelijks
-      price: 25
+      price: '25.00'
     - title: Eenmalig
-      price: 25
+      price: '25.00'
     title: Per gebruiker
     footer: Prijzen zijn excl. BTW
   button:
