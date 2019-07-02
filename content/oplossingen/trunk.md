@@ -32,7 +32,7 @@ usps:
     title: Vertrouwd
     content: Bediening en gemak van uw eigen telefooncentrale.
   - icon: fa-user-lock
-    title: Flexibel
+    title: Flexibel & Schaalbaar
     content: Zelf het aantal gesprekskanalen bepalen en aanpassen.
   - icon: fa-comment-alt-smile
     title: Betrouwbaar
