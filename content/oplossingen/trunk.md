@@ -69,7 +69,7 @@ prijzen:
 - title: Extra spraakkanaal
   content: Waarschijnlijk heeft u extra spraakkanalen nodig.
   button:
-    title: Al klant? Extra spraakkanaal aanvragen
+    title: Extra spraakkanaal aanvragen
     link: "/mijncallvoip/aanvragen/"
   tarieven:
     title: Extra spraakkanaal (per kanaal)

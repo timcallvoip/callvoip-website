@@ -45,7 +45,7 @@ usps:
       sluit u voortaan aan op uw internetverbinding.
   - icon: fa-exlamation-circle
     title: Is VoIP betrouwbaar?
-    content: Mocht uw internetverbinding onverhoopt uitvallen, dan schakelt de telefooncentrale
+    content: Mocht uw internetverbinding uitvallen, dan schakelt de telefooncentrale
       automatisch door naar uw mobiele nummer. Indien u zeer afhankelijk bent van
       uw internet, overweeg dan een backup verbinding.
   - icon: fa-money-bill
