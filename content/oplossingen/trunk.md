@@ -37,7 +37,7 @@ usps:
   - icon: fa-comment-alt-smile
     title: Betrouwbaar
     content: U krijgt een backup-trunk en fallback op hosted centrale.
-  - icon: fa-lock
+  - icon: fa-unlock
     title: Veilig
     content: Uitgebreid palet aan beveiligingsopties (IP-Whitelist, Destination Whitlest
       en meer).
