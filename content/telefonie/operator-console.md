@@ -1,7 +1,7 @@
 ---
 title: Operator Console - Uitgebreide telefoniemogelijkheden via uw dashboard
 description: Het Operator Console is een dashboard met realtime gespreksinformatie
-  & verschillende telefonieacties. Ook biedt het  trainingsmogelijkheden.
+  & verschillende telefonieacties. Ook biedt het trainingsmogelijkheden.
 images:
 - "/v1557821337/quadrant.png"
 type: page
@@ -56,14 +56,14 @@ usps:
   - icon: fa-sort-numeric-asc
     title: Statistieken
     content: Bekijk hoe lang de beller in de wacht staat en wat per gebruiker de gemiddelde
-      gespreksduur is. Deze statistieken kunt u gebruiken als basis voor het verbeteren
-      van uw inkomende telefonie
+      gespreks- duur is. Deze statistieken kunt u gebruiken als basis voor het verbeteren
+      van uw telefonie
 intro:
   title: ''
   content: ''
 prijzen:
 - title: Wat kost het Operator Console?
-  content: ''
+  content: Bent u al klant? Klik dan op de knop hieronder om aan te vragen.
   tarieven:
     items:
     - title: Maandelijks
@@ -73,7 +73,7 @@ prijzen:
     title: Per gebruiker
     footer: Prijzen zijn excl. BTW
   button:
-    title: Al klant? U vraagt het Operator Console hier aan
+    title: Operator Console aanvragen
     link: "/aanvragen/operator-console/"
 
 ---
