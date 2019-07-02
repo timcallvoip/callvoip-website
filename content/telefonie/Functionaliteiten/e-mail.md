@@ -1,7 +1,8 @@
 ---
 type: page
 title: E-mail
-description: ''
+description: Met de email-app stuurt de telefooncentrale uw een e-mail met het telefoonnummer
+  dat u heeft gebeld. Mis nooit meer een telefoonnummer!
 images: []
 slug: email
 hero:

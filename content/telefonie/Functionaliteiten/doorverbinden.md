@@ -1,7 +1,8 @@
 ---
 type: page
 title: Doorverbinden (Transfer)
-description: ''
+description: Met de doorverbinden-app zet u eenvoudig inkomende belletjes door naar
+  een toestel bij u op kantoor of een extern nummer (bijv. mobiel).
 images: []
 slug: doorverbinden
 hero:
