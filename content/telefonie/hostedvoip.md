@@ -74,8 +74,8 @@ prijzen:
 - title: Zelfstandigen
   content: Online telefooncentrale, geen poespas én bereikbaar op één toestel.
   button:
-    title: Bereken uw situatie via de calculator
-    link: "/calculator"
+    title: Oplossingen voor het ZZP
+    link: "/oplossingen/zzp/"
   tarieven:
     title: Maandelijkse kosten
     footer: Prijzen zijn excl. BTW
@@ -83,16 +83,16 @@ prijzen:
     - title: Basis Abonnement
       price: '7.50'
     - title: Telefoonnummer (1x)
-      price: 2
+      price: '2.00'
     - title: Toestelaccount (1x)
-      price: 4
+      price: '4.00'
 - title: MKB
   content: 10 medewerkers met allemaal een eigen telefoonnummer en toestel. 5 medewerkers
     moeten ook mobiel kunnen uitbellen met het zakelijke nummer. Verder is de wens
     om inkomend verkeer via een keuzemenu te begeleiden naar de juiste medewerker.
   button:
-    title: Bereken uw situatie via de calculator
-    link: "/calculator"
+    title: Oplossingen voor het MKB
+    link: "/oplossingen/mkb/"
   tarieven:
     title: Maandelijkse kosten
     footer: Prijzen zijn excl. BTW
@@ -100,13 +100,13 @@ prijzen:
     - title: Basis Abonnement
       price: '7.50'
     - title: Telefoonnummer (10x)
-      price: 20
+      price: '20.00'
     - title: Toestelaccount (10x)
-      price: 40
+      price: '40.00'
     - title: Qaller (5x)
-      price: 20
+      price: '20.00'
     - title: Keuzemenu (1x)
-      price: 4
+      price: '4.00'
 - title: Eigen telefooncentrale
   content: 'Beheer van eigen telefooncentrale via onze trunkoplossing met 10 gesprekskanalen.
     Allemaal bereikbaar onder één nummer. '
