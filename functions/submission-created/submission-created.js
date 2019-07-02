@@ -11,7 +11,7 @@ exports.handler = (event, context, callback) => {
     console.log(JSON.parse(event.body).payload.form_name);
 
     const data = JSON.parse(event.body).payload.data;
-    const fields = JSON.parse(event.body).ordered_human_fields;
+    const fields = JSON.parse(event.body).payload.ordered_human_fields;
 
     const sgMail = require('@sendgrid/mail');
     sgMail.setApiKey(process.env.SENDGRID_API_KEY);
