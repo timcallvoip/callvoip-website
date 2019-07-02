@@ -30,19 +30,20 @@ usps:
   items:
   - icon: fa-cloud
     title: Vertrouwd
-    content: Bediening en gemak van uw eigen telefooncentrale
+    content: Bediening en gemak van uw eigen telefooncentrale.
   - icon: fa-user-lock
     title: Flexibel
-    content: Zelf het aantal gesprekskanalen bepalen en aanpassen
+    content: Zelf het aantal gesprekskanalen bepalen en aanpassen.
   - icon: fa-comment-alt-smile
     title: Betrouwbaar
-    content: Backup-trunk en fallback op hosted centrale
-  - icon: fa-laptop
+    content: U krijgt een backup-trunk en fallback op hosted centrale.
+  - icon: fa-lock
     title: Veilig
-    content: Uitgebreid palet aan beveiligingsopties
+    content: Uitgebreid palet aan beveiligingsopties (IP-Whitelist, Destination Whitlest
+      en meer).
   - icon: fa-comment-alt-smile
     title: Voordelig
-    content: Scherpe gesprekstarieven, lage abonnementskosten
+    content: Scherpe gesprekstarieven en lage abonnementskosten.
 intro:
   title: Wat kost bellen met Callvoip?
   content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent, dat
