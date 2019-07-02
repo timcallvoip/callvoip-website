@@ -1,7 +1,8 @@
 ---
 type: page
 title: Belgroep (Huntgroup)
-description: ''
+description: Met de belgroep (huntgroep) laat u meerdere interne toestellen en externe
+  nummers simultaan, of in een specifieke volgorde, rinkelen.
 images: []
 slug: belgroep
 hero:

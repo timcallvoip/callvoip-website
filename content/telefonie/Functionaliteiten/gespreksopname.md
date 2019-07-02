@@ -1,7 +1,8 @@
 ---
 type: page
-title: Gespreksopname
-description: ''
+title: Gespreksopname (Call Recording)
+description: Neem uw telefoongesprekken op met gespreksopname. Alle gesprekken zijn
+  terug te luisteren en te downloaden op de Hosted telefooncentrale.
 images: []
 slug: gespreksopname
 hero:

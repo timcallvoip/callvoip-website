@@ -1,7 +1,8 @@
 ---
 type: page
 title: Keuzemenu (IVR)
-description: ''
+description: Met een keuzemenu begeleidt u de beller naar de juiste afdeling. Maak
+  uw telefonie professioneler met het gebruik van een keuzemenu van Callvoip.
 images: []
 slug: keuzemenu
 hero:

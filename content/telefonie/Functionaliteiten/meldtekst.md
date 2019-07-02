@@ -1,7 +1,8 @@
 ---
 type: page
-title: Meldtekst
-description: ''
+title: Meldtekst (Sound)
+description: Voorzie uw VoIP-oplossing met een meldtekst of andere geluidsbestanden.
+  Met meldteksten maakt u uw telefonie een stuk professioneler.
 images: []
 slug: meldtekst
 hero:

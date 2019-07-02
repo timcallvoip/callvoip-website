@@ -54,11 +54,11 @@ prijzen:
     footer: 3 verschillende pakketten om tussen te kiezen
     items:
     - title: Start (60-om-10)
-      price: 39
+      price: '39.00'
     - title: Complete (250-om-40)
       price: '46.50'
     - title: Max (500-om-50)
-      price: 65
+      price: '65.00'
 - title: Ziggo Zakelijk Internet Pro
   content: 'Ziggo Zakelijk Internet Pro is een supersnelle internetverbinding met
     5 vaste IP-adressen. Dan is Ziggo Zakelijk Internet Pro de juiste keuze. U beschikt
@@ -72,11 +72,11 @@ prijzen:
     footer: 3 verschillende pakketten om tussen te kiezen
     items:
     - title: Start Pro (60-om-10)
-      price: 59
+      price: '59.00'
     - title: Complete Pro (300-om-40)
-      price: 79
+      price: '79.00'
     - title: Max Pro (600-om-50)
-      price: 119
+      price: '119.00'
 description: ''
 images: []
 menu:

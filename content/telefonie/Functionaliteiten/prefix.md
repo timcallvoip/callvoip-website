@@ -1,7 +1,8 @@
 ---
 type: page
 title: Prefix
-description: ''
+description: Met de prefix-app stuur u een geschreven tekst mee naar uw toestellen
+  bij een inkomend belletje. Zo weet u bijvoorbeeld op welk nummer is gebeld.
 images: []
 slug: prefix
 hero:
