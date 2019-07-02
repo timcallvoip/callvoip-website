@@ -5,18 +5,17 @@ layout: default
 logos: true
 hero:
   title: Trunkoplossing
-  content: 'Sinds 2007 doen wij al aan VoIP. Wij mogen ons dan ook wel een specialist
-    in het veld noemen. Voor de grootzakelijke markt hebben wij dan ook de perfecte
-    oplossing. '
+  content: Heeft u een eigen IP-telefooncentrale en wilt u kosten besparen? Dan biedt
+    een VoIP trunk een uitstekende start!
   button:
-    content: Bereken je kosten
-    link: "/calculator"
+    content: Vraag nu een offerte aan!
+    link: "/offerte"
   image: "/v1552466820/hostedvoip.svg"
 blocks:
-- content: 'Een VoIP-trunk is een verbinding tussen het CallvoipTelefonie-platform
-    en uw eigen centrale. Door deze trunk lopen alle gesprekken van al uw nummers:
-    inkomend en uitgaand. Uw eigen centrale blijft het centrale punt waar u instelt
-    wat er met gesprekken gebeurt, op welke toestellen deze rinkelen, en dergelijke.'
+- content: 'Een VoIP-trunk is een verbinding tussen het Callvoip-platform en uw eigen
+    centrale. Door deze trunk lopen alle gesprekken van al uw nummers: inkomend en
+    uitgaand. Uw eigen centrale blijft het centrale punt waar u instelt wat er met
+    gesprekken gebeurt, op welke toestellen deze rinkelen, en dergelijke.'
   image: "/v1552466820/phones.png"
   position: image_left
   title: VoIP Trunk van Callvoip
