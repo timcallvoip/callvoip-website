@@ -113,10 +113,22 @@ menu:
 ---
 <h2>De mobiele app in gebruik nemen</h2>
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1559635655/Vamos-logo.png)
+{{< layout/columns >}}
+
+ {{< layout/column2 >}}
 
 * [Download Vamos app voor Anroid](https://play.google.com/store/apps/details?id=com.digifoon.fmc)
 * [Download Vamos app voor Apple](https://itunes.apple.com/nl/app/vamos-vast-mobiel/id1449692498)
 * [Overzicht Vast-Mobiel integratie](http://www.simmpl.nl/downloads/Simmpl_Vast-Mobiel-Integratie-mogelijkheden.pdf)
 * [Informatie over Vamos](https://www.simmpl.nl/downloads/Simmpl_informatie_Vamos-vast-mobiel-integratie.pdf)
 * [Handleiding Vamos](https://www.simmpl.nl/downloads/Simmpl_handleiding_ingebruikname_Vamos.pdf)
+
+ {{</ layout/column2 >}}
+
+ {{< layout/column2 >}}
+
+ ![](https://res.cloudinary.com/callvoip/image/upload/v1559635655/Vamos-logo.png)
+
+ {{</ layout/column2 >}}
+
+{{</ layout/columns >}}
