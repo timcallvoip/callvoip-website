@@ -1,7 +1,8 @@
 ---
 type: page
 title: Fax
-description: ''
+description: Faxen met een faxapparaat is verleden tijd. Verzend uw faxen online en
+  ontvang inkomende faxen als een pdf-bestand in uw e-mail.
 images: []
 slug: fax
 hero:

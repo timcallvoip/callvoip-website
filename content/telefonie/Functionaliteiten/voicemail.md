@@ -1,7 +1,8 @@
 ---
 type: page
 title: Voicemail
-description: ''
+description: Met de voicemailbox biedt u de beller de mogelijkheid om een bericht
+  in te spreken. Deze voicemail wordt als .mp3 naar uw email gestuurd.
 images: []
 slug: voicemail
 hero:
