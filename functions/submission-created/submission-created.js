@@ -23,7 +23,8 @@ exports.handler = (event, context, callback) => {
       templateId: 'd-5f1602c68c8a42919ddf340e285386e3',
       substitutionWrappers: ['{{', '}}'],
       substitutions: {
-        first_name: "test voornaam"
+        first_name: "test voornaam",
+        last_name: "test lastnaam",
       }
     };
 
