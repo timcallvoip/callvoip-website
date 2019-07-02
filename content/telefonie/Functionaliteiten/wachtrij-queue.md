@@ -1,7 +1,8 @@
 ---
 type: page
 title: Wachtrij (Queue)
-description: ''
+description: Straal professionaliteit uit en vang inkomende gesprekken op met een
+  wachtrij (queue). Maak u telefooncentrale compleet met een wachtrij van Callvoip.
 images: []
 slug: wachtrij
 hero:
