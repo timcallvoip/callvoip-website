@@ -10,7 +10,7 @@ exports.handler = (event, context, callback) => {
     console.log('----------------Form Name--------------')
     console.log(JSON.parse(event.body).payload.form_name);
 
-    const sgMail = require('@sendgrid/mail');
+    const sgMail = require('@sendgrid/mail').default;
     sgMail.setApiKey(process.env.SENDGRID_API_KEY);
 
 
