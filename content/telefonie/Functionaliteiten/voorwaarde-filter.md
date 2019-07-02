@@ -1,7 +1,8 @@
 ---
 type: page
 title: Voorwaarde (Filter)
-description: ''
+description: Filter gesprekken met de Voorwaarde-app. Creëer verschillende belroutes
+  voor verschillende nummers of blokkeer nummers waardoor u wordt lastiggevallen.
 images: []
 slug: voorwaarde
 hero:
