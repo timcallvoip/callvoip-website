@@ -41,8 +41,8 @@ usps:
   - icon: fa-cog
     title: Hoe werkt VoIP?
     content: VoIP (Voice over Internet Protocol) is kort gezegd bellen over internet.
-      Voorheen had u ISDN lijnen nodig, maar met VoIP worden deze overbodig. Een telefoontoestel
-      sluit u voortaan aan op uw internetverbinding.
+      Voorheen had u ISDN lijnen nodig, voortaan sluit u een telefoontoestel aan op
+      uw internetverbinding.
   - icon: fa-exlamation-circle
     title: Is VoIP betrouwbaar?
     content: Mocht uw internetverbinding uitvallen, dan schakelt de telefooncentrale
