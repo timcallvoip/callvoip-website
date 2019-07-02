@@ -59,9 +59,9 @@ prijzen:
     footer: Prijzen zijn excl. BTW
     items:
     - title: Maandelijks
-      price: 
+      price: '10.00'
     - title: Eenmalig
-      price: 
+      price: '15.00'
 - title: Extra spraakkanaal
   content: Waarschijnlijk heeft u extra spraakkanalen nodig.
   button:
@@ -74,7 +74,7 @@ prijzen:
     - title: Maandelijks
       price: '2.50'
     - title: Eenmalig
-      price: 5
+      price: '5.00'
 - title: Telefoonnummer
   content: U heeft één of meer telefoonnummers (nieuw of bestaand)
   button:
