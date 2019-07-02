@@ -45,8 +45,7 @@ usps:
   - icon: fa-exlamation-circle
     title: Is VoIP betrouwbaar?
     content: Geen internet? Dan schakelt de telefooncentrale door naar uw mobiele
-      nummer. Indien u zeer afhankelijk bent van uw internet, overweeg dan een backup
-      verbinding.
+      nummer. Zeer afhankelijk van uw internet? Overweeg dan een backup verbinding.
   - icon: fa-money-bill
     title: Is VoIP een alternatief voor ISDN?
     content: 'Callvoip biedt u een volwaardig alternatief voor ISDN. Bovendien is
@@ -74,7 +73,7 @@ prijzen:
   content: Online telefooncentrale, geen poespas én bereikbaar op één toestel.
   button:
     title: Oplossingen voor het ZZP
-    link: "/oplossingen/zzp/"
+    link: oplossingen/zelfstandigen/
   tarieven:
     title: Maandelijkse kosten
     footer: Prijzen zijn excl. BTW
