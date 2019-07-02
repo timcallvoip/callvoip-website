@@ -56,8 +56,8 @@ usps:
   - icon: fa-sort-numeric-asc
     title: Statistieken
     content: Bekijk hoe lang de beller in de wacht staat en wat per gebruiker de gemiddelde
-      gespreks- duur is. Deze statistieken kunt u gebruiken als basis voor het verbeteren
-      van uw telefonie
+      gespreks- duur is. De statistieken kunt u gebruiken als basis voor het verbeteren
+      van uw telefonie.
 intro:
   title: ''
   content: ''

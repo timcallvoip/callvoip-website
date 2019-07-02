@@ -30,11 +30,23 @@ Heeft u meer telefoonnummers nodig? Dan kunt u kiezen voor een nummerblok met 10
 
 Werkt u landelijk of wilt u een landelijke uitstraling? Kies voor **landelijke nummers: 085- en 088-nummers** zijn niet aan een specifieke regio verbonden. Uw activiteiten krijgen een landelijke uitstraling. Handig als u meerdere vestigingen heeft, landelijk opereert of meerdere vestigingen in Nederland heeft.
 
+{{< layout/columns >}}
+
+ {{< layout/column2 >}}
+
 <u>085-nummer</u>:  
 Een 085-nummer is een telefoonnummer voor de zakelijke markt en geeft u een professionele landelijke uitstraling. Een 085-nummer kunt u per stuk of in blokken van 10 of 100 stuks aanvragen bij Callvoip.
 
+ {{</ layout/column2 >}}
+
+ {{< layout/column2 >}}
+
 <u>088-nummer</u>:  
 088-nummers zijn zakelijke, landelijke nummerblokken. 088-nummers kunt u per 100 of zelfs per 1000 stuks aanvragen. U vraagt ze aan bij de [ACM ](https://www.acm.nl/nl/onderwerpen/telecommunicatie/telefoonnummers/aanvragen-nummers/formulieren/2-088-bedrijfsnummers/)en u kunt ze daarna koppelen met onze centrale.
+
+ {{</ layout/column2 >}}
+
+{{</ layout/columns >}}
 
 ### Internationale nummers
 
@@ -44,8 +56,20 @@ Met **internationale** nummers bent u ook bereikbaar voor uw buitenlandse klante
 
 Wenst u een professionele klantenservice op te zetten, kies dan voor een **servicenummer**. Deze is er in twee vormen: 0800 of 0900.
 
+{{< layout/columns >}}
+
+ {{< layout/column2 >}}
+
 <u>0800-nummer</u>  
 Met een 0800-nummer bent u kosteloos bereikbaar voor uw klanten. Dit verlaagt de drempel voor uw klanten om contact op te nemen. Uw 0800-nummer is in heel Nederland actief en bereikbaar.
 
+ {{</ layout/column2 >}}
+
+ {{< layout/column2 >}}
+
 <u>0900-nummer</u>  
 Bied uw klanten een betaald 0900-servicenummer voor support of sales. Klanten betalen een minuut- of gesprekstarief en dit genereert inkomsten. Het tarief stelt u zelf vast. De kostendrempel maakt dat uw klant weloverwogen en doelgericht belt. Dit verhoogt de doeltreffendheid van uw helpdesktijd.
+
+ {{</ layout/column2 >}}
+
+{{</ layout/columns >}}
