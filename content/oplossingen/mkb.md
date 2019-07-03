@@ -75,13 +75,13 @@ prijzen:
     - title: Basis Abonnement
       price: '7.50'
     - title: Telefoonnummer (1x)
-      price: 2
+      price: '2.00'
     - title: Toestelaccount (4x)
-      price: 16
+      price: '16.00'
     - title: Wachtrij (1x)
-      price: 4
+      price: '4.00'
     - title: Koppeling CRM (1x)
-      price: 5
+      price: '5.00'
 - title: Callcenter
   content: Er werken 10 medewerkers en bellen allemaal veel uit. Inkomende bereikbaarheid
     is minder van belang. Gemiste oproepen worden gemaild en opgevangen in de voicemail.
