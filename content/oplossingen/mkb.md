@@ -86,8 +86,8 @@ prijzen:
   content: Er werken 10 medewerkers en bellen allemaal veel uit. Inkomende bereikbaarheid
     is minder van belang. Gemiste oproepen worden gemaild en opgevangen in de voicemail.
   button:
-    title: Bekijk de case hier
-    link: "/branches/callcenter/"
+    title: Bekijk alle cases hier
+    link: oplossingen/branches/
   tarieven:
     title: Maandelijkse kosten
     footer: Prijzen zijn vanaf en per maand
@@ -95,11 +95,11 @@ prijzen:
     - title: Basis Abonnement
       price: '7.50'
     - title: Telefoonnummer (1x)
-      price: 2
+      price: '2.00'
     - title: Toestelaccount (10x)
-      price: 40
+      price: '40.00'
     - title: Belbundel 5000min (10x)
-      price: 250
+      price: '250.00'
 - title: Uw organisatie
   content: Via onze calculator krijgt u eenvoudig en snel een eerste indruk van de
     kosten. Bespreekt u liever telefonisch de mogelijkheden en kosten? Bel ons dan
