@@ -24,27 +24,27 @@ Dankzij de professionele functionaliteiten van de online telefooncentrale van Ca
 
 {{< layout/columns >}}
 
- {{< layout/column2 >}}
+{{< layout/column2 >}}
 
-Simmpl is geen functionaliteit, maar de gehele online telefooncentrale. Hier zijn alle losse nummers en telefoontoestellen van de praktijken toegevoegd. Overzichtelijk zijn nu alle locaties en er kan gemakkelijk worden geschakeld tussen de verschillende locaties.
+Simmpl is de online telefooncentrale. Hier zijn alle losse nummers en telefoontoestellen van de praktijken toegevoegd. De verschillende locaties staan nu overzichtelijk op één plek en er kan makkelijk worden geschakeld tussen alle locaties.
 
 #### Doorverbinden
 
 Om gesprekken te kunnen doorschakelen naar de mobiele telefoon van de fysiotherapeuten en de verschillende praktijken, wordt de doorverbinden-app gebruikt. Hier vult u eenvoudig het nummer in waar de inkomende oproep naartoe moet worden doorgezet.
 
-#### Prefix
+{{</ layout/column2 >}}
 
-Voor elke praktijk kan een prefix (=geschreven tekst) worden meegestuurd. Deze tekst wordt getoond op het VoIP-toestel en zo ziet u snel of de inkomende oproep via een andere praktijk binnen komt.
-
- {{</ layout/column2 >}}
-
- {{< layout/column2 >}}
+{{< layout/column2 >}}
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1562162095/Callvoip-website-belpannen-voorbeeld.png)
 
- {{</ layout/column2 >}}
+{{</ layout/column2 >}}
 
 {{</ layout/columns >}}
+
+#### Prefix
+
+Voor elke praktijk kan een prefix (=geschreven tekst) worden meegestuurd. Deze tekst wordt getoond op het VoIP-toestel en zo ziet u snel of de inkomende oproep via een andere praktijk binnen komt.
 
 ### Benieuwd naar de mogelijkheden voor uw situatie?
 
