@@ -71,7 +71,8 @@ prijzen:
       price: '75.00'
     footer: Prijzen zijn excl. BTW
     title: 'U bent klant van Callvoip:'
-description: ''
+description: Met een glasvezel verbinding zijn de download- als uploadsnelheid aan
+  elkaar gelijk. U beschikt over een eigen verbinding als perfecte basis voor uw VoIP.
 images: []
 menu:
   main:
