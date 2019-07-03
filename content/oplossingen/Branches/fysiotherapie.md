@@ -22,6 +22,10 @@ Dankzij de professionele functionaliteiten van de online telefooncentrale van Ca
 
 #### Simmpl
 
+{{< layout/columns >}}
+
+ {{< layout/column2 >}}
+
 Simmpl is geen functionaliteit, maar de gehele online telefooncentrale. Hier zijn alle losse nummers en telefoontoestellen van de praktijken toegevoegd. Overzichtelijk zijn nu alle locaties en er kan gemakkelijk worden geschakeld tussen de verschillende locaties.
 
 #### Doorverbinden
@@ -31,6 +35,16 @@ Om gesprekken te kunnen doorschakelen naar de mobiele telefoon van de fysiothera
 #### Prefix
 
 Voor elke praktijk kan een prefix (=geschreven tekst) worden meegestuurd. Deze tekst wordt getoond op het VoIP-toestel en zo ziet u snel of de inkomende oproep via een andere praktijk binnen komt.
+
+ {{</ layout/column2 >}}
+
+ {{< layout/column2 >}}
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1562162095/Callvoip-website-belpannen-voorbeeld.png)
+
+ {{</ layout/column2 >}}
+
+{{</ layout/columns >}}
 
 ### Benieuwd naar de mogelijkheden voor uw situatie?
 
