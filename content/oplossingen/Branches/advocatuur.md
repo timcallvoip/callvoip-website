@@ -1,7 +1,8 @@
 ---
 type: page
 title: Advocatuur
-description: ''
+description: Callvoip biedt zakelijke telefonie voor elke branche. Bekijk hier de
+  mogelijkheden voor de advocatuur.
 images: []
 slug: advocatuur
 hero:

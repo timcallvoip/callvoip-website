@@ -1,7 +1,8 @@
 ---
 type: page
 title: Assurantie
-description: ''
+description: Callvoip biedt zakelijke telefonie voor elke branche. Bekijk hier de
+  mogelijkheden voor uw assurantiekantoor.
 images: []
 slug: assurantie
 hero:

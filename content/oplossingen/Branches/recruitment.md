@@ -1,7 +1,8 @@
 ---
 type: page
 title: Recruitment
-description: ''
+description: Callvoip biedt zakelijke telefonie voor elke branche. Bekijk hier de
+  mogelijkheden voor de recruitment.
 images: []
 slug: recruitment
 hero:

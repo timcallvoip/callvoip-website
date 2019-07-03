@@ -31,6 +31,7 @@ fields:
   label: layout
   hidden: true
 pages:
+- content/oplossingen/Branches/assurantie.md
 - content/oplossingen/Branches/fysiotherapie.md
 - content/oplossingen/Branches/webshop.md
 - content/telefonie/Functionaliteiten/omleiding-flow-control.md
@@ -48,7 +49,6 @@ pages:
 - content/telefonie/versleutelde-telefoongesprekken-met-srtp.md
 - content/oplossingen/Branches/makelaardij.md
 - content/oplossingen/Branches/ict.md
-- content/oplossingen/Branches/assurantie.md
 - content/telefonie/telefoonnummers.md
 - content/telefonie/Functionaliteiten/busy-lamp-field-blf.md
 - content/telefonie/Functionaliteiten/e-mail.md
