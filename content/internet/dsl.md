@@ -90,7 +90,8 @@ prijzen:
       price: '35.00'
     - title: Eenmalig
       price: '50.00'
-description: ''
+description: 'DSL internetverbindingen van Callvoip komen er in vele soorten en maten:
+  ADSL, ADSL2+, VDSL en VVDSL. Doe de postcodecheck.'
 images: []
 menu:
   main:
