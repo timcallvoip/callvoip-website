@@ -26,11 +26,7 @@ Dankzij de professionele functionaliteiten van de online telefooncentrale van Ca
 
 {{< layout/column2 >}}
 
-Simmpl is de online telefooncentrale. Hier zijn alle losse nummers en telefoontoestellen van de praktijken toegevoegd. De verschillende locaties staan nu overzichtelijk op één plek en er kan makkelijk worden geschakeld tussen alle locaties.
-
-#### Doorverbinden
-
-Via de doorverbinden-app worden inkomende oproepen doorgeschakeld naar andere vestigingen of mobiele telefoons van de fysiotherapeuten.
+Simmpl is niet een functionaliteit, maar Simmpl is de online telefooncentrale. Hier zijn alle losse nummers en telefoontoestellen van de praktijken toegevoegd. De verschillende (telefoonnummers van de) locaties staan nu overzichtelijk op één plek en er kan makkelijk worden geschakeld tussen alle locaties.
 
 {{</ layout/column2 >}}
 
@@ -41,6 +37,10 @@ Via de doorverbinden-app worden inkomende oproepen doorgeschakeld naar andere ve
 {{</ layout/column2 >}}
 
 {{</ layout/columns >}}
+
+#### Doorverbinden
+
+Via de doorverbinden-app worden inkomende oproepen doorgeschakeld naar andere vestigingen of mobiele telefoons van de fysiotherapeuten.
 
 #### Prefix
 
