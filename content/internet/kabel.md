@@ -77,7 +77,8 @@ prijzen:
       price: '79.00'
     - title: Max Pro (600-om-50)
       price: '119.00'
-description: ''
+description: Met kabelinternet (Coax) van Ziggo heeft u een perfect basis voor VoIP-telefonie.
+  Geen groene kabel? Wij bekijken graag of dit alsnog mogelijk is.
 images: []
 menu:
   main:
