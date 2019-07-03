@@ -85,7 +85,7 @@ options:
       dan voor een faxbox!
     min: 
     max: 999
-    price_monthly: 5
+    price_monthly: 4
     price_onetime: 5
     required: false
 callrecording:
