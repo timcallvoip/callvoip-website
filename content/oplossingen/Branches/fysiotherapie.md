@@ -30,7 +30,7 @@ Simmpl is de online telefooncentrale. Hier zijn alle losse nummers en telefoonto
 
 #### Doorverbinden
 
-Om gesprekken te kunnen doorschakelen naar de mobiele telefoon van de fysiotherapeuten en de verschillende praktijken, wordt de doorverbinden-app gebruikt. Hier vult u eenvoudig het nummer in waar de inkomende oproep naartoe moet worden doorgezet.
+Via de doorverbinden-app worden inkomende oproepen doorgeschakeld naar andere vestigingen of mobiele telefoons van de fysiotherapeuten.
 
 {{</ layout/column2 >}}
 
