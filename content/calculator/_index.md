@@ -37,8 +37,8 @@ basic:
   price_onetime: 5
   required: false
 callminutes:
-  title: Belminuten
-  description: Belt u veel uit? Bespaar dan met het afkopen van belminuten.
+  title: Belbundel
+  description: Belt u veel? Kies dan voor één van de belbundels.
   items:
   - name: Geen belminuten
     value: 
@@ -114,7 +114,7 @@ security:
     price_onetime: 
     required: false
 crm:
-- name: Koppeling CRM-pakket (per gebruiker)
+- name: Koppeling CRM-pakket (aantal gebruikers)
   min: 
   max: 999
   price_monthly: 5
