@@ -94,7 +94,7 @@ callrecording:
     op. '
   items:
   - name: Bewaartijd 30 dagen
-    min: 0
+    min: 
     max: 999
     price_monthly: 5
     price_onetime: 5
@@ -109,7 +109,7 @@ security:
     price_onetime: 
     required: false
   - name: Beveiligd bellen (SRTP)
-    value: 1
+    value: 0
     price_monthly: 2
     price_onetime: 
     required: false
