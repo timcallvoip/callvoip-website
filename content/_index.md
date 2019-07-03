@@ -154,7 +154,8 @@ testimonial:
   content: Al <strong>meer dan 10 jaar</strong> levert CallVoip ons de benodigde oplossingen
     voor vaste telefonie. Van beginnende ondernemer tot en met personeel; ze denken
     altijd met je mee.
-description: ''
+description: Callvoip is de zakelijke telefonieprovider in Nederland. Bespaar op uw
+  telefonie met de modernste oplossingen van Callvoip.
 images: []
 
 ---
