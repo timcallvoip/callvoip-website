@@ -30,7 +30,7 @@ Om meer beter bereikbaar te zijn maakt de makelaar gebruik van Qaller. Hiermee w
 
 #### Omleiding
 
-Daarnaast gebruikt de makelaar van de omleiding-app. Hiermee kan de makelaar via een omleiding een andere (tijdelijke) belroute inschakelen. Bijvoorbeeld op momenten dat de makelaar echt niet telefonisch bereikbaar is of onderweg is en alleen zijn Qaller moet rinkelen (en niet de toestellen op kantoor).
+Daarnaast maakt de makelaar gebruik van de omleiding-app. Hiermee kan de makelaar een andere (tijdelijke) belroute inschakelen. Bijvoorbeeld op momenten dat de makelaar echt niet telefonisch bereikbaar is of bijvoorbeeld onderweg is voor een bezichtiging en alleen zijn mobiele telefoon (Qaller) moet rinkelen (en niet ook de toestellen op kantoor).
 
 {{</ layout/column2 >}}
 
