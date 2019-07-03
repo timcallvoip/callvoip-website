@@ -17,7 +17,7 @@ basic:
   required: true
 - name: Telefoonnummer
   description: Hoeveel telefoon- & faxnummers gaat u gebruiken?
-  min: 1
+  min: 
   max: 999
   price_monthly: 2
   price_onetime: 15
@@ -109,7 +109,7 @@ security:
     price_onetime: 
     required: false
   - name: Beveiligd bellen (SRTP)
-    value: 0
+    value: 1
     price_monthly: 2
     price_onetime: 
     required: false
