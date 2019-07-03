@@ -1,7 +1,8 @@
 ---
 type: page
 title: Webshop
-description: ''
+description: Zakelijke telefonie voor elke branche. Bekijk hier de mogelijkheden voor
+  uw webshop.
 images: []
 slug: webshop
 hero:
@@ -19,11 +20,11 @@ De webshop merkt dat op de dag zelf niet in te schatten is wat de drukke momente
 
 Dankzij de professionele functionaliteiten van de online telefooncentrale van Callvoip oogt webshop professioneler en kan men efficiënter werken. De volgende functionaliteiten zijn ingezet:
 
+#### Keuzemenu
+
 {{< layout/columns >}}
 
  {{< layout/column2 >}}
-
-#### Keuzemenu
 
 Om meer professionaliteit uit te stralen komt de beller, binnen werktijd, in een keuzemenu terecht. Hier kan de beller aangeven of men belt voor productinformatie, bestelling of retouren.
 
