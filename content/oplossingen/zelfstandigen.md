@@ -86,30 +86,23 @@ prijzen:
     - title: Basis Abonnement
       price: '7.50'
     - title: Telefoonnummer
-      price: 2
+      price: '2.00'
     - title: Toestelaccount
-      price: 4
+      price: '4.00'
     - title: Bundel 500min
-      price: 10
-- title: Bundel 1500 min
-  content: U koopt 1500 belminuten (per toestel) af per maand. Belt u meer minuten
-    dan in deze bundel zit, dan betaalt u voor de overige minuten onze reguliere lage
-    gesprekskosten.
+      price: '10.00'
+- title: Uw organisatie
+  content: Via onze calculator krijgt u eenvoudig en snel een eerste indruk van de
+    kosten.
   button:
-    title: Offerte aanvragen
-    link: "/offerte"
+    title: Bereken het zelf!
+    link: "/calculator"
   tarieven:
     title: Maandelijkse kosten
     footer: Prijzen zijn vanaf en per maand
     items:
     - title: Basis Abonnement
       price: '7.50'
-    - title: Telefoonnummer
-      price: 2
-    - title: Toestelaccount
-      price: 4
-    - title: Bundel 1500min
-      price: '12.50'
 description: ''
 images: []
 menu:
