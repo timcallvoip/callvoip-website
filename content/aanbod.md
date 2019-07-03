@@ -39,7 +39,7 @@ aanbod:
       image: "/v1552466820/hostedvoip.svg"
       button:
         content: Meer over bellen
-        link: 
+        link: ''
   - tab:
       title: Razendsnel Internet
       content: Je eigen centrale in de cloud. Geen gedoe met verouderde hardware.
@@ -52,7 +52,7 @@ aanbod:
       image: "/v1552466820/hostedvoip.svg"
       button:
         content: Meer over bellen
-        link: 
+        link: ''
   - tab:
       title: Moderne software
       content: Bel eenvoudig vanaf je laptop met onze handige plugins
@@ -65,7 +65,7 @@ aanbod:
       image: "/v1552466820/hostedvoip.svg"
       button:
         content: Meer over bellen
-        link: 
+        link: ''
 intro:
   title: Je partner voor zakelijke bereikbaarheid
   content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent, dat
@@ -76,7 +76,7 @@ prijzen:
   content: Geen telefooncentrale op locatie, maar een moderne gebruiksvriendelijk.
   button:
     title: Stel je pakket samen
-    link: 
+    link: ''
   tarieven:
     title: Maandelijkse kosten
     footer: Prijzen zijn vanaf en per maand
@@ -87,5 +87,8 @@ prijzen:
       price: 3
     - title: Voicemail
       price: 1
+description: 'Benieuwd naar het aanbod van Callvoip? Totaalleverancier: de modernste
+  telefonie, het snelste internet en de beste apparatuur. Alles onder één dak.'
+images: []
 
 ---
