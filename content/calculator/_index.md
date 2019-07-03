@@ -95,7 +95,7 @@ callrecording:
     op. '
   items:
   - name: Bewaartijd 30 dagen
-    min: 
+    min: 0
     max: 999
     price_monthly: 5
     price_onetime: 5
