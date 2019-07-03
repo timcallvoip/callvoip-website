@@ -20,11 +20,11 @@ Elke praktijk heeft een eigen toestel. Mocht deze niet worden opgenomen, dan wor
 
 Dankzij de professionele functionaliteiten van de online telefooncentrale van Callvoip is men beter bereikbaar en kan men efficiënter werken. De volgende functionaliteiten zijn ingezet bij
 
-#### Simmpl
-
 {{< layout/columns >}}
 
 {{< layout/column2 >}}
+
+#### Simmpl
 
 Simmpl is niet een functionaliteit, maar Simmpl is de online telefooncentrale. Hier zijn alle losse nummers en telefoontoestellen van de praktijken toegevoegd. De verschillende (telefoonnummers van de) locaties staan nu overzichtelijk op één plek en er kan makkelijk worden geschakeld tussen alle locaties.
 
