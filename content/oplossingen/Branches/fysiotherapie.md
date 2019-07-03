@@ -1,7 +1,8 @@
 ---
 type: page
 title: Fysiotherapie
-description: ''
+description: Callvoip biedt zakelijke telefonie voor elke branche. Bekijk hier de
+  mogelijkheden voor de fysiotherapie.
 images: []
 slug: fysiotherapie
 hero:

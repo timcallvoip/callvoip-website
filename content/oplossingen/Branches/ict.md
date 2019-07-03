@@ -1,7 +1,8 @@
 ---
 type: page
 title: ICT
-description: ''
+description: Callvoip biedt zakelijke telefonie voor elke branche. Bekijk hier de
+  mogelijkheden voor de ict.
 images: []
 slug: ict
 hero:

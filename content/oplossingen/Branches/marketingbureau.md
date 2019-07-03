@@ -1,7 +1,8 @@
 ---
 type: page
 title: Marketingbureau
-description: ''
+description: Callvoip biedt zakelijke telefonie voor elke branche. Bekijk hier de
+  mogelijkheden voor uw marketingbureau.
 images: []
 slug: marketing
 hero:

@@ -1,7 +1,8 @@
 ---
 type: page
 title: Kapsalon
-description: ''
+description: Callvoip biedt zakelijke telefonie voor elke branche. Bekijk hier de
+  mogelijkheden voor uw kapsalon.
 images: []
 slug: kapsalon
 hero:

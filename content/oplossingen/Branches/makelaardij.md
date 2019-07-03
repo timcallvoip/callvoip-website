@@ -1,7 +1,8 @@
 ---
 type: page
 title: Makelaardij
-description: ''
+description: Callvoip biedt zakelijke telefonie voor elke branche. Bekijk hier de
+  mogelijkheden voor de makelaardij.
 images: []
 slug: makelaardij
 hero:

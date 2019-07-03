@@ -1,7 +1,8 @@
 ---
 type: page
 title: Tandartspraktijk
-description: ''
+description: Callvoip biedt zakelijke telefonie voor elke branche. Bekijk hier de
+  mogelijkheden voor uw tandartspraktijk.
 images: []
 slug: tandarts
 hero:

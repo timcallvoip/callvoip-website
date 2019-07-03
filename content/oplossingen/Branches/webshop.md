@@ -1,8 +1,8 @@
 ---
 type: page
 title: Webshop
-description: Zakelijke telefonie voor elke branche. Bekijk hier de mogelijkheden voor
-  uw webshop.
+description: Callvoip biedt zakelijke telefonie voor elke branche. Bekijk hier de
+  mogelijkheden voor uw webshop.
 images: []
 slug: webshop
 hero:
