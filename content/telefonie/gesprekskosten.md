@@ -2,7 +2,7 @@
 type: page
 title: Gesprekskosten
 description: Bij Callvoip betaalt u een vast laag tarief voor uw belminuten. Benieuwd?
-  Bekijk hier een overzicht van de gesprekskosten nationaal & internationaal.
+  Bekijk hier een overzicht van de gesprekskosten & belbundels.
 images: []
 slug: gesprekskosten
 hero:
