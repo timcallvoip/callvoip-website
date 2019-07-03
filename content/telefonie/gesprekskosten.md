@@ -280,7 +280,7 @@ Op deze pagina vindt u een overzicht van de gesprekskosten van Callvoip. Bij Cal
 
 <br>
 
-# Belbundels
+## Belbundels (NL vast + mobiel)
 
 {{< layout/columns >}}
 
