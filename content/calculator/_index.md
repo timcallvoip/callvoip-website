@@ -10,31 +10,27 @@ outputs:
 basic:
 - name: Telefooncentrale
   description: Ieder abonnement komt standaard met onze luxe online telefooncentrale.
-    In dit basis abonnement krijgt u al 80% van alle functionaliteiten.
   min: 1
   max: 1
   price_monthly: 7.5
   price_onetime: 15
   required: true
 - name: Telefoonnummer
-  description: Ieder abonnement komt standaard met 1 nummer, voeg zoveel extra nummers
-    (regionaal of landelijk) toe als je wilt.
+  description: Hoeveel telefoon- & faxnummers gaat u gebruiken?
   min: 1
   max: 999
   price_monthly: 2
   price_onetime: 15
   required: true
-- name: Toestellen
-  description: Uitbellen met uw zakelijk nummer? Inkomend bereikbaar zijn op uw mobiel?
-    Het kan via onze mobiele app Qaller!
+- name: Toestelaccounts
+  description: Elk toestel dat u gebruikt heeft een account nodig.
   min: 
   max: 999
   price_monthly: 4
   price_onetime: 5
   required: false
-- name: Bellen via mobiel (Qaller)
-  description: Met hoeveel apparaten wil je mobiel bellen? Combineren met vaste toestellen
-    is ook mogelijk.
+- name: Qaller-accounts
+  description: Met hoeveel mobiele apparaten wil je ook bellen?
   min: 
   max: 999
   price_monthly: 4
@@ -42,8 +38,7 @@ basic:
   required: false
 callminutes:
   title: Belminuten
-  description: Belt u veel uit? Bespaar dan met afkopen van belminuten. Als u niet
-    voor een belbundel kiest, dan profiteert u van onze lage gesprekskosten.
+  description: Belt u veel uit? Bespaar dan met het afkopen van belminuten.
   items:
   - name: Geen belminuten
     value: 
