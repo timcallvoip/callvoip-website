@@ -104,8 +104,6 @@ Op deze pagina vindt u een overzicht van de gesprekskosten van Callvoip. Bij Cal
 
 ### Internationale bestemmingen (meest voorkomend)
 
-<br>
-
 {{< layout/columns >}}
 
 {{< layout/column3 >}}
@@ -279,6 +277,76 @@ Op deze pagina vindt u een overzicht van de gesprekskosten van Callvoip. Bij Cal
 {{</ layout/column3 >}}
 
 {{</ layout/columns >}}
+
+<br>
+
+### Belbundels
+
+{{< layout/columns >}}
+
+ {{< layout/column2 >}}
+
+**Grootte belbundel**
+
+ {{</ layout/column2 >}}
+
+ {{< layout/column2 >}}
+
+**Prijs per maand (excl. BTW)**
+
+ {{</ layout/column2 >}}
+
+{{</ layout/columns >}}
+
+{{< layout/columns >}}
+
+ {{< layout/column2 >}}
+
+Belbundel 500 minuten
+
+ {{</ layout/column2 >}}
+
+ {{< layout/column2 >}}
+
+€ 10,00 per toestelaccount
+
+ {{</ layout/column2 >}}
+
+{{</ layout/columns >}}
+
+{{< layout/columns >}}
+
+ {{< layout/column2 >}}
+
+Belbundel 1500 minuten
+
+ {{</ layout/column2 >}}
+
+ {{< layout/column2 >}}
+
+€ 12,50 per toestelaccount
+
+ {{</ layout/column2 >}}
+
+{{</ layout/columns >}}
+
+{{< layout/columns >}}
+
+ {{< layout/column2 >}}
+
+Belbundel 5000 minuten
+
+ {{</ layout/column2 >}}
+
+ {{< layout/column2 >}}
+
+€ 25,00 per toestelaccount
+
+ {{</ layout/column2 >}}
+
+{{</ layout/columns >}}
+
+<br>
 
 ### Benieuwd naar de mogelijkheden voor uw situatie?
 
