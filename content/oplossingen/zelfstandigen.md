@@ -60,8 +60,8 @@ prijzen:
   content: U betaalt per gesprek een starttik en verder betaalt u per minuut, natuurlijk
     tegen onze zeer lage gesprekskosten.
   button:
-    title: Offerte aanvragen
-    link: "/offerte"
+    title: Overzicht gesprekskosten
+    link: "/telefonie/gesprekskosten"
   tarieven:
     title: Maandelijkse kosten
     footer: Prijzen zijn excl. BTW & excl. gesprekskosten
@@ -69,9 +69,9 @@ prijzen:
     - title: Basis Abonnement
       price: '7.50'
     - title: Telefoonnummer
-      price: 2
+      price: '2.00'
     - title: Toestelaccount
-      price: 4
+      price: '4.00'
 - title: Bundel 500 min
   content: U koopt 500 belminuten (per toestel) af per maand. Belt u meer minuten
     dan in deze bundel zit, dan betaalt u voor de overige minuten onze reguliere lage

@@ -102,8 +102,7 @@ prijzen:
       price: '250.00'
 - title: Uw organisatie
   content: Via onze calculator krijgt u eenvoudig en snel een eerste indruk van de
-    kosten. Bespreekt u liever telefonisch de mogelijkheden en kosten? Bel ons dan
-    op +31508200000
+    kosten.
   button:
     title: Bereken het zelf
     link: "/calculator"
@@ -112,7 +111,7 @@ prijzen:
     footer: Prijzen zijn vanaf en per maand
     items:
     - title: Basis Abonnement
-      price: 4
+      price: '7.50'
 description: ''
 images: []
 menu:
