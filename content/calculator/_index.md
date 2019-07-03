@@ -3,7 +3,7 @@ title: Ontdek hoeveel je bespaart
 type: page
 layout: calculator
 hero:
-  image: "/v1552991205/Team/logo-bord-breed.jpg"
+  image: "/v1562160476/callvoip-website-calculator.png"
 outputs:
 - HTML
 - JSON
