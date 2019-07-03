@@ -9,31 +9,31 @@ hero:
 layout: ''
 
 ---
-Als kapsalon is het belangrijk dat u goed bereikbaar bent voor uw klanten. Binnen werktijd moeten de toestellen rinkelen en moet op drukke momenten de beller worden opgevangen. Buiten werktijd moet de beller de melding krijgen dat jullie gesloten zijn.
+Als webshop is het belangrijk dat u goed bereikbaar bent voor uw klanten. Binnen werktijd moeten de toestellen rinkelen en moet op drukke momenten de beller worden opgevangen. Buiten werktijd moet de beller de melding krijgen dat er niemand beschikbaar is.
 
 ### Situatiebeschrijving
 
-De eigenaar van de verschillende kapsalons merkt dat er veel inkomende belletjes gemist worden doordat alleen de desbetreffende kapsalon kan opnemen. De wens is er om inkomende oproepen door te schakelen naar kantoor om zo alle oproepen op te vangen.
-
-{{< layout/columns >}}
-
- {{< layout/column2 >}}
+De webshop merkt dat op de dag zelf niet in te schatten is wat de drukke momenten zijn. Wel ervaart men dat op deze drukke momenten het lastig is om alle belletjes op te vangen. Ook wil men graag professioneler overkomen door de beller keuzes te geven met de reden waarvoor men belt.
 
 ### De oplossing van Callvoip
 
 Dankzij de professionele functionaliteiten van de online telefooncentrale van Callvoip zijn de kapsalons beter bereikbaar en kan men efficiënter werken. De volgende functionaliteiten zijn ingezet:
 
+{{< layout/columns >}}
+
+ {{< layout/column2 >}}
+
 #### Keuzemenu
 
-Om meer professionaliteit uit te stralen krijgt elke beller eerst een meldtekst te horen. In deze meldtekst wordt men welkom geheten bij de salon. Vervolgens rinkelt het toestel op de desbetreffende vestiging die wordt gebeld.
-
-#### Prefix
-
-Mocht de salon niet in staat zijn om op te nemen, dan wordt de beller na een halve minuut doorgeschakeld naar het hoofdkantoor. In de belgroep staan meerdere toestellen en deze rinkelen simultaan. Door middel van een prefix weet het toestel op het hoofdkantoor naar welke salon wordt gebeld.
+Om meer professionaliteit uit te stralen komt de beller, binnen werktijd, in een keuzemenu terecht. Hier kan de beller aangeven of men belt voor productinformatie, bestelling of retouren.
 
 #### Wachtrij
 
-Via tijdscondities wordt bepaalt welke belroute de beller volgt. Binnen werktijd rinkelen toestellen. Buiten werktijd krijgt de beller een melding dat men gesloten is, wat de regulier openingstijden zijn en wordt vervolgens de verbinding verbroken.
+Welke keuze de beller ook maakt, de beller komt altijd in dezelfde wachtrij terecht. Hierin staan alle toestellen en het toestel dat het langst geen gesprek heeft gehad, daar wordt het gesprek als eerste op aangeboden.
+
+#### Prefix
+
+Via een prefix weten de toestellen welke keuze de beller heeft gemaakt. Zo kan de desbetreffende medewerker zijn gesprek correct beginnen.
 
  {{</ layout/column2 >}}
 
