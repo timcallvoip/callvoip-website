@@ -67,7 +67,6 @@ options:
   items:
   - name: Wachtrij
     description: Heeft u veel inkomend telefonieverkeer en wilt u elke beller beantwoorden?
-      Vang de bellers dan op in een wachtrij.
     min: 
     max: 999
     price_monthly: 4
@@ -75,7 +74,7 @@ options:
     required: false
   - name: Keuzemenu
     description: Wenst u de beller meteen te begeleiden naar de juiste persoon en/of
-      afdeling? Kies dan voor een keuzmenu!
+      afdeling?
     min: 
     max: 999
     price_monthly: 4
