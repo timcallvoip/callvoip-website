@@ -17,7 +17,7 @@ De webshop merkt dat op de dag zelf niet in te schatten is wat de drukke momente
 
 ### De oplossing van Callvoip
 
-Dankzij de professionele functionaliteiten van de online telefooncentrale van Callvoip zijn de kapsalons beter bereikbaar en kan men efficiënter werken. De volgende functionaliteiten zijn ingezet:
+Dankzij de professionele functionaliteiten van de online telefooncentrale van Callvoip oogt webshop professioneler en kan men efficiënter werken. De volgende functionaliteiten zijn ingezet:
 
 {{< layout/columns >}}
 
