@@ -22,7 +22,8 @@ blocks:
   image: "/v1559804581/_MG_8702.jpg"
   position: " image_right"
   title: Wie heeft u aan de lijn?
-description: ''
+description: Callvoip is de telefonieprovider voor de zakelijke markt. De beste telefonieoplossing
+  en persoonlijk contact staan bij ons centraal.
 images: []
 menu:
   main:
