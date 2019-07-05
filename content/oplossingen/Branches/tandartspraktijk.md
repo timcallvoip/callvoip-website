@@ -24,6 +24,10 @@ Dankzij de professionele functionaliteiten van de online telefooncentrale van Ca
 
 #### Wachtrij
 
+{{< layout/columns >}}
+
+ {{< layout/column2 >}}
+
 Inkomende belletjes worden opgevangen door een wachtrij. In de wachtrij krijgt de beller eerst een meldtekst gevolgd door een wachtmuziek. Mocht één van de receptietoestellen weer beschikbaar zijn, dan wordt de beller hier op aangeboden.
 
 #### Openingstijden + weekenddiensten
@@ -33,6 +37,16 @@ De tandarts heeft voor het gehele jaar de dienstdoende tandartsen al ingesteld d
 #### Meldteksten
 
 Voor elke tandarts is een aparte meldtekst ingesproken waarin het telefoonnummer wordt vermeld. Deze meldtekst wordt afgespeeld als de desbetreffende tijdsconditie actief is.
+
+ {{</ layout/column2 >}}
+
+ {{< layout/column2 >}}
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1562335607/callvoip-website-belplan-tijdscondities.png)
+
+ {{</ layout/column2 >}}
+
+{{</ layout/columns >}}
 
 ### Benieuwd naar de mogelijkheden voor uw situatie?
 
