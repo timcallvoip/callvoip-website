@@ -36,7 +36,8 @@ intro:
   title: ''
   content: ''
 prijzen: []
-description: ''
+description: Callvoip heeft ervaring met elke branche. Bekijk snel onze brancheoplossingen
+  en laat u adviseren door de beste zakelijk telefonieprovider.
 images: []
 headless: true
 link: ''
