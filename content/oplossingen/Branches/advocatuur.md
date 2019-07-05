@@ -22,11 +22,25 @@ Dankzij de professionele functionaliteiten van de online telefooncentrale van Ca
 
 #### Faxbox
 
+{{< layout/columns >}}
+
+ {{< layout/column2 >}}
+
 Door gebruik te maken van de fax-oplossing van Callvoip blijft de praktijk inkomende bereikbaar onder het faxnummer. Echter komen de faxen nu niet meer fysiek uit een faxapparaat gerold, maar als .pdf bestand binnen via de e-mail. Niet meer onnodig printen én alles al digitaal. Ook het uit-faxen gaat nu digitaal via de online telefooncentrale. Je stuurt digitaal een .pdf-bestand naar een faxnummer.
 
 #### Qaller
 
-Om de bereikbaarheid te optimaliseren is gekozen voor onze mobiele app Qaller. Hiermee kunnen inkomende telefoongesprekken eenvoudig worden doorgezet naar een advocaat die bijvoorbeeld onderweg is. Ook kan de advocaat uitbellen met de app en stuurt daarbij het zakelijk telefoonnummer mee.
+Om de bereikbaarheid te optimaliseren is gekozen voor onze mobiele app Qaller. Hiermee kunnen inkomende telefoongesprekken eenvoudig worden doorgezet naar een advocaat die bijvoorbeeld onderweg is. Ook kan de advocaat uitbellen met de app en stuurt daarbij het zakelijk telefoonnummer mee. 
+
+ {{</ layout/column2 >}}
+
+ {{< layout/column2 >}}
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1562335206/callvoip-website-faxbox-versturen.png)
+
+ {{</ layout/column2 >}}
+
+{{</ layout/columns >}}
 
 ### Benieuwd naar de mogelijkheden voor uw situatie?
 
