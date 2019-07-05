@@ -49,7 +49,8 @@ team:
   function: Commercieel Medewerker
   name: Ralph Elshot
   image: "/v1557495164/Portretfoto.jpg"
-description: ''
+description: 'Maak kennis met het team van Callvoip: Ralph, Dion, Remco, Lynn, Milan,
+  Herman, Marieke & Robert.'
 images: []
 menu:
   main:
