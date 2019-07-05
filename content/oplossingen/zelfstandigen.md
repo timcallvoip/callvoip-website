@@ -103,7 +103,8 @@ prijzen:
     items:
     - title: Basis Abonnement
       price: '7.50'
-description: ''
+description: Op zoek naar telefonie voor ZZP? Callvoip biedt u de oplossing. Ontdek
+  de voordelen en mogelijkheden van onze modernste online telefooncentrale.
 images: []
 menu:
   main:
