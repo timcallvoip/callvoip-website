@@ -22,7 +22,8 @@ blocks:
     <a href="/overons/team" class="button">Bekijk de medewerkers van Callvoip hier!</a>
   image: "/v1560244521/callvoip-website-werkenbij2.jpg"
   position: image_left
-description: ''
+description: Ben je op zoek naar een echte uitdaging en een leuk team? Bekijk dan
+  snel welke interessante vacatures wij op dit moment hebben.
 images: []
 menu:
   main:
