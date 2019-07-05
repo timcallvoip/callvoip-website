@@ -112,7 +112,8 @@ prijzen:
     items:
     - title: Basis Abonnement
       price: '7.50'
-description: ''
+description: 'Zakelijke telefonie voor het MKB: dé professionele telefonie-oplossing
+  voor uw situatie. Vraag een vrijblijvende offerte aan bij Callvoip. '
 images: []
 menu:
   main:

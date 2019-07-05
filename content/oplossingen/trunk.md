@@ -92,7 +92,8 @@ prijzen:
       price: '2.00'
     - title: Eenmalig
       price: '15.00'
-description: ''
+description: De veiligste VoIP trunk voor uw eigen telefooncentrale. Met een VoIP
+  trunk belt u met uw eigen VoIP centrale via de lijnen van Callvoip.
 images: []
 menu:
   main:
