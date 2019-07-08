@@ -22,6 +22,10 @@ Dankzij de professionele functionaliteiten van de online telefooncentrale van Ca
 
 #### Meldtekst
 
+{{< layout/columns >}}
+
+ {{< layout/column2 >}}
+
 Om meer professionaliteit uit te stralen krijgt elke beller eerst een meldtekst te horen. In deze meldtekst wordt men welkom geheten bij de salon. Vervolgens rinkelt het toestel op de desbetreffende vestiging die wordt gebeld.
 
 #### Belgroep + Prefix
@@ -31,6 +35,16 @@ Mocht de salon niet in staat zijn om op te nemen, dan wordt de beller na een hal
 #### Openingstijden
 
 Via tijdscondities wordt bepaalt welke belroute de beller volgt. Binnen werktijd rinkelen toestellen. Buiten werktijd krijgt de beller een melding dat men gesloten is, wat de regulier openingstijden zijn en wordt vervolgens de verbinding verbroken.
+
+ {{</ layout/column2 >}}
+
+ {{< layout/column2 >}}
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1562576787/callvoip-website-branches-kapsalon-voorbeeld.png)
+
+ {{</ layout/column2 >}}
+
+{{</ layout/columns >}}
 
 ### Benieuwd naar de mogelijkheden voor uw situatie?
 
