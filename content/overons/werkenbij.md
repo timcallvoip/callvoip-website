@@ -14,7 +14,7 @@ blocks:
     \n<p>De wereld van VoIP verandert snel en betekent dus: snel schakelen, bijblijven
     en nieuwe mogelijkheden verkennen. Spreekt dit je aan en ben je op zoek naar een
     veelzijdige dynamische stageplek of werkplek? Dan horen wij graag van je!</p>"
-  image: "/v1560244458/callvoip-website-werkenbij1.jpg"
+  image: "/v1562576110/callvoip-website-hoorn.png"
   position: image_right
 - title: Met wie kom je te werken?
   content: |-
