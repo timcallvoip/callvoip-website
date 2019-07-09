@@ -9,10 +9,10 @@ hero:
   image: ''
 menu:
   main:
-    weight: 6
+    weight: 5
     parent: Over ons
   overons:
-    weight: 6
+    weight: 5
     Name: Testimonials
 
 ---
