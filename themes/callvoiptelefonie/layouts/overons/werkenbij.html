@@ -39,7 +39,7 @@
               <a href="{{.URL}}" class="block bg-white font-medium shadow no-underline py-6 lg:py-12 px-6 lg:px-8 xl:px-10 rounded-lg text-grey-dark mb-6 lg:mb-8">
                 {{ with .Params.tag }}
                 <span class="block text-grey-medium lg:text-lg mb-4 lg:mb-6">
-                  {{ humanize . }}
+                  {{ . }}
                 </span>
                 {{ end }}
                 {{ with .Params.title }}
