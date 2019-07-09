@@ -26,13 +26,27 @@ Nu er een telefoonnummer is en het bureau bereikbaar is, wordt er nagedacht over
 
 Inkomende belletjes worden naar de bureautoestellen van de werknemers gezet, alle toestellen rinkelen simultaan. Buiten werktijden krijgt de beller een melding te horen dat de zaak gesloten en men kan na de toon een voicemailbericht sturen.
 
-#### E-mail
+#### Click-to-Dial
 
-Binnen werktijden geeft men de beller liever niet de mogelijkheid om een voicemailbericht in te spreken. Wel wil men weten wie er gebeld heeft én wanneer. Hiervoor wordt de e-mail functionaliteit ingezet. Elke beller die niet beantwoord is, daar wordt het tijdstip van bellen en telefoonnummer van gemaild.
+{{< layout/columns >}}
+
+ {{< layout/column2 >}}
+
+Er wordt veel uitgebeld en dit wordt een stuk eenvoudiger met onze Click-to-Dial. Door op een telefoonnummer te klikken in de Chrome browser, belt je toestel uit. Ook bij binnenkomende oproepen ziet men meteen wie er belt dankzij het geïntegreerde telefoonboek.
 
 #### Qaller
 
 Elke medewerker werkt minimaal 1 dag vanuit huis. Hier moet men ook bereikbaar zijn, maar nog belangrijker, men moet vanuit hier ook met het zakelijk telefoonnummer kunnen uitbellen. Hiervoor gebruikt men de Qaller app voor de mobiele telefoon. Deze app koppelt u met uw toestel op de online telefooncentrale. Als dat toetstel rinkelt, dan rinkelt de Qaller ook. Via de app kunt uw uitbellen en u bepaalt of u met het nummer van de zaak uitbelt of anoniem.
+
+ {{</ layout/column2 >}}
+
+ {{< layout/column2 >}}
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1562676419/Callvoip-website-branches-marketing-voorbeeld.png)
+
+ {{</ layout/column2 >}}
+
+{{</ layout/columns >}}
 
 ### Benieuwd naar de mogelijkheden voor uw situatie?
 
