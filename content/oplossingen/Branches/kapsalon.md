@@ -14,10 +14,6 @@ Als kapsalon is het belangrijk dat u goed bereikbaar bent voor uw klanten. Binne
 
 ### Situatiebeschrijving
 
-{{< layout/columns >}}
-
- {{< layout/column2 >}}
-
 De eigenaar van de verschillende kapsalons merkt dat er veel inkomende belletjes gemist worden doordat alleen de desbetreffende kapsalon kan opnemen. De wens is er om inkomende oproepen door te schakelen naar kantoor om zo alle oproepen op te vangen.
 
 ### De oplossing van Callvoip
@@ -25,6 +21,10 @@ De eigenaar van de verschillende kapsalons merkt dat er veel inkomende belletjes
 Dankzij de professionele functionaliteiten van de online telefooncentrale van Callvoip zijn de kapsalons beter bereikbaar en kan men efficiënter werken. De volgende functionaliteiten zijn ingezet:
 
 #### Meldtekst
+
+{{< layout/columns >}}
+
+{{< layout/column2 >}}
 
 Om meer professionaliteit uit te stralen krijgt elke beller eerst een meldtekst te horen. In deze meldtekst wordt men welkom geheten bij de salon. Vervolgens rinkelt het toestel op de desbetreffende vestiging die wordt gebeld.
 
@@ -36,13 +36,13 @@ Mocht de salon niet in staat zijn om op te nemen, dan wordt de beller na een hal
 
 Via tijdscondities wordt bepaalt welke belroute de beller volgt. Binnen werktijd rinkelen toestellen. Buiten werktijd krijgt de beller een melding dat men gesloten is, wat de regulier openingstijden zijn en wordt vervolgens de verbinding verbroken.
 
- {{</ layout/column2 >}}
+{{</ layout/column2 >}}
 
- {{< layout/column2 >}}
+{{< layout/column2 >}}
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1562576787/callvoip-website-branches-kapsalon-voorbeeld.png)
 
- {{</ layout/column2 >}}
+{{</ layout/column2 >}}
 
 {{</ layout/columns >}}
 
