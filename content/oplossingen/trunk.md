@@ -39,7 +39,7 @@ usps:
     content: U krijgt een backup-trunk en fallback op hosted centrale.
   - icon: fa-unlock
     title: Veilig
-    content: Uitgebreid palet aan beveiligingsopties (IP-Whitelist, Destination Whitlest
+    content: Uitgebreid palet aan beveiligingsopties (IP-Whitelist, Destination Whitelist
       en meer).
   - icon: fa-comment-alt-smile
     title: Voordelig
