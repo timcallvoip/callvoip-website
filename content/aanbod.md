@@ -59,10 +59,11 @@ aanbod:
       content: Maak het uzelf gemakkelijk. Verbind de online telefooncentrale met...
       icon: fa-laptop
     item:
-      title: Moderne software
-      content: Bij Callvoip geloven we dat ondernemers vrijheid willen om te ondernemen.
-        Niet vast willen zitten. Daarom is Callvoip op ieder moment opzegbaar. Wel
-        zo fijn als je andere plannen krijgt.
+      title: Verschillende integraties
+      content: Koppel de online telefooncentrale met uw CRM-pakket, maak gebruik van
+        de Click-to-Dial, bouw zelf een koppeling via onze Realtime API of integreer
+        uw mobiele telefoons met de Vast Mobiel Integratie (Vamos). Benieuwd naar
+        de mogelijkheden voor uw situatie?
       image: "/v1557906588/Vamos.png"
       button:
         content: Vraag een offerte aan!
