@@ -42,8 +42,8 @@ aanbod:
         content: Meer over bellen
         link: ''
   - tab:
-      title: Razendsnel Internet
-      content: Je eigen centrale in de cloud. Geen gedoe met verouderde hardware.
+      title: Het beste internet
+      content: Zakelijk internet is een belangrijke basis voor uw organisatie.
       icon: fa-wifi
     item:
       title: Razendsnel Internet
@@ -55,8 +55,8 @@ aanbod:
         content: Meer over bellen
         link: ''
   - tab:
-      title: Moderne software
-      content: Bel eenvoudig vanaf je laptop met onze handige plugins
+      title: Integratie
+      content: Maak het uzelf gemakkelijk. Verbind de online telefooncentrale met...
       icon: fa-laptop
     item:
       title: Moderne software
