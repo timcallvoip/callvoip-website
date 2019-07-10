@@ -40,7 +40,7 @@ aanbod:
       image: "/v1552466820/hostedvoip.svg"
       button:
         content: Meer over bellen
-        link: ''
+        link: "/hosted-voip/"
   - tab:
       title: Het beste internet
       content: Zakelijk internet is een belangrijke basis voor uw organisatie.
@@ -52,8 +52,8 @@ aanbod:
         zo fijn als je andere plannen krijgt.
       image: "/v1552466820/hostedvoip.svg"
       button:
-        content: Meer over bellen
-        link: ''
+        content: Ik wil een postcodecheck!
+        link: "/internet/postcodecheck/"
   - tab:
       title: Integratie
       content: Maak het uzelf gemakkelijk. Verbind de online telefooncentrale met...
@@ -63,10 +63,10 @@ aanbod:
       content: Bij Callvoip geloven we dat ondernemers vrijheid willen om te ondernemen.
         Niet vast willen zitten. Daarom is Callvoip op ieder moment opzegbaar. Wel
         zo fijn als je andere plannen krijgt.
-      image: "/v1552466820/hostedvoip.svg"
+      image: "/v1557906588/Vamos.png"
       button:
-        content: Meer over bellen
-        link: ''
+        content: Vraag een offerte aan!
+        link: "/offerte/"
 intro:
   title: Zakelijke bereikbaarheid, wat gaat mij dat kosten?
   content: Callvoip weet dat bij elke onderneming de telefoniesituatie anders is en
