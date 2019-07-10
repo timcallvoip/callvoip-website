@@ -74,21 +74,26 @@ intro:
     met alle branches, kunnen wij u die oplossing bieden. Uw zakelijke bereikbaarheid
     staat bij ons bovenaan!
 prijzen:
-- title: Zelfstandigen
-  content: Geen telefooncentrale op locatie, maar een moderne gebruiksvriendelijk.
+- title: Een voorbeeld
+  content: De online telefooncentrale is enorm schaalbaar en bouwt u zelf op naar
+    uw wensen. Zo betaalt u nooit te veel!
   button:
-    title: Stel je pakket samen
-    link: ''
+    title: Bereken het zelf!
+    link: "/calculator/"
   tarieven:
     title: Maandelijkse kosten
-    footer: Prijzen zijn vanaf en per maand
+    footer: Prijzen zijn excl. BTW
     items:
     - title: Basis Abonnement
+      price: '7.50'
+    - title: Telefoonnummer (1x)
+      price: 2
+    - title: Toestelaccount (4x)
+      price: 16
+    - title: Wachtrij (1x)
       price: 4
-    - title: Telefoonnummer
-      price: 3
-    - title: Voicemail
-      price: 1
+    - title: Koppeling CRM-pakket (4x)
+      price: 16
 description: 'Benieuwd naar het aanbod van Callvoip? Totaalleverancier: de modernste
   telefonie, het snelste internet en de beste apparatuur. Alles onder één dak.'
 images: []
