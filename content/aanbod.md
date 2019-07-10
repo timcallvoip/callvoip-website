@@ -9,7 +9,7 @@ hero:
   image: "/v1552466820/aanbod-hero.jpg"
   button:
     content: Ontdek het aanbod van Callvoip
-    link: "#page"
+    link: "#onsproductaanbod"
 kiezen:
   title: Waarom kiezen voor Callvoip?
   content: CallvoipTelefonie zorgt ervoor dat u als ondernemer altijd bereikbaar bent.
