@@ -14,7 +14,7 @@ hero:
   image: "/v1556267113/gesprekken.png"
 blocks:
 - content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent, dat
-    gaat verder dan alleen maar telefonie via vaste teostellen. Ook op uw mobiele
+    gaat verder dan alleen maar telefonie via vaste toestellen. Ook op uw mobiele
     telefoon bent u altijd bereikbaar met onze <a href="/telefonie/qaller/">Qaller</a>
     en <a href="/telefonie/vastmobielintegratie/">Vamos</a> oplossing.
   image: "/v1552466820/phones.png"
@@ -60,8 +60,8 @@ usps:
     title: Welke internetverbinding is het meest geschikt?
     content: 'Praktisch iedere internetverbinding is geschikt. Dit kan zowel <a href="/internet/dsl/">dsl</a>,
       <a href="/internet/glasvezel/">glasvezel</a> of <a href="/internet/kabel/">via
-      de kabel</a>. Echter is het netwerkapparatuur zeer belangrijks bij de werking
-      van VoIP. '
+      de kabel</a>. Echter is netwerkapparatuur zeer belangrijk bij de werking van
+      VoIP. '
 intro:
   title: Wat kost bellen met Callvoip?
   content: "Iedere klant is anders en dat betekent dus ook dat geen telefooncentrale
