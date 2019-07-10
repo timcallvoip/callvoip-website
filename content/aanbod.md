@@ -74,9 +74,12 @@ intro:
     met alle branches, kunnen wij u die oplossing bieden. Uw zakelijke bereikbaarheid
     staat bij ons bovenaan!
 prijzen:
-- title: Een voorbeeld
+- title: 'Een voorbeeld:'
   content: De online telefooncentrale is enorm schaalbaar en bouwt u zelf op naar
-    uw wensen. Zo betaalt u nooit te veel!
+    uw wensen. Zo betaalt u nooit te veel! <br> In het voorbeeld hiernaast een organisatie
+    met één telefoonnummer en vier medewerkers. Elke medewerker heeft een eigen toestel
+    en een koppeling met het CRM-pakket nodig. De inkomende oproepen worden opgevangen
+    in een wachtrij.
   button:
     title: Bereken het zelf!
     link: "/calculator/"
