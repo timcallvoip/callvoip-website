@@ -91,13 +91,13 @@ prijzen:
     - title: Basis Abonnement
       price: '7.50'
     - title: Telefoonnummer (1x)
-      price: 2
+      price: '2.00'
     - title: Toestelaccount (4x)
-      price: 16
+      price: '16.00'
     - title: Wachtrij (1x)
-      price: 4
+      price: '4.00'
     - title: Koppeling CRM-pakket (4x)
-      price: 16
+      price: '16.00'
 description: 'Benieuwd naar het aanbod van Callvoip? Totaalleverancier: de modernste
   telefonie, het snelste internet en de beste apparatuur. Alles onder één dak.'
 images: []
