@@ -30,14 +30,14 @@ aanbod:
   items:
   - tab:
       title: Modernste telefooncentrale
-      content: Uw eigen telefooncentrale in de cloud. Veilig en eenvoudig te bedienen.
+      content: Uw telefooncentrale in de cloud. Veilig en eenvoudig te bedienen.
       icon: fa-cloud
     item:
       title: Altijd bereikbaar zijn vast en mobiel
       content: Bij Callvoip geloven we dat ondernemers vrijheid willen om te ondernemen.
         Niet vast willen zitten. Daarom is Callvoip op ieder moment opzegbaar. Wel
         zo fijn als je andere plannen krijgt.
-      image: "/v1552466820/hostedvoip.svg"
+      image: "/v1557757556/hero-home-2x.png"
       button:
         content: Meer over bellen
         link: "/hosted-voip/"
