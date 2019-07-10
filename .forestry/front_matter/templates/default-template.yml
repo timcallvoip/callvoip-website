@@ -155,10 +155,10 @@ fields:
         name: price
         label: Price
 pages:
+- content/telefonie/clicktodial.md
 - content/internet/kabel.md
 - content/oplossingen/trunk.md
 - content/telefonie/qaller.md
-- content/telefonie/clicktodial.md
 - content/telefonie/vastmobielintegratie.md
 - content/oplossingen/mkb.md
 - content/oplossingen/zelfstandigen.md
