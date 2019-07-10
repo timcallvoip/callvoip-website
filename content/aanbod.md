@@ -33,10 +33,11 @@ aanbod:
       content: Uw telefooncentrale in de cloud. Veilig en eenvoudig te bedienen.
       icon: fa-cloud
     item:
-      title: Altijd bereikbaar zijn vast en mobiel
-      content: Bij Callvoip geloven we dat ondernemers vrijheid willen om te ondernemen.
-        Niet vast willen zitten. Daarom is Callvoip op ieder moment opzegbaar. Wel
-        zo fijn als je andere plannen krijgt.
+      title: Altijd bereikbaar zijn
+      content: Wij weten als geen ander hoe belangrijk bereikbaarheid is voor ondernemers.
+        Met de modernste online telefooncentrale van Callvoip is dat voor iedereen
+        mogelijk, zowel op uw vaste telefoons als op de mobiel. Benieuwd wat u bij
+        onze Hosted VoIP krijgt?
       image: "/v1557757556/hero-home-2x.png"
       button:
         content: Meer over bellen
