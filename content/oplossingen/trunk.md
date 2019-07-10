@@ -20,7 +20,7 @@ blocks:
   position: image_left
   title: VoIP Trunk van Callvoip
 - content: 'De trunkoplossing van Callvoip is te gebruiken bij bijna alle IP-centrales,
-    waaronder o.a. volgende populaire systemen:'
+    waaronder de volgende populaire systemen:'
   image: "/v1560861389/callvoip-website-trunk-centrales.png"
   position: image_right
   title: Welke VoIP-trunks zijn geschikt?
