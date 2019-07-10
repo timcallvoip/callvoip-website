@@ -7,7 +7,7 @@ featured: true
 hero:
   image: "/v1562745346/printscreenMultipleCallerID.png"
 author: ''
-date: 
+date: 2019-07-09T22:00:00+00:00
 url: "/update-platform-050719/"
 contactpersoon: []
 categories: []
