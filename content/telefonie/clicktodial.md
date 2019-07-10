@@ -53,7 +53,7 @@ usps:
     content: Elk telefoonnummer in Chrome Browser klik- en belbaar.
   - icon: fa-users
     title: Telefoonboek
-    content: Houd eenvoudig een privé en bedrijfstelefoonboek bij.
+    content: U houdt eenvoudig een privé en bedrijfstelefoonboek bij.
   - icon: fa-rocket
     title: BLF
     content: 'Zie snel & eenvoudig of uw collega in gesprek of beschikbaar is. '
@@ -90,5 +90,5 @@ Helemaal niets! De Click-to-Dial is gratis voor klanten van Callvoip.
 
 Geef uw Yealink-telefoon toegang tot het Click-to-Dial telefoonboek
 
-* Kopieer nummers vanuit Click-to-Dial en lokaliseer uw relatie snel in bv. uw CRM
+* Kopieer nummers vanuit Click-to-Dial en lokaliseer uw relatie snel in bijvoorbeeld uw CRM
 * Regelbutton CLICK-TO-DIAL hernoemd naar NUMMERHERKENNING, deze staat default uit. De groene telefoontjes worden pas zichtbaar als u de button inschakelt.
