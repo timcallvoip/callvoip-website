@@ -30,6 +30,8 @@ Beide telefoonnummers (zakelijk & privé) staan op de online telefooncentrale va
 
  {{< layout/column2 >}}
 
+Voor wanneer men onderweg is worden de gesprekken doorgezet naar Qaller. Via de prefix ziet men snel of het gesprek privé of zakelijk is.
+
 #### Postcodecheck
 
 Verder heeft het assurantiekantoor gebruik gemaakt van de vrijblijvende postcodecheck van Callvoip. Hier kwam naar voren dat in dit geval een internetverbinding van Ziggo de snelste verbinding is. Callvoip heeft het gehele aanvraagtraject begeleid.
