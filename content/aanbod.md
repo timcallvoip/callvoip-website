@@ -29,9 +29,9 @@ aanbod:
   title: Ons product aanbod
   items:
   - tab:
-      title: Bellen via de Cloud
-      content: Automatisch je gesprek doorzetten naar je mobiele telefoon.
-      icon: fa-mobile-alt
+      title: Modernste telefooncentrale
+      content: Uw eigen telefooncentrale in de cloud. Veilig en eenvoudig te bedienen.
+      icon: fa-cloud
     item:
       title: Altijd bereikbaar zijn vast en mobiel
       content: Bij Callvoip geloven we dat ondernemers vrijheid willen om te ondernemen.
