@@ -29,7 +29,7 @@ usps:
   items:
   - icon: fa-rocket
     title: Het snelste internet
-    content: U behaalt downloadsnelheden tot wel 600 Mbit/s bij Ziggo.
+    content: U behaalt downloadsnelheden tot wel 600 Mbit/s bij Ziggo Zakelijk Pro.
   - icon: fa-trophy
     title: De beste provider
     content: Bij de Tweakers Awards 18/19 is Ziggo als beste provider uit de bus gekomen.
