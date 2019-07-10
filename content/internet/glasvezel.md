@@ -6,8 +6,8 @@ logos: false
 hero:
   title: Glasvezel
   content: Met een glasvezel verbinding heeft u uw eigen lijn en een stabiele snelheid.
-    Een upload- als de downloadsnelheid staan aan elkaar gelijk. Zo heeft u 1 aanspreekpunt
-    en ontvangt u korting op de maandelijkse abonnementsprijs.
+    Zowel de upload- als de downloadsnelheid staan aan elkaar gelijk. Zo heeft u 1
+    aanspreekpunt en ontvangt u korting op de maandelijkse abonnementsprijs.
   button:
     content: Benieuwd naar de mogelijkheden?
     link: "/internet/postcodecheck/"
@@ -16,10 +16,10 @@ blocks:
 - title: Callvoip FTTH Glasvezel – dé beste basis voor VoIP telefonie!
   image: ''
   content: Voor een goede kwaliteit VoIP is een stabiele internetverbinding een noodzakelijk
-    ingrediënt. CallvoipTelefonie biedt naast de standaard DSL-verbindingen ook glasvezel
-    (Fiber to the Home). Situaties en wensen verschillen – wij zijn u daarom graag
-    van dienst bij het vinden van de juiste mix aan diensten en producten. Alles zodat
-    u verzekerd bent van de beste basis voor VoIP telefonie.
+    ingrediënt. Callvoip biedt naast de standaard DSL-verbindingen ook glasvezel (Fiber
+    to the Home). Situaties en wensen verschillen – wij zijn u daarom graag van dienst
+    bij het vinden van de juiste mix aan diensten en producten. Alles zodat u verzekerd
+    bent van de beste basis voor VoIP telefonie.
   position: image_left
 usps:
   title: Waarom kiezen voor glasvezel van Callvoip (FTTH)?
