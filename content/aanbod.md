@@ -48,9 +48,10 @@ aanbod:
       icon: fa-wifi
     item:
       title: Razendsnel Internet
-      content: Bij Callvoip geloven we dat ondernemers vrijheid willen om te ondernemen.
-        Niet vast willen zitten. Daarom is Callvoip op ieder moment opzegbaar. Wel
-        zo fijn als je andere plannen krijgt.
+      content: Internet is een belangrijke basis voor elke organisatie. Helemaal als
+        u ook nog eens belt via het internet. Naast telefonie bieden wij verschillende
+        internetverbindingen aan. Bent u opzoek naar betere verbinding? Wij bekijken
+        graag de mogelijkheden voor u!
       image: "/v1552466820/hostedvoip.svg"
       button:
         content: Ik wil een postcodecheck!
