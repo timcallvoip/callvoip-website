@@ -37,8 +37,8 @@ usps:
     content: U belt bij ons voor een vast bedrag per maand of tegen de reguliere lage
       gesprekskosten.
   - title: Vast mobiel integratie
-    content: Een simkaart waarbij u op bereikbaar bent voor uw mobiele als zakelijke
-      telefoonnummer.
+    content: Een simkaart waarop u bereikbaar bent met zowel uw mobiele als zakelijke
+      vaste telefoonnummer.
     icon: fa-mobile
   - icon: fa-mouse-pointer
     title: Gratis Click-to-Dial
