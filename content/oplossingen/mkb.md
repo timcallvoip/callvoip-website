@@ -15,11 +15,11 @@ hero:
 blocks:
 - content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent, dat
     gaat verder dan alleen maar telefonie. Betrouwbaar internet en goede apparatuur
-    mogen daarbij niet ontbreken. Callvoip begeleid u daar graag bij en zo heeft u
-    alles onder één dak.
+    mogen daarbij niet ontbreken. Callvoip begeleidt u daar graag bij en zo heeft
+    u alles onder één dak.
   image: "/v1552466820/phones.png"
   position: image_left
-  title: Zakelijke VoIP waar je op kan vertrouwen
+  title: De beste telefonie voor het MKB!
 - content: "Uw organisatie is uniek en heeft eigen telefonie-wensen en -eisen.\nDankzij
     de uitgebreide en zeer flexibele Simmpl telefooncentrale biedt Callvoip wat u
     zoekt: een complete hosted VoIP-oplossing met telefoonnummers en als u wenst hardware
