@@ -40,7 +40,7 @@ aanbod:
         onze Hosted VoIP krijgt?
       image: "/v1557757556/hero-home-2x.png"
       button:
-        content: Meer over bellen
+        content: Meer over Hosted VoIP
         link: "/hosted-voip/"
   - tab:
       title: Het beste internet
