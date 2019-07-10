@@ -42,8 +42,8 @@ usps:
     icon: fa-mobile
   - icon: fa-mouse-pointer
     title: Gratis Click-to-Dial
-    content: Om het leven & telefonie nog gemakkelijker te maken, bieden wij onze
-      Click-to-Dial gratis aan u aan.
+    content: Om het leven & telefonie nog gemakkelijker te maken, bieden wij u onze
+      Click-to-Dial app gratis aan.
   - icon: fa-arrows-h
     title: Nummerbehoud
     content: Heeft u al een telefoonnummer? Dit nummer nemen wij eenvoudig en snel

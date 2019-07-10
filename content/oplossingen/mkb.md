@@ -54,8 +54,8 @@ usps:
     content: Al jaren ervaring en duizenden klanten geholpen naar de beste telefonieoplossing.
   - icon: fa-mouse-pointer
     title: Gratis Click-to-Dial
-    content: Om het leven & telefonie nog gemakkelijker te maken, bieden wij onze
-      Click-to-Dial gratis aan u aan.
+    content: Om het leven & telefonie nog gemakkelijker te maken, bieden wij u onze
+      Click-to-Dial app gratis aan.
 intro:
   title: Iedere organisatie is uniek!
   content: 'Daarom is het lastig te vertellen wat u precies gaat betalen. Hieronder
