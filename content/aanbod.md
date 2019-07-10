@@ -12,16 +12,17 @@ hero:
     link: "#onsproductaanbod"
 kiezen:
   title: Waarom kiezen voor Callvoip?
-  content: CallvoipTelefonie zorgt ervoor dat u als ondernemer altijd bereikbaar bent.
-    Op kantoor via een vasttoestel of onderweg via uw eigen mobiel. Altijd bereikbaar
-    zijn via één en hetzelfde nummer, wel zo handig voor uw klanten.
+  content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent. Op kantoor
+    via een vasttoestel of onderweg via uw eigen mobiel. Altijd bereikbaar zijn via
+    één en hetzelfde nummer, wel zo handig voor uw klanten. Benieuwd naar de mogelijkheden
+    voor uw organisatie?
   button:
     content: Start chat met onze specialisten
   items:
   - icon: fa-file-contract
     content: Elke maand opzegbaar geen lange moeilijke contracten.
   - icon: fa-boxes-alt
-    content: Eenvoudig samenstellen via uw eigen beveiligde omgeving.
+    content: Eenvoudige bediening via uw eigen beveiligde omgeving.
   - icon: fa-piggy-bank
     content: Tot wel 50% voordeliger dan tradionele telefooncentrale
 aanbod:
