@@ -68,10 +68,11 @@ aanbod:
         content: Meer over bellen
         link: ''
 intro:
-  title: Je partner voor zakelijke bereikbaarheid
-  content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent, dat
-    gaat verder dan alleen maar telefonie. Betrouwbaar internet en goede apparatuur
-    mogen daarbij niet ontbreken.
+  title: Zakelijke bereikbaarheid, wat gaat mij dat kosten?
+  content: Callvoip weet dat bij elke onderneming de telefoniesituatie anders is en
+    dus een andere oplossing verwacht. Doordat wij al meer dan 10 jaar ervaring hebben
+    met alle branches, kunnen wij u die oplossing bieden. Uw zakelijke bereikbaarheid
+    staat bij ons bovenaan!
 prijzen:
 - title: Zelfstandigen
   content: Geen telefooncentrale op locatie, maar een moderne gebruiksvriendelijk.
