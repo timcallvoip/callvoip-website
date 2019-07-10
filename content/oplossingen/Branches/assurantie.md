@@ -40,7 +40,7 @@ Verder heeft het assurantiekantoor gebruik gemaakt van de vrijblijvende postcode
 
  {{< layout/column2 >}}
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1562743458/Callvoip-website-branches-assurantie-postcodecheck.png)
+![](https://res.cloudinary.com/callvoip/image/upload/v1562743614/Callvoip-website-branches-assurantie-postcodecheck.png)
 
  {{</ layout/column2 >}}
 
