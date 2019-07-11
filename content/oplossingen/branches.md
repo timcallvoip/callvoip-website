@@ -14,19 +14,23 @@ hero:
 blocks:
 - title: Advocatuur
   image: "/v1561639237/callvoip-website-branches-advocatuur.png"
-  content: ''
+  content: <a href="/oplossingen/branches/advocatuur/" class="button">Bekijk hier
+    de brancheoplossing</a>
   position: image_left
 - title: Makelaardij
   image: "/v1561542250/callvoip-website-branches-makelaardij.png"
-  content: ''
+  content: <a href="/oplossingen/branches/makelaardij/" class="button">Bekijk hier
+    de brancheoplossing</a>
   position: image_right
 - title: Recruitment
   image: "/v1561638617/callvoip-website-branches-recruitment.png"
-  content: ''
+  content: <a href="/oplossingen/branches/recruitment/" class="button">Bekijk hier
+    de brancheoplossing</a>
   position: image_left
 - title: Fysiotherapie
   image: "/v1561542873/callvoip-website-branches-fysiotherapier.png"
-  content: ''
+  content: <a href="/oplossingen/branches/fysiotherapie/" class="button">Bekijk hier
+    de brancheoplossing</a>
   position: image_right
 usps:
   title: Zit u in een andere branche?
