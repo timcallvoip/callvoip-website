@@ -34,7 +34,11 @@ U past bovenstaande eenvoudig aan op het panel onder het tabblad **Gebruikers** 
 
 Er zijn extra statistieken toegevoegd aan de gespreksrapportages. Zo heeft u sneller en beter inzicht in uw bereikbaarheid. U vindt deze extra statistieken onder **Rapporten** en vervolgens bovenaan achter het tabje **Call Statistics**.
 
-U kunt hier per belplan bekijken wat de dagelijkse of wekelijkse statistieken (beantwoorde gesprekken, gespreksduur en piekuur) zijn:![](https://res.cloudinary.com/callvoip/image/upload/v1562745475/printscreenCallStatistics.png)
+U kunt hier per belplan bekijken wat de dagelijkse of wekelijkse statistieken (beantwoorde gesprekken, gespreksduur en piekuur) zijn:
+
+<a href="http://www.simmpl.nl/downloads/Callvoip_Snelstart_Bereikbaarheidsdashboard.pdf" class="button">Snelstart handleiding</a>
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1562745475/printscreenCallStatistics.png)
 
 * **Bij warm doorverbinden ziet u het nummer van de beller**
 
