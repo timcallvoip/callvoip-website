@@ -31,7 +31,25 @@ blocks:
 usps:
   title: ''
   content: ''
-  items: []
+  items:
+  - title: ICT
+    content: Bekijk hier de brancheoplossing voor het ICT.
+    icon: fa-server
+  - icon: fa-cut
+    title: Kapsalon
+    content: Bekijk hier de brancheoplossing voor een kapsalon.
+  - icon: fa-ad
+    title: Marketing
+    content: Bekijk hier de brancheoplossing voor een marketingbureau.
+  - icon: fa-tooth
+    content: Bekijk hier de brancheoplossing voor een tandartspraktijk.
+    title: Tandartsprakijk
+  - title: Assurantie
+    content: Bekijk hier de brancheoplossing voor een assurantiekantoor.
+    icon: fa-abacus
+  - icon: fa-shopping-cart
+    title: Webwinkel
+    content: Bekijk hier de brancheoplossing voor een webwinkel.
 intro:
   title: ''
   content: ''
