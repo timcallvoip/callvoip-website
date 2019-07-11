@@ -38,14 +38,16 @@ usps:
     bij? Neem dan contact met ons op! Wij bespreken graag de mogelijkheden met u.
   items:
   - title: ICT
-    content: Bekijk hier de brancheoplossing voor het ICT.
+    content: <a href="/oplossingen/branches/ict/" class="button">Bekijk hier de brancheoplossing</a>
     icon: fa-server
   - icon: fa-cut
     title: Kapsalon
-    content: Bekijk hier de brancheoplossing voor een kapsalon.
+    content: <a href="/oplossingen/branches/kapsalon/" class="button">Bekijk hier
+      de brancheoplossing</a>
   - icon: fa-ad
     title: Marketing
-    content: Bekijk hier de brancheoplossing voor een marketingbureau.
+    content: <a href="/oplossingen/branches/marketing/" class="button">Bekijk hier
+      de brancheoplossing</a>
   - icon: fa-tooth
     content: Bekijk hier de brancheoplossing voor een tandartspraktijk.
     title: Tandartsprakijk
