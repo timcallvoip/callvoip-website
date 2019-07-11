@@ -12,25 +12,26 @@ hero:
     link: "/calculator"
   image: "/v1557757556/hero-home-2x.png"
 blocks:
-- content: "<p>Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent,
-    dat gaat verder dan alleen maar telefonie. Betrouwbaar internet en goede apparatuur
-    mogen daarbij niet ontbreken.</p>"
-  image: "/v1561018210/callvoip-website-branches-tandarts-groot.png"
-  position: image_left
-  title: Tandartspraktijk
-- title: Reisbureau
-  image: "/v1561018299/callvoip-website-branches-reizen-groot.png"
+- title: Advocatuur
+  image: ''
   content: ''
-  position: image_right
-- content: "<p>Callvoip is de zakelijke telefonieprovider waar persoonlijk contact
-    centraal staat. Maak daarom kennis met [ons team](/team) en weet wie u aan de
-    lijn heeft.</p>"
-  image: "/v1561018246/callvoip-website-branches-autodealer-groot.png"
-  position: image_left
-  title: Autodealer
+  position: ''
+- title: Makelaardij
+  image: ''
+  content: ''
+  position: ''
+- title: Recruitment
+  image: ''
+  content: ''
+  position: ''
+- title: Fysiotherapie
+  image: ''
+  content: ''
+  position: ''
 usps:
-  title: ''
-  content: ''
+  title: Zit u in een andere branche?
+  content: Wij hebben kennis in alle branches, staat uw branche hieronder er niet
+    bij? Neem dan contact met ons op! Wij bespreken graag de mogelijkheden met u.
   items:
   - title: ICT
     content: Bekijk hier de brancheoplossing voor het ICT.
