@@ -13,21 +13,21 @@ hero:
   image: "/v1557757556/hero-home-2x.png"
 blocks:
 - title: Advocatuur
-  image: ''
+  image: "/v1561639237/callvoip-website-branches-advocatuur.png"
   content: ''
-  position: ''
+  position: image_left
 - title: Makelaardij
-  image: ''
+  image: "/v1561542250/callvoip-website-branches-makelaardij.png"
   content: ''
-  position: ''
+  position: image_right
 - title: Recruitment
-  image: ''
+  image: "/v1561638617/callvoip-website-branches-recruitment.png"
   content: ''
-  position: ''
+  position: image_left
 - title: Fysiotherapie
-  image: ''
+  image: "/v1561542873/callvoip-website-branches-fysiotherapier.png"
   content: ''
-  position: ''
+  position: image_right
 usps:
   title: Zit u in een andere branche?
   content: Wij hebben kennis in alle branches, staat uw branche hieronder er niet
