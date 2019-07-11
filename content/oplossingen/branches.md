@@ -49,14 +49,17 @@ usps:
     content: <a href="/oplossingen/branches/marketing/" class="button">Bekijk hier
       de brancheoplossing</a>
   - icon: fa-tooth
-    content: Bekijk hier de brancheoplossing voor een tandartspraktijk.
+    content: <a href="/oplossingen/branches/tandarts/" class="button">Bekijk hier
+      de brancheoplossing</a>
     title: Tandartsprakijk
   - title: Assurantie
-    content: Bekijk hier de brancheoplossing voor een assurantiekantoor.
+    content: <a href="/oplossingen/branches/assurantie/" class="button">Bekijk hier
+      de brancheoplossing</a>
     icon: fa-abacus
   - icon: fa-shopping-cart
     title: Webwinkel
-    content: Bekijk hier de brancheoplossing voor een webwinkel.
+    content: <a href="/oplossingen/branches/webwinkel/" class="button">Bekijk hier
+      de brancheoplossing</a>
 intro:
   title: ''
   content: ''
