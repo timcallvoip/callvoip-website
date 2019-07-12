@@ -75,6 +75,11 @@ sections:
   label: Vacatures
   create: documents
   match: "**/*"
+- type: directory
+  path: content/formulier
+  label: Formulieren
+  create: documents
+  match: "**/*"
 - type: heading
   label: Settings
 - type: document
