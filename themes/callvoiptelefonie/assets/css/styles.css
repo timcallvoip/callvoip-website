@@ -75,6 +75,10 @@ a {
   @apply mb-6 text-grey-medium;
 }
 
+.user-content p:empty {
+  display: none !Important;
+}
+
 .user-content {
   @apply text-grey-medium;
 }
