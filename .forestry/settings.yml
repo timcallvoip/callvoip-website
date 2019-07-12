@@ -80,6 +80,8 @@ sections:
   label: Formulieren
   create: documents
   match: "**/*"
+  templates:
+  - formulier
 - type: heading
   label: Settings
 - type: document
