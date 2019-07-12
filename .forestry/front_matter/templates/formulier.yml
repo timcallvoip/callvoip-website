@@ -12,3 +12,5 @@ fields:
   config:
     required: false
   label: URL
+pages:
+- content/formulier/aanvragen-nummer.md
