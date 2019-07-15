@@ -31,7 +31,7 @@ Vul het formulier in, controleer de bevestigingsmail en stuur deze per mail naar
 
 {{< form/button "Verstuur formulier" >}}
 
-<br>
+<br><br>
 
 {{< layout/columns >}}  
 {{< layout/column3 >}}  
@@ -94,6 +94,6 @@ Let op:<br>
 – De abonnementskosten worden per 12 maanden vooraf in rekening gebracht.<br>  
 – Dataverbruik wordt gemonitord, uitbreiding naar passende bundel is mogelijk tegen meerprijzen<br>  
 – Alle bedragen zijn excl. BTW.<br>  
-– Vragen of meer informatie? Neem contact met ons op!<br>  
-  
+– Vragen of meer informatie? Neem contact met ons op!<br>
+
 {{</ form >}}
