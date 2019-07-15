@@ -5,7 +5,7 @@ url: "/aanvragen/managed-4g/"
 ---
 {{< layout/columns >}}  
 {{< layout/column3 >}}  
-\**Tarievenoverzicht**  
+\*_Tarievenoverzicht_*  
 {{</ layout/column3 >}}  
 {{< layout/column3 >}}  
 Eenmalig  
@@ -61,7 +61,7 @@ Op aanvraag
 
 Vul het formulier in, controleer de bevestigingsmail en stuur deze per mail naar ons ter bevestiging van uw opdracht. Wij nemen dan z.s.m. met u contact op!
 
-{{< form "Aanvragen Managed 4G" /aanvragen/verzonden/" >}}
+{{< form "Aanvragen Managed 4G" "/aanvragen/verzonden/" >}}
 
 {{< form/fieldset "Bedrijfsgegevens" >}}  
 {{< form/input "Bedrijfsnaam" >}}  
@@ -73,8 +73,8 @@ Vul het formulier in, controleer de bevestigingsmail en stuur deze per mail naar
 {{< form/input "Contactpersoon" >}}  
 {{< form/input "Telefoonnummer" >}}  
 {{< form/email "E-mailadres" required >}}  
-{{</ form/fieldset >}}  
-  
+{{</ form/fieldset >}}
+
 {{< form/fieldset "Aanvraag Managed 4G" >}}  
 {{< form/select "Type verbinding" >}}  
 {{< form/option "Snel internet 4G" >}}  
@@ -83,9 +83,9 @@ Vul het formulier in, controleer de bevestigingsmail en stuur deze per mail naar
 {{< form/option "Tijdelijke internet op locatie" >}}  
 {{</ form/select >}}  
 {{< form/textarea "Opmerkingen" >}}  
-{{</ form/fieldset >}}**  
-  
-**{{< form/button "Verstuur formulier" >}}
+{{</ form/fieldset >}}**
+
+\**{{< form/button "Verstuur formulier" >}}
 
 Let op:
 
