@@ -3,9 +3,39 @@ title: Managed 4G verbinding aanvragen
 url: "/aanvragen/managed-4g/"
 
 ---
+Vul het formulier in, controleer de bevestigingsmail en stuur deze per mail naar ons ter bevestiging van uw opdracht. Wij nemen dan z.s.m. met u contact op!
+
+{{< form "Aanvragen Managed 4G" "/aanvragen/verzonden/" >}}
+
+{{< form/fieldset "Bedrijfsgegevens" >}}  
+{{< form/input "Bedrijfsnaam" >}}  
+{{< form/input "Klantnummer" required >}}  
+{{< form/select "Aanhef" >}}  
+{{< form/option "Heer" >}}  
+{{< form/option "Mevrouw" >}}  
+{{</ form/select >}}  
+{{< form/input "Contactpersoon" >}}  
+{{< form/input "Telefoonnummer" >}}  
+{{< form/email "E-mailadres" required >}}  
+{{</ form/fieldset >}}
+
+{{< form/fieldset "Aanvraag Managed 4G" >}}  
+{{< form/select "Type verbinding" >}}  
+{{< form/option "Snel internet 4G" >}}  
+{{< form/option "Snel internet 4G met onbeperkt data" >}}  
+{{< form/option "Snelle back-up voor glas/kabelinternet" >}}  
+{{< form/option "Tijdelijke internet op locatie" >}}  
+{{</ form/select >}}  
+{{< form/textarea "Opmerkingen" >}}  
+{{</ form/fieldset >}}
+
+{{< form/button "Verstuur formulier" >}}
+
+<br>
+
 {{< layout/columns >}}  
 {{< layout/column3 >}}  
-\*_Tarievenoverzicht_*  
+**Tarievenoverzicht**  
 {{</ layout/column3 >}}  
 {{< layout/column3 >}}  
 Eenmalig  
@@ -57,46 +87,13 @@ Op aanvraag
 {{< layout/column3 >}}  
 Op aanvraag  
 {{</ layout/column3 >}}  
-{{</ layout/columns >}}
-
-Vul het formulier in, controleer de bevestigingsmail en stuur deze per mail naar ons ter bevestiging van uw opdracht. Wij nemen dan z.s.m. met u contact op!
-
-{{< form "Aanvragen Managed 4G" "/aanvragen/verzonden/" >}}
-
-{{< form/fieldset "Bedrijfsgegevens" >}}  
-{{< form/input "Bedrijfsnaam" >}}  
-{{< form/input "Klantnummer" required >}}  
-{{< form/select "Aanhef" >}}  
-{{< form/option "Heer" >}}  
-{{< form/option "Mevrouw" >}}  
-{{</ form/select >}}  
-{{< form/input "Contactpersoon" >}}  
-{{< form/input "Telefoonnummer" >}}  
-{{< form/email "E-mailadres" required >}}  
-{{</ form/fieldset >}}
-
-{{< form/fieldset "Aanvraag Managed 4G" >}}  
-{{< form/select "Type verbinding" >}}  
-{{< form/option "Snel internet 4G" >}}  
-{{< form/option "Snel internet 4G met onbeperkt data" >}}  
-{{< form/option "Snelle back-up voor glas/kabelinternet" >}}  
-{{< form/option "Tijdelijke internet op locatie" >}}  
-{{</ form/select >}}  
-{{< form/textarea "Opmerkingen" >}}  
-{{</ form/fieldset >}}**
-
-\**{{< form/button "Verstuur formulier" >}}
-
-Let op:
-
-– Installatiekosten kunnen variëren o.b.v. wensen, dit wordt met u besproken
-
-– De abonnementskosten worden per 12 maanden vooraf in rekening gebracht.
-
-– Dataverbruik wordt gemonitord, uitbreiding naar passende bundel is mogelijk tegen meerprijzen
-
-– Alle bedragen zijn excl. BTW.
-
-– Vragen of meer informatie? Neem contact met ons op!
-
+{{</ layout/columns >}}  
+<br><br>  
+Let op:<br>  
+– Installatiekosten kunnen variëren o.b.v. wensen, dit wordt met u besproken<br>  
+– De abonnementskosten worden per 12 maanden vooraf in rekening gebracht.<br>  
+– Dataverbruik wordt gemonitord, uitbreiding naar passende bundel is mogelijk tegen meerprijzen<br>  
+– Alle bedragen zijn excl. BTW.<br>  
+– Vragen of meer informatie? Neem contact met ons op!<br>  
+  
 {{</ form >}}
