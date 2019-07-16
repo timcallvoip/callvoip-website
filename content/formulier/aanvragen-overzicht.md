@@ -16,6 +16,10 @@ url: "/aanvragen/"
 ## Internet
 
 * [Managed 4G-oplossing](/aanvragen/managed-4g/)
+* [CallvoipDSL](https://www.callvoip.nl/download/callvoip/callvoip-adsl-vdsl_aanvraagformulier.pdf)
+* [Ziggo Zakelijk Internet](https://www.callvoip.nl/download/callvoip/callvoip_aanvraagformulier_ziggo-connect-zzp.pdf)
+* [Ziggo Zakelijk Internet Pro](https://www.callvoip.nl/download/callvoip/callvoip_aanvraagformulier_ziggo-connect-mkb.pdf)
+* [Glasvezel (via Callvoip)](http://www.simmpl.nl/downloads/callvoip_ftth_aanvraagformulier.pdf)
 
 ## Overig
 
