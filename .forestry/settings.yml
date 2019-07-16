@@ -61,7 +61,6 @@ sections:
 - type: document
   path: content/ondersteuning/_index.md
   label: Ondersteuning overzicht
-  match: "**/*"
 - type: directory
   path: content/ondersteuning
   label: Ondersteuning
