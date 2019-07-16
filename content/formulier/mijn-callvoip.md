@@ -11,7 +11,7 @@ Als bestaande klant van Callvoip kunt altijd uw abonnement wijzigen. Ook kunt u 
 
 <a href="https://www.callvoip.nl/download/callvoip/CallVoip_telefonie_aanvraagformulier.pdf" class="button">Of word klant!</a>
 
-### Aanvragen (overzicht)
+### Aanvragen
 
 {{< layout/columns >}}  
 {{< layout/column2 >}}
@@ -165,7 +165,7 @@ Als bestaande klant van Callvoip kunt altijd uw abonnement wijzigen. Ook kunt u 
 {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
-### Wijzigen (Overzicht)
+### Wijzigen
 
 {{< layout/columns >}}  
 {{< layout/column2 >}}  
@@ -194,7 +194,7 @@ Als bestaande klant van Callvoip kunt altijd uw abonnement wijzigen. Ook kunt u 
 {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
-### Opzeggen (Overzicht)
+### Opzeggen
 
 #### Nummers
 
