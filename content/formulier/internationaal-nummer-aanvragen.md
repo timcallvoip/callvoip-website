@@ -135,14 +135,34 @@ Overige landen
 
 {{</ layout/column3 >}}
 
-{{</ layout/columns >}}<br>
+{{</ layout/columns >}}
 
-**Let op:**<br>  
-\- Voor veel buitenlandse bestemmingen geldt een Call Cost per minute.<br>  
-_Een opslagtarief dat over inkomende gesprekken wordt berekend. Na uw aanvraag laten wij u weten wat deze Call Cost per minute is voor het nummer van uw bestemming._<br>  
-\- Het is niet mogelijk om buitenlandse nummers mee te sturen als uitgaand nummer.<br>  
-_Dit is wél mogelijk voor Belgische en Duitse nummers._<br>  
-\- Buitenlandse nummers en servicenummers hebben een initiële looptijd van een jaar.<br>  
-_Dit in tegenstelling tot de reguliere Nederlandse nummers die ook binnen het eerste jaar een opzegtermijn van één maand hebben._<br>
+<br>
+
+Let op:
+
+<br>
+
+\- Voor veel buitenlandse bestemmingen geldt een Call Cost per minute.
+
+<br>
+
+Een opslagtarief dat over inkomende gesprekken wordt berekend. Na uw aanvraag laten wij u weten wat deze Call Cost per minute is voor het nummer van uw bestemming.
+
+<br>
+
+\- Het is niet mogelijk om buitenlandse nummers mee te sturen als uitgaand nummer.
+
+<br>
+
+Dit is wél mogelijk voor Belgische en Duitse nummers.
+
+<br>
+
+\- Buitenlandse nummers en servicenummers hebben een initiële looptijd van een jaar.
+
+<br>
+
+Dit in tegenstelling tot de reguliere Nederlandse nummers die ook binnen het eerste jaar een opzegtermijn van één maand hebben_._
 
 {{</ form >}}
