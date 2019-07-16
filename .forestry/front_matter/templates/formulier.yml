@@ -13,6 +13,7 @@ fields:
     required: false
   label: URL
 pages:
+- content/formulier/voip-cti-koppeling-met-uw-crm-pakket-aanvragen.md
 - content/formulier/gidsvermelding-aanvragen.md
 - content/formulier/serviceplus-aanvragen.md
 - content/formulier/splitsing-10-blok-aanvragen.md
