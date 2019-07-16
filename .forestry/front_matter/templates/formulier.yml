@@ -13,6 +13,7 @@ fields:
     required: false
   label: URL
 pages:
+- content/formulier/vast-mobiel-vamos-aanvragen.md
 - content/formulier/importeren-telefoonboek-click-to-dial-aanvragen.md
 - content/formulier/088-nummerblok-activatie-aanvragen.md
 - content/formulier/0900-servicenummer-aanvragen.md
