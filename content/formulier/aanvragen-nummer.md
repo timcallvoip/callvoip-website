@@ -39,10 +39,10 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply met akko
 {{< form/option "9" >}}
 {{< form/option "10-blok" >}}
 {{</ form/select >}}  
-{{< form/radiogroup "Wilt u een premium nummer?" "inline" >}}  
-{{< form/radio "Nee" "Wilt u een premium nummer?" >}}  
-{{< form/radio "Ja" "Wilt u een premium nummer?" >}}  
-De toeslag voor een premium (mooi) nummer is € 50,00 excl. BTW.  
+{{< form/radiogroup "Wilt u een premium (mooi) nummer?" "inline" >}}  
+{{< form/radio "Nee" "Wilt u een premium (mooi) nummer?" >}}  
+{{< form/radio "Ja" "Wilt u een premium (mooi) nummer?" >}}  
+_De toeslag is € 50,00 excl. BTW._  
 {{</ form/radiogroup >}}  
 {{< form/textarea "Opmerkingen"  >}}  
 {{</ form/fieldset >}}
