@@ -29,28 +29,24 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{</ form/fieldset >}}
 
-  
- {{< form/fieldset "Aanvraag activatie 088-blok" >}}
+{{< form/fieldset "Aanvraag activatie 088-blok" >}}
 
 {{< form/input "Uw 088-blok" >}}
 
 {{< form/fileupload "ACM beschikking" >}}  
- {{< form/textarea "Opmerkingen" >}}
+{{< form/textarea "Opmerkingen" >}}
 
 {{</ form/fieldset >}}
 
-  
- {{< form/button "Verstuur formulier" >}}  
- 
+{{< form/button "Verstuur formulier" >}}
 
 <br><br>
 
-  
- {{< layout/columns >}}
+{{< layout/columns >}}
 
 {{< layout/column3 >}}
 
-Tariefoverzicht
+**Tariefoverzicht**
 
 {{</ layout/column3 >}}
 
@@ -73,7 +69,7 @@ Eenmalig
 {{< layout/column3 >}}
 
 088-blok activeren  
- {{</ layout/column3 >}}
+{{</ layout/column3 >}}
 
 {{< layout/column3 >}}
 
@@ -87,9 +83,10 @@ Eenmalig
 
 {{</ layout/column3 >}}
 
-{{</ layout/columns >}}
+{{</ layout/columns >}}<br>
 
-  
- Let op: als u al 088-nummers gebruikt, en u wilt een extra 088-nummer in gebruik nemen, dan worden per januari 2017 alle 088-nummers uit uw blok geactiveerd, tegen het tarief van het blok (30 euro). Het is niet meer mogelijk om losse nummers toe te voegen.
+**Let op**: <br>
+
+Als u al 088-nummers gebruikt, en u wilt een extra 088-nummer in gebruik nemen, dan worden per januari 2017 alle 088-nummers uit uw blok geactiveerd, tegen het tarief van het blok (30 euro). Het is niet meer mogelijk om losse nummers toe te voegen.
 
 {{</ form >}}

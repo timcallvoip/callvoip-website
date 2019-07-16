@@ -31,24 +31,20 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{</ form/fieldset >}}
 
-  
- {{< form/fieldset "Aanvraag importeren telefoonboek" >}}
+{{< form/fieldset "Aanvraag importeren telefoonboek" >}}
 
 _Upload hieronder uw telefoonboek om de telefoonnummers te importeren._
 
-{{< form/fileupload "Telefoonboek (_formaat: csv|xlsx|xls_)" >}}  
- {{< form/textarea "Opmerkingen" >}}
+{{< form/fileupload "Telefoonboek (formaat: csv|xlsx|xls)" >}}  
+{{< form/textarea "Opmerkingen" >}}
 
 {{</ form/fieldset >}}
 
-  
- {{< form/button "Verstuur formulier" >}}  
- 
+{{< form/button "Verstuur formulier" >}}
 
 <br><br>
 
-  
- Instructie:
+Instructie:
 
 Stuurt u ons een Excel-bestand met 2 kolommen:
 
@@ -56,9 +52,9 @@ Stuurt u ons een Excel-bestand met 2 kolommen:
 
 • telefoonnummer in formaat +31…
 
-• wij importeren uw telefoonboek in Click-to-Dial, doorlooptijd ca 1 week  
-   
- {{< layout/columns >}}
+• wij importeren uw telefoonboek in Click-to-Dial, doorlooptijd ca 1 week
+
+{{< layout/columns >}}
 
 {{< layout/column3 >}}
 
@@ -85,7 +81,7 @@ Eenmalig
 {{< layout/column3 >}}
 
 Importeren telefoonboek  
- {{</ layout/column3 >}}
+{{</ layout/column3 >}}
 
 {{< layout/column3 >}}
 
