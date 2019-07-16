@@ -27,9 +27,9 @@ Heeft u een telefoonnummer bij een andere provider en wilt u deze ook naar Callv
 
 {{< form/email "E-mailadres" required >}}
 
-{{</ form/fieldset >}}  
-   
- {{< form/fieldset "Aanvraag porteren telefoonnummer(s)" >}}
+{{</ form/fieldset >}}
+
+{{< form/fieldset "Aanvraag porteren telefoonnummer(s)" >}}
 
 {{< form/radiogroup "Soort telefoonnummer" "inline" >}}
 
@@ -44,12 +44,13 @@ Heeft u een telefoonnummer bij een andere provider en wilt u deze ook naar Callv
 {{< form/input "Huidige provider" >}}
 
 {{< form/textarea "Te porteren nummers" >}}  
- {{< form/input "Wensdatum portering" >}}
+{{< form/input "Wensdatum portering" >}}
 
 Wij hebben een kopie van uw telefoonnota nodig om de telefoonnummers te porteren.
 
-{{< form/fileupload "Kopie telefoonnota" >}}**  
- **{{< form/textarea "Opmerkingen" >}}
+{{< form/fileupload "Kopie telefoonnota" >}}
+
+{{< form/textarea "Opmerkingen" >}}
 
 {{</ form/fieldset >}}
 
