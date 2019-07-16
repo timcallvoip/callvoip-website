@@ -13,6 +13,7 @@ fields:
     required: false
   label: URL
 pages:
+- content/formulier/serviceplus-aanvragen.md
 - content/formulier/splitsing-10-blok-aanvragen.md
 - content/formulier/belbundel-aanvragen.md
 - content/formulier/srtp-vesleutelde-gesprekken-aanvragen.md

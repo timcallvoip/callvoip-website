@@ -1,11 +1,13 @@
 ---
-title: Splitsing 10-blok aanvragen
-url: "/aanvragen/verzonden/"
+title: ServicePlus aanvragen
+url: "/aanvragen/serviceplus/"
 
 ---
+ServicePlus is een Managed PBX Service: u betaalt een vast bedrag per maand en wij doen op uw verzoek alle instellingen op de telefooncentrale, en bouwen bovendien de door u gewenste configuratie inclusief meldteksten.
+
 Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akkoord per mail, naar ons ter bevestiging van uw opdracht.
 
-{{< form "aanvragen- splitsing-10blok" "/aanvragen/verzonden" >}}
+{{< form "aanvragen-serviceplus" "/aanvragen/verzonden" >}}
 
 {{< form/fieldset "Bedrijfsgegevens" >}}
 
@@ -27,21 +29,18 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{< form/email "E-mailadres" required >}}
 
-{{</ form/fieldset >}}
-
-{{< form/fieldset "Aanvraag splitsing 10-blok" >}}
-
-{{< form/input "Betreffende 10-blok" >}}
-
-{{< form/textarea "Welke nummers wenst u te behouden?" >}}
+{{< form/textarea "Opmerkingen" >}}
 
 {{</ form/fieldset >}}
 
-{{< form/button "Verstuur formulier" >}}
+  
+ {{< form/button "Verstuur formulier" >}}  
+ 
 
 <br><br>
 
-{{< layout/columns >}}
+  
+ {{< layout/columns >}}
 
 {{< layout/column3 >}}
 
@@ -67,8 +66,14 @@ Eenmalig
 
 {{< layout/column3 >}}
 
-Splitsing 10-blok  
+ServicePlus  
  {{</ layout/column3 >}}
+
+{{< layout/column3 >}}
+
+€ 10,00 excl. BTW
+
+{{</ layout/column3 >}}
 
 {{< layout/column3 >}}
 
@@ -76,12 +81,7 @@ Splitsing 10-blok
 
 {{</ layout/column3 >}}
 
-{{< layout/column3 >}}
-
-€ 100,00 excl. BTW
-
-{{</ layout/column3 >}}
-
 {{</ layout/columns >}}
 
-{{</ form >}}
+  
+ {{</ form >}}
