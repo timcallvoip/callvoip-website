@@ -11,6 +11,7 @@ let colors = {
   'blue': '#2069f3',
   'blue-dark': '#203a83',
   'red': '#ff3131',
+  'orange': '#f3a620'
 }
 
 module.exports = {
