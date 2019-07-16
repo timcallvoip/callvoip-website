@@ -13,8 +13,8 @@ fields:
     required: false
   label: URL
 pages:
-- content/formulier/gidsvermelding-wijzigen.md
 - content/formulier/klantgegevens-wijzigen.md
+- content/formulier/gidsvermelding-wijzigen.md
 - content/formulier/voip-cti-koppeling-met-uw-crm-pakket-aanvragen.md
 - content/formulier/gidsvermelding-aanvragen.md
 - content/formulier/serviceplus-aanvragen.md

@@ -5,7 +5,6 @@ url: "/wijzigen/klantgegevens/"
 ---
 Hieronder kunt u uw klantgegevens wijzigen. Vult u onderstaand formulier in en wij doen ons best deze wijzigingen zo snel mogelijk te verwerken.
 
-  
 Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akkoord per mail, naar ons ter bevestiging van uw opdracht. Wij nemen dan z.s.m. met u contact op!
 
 {{< form "wijzigen-klantgegevens" "/wijzigen/verzonden" >}}
@@ -34,7 +33,7 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{< form/fieldset "Wijzigen factuurgegevens" >}}
 
-Indien u uw factuurgegevens wilt wijzigen kunt u hieronder uw nieuwe factuurgegevens invullen.
+_Indien u uw factuurgegevens wilt wijzigen kunt u hieronder uw nieuwe factuurgegevens invullen._
 
 {{< form/input "Bedrijfsnaam" >}}
 
@@ -74,7 +73,7 @@ Indien u uw factuurgegevens wilt wijzigen kunt u hieronder uw nieuwe factuurgege
 
 {{< form/fieldset "Wijziging bedrijfsgegevens" >}}
 
-Indien u uw bedrijfsgegevens wilt wijzigen, kunt u hieronder uw nieuwe klantgegevens invullen.
+_Indien u uw bedrijfsgegevens wilt wijzigen, kunt u hieronder uw nieuwe klantgegevens invullen._
 
 {{< form/input "Bedrijfsnaam" >}}
 
@@ -106,7 +105,6 @@ Indien u uw bedrijfsgegevens wilt wijzigen, kunt u hieronder uw nieuwe klantgege
 
 {{</ form/fieldset >}}
 
-  
- {{< form/button "Verstuur formulier" >}}
+{{< form/button "Verstuur formulier" >}}
 
 {{</ form >}}
