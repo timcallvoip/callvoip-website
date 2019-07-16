@@ -31,13 +31,13 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{</ form/fieldset >}}
 
-{{< form/fieldset "Aanvraag importeren telefoonboek" >}}
-
 **_Instructie_**_: Stuurt u ons een Excel-bestand met 2 kolommen:_
 
-1. _naam van de relatie 2) telefoonnummer in formaat +31…_
+_1) naam van de relatie 2) telefoonnummer in formaat +31…_
 
 _Wij importeren uw telefoonboek in Click-to-Dial, doorlooptijd ca 1 week._
+
+{{< form/fieldset "Aanvraag importeren telefoonboek" >}}
 
 {{< form/fileupload "Upload telefoonboek (formaat: csv|xlsx|xls)" >}}  
 {{< form/textarea "Opmerkingen" >}}
