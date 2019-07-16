@@ -29,18 +29,18 @@ Gaat u verhuizen? Vul het formulier in, controleer de bevestigingsmail en stuur 
 
 {{</ form/fieldset >}}
 
-**  
- **{{< form/fieldset "Oude adres" >}}
+  
+{{< form/fieldset "Oude adres" >}}
 
 {{< form/input "Adres" >}}
 
 {{< form/input "Postcode" >}}
 
 {{< form/input "Woonplaats" >}}  
- {{</ form/fieldset >}}
+{{</ form/fieldset >}}
 
-**  
- **{{< form/fieldset "Nieuwe adres" >}}
+\**  
+\**{{< form/fieldset "Nieuwe adres" >}}
 
 {{< form/input "Adres" >}}
 
@@ -54,8 +54,7 @@ Gaat u verhuizen? Vul het formulier in, controleer de bevestigingsmail en stuur 
 
 {{</ form/fieldset >}}
 
-**  
- **{{< form/button "Verstuur formulier" >}}
-
   
- {{</ form >}}
+{{< form/button "Verstuur formulier" >}}
+
+{{</ form >}}
