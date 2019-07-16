@@ -35,12 +35,7 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 _Upload hieronder uw telefoonboek om de telefoonnummers te importeren._
 
-**Instructie**: <br>
-
-Stuurt u ons een Excel-bestand met 2 kolommen:<br>  
-• naam van de relatie<br>  
-• telefoonnummer in formaat +31…<br>  
-• wij importeren uw telefoonboek in Click-to-Dial, doorlooptijd ca 1 week<br>
+**Instructie**: Stuurt u ons een Excel-bestand met 2 kolommen: 1) naam van de relatie 2) telefoonnummer in formaat +31… Wij importeren uw telefoonboek in Click-to-Dial, doorlooptijd ca 1 week.
 
 <br>
 
