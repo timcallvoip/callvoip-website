@@ -1,5 +1,5 @@
 ---
-title: '0800-servicenummer aanvragen'
+title: '0800-servicenummer activatie aanvragen'
 url: "/aanvragen/0800-activatie/"
 
 ---

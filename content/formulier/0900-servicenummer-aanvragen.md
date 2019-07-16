@@ -1,5 +1,5 @@
 ---
-title: '0900-servicenummer aanvragen'
+title: '0900-servicenummer activatie aanvragen'
 url: "/aanvragen/0900-activatie/"
 
 ---
