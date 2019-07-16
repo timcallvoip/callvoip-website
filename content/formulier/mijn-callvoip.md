@@ -165,6 +165,8 @@ Als bestaande klant van Callvoip kunt altijd uw abonnement wijzigen. Ook kunt u 
 {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
+<br><br>
+
 ### Wijzigen
 
 {{< layout/columns >}}  
@@ -193,6 +195,8 @@ Als bestaande klant van Callvoip kunt altijd uw abonnement wijzigen. Ook kunt u 
 
 {{</ layout/column2 >}}  
 {{</ layout/columns >}}
+
+<br><br>
 
 ### Opzeggen
 
