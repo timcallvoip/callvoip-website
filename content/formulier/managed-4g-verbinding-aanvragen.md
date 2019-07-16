@@ -31,6 +31,8 @@ Vul het formulier in, controleer de bevestigingsmail en stuur deze per mail naar
 
 {{< form/button "Verstuur formulier" >}}
 
+{{</ form >}}
+
 <br><br>
 
 {{< layout/columns >}}  
@@ -95,5 +97,3 @@ Op aanvraag
 – Dataverbruik wordt gemonitord, uitbreiding naar passende bundel is mogelijk tegen meerprijzen<br>  
 – Alle bedragen zijn excl. BTW.<br>  
 – Vragen of meer informatie? Neem contact met ons op!<br>
-
-{{</ form >}}
