@@ -5,7 +5,7 @@ url: "/aanvragen/verzonden/"
 ---
 Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akkoord per mail, naar ons ter bevestiging van uw opdracht.
 
-{{< form "aanvragen- splitsing-10blok" "/aanvragen/verzonden" >}}
+{{< form "aanvragen-splitsing-10blok" "/aanvragen/verzonden" >}}
 
 {{< form/fieldset "Bedrijfsgegevens" >}}
 
@@ -68,7 +68,7 @@ Eenmalig
 {{< layout/column3 >}}
 
 Splitsing 10-blok  
- {{</ layout/column3 >}}
+{{</ layout/column3 >}}
 
 {{< layout/column3 >}}
 
