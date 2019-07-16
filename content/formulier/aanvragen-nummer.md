@@ -39,11 +39,11 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply met akko
 {{< form/option "9" >}}
 {{< form/option "10-blok" >}}
 {{</ form/select >}}  
-{{< form/radiogroup "Wilt u een premium nummer?" "inline" >}}   
-{{< form/radio "Nee" "Wilt u een premium nummer?" >}}   
-{{< form/radio "Ja" "Wilt u een premium nummer?" >}}   
-{{</ form/radiogroup >}}   
+{{< form/radiogroup "Wilt u een premium nummer?" "inline" >}}  
+{{< form/radio "Nee" "Wilt u een premium nummer?" >}}  
+{{< form/radio "Ja" "Wilt u een premium nummer?" >}}  
 De toeslag voor een premium (mooi) nummer is € 50,00 excl. BTW.  
+{{</ form/radiogroup >}}  
 {{< form/textarea "Opmerkingen"  >}}  
 {{</ form/fieldset >}}
 
@@ -55,7 +55,7 @@ De toeslag voor een premium (mooi) nummer is € 50,00 excl. BTW.
 
 {{< layout/column3 >}}
 
-Tariefoverzicht
+**Tariefoverzicht**
 
 {{</ layout/column3 >}}
 
@@ -99,19 +99,19 @@ Telefoonummer
 
 {{< layout/column3 >}}
 
-Toeslag premium nummer
-
-{{</ layout/column3 >}}
-
-{{< layout/column3 >}}
-
-€ 50,00 excl. BTW
+Toeslag premium
 
 {{</ layout/column3 >}}
 
 {{< layout/column3 >}}
 
 n.v.t.
+
+{{</ layout/column3 >}}
+
+{{< layout/column3 >}}
+
+€ 50,00 excl. BTW
 
 {{</ layout/column3 >}}
 
