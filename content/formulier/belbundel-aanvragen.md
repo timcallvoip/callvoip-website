@@ -124,17 +124,17 @@ Eenmalig
 
 {{</ layout/columns >}}
 
-<br>
+<br><br>
 
-Fair Use policy voor belbundels
+**Fair Use policy voor belbundels** 
 
 <br>
 
 Per belbundelgebruiker (= per toestelaccount) mag er max. 30% van de totaal uitgaande belminuten per maand voor een vast bedrag worden gebeld naar mobiele bestemmingen. Als het aantal mobiele belminuten per gebruiker in één bepaalde maand meer dan 30% van de totaal aantal uitgaande belminuten bedraagt, worden voor de verdere belminuten de reguliere gesprekstarieven in rekening gebracht. De volgende maand kan de gebruiker weer maximaal 30% naar mobiele bestemmingen bellen voor een vast bedrag per maand.
 
-<br>
+<br><br>
 
-Loyale klanten
+**Loyale klanten** 
 
 <br>
 

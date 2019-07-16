@@ -139,7 +139,7 @@ Overige landen
 
 <br>
 
-Let op:
+**Let op**:
 
 <br>
 
@@ -163,6 +163,6 @@ Dit is wél mogelijk voor Belgische en Duitse nummers.
 
 <br>
 
-Dit in tegenstelling tot de reguliere Nederlandse nummers die ook binnen het eerste jaar een opzegtermijn van één maand hebben_._
+Dit in tegenstelling tot de reguliere Nederlandse nummers die ook binnen het eerste jaar een opzegtermijn van één maand hebben.
 
 {{</ form >}}
