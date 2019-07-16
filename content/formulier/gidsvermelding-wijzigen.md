@@ -29,8 +29,7 @@ Wilt u een vermelding in de telefoongids? Vul het formulier in, controleer de be
 
 {{</ form/fieldset >}}
 
-  
- {{< form/fieldset "Oude gegevens gidsvermelding" >}}
+{{< form/fieldset "Oude gegevens gidsvermelding" >}}
 
 {{< form/input "(Bedrijfs-)Naam" >}}
 
@@ -60,7 +59,7 @@ Wilt u een vermelding in de telefoongids? Vul het formulier in, controleer de be
 
 {{< form/input "Faxnummer" >}}
 
-Kruis aan welke vermelding/weergave van uw nummers u wenst:
+_Kruis aan welke vermelding/weergave van uw nummers u wenst_:
 
 {{< form/radiogroup "Soort vermelding" "inline" >}}
 
@@ -76,13 +75,11 @@ Kruis aan welke vermelding/weergave van uw nummers u wenst:
 
 {{</ form/fieldset >}}
 
-  
- {{< form/button "Verstuur formulier" >}}
+{{< form/button "Verstuur formulier" >}}
 
 <br><br>
 
-  
- {{< layout/columns >}}
+{{< layout/columns >}}
 
 {{< layout/column3 >}}
 
@@ -109,7 +106,7 @@ Eenmalig
 {{< layout/column3 >}}
 
 1 gidsvermelding  
- {{</ layout/column3 >}}
+{{</ layout/column3 >}}
 
 {{< layout/column3 >}}
 
@@ -130,7 +127,7 @@ Eenmalig
 {{< layout/column3 >}}
 
 Extra gidsvermelding  
- {{</ layout/column3 >}}
+{{</ layout/column3 >}}
 
 {{< layout/column3 >}}
 
