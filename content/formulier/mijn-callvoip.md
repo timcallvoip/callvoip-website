@@ -5,10 +5,10 @@ url: "/mijncallvoip/"
 ---
 {{< layout/columns >}}  
 {{< layout/column2 >}}  
-links  
+  
 {{</ layout/column2 >}}  
 {{< layout/column2 >}}  
-rechts  
+  
 {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
@@ -16,10 +16,10 @@ rechts
 
 {{< layout/columns >}}  
 {{< layout/column2 >}}  
-links  
+  
 {{</ layout/column2 >}}  
 {{< layout/column2 >}}  
-rechts  
+  
 {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
@@ -57,16 +57,16 @@ rechts
 [Splitsing 10-blok](/aanvragen/splitsing-10-blok/)  
 {{</ layout/column2 >}}  
 {{< layout/column2 >}}  
-rechts  
+  
 {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
 {{< layout/columns >}}  
 {{< layout/column2 >}}  
-links  
+  
 {{</ layout/column2 >}}  
 {{< layout/column2 >}}  
-rechts  
+  
 {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
@@ -95,16 +95,16 @@ rechts
 [Managed 4G-oplossing](/aanvragen/managed-4g/)  
 {{</ layout/column2 >}}  
 {{< layout/column2 >}}  
-rechts  
+  
 {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
 {{< layout/columns >}}  
 {{< layout/column2 >}}  
-links  
+  
 {{</ layout/column2 >}}  
 {{< layout/column2 >}}  
-rechts  
+  
 {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
@@ -130,10 +130,10 @@ rechts
 
 {{< layout/columns >}}  
 {{< layout/column2 >}}  
-links  
+  
 {{</ layout/column2 >}}  
 {{< layout/column2 >}}  
-rechts  
+  
 {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
@@ -156,3 +156,43 @@ rechts
 [Gidsvermelding](/aanvragen/gidsvermelding/)  
 {{</ layout/column2 >}}  
 {{</ layout/columns >}}
+
+{{< layout/columns >}}  
+{{< layout/column2 >}}  
+  
+{{</ layout/column2 >}}  
+{{< layout/column2 >}}  
+  
+{{</ layout/column2 >}}  
+{{</ layout/columns >}}
+
+## Wijzigen (Overzicht)
+
+{{< layout/columns >}}  
+{{< layout/column2 >}}  
+[Klantgegevens](/wijzigen/klantgegevens/)  
+{{</ layout/column2 >}}  
+{{< layout/column2 >}}  
+[Verhuisbericht](/wijzigen/verhuisbericht/)  
+{{</ layout/column2 >}}  
+{{</ layout/columns >}}
+
+{{< layout/columns >}}  
+{{< layout/column2 >}}  
+[Rekeningnummer](/wijzigen/rekeningnummer/)  
+{{</ layout/column2 >}}  
+{{< layout/column2 >}}  
+[Gidsvermelding](/wijzigen/gidsvermelding/)  
+{{</ layout/column2 >}}  
+{{</ layout/columns >}}
+
+{{< layout/columns >}}  
+{{< layout/column2 >}}  
+  
+{{</ layout/column2 >}}  
+{{< layout/column2 >}}  
+  
+{{</ layout/column2 >}}  
+{{</ layout/columns >}}
+
+## Opzeggen (Overzicht)
