@@ -14,6 +14,28 @@
     <div id="app" class="bg-no-repeat bg-right-top" {{ if .IsHome }} style="background-image:url('/images/site-bg.svg')"
       {{ end }}>
       {{- block "header" . }}{{- partial "components/header.html" . -}} {{ end }}
+      <div id="stickybar" class="sticky top-0 left-0 z-50 stickybar hidden-forced">
+        <div class="hidden lg:block bg-white pt-3 pb-4 shadow ">
+        <div class="container mx-auto px-4">
+          <div class="flex justify-end">
+            <div class="flex items-center">
+              <p class="">
+
+                <a href="tel:+31508200000"
+                  class="text-grey-dark no-underline text-lg font-medium flex items-center justify-center ">
+                  <span class="mr-2">Heeft u advies nodig bij uw keuze?</span>
+                  <i
+                    class="fal fa-phone sm:mr-2 fa-flip-horizontal relative"
+                    style="font-size: 1.6rem; top: .2rem; transform: rotate(97deg); "></i>
+                  <span class="hidden sm:block">050 – 820 00 00</span></a></p>
+              <div class="hidden lg:block">
+                <a href="/offerte" class="button-outline button-small ml-6 text-lg">Offerte</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      </div>
       <div id="content">
         {{- block "main" . }}{{- end }}
       </div>

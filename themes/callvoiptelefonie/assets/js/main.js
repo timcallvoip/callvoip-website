@@ -199,3 +199,24 @@ var showmenu = function () {
 
 
 }();
+
+
+const nav = document.querySelector('.stickybar');
+const navTop = nav.offsetTop + 400;
+
+function stickyNavigation() {
+  console.log('navTop = ' + navTop + 250);
+  console.log('scrollY = ' + window.scrollY);
+
+
+  if (window.scrollY >= navTop) {
+    // nav offsetHeight = height of nav
+    //document.body.style.paddingTop = nav.offsetHeight + 'px';
+    nav.classList.remove('hidden-forced');
+  } else {
+    document.body.style.paddingTop = 0;
+    nav.classList.add('hidden-forced');
+  }
+}
+
+window.addEventListener('scroll', stickyNavigation);

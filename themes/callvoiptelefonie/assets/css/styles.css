@@ -21,6 +21,10 @@ a {
   transition: all .15s ease;
 }
 
+.button-small {
+  @apply py-2 px-4;
+}
+
 .button-secondary {
   @apply bg-orange;
 }
@@ -43,6 +47,10 @@ a {
 
 .has-dropdown {
   position: relative;
+}
+
+.hidden-forced {
+  display: none !important;
 }
 
 @screen lg {
