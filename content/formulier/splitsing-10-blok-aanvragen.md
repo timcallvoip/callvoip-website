@@ -5,7 +5,7 @@ url: "/aanvragen/verzonden/"
 ---
 Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akkoord per mail, naar ons ter bevestiging van uw opdracht.
 
-{{< form "aanvragen- splitsing-10blok " "/aanvragen/verzonden" >}}
+{{< form "aanvragen- splitsing-10blok" "/aanvragen/verzonden" >}}
 
 {{< form/fieldset "Bedrijfsgegevens" >}}
 
@@ -29,8 +29,7 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{</ form/fieldset >}}
 
-  
- {{< form/fieldset "Aanvraag splitsing 10-blok" >}}
+{{< form/fieldset "Aanvraag splitsing 10-blok" >}}
 
 {{< form/input "Betreffende 10-blok" >}}
 
@@ -38,12 +37,10 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{</ form/fieldset >}}
 
-{{< form/button "Verstuur formulier" >}}  
- 
+{{< form/button "Verstuur formulier" >}}
 
 <br><br>
 
-  
- Let op: Het splitsen van een 10-blok kost eenmalig €100,- excl. BTW.  
-   
- {{</ form >}}
+Let op: Het splitsen van een 10-blok kost eenmalig €100,- excl. BTW.
+
+{{</ form >}}
