@@ -10,8 +10,8 @@ hero:
 outputs:
 - HTML
 - JSON
-layout: overview
-weight: 
+type: ondersteuning
+weight:
 description: ''
 images: []
 
