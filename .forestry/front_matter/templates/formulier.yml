@@ -13,12 +13,21 @@ fields:
     required: false
   label: URL
 pages:
-- content/formulier/klantgegevens-wijzigen.md
-- content/formulier/gidsvermelding-wijzigen.md
-- content/formulier/voip-cti-koppeling-met-uw-crm-pakket-aanvragen.md
-- content/formulier/gidsvermelding-aanvragen.md
+- content/formulier/aanvragen-overzicht.md
+- content/formulier/nummerportering-aanvragen.md
+- content/formulier/vast-mobiel-vamos-aanvragen.md
+- content/formulier/importeren-telefoonboek-click-to-dial-aanvragen.md
+- content/formulier/088-nummerblok-activatie-aanvragen.md
+- content/formulier/0900-servicenummer-aanvragen.md
+- content/formulier/0800-servicenummer-aanvragen.md
+- content/formulier/verhuisbericht-doorgeven.md
+- content/formulier/rekeningnummer-wijzigen.md
 - content/formulier/serviceplus-aanvragen.md
 - content/formulier/splitsing-10-blok-aanvragen.md
+- content/formulier/voip-cti-koppeling-met-uw-crm-pakket-aanvragen.md
+- content/formulier/klantgegevens-wijzigen.md
+- content/formulier/gidsvermelding-wijzigen.md
+- content/formulier/gidsvermelding-aanvragen.md
 - content/formulier/belbundel-aanvragen.md
 - content/formulier/srtp-vesleutelde-gesprekken-aanvragen.md
 - content/formulier/aanvragen-nummer.md
