@@ -3,7 +3,7 @@ title: Aanvragen (overzicht)
 url: "/aanvragen/"
 
 ---
-## Nummers
+### Nummers
 
 * [Nieuw nummer](/aanvragen/nummer/)
 * [Porteren telefoonnummer](/aanvragen/portering/)
@@ -11,9 +11,9 @@ url: "/aanvragen/"
 * [Activeren 088-nummer](/aanvragen/088-blok-activatie/)
 * [0800-servicenummer](/aanvragen/0800-activatie/)
 * [0900-servicenummer](/aanvragen/0900-activatie/)
-* [Belbundels](/aanvragen/belbundel/)
+* [Splitsing 10-blok](/aanvragen/splitsing-10-blok/)
 
-## Internet
+### Internet
 
 * [Managed 4G-oplossing](/aanvragen/managed-4g/)
 * [CallvoipDSL](https://www.callvoip.nl/download/callvoip/callvoip-adsl-vdsl_aanvraagformulier.pdf)
@@ -21,13 +21,16 @@ url: "/aanvragen/"
 * [Ziggo Zakelijk Internet Pro](https://www.callvoip.nl/download/callvoip/callvoip_aanvraagformulier_ziggo-connect-mkb.pdf)
 * [Glasvezel (via Callvoip)](http://www.simmpl.nl/downloads/callvoip_ftth_aanvraagformulier.pdf)
 
-## Overig
+### Integratie
 
 * [Vast Mobiel (Vamos)](/aanvragen/vamos/)
 * [VoIP CTI koppeling](/aanvragen/voip-cti/)
 * [Conference Service](/aanvragen/conference/)
-* [Splitsing 10-blok](/aanvragen/splitsing-10-blok/)
+* [Importeren telefoonboek in Click-to-Dial](/aanvragen/gidsvermelding/)
+
+### Overig
+
+* [Belbundels](/aanvragen/belbundel/)
 * [SRTP (versleutelde gesprekken)](/aanvragen/srtp/)
 * [ServicePlus](/aanvragen/serviceplus/)
 * [Gidsvermelding](/aanvragen/gidsvermelding/)
-* [Importeren telefoonboek in Click-to-Dial](/aanvragen/gidsvermelding/)

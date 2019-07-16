@@ -37,8 +37,6 @@ _Upload hieronder uw telefoonboek om de telefoonnummers te importeren._
 
 **Instructie**: Stuurt u ons een Excel-bestand met 2 kolommen: 1) naam van de relatie 2) telefoonnummer in formaat +31… Wij importeren uw telefoonboek in Click-to-Dial, doorlooptijd ca 1 week.
 
-<br>
-
 {{< form/fileupload "Telefoonboek (formaat: csv|xlsx|xls)" >}}  
 {{< form/textarea "Opmerkingen" >}}
 
