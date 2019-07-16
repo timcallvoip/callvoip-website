@@ -3,6 +3,7 @@ title: Opzeggen (overzicht)
 url: "/opzeggen/"
 
 ---
+<br>
 
 ### Nummers
 
@@ -33,14 +34,7 @@ Gehele abonnement
 {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
-{{< layout/columns >}}  
-{{< layout/column2 >}}
-
-{{</ layout/column2 >}}  
-{{< layout/column2 >}}
-
-{{</ layout/column2 >}}  
-{{</ layout/columns >}}
+<br>
 
 ### Internet
 
@@ -71,6 +65,8 @@ Gehele abonnement
 {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
+<br>
+
 ### Integratie
 
 {{< layout/columns >}}  
@@ -90,6 +86,8 @@ Gehele abonnement
 
 {{</ layout/column2 >}}  
 {{</ layout/columns >}}
+
+<br>
 
 ### Overig
 

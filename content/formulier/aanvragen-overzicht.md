@@ -3,6 +3,7 @@ title: Aanvragen (overzicht)
 url: "/aanvragen/"
 
 ---
+<br>
 
 ### Nummers
 
@@ -14,6 +15,8 @@ url: "/aanvragen/"
 * [0900-servicenummer](/aanvragen/0900-activatie/)
 * [Splitsing 10-blok](/aanvragen/splitsing-10-blok/)
 
+<br>
+
 ### Internet
 
 * [Managed 4G-oplossing](/aanvragen/managed-4g/)
@@ -22,12 +25,16 @@ url: "/aanvragen/"
 * [Ziggo Zakelijk Internet Pro](https://www.callvoip.nl/download/callvoip/callvoip_aanvraagformulier_ziggo-connect-mkb.pdf)
 * [Glasvezel (via Callvoip)](http://www.simmpl.nl/downloads/callvoip_ftth_aanvraagformulier.pdf)
 
+<br>
+
 ### Integratie
 
 * [Vast Mobiel (Vamos)](/aanvragen/vamos/)
 * [VoIP CTI koppeling](/aanvragen/voip-cti/)
 * [Conference Service](/aanvragen/conference/)
 * [Importeren telefoonboek in Click-to-Dial](/aanvragen/gidsvermelding/)
+
+<br>
 
 ### Overig
 
