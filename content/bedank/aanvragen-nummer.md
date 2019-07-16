@@ -1,6 +1,6 @@
 ---
-title: Offerte aanvraag verzonden
-url: "/offerte/verzonden"
+title: Aanvraag verzonden
+url: "/aanvragen/nummer/verzonden"
 hero:
   image: "/v1552991205/Team/logo-bord-breed.jpg"
 ---
