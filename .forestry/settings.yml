@@ -58,6 +58,10 @@ sections:
   create: none
   match: "**"
   exclude: _index.md
+- type: document
+  path: content/ondersteuning/_index.md
+  label: Ondersteuning overzicht
+  match: "**/*"
 - type: directory
   path: content/ondersteuning
   label: Ondersteuning
