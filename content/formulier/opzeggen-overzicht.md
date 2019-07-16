@@ -1,16 +1,16 @@
 ---
-title: Aanvragen (overzicht)
-url: "/aanvragen/"
+title: Opzeggen (overzicht)
+url: "/opzeggen/"
 
 ---
 ### Nummers
 
 {{< layout/columns >}}  
  {{< layout/column2 >}}  
-[Nieuw nummer](/aanvragen/nummer/)  
+Gehele abonnement  
  {{</ layout/column2 >}}  
  {{< layout/column2 >}}  
-[Porteren telefoonnummer](/aanvragen/portering/)  
+[Nieuw nummer](/aanvragen/nummer/)  
  {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
@@ -19,7 +19,7 @@ url: "/aanvragen/"
 [Internationaal telefoonnummer](https://www.callvoip.nl/aanvragen/internationaal-nummer/)  
  {{</ layout/column2 >}}  
  {{< layout/column2 >}}  
-[Activeren 088-nummer](/aanvragen/088-blok-activatie/)  
+[088-nummer](/aanvragen/088-blok-activatie/)blok  
  {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
@@ -34,7 +34,7 @@ url: "/aanvragen/"
 
 {{< layout/columns >}}  
  {{< layout/column2 >}}  
-[Splitsing 10-blok](/aanvragen/splitsing-10-blok/)  
+  
  {{</ layout/column2 >}}  
  {{< layout/column2 >}}  
   
@@ -86,7 +86,7 @@ url: "/aanvragen/"
 [Conference Service](/aanvragen/conference/)  
  {{</ layout/column2 >}}  
  {{< layout/column2 >}}  
-[Importeren telefoonboek in Click-to-Dial](/aanvragen/gidsvermelding/)  
+  
  {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
@@ -106,6 +106,6 @@ url: "/aanvragen/"
 [ServicePlus](/aanvragen/serviceplus/)  
  {{</ layout/column2 >}}  
  {{< layout/column2 >}}  
-[Gidsvermelding](/aanvragen/gidsvermelding/)  
+  
  {{</ layout/column2 >}}  
 {{</ layout/columns >}}
