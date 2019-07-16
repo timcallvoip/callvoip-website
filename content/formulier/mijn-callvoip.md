@@ -5,14 +5,9 @@ url: "/mijncallvoip/"
 ---
 Als bestaande klant van Callvoip kunt altijd uw abonnement wijzigen. Ook kunt u extra diensten aanvragen of opzeggen. Bent u nog geen klant?
 
-{{< layout/columns >}}  
-{{< layout/column2 >}}
+<a href="/overons/team/" class="button-secondary">Leer het team kennen</a>
 
-{{</ layout/column2 >}}  
-{{< layout/column2 >}}
-
-{{</ layout/column2 >}}  
-{{</ layout/columns >}}
+<br>
 
 ## Aanvragen (overzicht)
 
