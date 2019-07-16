@@ -13,6 +13,7 @@ fields:
     required: false
   label: URL
 pages:
+- content/formulier/nummerportering-aanvragen.md
 - content/formulier/verhuisbericht-doorgeven.md
 - content/formulier/rekeningnummer-wijzigen.md
 - content/formulier/serviceplus-aanvragen.md
