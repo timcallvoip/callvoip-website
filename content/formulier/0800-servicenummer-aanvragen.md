@@ -36,7 +36,7 @@ Vul het formulier in en stuur deze met uw ACM beschikking. Controleer de bevesti
 {{< form/input "Uw 0800-nummer" >}}
 
 {{< form/fileupload "ACM beschikking" >}}  
- {{< form/radiogroup "Nieuw of bestaand nummer?" "inline" >}}
+{{< form/radiogroup "Nieuw of bestaand nummer?" "inline" >}}
 
 {{< form/radio "Nieuw" "Nieuw of bestaand nummer?" >}}
 
@@ -60,18 +60,15 @@ Vul het formulier in en stuur deze met uw ACM beschikking. Controleer de bevesti
 
 {{</ form/fieldset >}}
 
-  
- {{< form/button "Verstuur formulier" >}}  
- 
+{{< form/button "Verstuur formulier" >}}
 
 <br><br>
 
-  
- {{< layout/columns >}}
+{{< layout/columns >}}
 
 {{< layout/column3 >}}
 
-Tariefoverzicht
+**Tariefoverzicht**
 
 {{</ layout/column3 >}}
 
@@ -94,7 +91,7 @@ Eenmalig
 {{< layout/column3 >}}
 
 0800-nummer  
- {{</ layout/column3 >}}
+{{</ layout/column3 >}}
 
 {{< layout/column3 >}}
 
@@ -108,10 +105,10 @@ Eenmalig
 
 {{</ layout/column3 >}}
 
-{{</ layout/columns >}}
+{{</ layout/columns >}}<br>
 
-  
- Let op: servicenummers hebben een **initiële looptijd van een jaar** (dit in tegenstelling tot de reguliere Nederlandse nummers die ook binnen het eerste jaar een opzegtermijn van één maand hebben).  
- 
+**Let op**: <br>
+
+servicenummers hebben een **initiële looptijd van een jaar** (dit in tegenstelling tot de reguliere Nederlandse nummers die ook binnen het eerste jaar een opzegtermijn van één maand hebben).
 
 {{</ form >}}

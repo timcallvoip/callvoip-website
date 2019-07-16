@@ -46,7 +46,7 @@ Heeft u een telefoonnummer bij een andere provider en wilt u deze ook naar Callv
 {{< form/textarea "Te porteren nummers" >}}  
 {{< form/input "Wensdatum portering" >}}
 
-Wij hebben een kopie van uw telefoonnota nodig om de telefoonnummers te porteren.
+_Wij hebben een kopie van uw telefoonnota nodig om de telefoonnummers te porteren._
 
 {{< form/fileupload "Kopie telefoonnota" >}}
 
@@ -62,7 +62,7 @@ Wij hebben een kopie van uw telefoonnota nodig om de telefoonnummers te porteren
 
 {{< layout/column3 >}}
 
-Tariefoverzicht
+**Tariefoverzicht**
 
 {{</ layout/column3 >}}
 
@@ -144,8 +144,10 @@ Los telefoonummer
 
 {{</ layout/column3 >}}
 
-{{</ layout/columns >}}
+{{</ layout/columns >}}<br>
 
-Let op: Neem voor de aanvraag contact op met de huidige provider om navraag te doen over eventuele contractuele verplichtingen.
+**Let op**:<br> 
+
+Neem voor de aanvraag contact op met de huidige provider om navraag te doen over eventuele contractuele verplichtingen.
 
 {{</ form >}}
