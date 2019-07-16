@@ -3,7 +3,9 @@ title: SRTP (Vesleutelde gesprekken) aanvragen
 url: "/aanvragen/srtp/"
 
 ---
-Wilt u voortaan dat al uw gesprekken beveiligd zijn? Dan kunt u hieronder de dienst SRTP aanvragen. De kosten van SRTP bedragen: € 2,00 per toestelaccount per maand – deze meerprijs geldt voor alle toestellen. Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akkoord per mail, naar ons ter bevestiging van uw opdracht.
+Wilt u voortaan dat al uw gesprekken beveiligd zijn? Dan kunt u hieronder de dienst SRTP aanvragen. De kosten van SRTP bedragen: € 2,00 per toestelaccount per maand – deze meerprijs geldt voor alle toestellen. 
+
+Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akkoord per mail, naar ons ter bevestiging van uw opdracht.
 
 {{< form "aanvragen-srtp" "/aanvragen/verzonden" >}}
 
@@ -33,6 +35,6 @@ Wilt u voortaan dat al uw gesprekken beveiligd zijn? Dan kunt u hieronder de die
 **Welke toestellen zijn geschikt?**
 
 Niet alle toestellen zijn geschikt om gebruik te maken van de versleutelde gesprekken.  
-Veel recente modellen van de merken Yealink en Gigaset zijn geschikt voor SRTP. Na uw aanvraag nemen wij contact met u op om te kijken of uw huidige toestellen geschikt zijn en assisteren u bij de selectie van geschikte modellen. 
+Veel recente modellen van de merken Yealink en Gigaset zijn geschikt voor SRTP. Na uw aanvraag nemen wij contact met u op om te kijken of uw huidige toestellen geschikt zijn en assisteren u bij de selectie van geschikte modellen.
 
 {{</ form >}}

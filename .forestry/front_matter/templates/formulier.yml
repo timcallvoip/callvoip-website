@@ -14,8 +14,8 @@ fields:
   label: URL
 pages:
 - content/formulier/srtp-vesleutelde-gesprekken-aanvragen.md
-- content/formulier/aanvragen-nummer.md
 - content/formulier/belbundel-aanvragen.md
+- content/formulier/aanvragen-nummer.md
 - content/formulier/conference-service-aanvragen.md
 - content/formulier/internationaal-nummer-aanvragen.md
 - content/formulier/managed-4g-verbinding-aanvragen.md
