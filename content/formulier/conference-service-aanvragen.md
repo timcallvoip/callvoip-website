@@ -23,7 +23,7 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 {{</ form/fieldset >}}  
 {{< form/fieldset "Conference gegevens" >}}
 
-_Voor de Conference Service heeft u een apart telefoonnummer nodig dat u alleen voor deze dienst reserveert. Indien u reeds een vrij nummer heeft die u kunt gebruiken voor de Conference Service, vul deze dan hieronder in. Heeft u nog geen apart telefoonnummer, dan kunt u <a href="https://callvoip.nl/aanvragen/nummer" target="blank">hier</a> een nummer aanvragen._
+_Voor de Conference Service heeft u een apart telefoonnummer nodig dat u alleen voor deze dienst reserveert. Indien u reeds een vrij nummer heeft die u kunt gebruiken voor de Conference Service, vul deze dan hieronder in. Heeft u nog geen apart telefoonnummer, dan kunt u <a href="https://callvoip.nl/aanvragen/nummer" target="blank">hier</a> een nummer aanvragen.<br>_
 
 {{< form/input "Telefoonnummer" >}}  
 {{< form/input "Aantal deelnemers" >}}  

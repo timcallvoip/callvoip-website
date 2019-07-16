@@ -32,7 +32,7 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 <br><br>
 
-**Welke toestellen zijn geschikt?**
+**Welke toestellen zijn geschikt?** 
 
 <br>
 
