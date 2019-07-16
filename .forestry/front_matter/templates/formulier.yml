@@ -13,6 +13,8 @@ fields:
     required: false
   label: URL
 pages:
+- content/formulier/0900-servicenummer-aanvragen.md
+- content/formulier/0800-servicenummer-aanvragen.md
 - content/formulier/nummerportering-aanvragen.md
 - content/formulier/verhuisbericht-doorgeven.md
 - content/formulier/rekeningnummer-wijzigen.md
