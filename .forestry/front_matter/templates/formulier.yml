@@ -13,5 +13,6 @@ fields:
     required: false
   label: URL
 pages:
+- content/formulier/internationaal-nummer-aanvragen.md
 - content/formulier/aanvragen-nummer.md
 - content/formulier/managed-4g-verbinding-aanvragen.md
