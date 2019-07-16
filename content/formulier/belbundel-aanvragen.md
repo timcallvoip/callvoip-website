@@ -34,7 +34,9 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 <br><br>
 
-U kunt kiezen uit drie verschillende belbundels, afhankelijk van het aantal belminuten dat u nodig heeft. Onderstaande prijzen komen bovenop de gebruikelijke kosten van uw toestelaccount (€4,- per maand). U neemt een belbundel af voor alle toestelaccounts die op de centrale staan, het is niet mogelijk om een selectie te maken van toestellen die de belbundel krijgen. U betaalt dus per toestelaccount (die op de centrale staat) onderstaande belbundelprijs.<br>
+U kunt kiezen uit drie verschillende belbundels, afhankelijk van het aantal belminuten dat u nodig heeft. Onderstaande prijzen komen bovenop de gebruikelijke kosten van uw toestelaccount (€4,- per maand). U neemt een belbundel af voor alle toestelaccounts die op de centrale staan, het is niet mogelijk om een selectie te maken van toestellen die de belbundel krijgen. U betaalt dus per toestelaccount (die op de centrale staat) onderstaande belbundelprijs.
+
+<br>
 
 {{< layout/columns >}}
 
@@ -122,19 +124,21 @@ Eenmalig
 
 {{</ layout/columns >}}
 
-<br><br>
+<br>
 
-**Fair Use policy voor belbundels**
+Fair Use policy voor belbundels
 
 <br>
 
-Per belbundelgebruiker (= per toestelaccount) mag er max. 30% van de totaal uitgaande belminuten per maand voor een vast bedrag worden gebeld naar mobiele bestemmingen. Als het aantal mobiele belminuten per gebruiker in één bepaalde maand meer dan 30% van de totaal aantal uitgaande belminuten bedraagt, worden voor de verdere belminuten de reguliere gesprekstarieven in rekening gebracht. De volgende maand kan de gebruiker weer maximaal 30% naar mobiele bestemmingen bellen voor een vast bedrag per maand. <br>
-
-**Loyale klanten**
+Per belbundelgebruiker (= per toestelaccount) mag er max. 30% van de totaal uitgaande belminuten per maand voor een vast bedrag worden gebeld naar mobiele bestemmingen. Als het aantal mobiele belminuten per gebruiker in één bepaalde maand meer dan 30% van de totaal aantal uitgaande belminuten bedraagt, worden voor de verdere belminuten de reguliere gesprekstarieven in rekening gebracht. De volgende maand kan de gebruiker weer maximaal 30% naar mobiele bestemmingen bellen voor een vast bedrag per maand.
 
 <br>
 
-NB: ook voor loyale klanten zijn de belbundels bestelbaar.
+Loyale klanten
+
+<br>
+
+Ook voor loyale klanten zijn de belbundels bestelbaar.
 
 U stapt dan over naar de nieuwe tarieven voor toestelaccounts ad 4,- ex BTW p/mnd en uw Powerfeatures als faxbox, wachtrij, keuzemenu e.d.
 
