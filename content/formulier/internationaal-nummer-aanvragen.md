@@ -143,7 +143,7 @@ Let op:
 
 <br>
 
-\- Voor veel buitenlandse bestemmingen geldt een Call Cost per minute.
+– Voor veel buitenlandse bestemmingen geldt een Call Cost per minute.
 
 <br>
 
@@ -151,7 +151,7 @@ Een opslagtarief dat over inkomende gesprekken wordt berekend. Na uw aanvraag la
 
 <br>
 
-\- Het is niet mogelijk om buitenlandse nummers mee te sturen als uitgaand nummer.
+– Het is niet mogelijk om buitenlandse nummers mee te sturen als uitgaand nummer.
 
 <br>
 
@@ -159,7 +159,7 @@ Dit is wél mogelijk voor Belgische en Duitse nummers.
 
 <br>
 
-\- Buitenlandse nummers en servicenummers hebben een initiële looptijd van een jaar.
+– Buitenlandse nummers en servicenummers hebben een initiële looptijd van een jaar.
 
 <br>
 
