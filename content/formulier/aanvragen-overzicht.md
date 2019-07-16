@@ -3,19 +3,19 @@ title: Aanvragen (overzicht)
 url: "/aanvragen/"
 
 ---
-* Nieuw nummer
-* Porteren telefoonnummer
-* Internationaal telefoonnummer
-* Belbundels
-* Activeren 088-nummer
-* 0800-servicenummer
-* 0900-servicenummer
-* Vast Mobiel (Vamos)
-* VoIP CTI koppeling
-* Conference Service
-* Managed 4G-oplossing
-* Splitsing 10-blok
-* SRTP (versleutelde gesprekken)
-* ServicePlus
-* Gidsvermelding
-* Importeren telefoonboek in Click-to-Dial
+* [Nieuw nummer](/aanvragen/nummer/)
+* [Porteren telefoonnummer](/aanvragen/portering/)
+* [Internationaal telefoonnummer](https://www.callvoip.nl/aanvragen/internationaal-nummer/)
+* [Belbundels](/aanvragen/belbundel/)
+* [Activeren 088-nummer](/aanvragen/088-blok-activatie/)
+* [0800-servicenummer](/aanvragen/0800-activatie/)
+* [0900-servicenummer](/aanvragen/0900-activatie/)
+* [Vast Mobiel (Vamos)](/aanvragen/vamos/)
+* [VoIP CTI koppeling](/aanvragen/voip-cti/)
+* [Conference Service](/aanvragen/conference/)
+* [Managed 4G-oplossing](/aanvragen/managed-4g/)
+* [Splitsing 10-blok](/aanvragen/splitsing-10-blok/)
+* [SRTP (versleutelde gesprekken)](/aanvragen/srtp/)
+* [ServicePlus](/aanvragen/serviceplus/)
+* [Gidsvermelding](/aanvragen/gidsvermelding/)
+* [Importeren telefoonboek in Click-to-Dial](/aanvragen/gidsvermelding/)
