@@ -44,15 +44,17 @@ _Upload hieronder uw telefoonboek om de telefoonnummers te importeren._
 
 <br><br>
 
-Instructie:
+**Instructie**: <br>
 
-Stuurt u ons een Excel-bestand met 2 kolommen:
+Stuurt u ons een Excel-bestand met 2 kolommen:<br>
 
-• naam van de relatie
+• naam van de relatie<br>
 
-• telefoonnummer in formaat +31…
+• telefoonnummer in formaat +31…<br>
 
-• wij importeren uw telefoonboek in Click-to-Dial, doorlooptijd ca 1 week
+• wij importeren uw telefoonboek in Click-to-Dial, doorlooptijd ca 1 week<br>
+
+<br>
 
 {{< layout/columns >}}
 
