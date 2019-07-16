@@ -5,11 +5,13 @@ url: "/mijncallvoip/"
 ---
 Als bestaande klant van Callvoip kunt altijd uw abonnement wijzigen. Ook kunt u extra diensten aanvragen of opzeggen. Bent u nog geen klant?
 
-<a href="/overons/team/" class="button-secondary">Leer het team kennen</a>
+<a href="/offerte/" class="button-secondary">Vraag dan nu een offerte aan</a>
 
 <br>
 
-## Aanvragen (overzicht)
+<a href="https://www.callvoip.nl/download/callvoip/CallVoip_telefonie_aanvraagformulier.pdf" class="button">Of word klant!</a>
+
+### Aanvragen (overzicht)
 
 {{< layout/columns >}}  
 {{< layout/column2 >}}
@@ -20,7 +22,7 @@ Als bestaande klant van Callvoip kunt altijd uw abonnement wijzigen. Ook kunt u 
 {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
-### Nummers
+#### Nummers
 
 {{< layout/columns >}}  
 {{< layout/column2 >}}  
@@ -67,7 +69,7 @@ Als bestaande klant van Callvoip kunt altijd uw abonnement wijzigen. Ook kunt u 
 {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
-### Internet
+#### Internet
 
 {{< layout/columns >}}  
 {{< layout/column2 >}}  
@@ -105,7 +107,7 @@ Als bestaande klant van Callvoip kunt altijd uw abonnement wijzigen. Ook kunt u 
 {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
-### Integratie
+#### Integratie
 
 {{< layout/columns >}}  
 {{< layout/column2 >}}  
@@ -134,7 +136,7 @@ Als bestaande klant van Callvoip kunt altijd uw abonnement wijzigen. Ook kunt u 
 {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
-### Overig
+#### Overig
 
 {{< layout/columns >}}  
 {{< layout/column2 >}}  
@@ -163,7 +165,7 @@ Als bestaande klant van Callvoip kunt altijd uw abonnement wijzigen. Ook kunt u 
 {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
-## Wijzigen (Overzicht)
+### Wijzigen (Overzicht)
 
 {{< layout/columns >}}  
 {{< layout/column2 >}}  
@@ -192,9 +194,9 @@ Als bestaande klant van Callvoip kunt altijd uw abonnement wijzigen. Ook kunt u 
 {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
-## Opzeggen (Overzicht)
+### Opzeggen (Overzicht)
 
-### Nummers
+#### Nummers
 
 {{< layout/columns >}}  
 {{< layout/column2 >}}  
@@ -232,7 +234,7 @@ Gehele abonnement
 {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
-### Internet
+#### Internet
 
 {{< layout/columns >}}  
 {{< layout/column2 >}}  
@@ -270,7 +272,7 @@ Gehele abonnement
 {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
-### Integratie
+#### Integratie
 
 {{< layout/columns >}}  
 {{< layout/column2 >}}  
@@ -299,7 +301,7 @@ Gehele abonnement
 {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
-### Overig
+#### Overig
 
 {{< layout/columns >}}  
 {{< layout/column2 >}}  
