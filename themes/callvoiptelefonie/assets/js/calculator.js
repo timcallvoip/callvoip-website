@@ -154,7 +154,8 @@ const renderCallminutesFields = function (fields) {
 
   const callminutesFieldsMonthly = document.getElementById('callminutes-fields-monthly');
   const callminutesFieldsOnetime = document.getElementById('callminutes-fields-onetime');
-  const numberOfDevices = document.getElementById('toestellen').value;
+
+  const numberOfDevices = document.getElementById('toestelaccounts').value;
 
   let monthly = 0;
   let onetime = 0;
@@ -231,7 +232,7 @@ const renderSecurityFields = function (fields) {
 
   const securityFieldsMonthly = document.getElementById('security-fields-monthly');
   const securityFieldsOnetime = document.getElementById('security-fields-onetime');
-  const numberOfDevices = document.getElementById('toestellen').value;
+  const numberOfDevices = document.getElementById('toestelaccounts').value;
 
 
 
