@@ -89,7 +89,7 @@ Op aanvraag
 {{</ layout/column3 >}}  
 {{</ layout/columns >}}  
 <br><br>  
-Let op:<br>  
+**Let op**:<br>  
 – Installatiekosten kunnen variëren o.b.v. wensen, dit wordt met u besproken<br>  
 – De abonnementskosten worden per 12 maanden vooraf in rekening gebracht.<br>  
 – Dataverbruik wordt gemonitord, uitbreiding naar passende bundel is mogelijk tegen meerprijzen<br>  
