@@ -37,7 +37,7 @@ blocks:
     Kortom: de Bereikbaarheidsmonitor is een waardevolle tool om uw bereikbaarheid te beoordelen en te optimaliseren.
   position: image_left
 - title: Wat zijn de voordelen?
-  image: ''
+  image: "/v1563355159/callvoip-website-bereikbaarheidsmonitor2.png"
   content: |-
     <b>Aangenomen gesprekken</b>: u ziet per uur, dag, week hoeveel gesprekken er totaal waren en welk deel daarvan is aangenomen. Dit wordt uitgedrukt in een aantal en een percentage. U kunt de beantwoorde gesprekken bekijken voor het totaal en elke individuele nummer.<br>
     <b>Gespreksduur</b>: het dashboard toont de gemiddelde duur van gesprekken in de gewenste periode (uur, dag, week) en toont bovendien de totale gespreksduur per uur, dag en week en berekent ook de gemiddelde gespreksduur. Waardevolle stuurinformatie voor het management!<br>
