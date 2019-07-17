@@ -37,7 +37,7 @@ blocks:
     Kortom: de Bereikbaarheidsmonitor is een waardevolle tool om uw bereikbaarheid te beoordelen en te optimaliseren.
   position: image_left
 usps:
-  title: ''
+  title: Wat zijn de voordelen van de bereikbaarheidsmonitor?
   content: ''
   items: []
 intro:
@@ -46,3 +46,7 @@ intro:
 prijzen: []
 
 ---
+## Wat kost de Bereikbaarheidsmonitor?
+
+**Niets!**  
+Het Bereikbaarheidsmonitord maakt gratis deel uit van de Simmpl telefooncentrale. Gewoon, om het Simmpl te houden.
