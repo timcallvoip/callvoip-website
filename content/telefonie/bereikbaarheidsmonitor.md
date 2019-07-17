@@ -18,7 +18,7 @@ hero:
     link: ''
   image: "/v1563354561/callvoip-website-bereikbaarheidsmonitor.png"
 blocks:
-- title: ''
+- title: Bereikbaarheidsmonitor, wat monitort het precies?
   image: "/v1563354632/callvoip-website-bereikbaarheidsmonitor-stats.png"
   content: |-
     • Hoe bereikbaar is uw organisatie?
@@ -35,7 +35,7 @@ blocks:
     4. uw piekuur en piekdag: het drukste uur per dag, en piekdag per week
 
     Kortom: de Bereikbaarheidsmonitor is een waardevolle tool om uw bereikbaarheid te beoordelen en te optimaliseren.
-  position: ''
+  position: image_left
 usps:
   title: ''
   content: ''
