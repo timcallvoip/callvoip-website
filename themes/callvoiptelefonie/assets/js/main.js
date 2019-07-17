@@ -205,9 +205,6 @@ const nav = document.querySelector('.stickybar');
 const navTop = nav.offsetTop + 400;
 
 function stickyNavigation() {
-  console.log('navTop = ' + navTop + 250);
-  console.log('scrollY = ' + window.scrollY);
-
 
   if (window.scrollY >= navTop) {
     // nav offsetHeight = height of nav
