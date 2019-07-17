@@ -13,6 +13,8 @@ fields:
     required: false
   label: URL
 pages:
+- content/formulier/vast-mobiel-vamos-opzeggen.md
+- content/formulier/serviceplus-opzeggen.md
 - content/formulier/srtp-vesleutelde-gesprekken-opzeggen.md
 - content/formulier/conference-service-opzeggen.md
 - content/formulier/belbundel-opzeggen.md
