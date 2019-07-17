@@ -13,6 +13,8 @@ fields:
     required: false
   label: URL
 pages:
+- content/formulier/srtp-vesleutelde-gesprekken-opzeggen.md
+- content/formulier/conference-service-opzeggen.md
 - content/formulier/belbundel-opzeggen.md
 - content/formulier/nummer-opzeggen.md
 - content/formulier/abonnement-opzeggen.md
