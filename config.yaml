@@ -25,10 +25,6 @@ menu:
     url: https://panel.callvoip.nl/login/panel
     name: Login
     weight: 5
-  - pre: external
-    url: https://www.callvoiptelefonie.nl/mijncallvoip/
-    name: Mijn Callvoip
-    weight: 3
   - url: "/ondersteuning"
     name: Ondersteuning
     weight: 2
@@ -38,5 +34,5 @@ menu:
     weight: 4
 outputs:
   home:
-    - HTML
-    - JSON
+  - HTML
+  - JSON
