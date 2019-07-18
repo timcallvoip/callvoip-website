@@ -10,12 +10,12 @@ menu:
 Als bestaande klant van Callvoip kunt altijd uw abonnement wijzigen. Ook kunt u extra diensten aanvragen of opzeggen. Bent u nog geen klant?
 
 {{< layout/columns >}}
- {{< layout/column2 >}}
+{{< layout/column2 >}}
 <a href="/offerte/" class="button button-secondary">Vraag dan nu een offerte aan</a>
- {{</ layout/column2 >}}
- {{< layout/column2 >}}
+{{</ layout/column2 >}}
+{{< layout/column2 >}}
 <a href="https://www.callvoip.nl/download/callvoip/CallVoip_telefonie_aanvraagformulier.pdf" class="button">Of word klant!</a>
- {{</ layout/column2 >}}
+{{</ layout/column2 >}}
 {{</ layout/columns >}}
 
 <br>
