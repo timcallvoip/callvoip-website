@@ -1,11 +1,11 @@
 <header class="">
   <div class="container lg:relative px-4">
-    <div class="py-2 flex justify-start md:justify-end">
+    <div class="pt-2 flex justify-start md:justify-end">
       {{ partial "components/nav/top" (dict "menu" .Site.Menus.top "page" . "site" .Site) }}
     </div>
     <div class="flex justify-between items-center pt-3 pb-6">
       <div class="flex flex-1 items-center justify-between">
-        <a href="/" class="logo" title="Homepage {{ $.Site.Title}}">
+        <a href="/" class="logo -mt-4" title="Homepage {{ $.Site.Title}}">
           <img class="w-40" src="/images/callvoip-logo-temp.png" alt="{{ $.Site.Title}}">
         </a>
         <div class="hidden lg:block font-medium">

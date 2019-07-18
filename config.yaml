@@ -16,22 +16,26 @@ menu:
   - pre: external
     url: https://status.kwebbl.com/
     name: Status
-    weight: 1
+    weight: 2
   - pre: external
     url: https://callvoip.shop/
     name: Webshop
-    weight: 4
+    weight: 3
   - pre: external
     url: https://panel.callvoip.nl/login/panel
     name: Login
-    weight: 5
+    weight: 7
   - url: "/ondersteuning"
-    name: Ondersteuning
-    weight: 2
+    name: Support
+    weight: 5
   footer:
   - url: https://www.callvoip.nl/download/callvoip/CallVoip_telefonie_aanvraagformulier.pdf
     name: Direct klant worden?
-    weight: 4
+    weight: 6
+  - url: "http://support.callvoip.nl:8040/"
+    name: Hulp
+    weight: 0
+    pre: external
 outputs:
   home:
   - HTML

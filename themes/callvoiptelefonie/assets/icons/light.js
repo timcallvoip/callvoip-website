@@ -57,8 +57,10 @@ import { faIdCard } from "@fortawesome/pro-light-svg-icons/faIdCard";
 import { faAngleDown } from "@fortawesome/pro-light-svg-icons/faAngleDown";
 import { faMobileAndroid } from "@fortawesome/pro-light-svg-icons/faMobileAndroid";
 import { faMobileAndroidAlt } from "@fortawesome/pro-light-svg-icons/faMobileAndroidAlt";
+import { faCheckCircle } from "@fortawesome/pro-light-svg-icons/faCheckCircle";
+import { faTimesCircle } from "@fortawesome/pro-light-svg-icons/faTimesCircle";
 
-library.add(faCloud, faClock, faHeartbeat, faLaptop, faTty, faIdCard, faMobileAndroid,faMobileAndroidAlt, faAngleDown, faWindowRestore, faMousePointer, faHandPointer,  faRandom, faDeaf, faSortNumericDown, faArrowsH, faUsers, faFilePdf, faBell, faUnlock, faFileAudio, faCog, faSpinner, faMoneyBill, faExclamationCircle, faFax, faCalculator, faTrophy, faRocket, faSearch, faEnvelope, faFile, faMobile, faGlobe, faWifi, faBars, faUser, faMegaphone, faBoxOpen, faCommentAlt, faUserLock, faMobileAlt, faPhoneVolume, faCodeBranch, faCommentAltSmile, faFileSignature, faPiggyBank, faFileContract, faBoxesAlt, faAngleRight, faHome, faBuilding, faComments, faPhone, faDesktop, faTabletAlt,faHeadset);
+library.add(faCloud, faClock, faHeartbeat, faLaptop, faTty, faIdCard, faCheckCircle, faTimesCircle, faMobileAndroid,faMobileAndroidAlt, faAngleDown, faWindowRestore, faMousePointer, faHandPointer,  faRandom, faDeaf, faSortNumericDown, faArrowsH, faUsers, faFilePdf, faBell, faUnlock, faFileAudio, faCog, faSpinner, faMoneyBill, faExclamationCircle, faFax, faCalculator, faTrophy, faRocket, faSearch, faEnvelope, faFile, faMobile, faGlobe, faWifi, faBars, faUser, faMegaphone, faBoxOpen, faCommentAlt, faUserLock, faMobileAlt, faPhoneVolume, faCodeBranch, faCommentAltSmile, faFileSignature, faPiggyBank, faFileContract, faBoxesAlt, faAngleRight, faHome, faBuilding, faComments, faPhone, faDesktop, faTabletAlt,faHeadset);
 
 
 dom.watch();
