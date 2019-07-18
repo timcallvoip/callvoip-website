@@ -13,8 +13,7 @@ taxonomies:
   tag: tags
 menu:
   top:
-  - pre: external
-    url: https://status.kwebbl.com/
+  - url: /status
     name: Status
     weight: 2
   - pre: external
