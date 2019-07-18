@@ -9,8 +9,8 @@ newclient:
     pretty: callvoip@callvoip.nl
     email: callvoip@callvoip.nl
 helpdesk:
-  title: Of liever even met ons chatten?<br /> Geen  probleem, dat kan hier.
-  content: Chat met specialist starten
+  title: Bent u ergens specifiek naar op zoek?<br> Gebruik onze zoekfunctie
+  content: Zoeken in de website
 social:
   title: Natuurlijk kan je ons ook <br />volgen op je favorite social kanaal
   items:

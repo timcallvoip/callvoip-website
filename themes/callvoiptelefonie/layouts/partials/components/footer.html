@@ -29,7 +29,7 @@
             <p class="lg:text-lg xl:text-xl opacity-75 mb-4  lg:mb-6">{{ . | markdownify }}</p>
             {{ end }}
             {{ with .content }}
-            <button type="button" class="button-icon chat-button xl:text-lg" data-api="smartsupp" data-operation="open"><i class="fal fa-comments fa-2x mr-4"></i>{{ . }}</button>
+            <a href="/zoeken" class="button-icon chat-button xl:text-lg"><i class="fal fa-search text-3xl mr-4"></i>{{ . }}</a>
             {{ end }}
           </div>
           {{ end }}
@@ -52,7 +52,7 @@
 
         </div>
         <div class="flex items-center justify-center">
-          <p class="mb-2 lg:text-lg block"><span class="opacity-75 ">Niet gevonden wat u zocht?</span> <a href="/zoeken">Gebruik onze zoekfunctie</a></p>
+          <p class="mb-2 lg:text-lg block"><span class="opacity-75 ">Niet gevonden wat u zocht?</span> <button type="button"  class="text-blue font-medium" data-api="smartsupp" data-operation="open">Stel een vraag via de chat</button></p>
         </div>
       </div>
     </div>
