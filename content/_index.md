@@ -15,7 +15,7 @@ hero:
     link: telefonie/hostedvoip/
   - icon: fa-tty
     title: Mobiele telefoon onderdeel van de zakelijke telefonieoplossing?
-    content: Kies dan voor de Vast Mobiel Integratie (Vamos) van Callvoip!
+    content: Gebruik de Vast Mobiel Integratie (Vamos) van Callvoip!
     link: telefonie/vastmobielintegratie/
 intro:
   image: "/v1557750090/hero-home-2x.png"
@@ -146,7 +146,7 @@ options:
     link: "/ondersteuning/"
 prefooter:
   title: Wil je ook zorgeloos bereikbaar zijn?
-  content: "95% van onze klanten adviseert ons bij hun netwerk. Benieuwd naar testimonials
+  content: "95% van onze klanten adviseert ons bij hun netwerk. Benieuwd naar de testimonials
     van onze klanten? \nU vindt ze <a href=\"/testimonials/\">hier</a>."
 testimonial:
   image: "/v1556267419/Callvoip-website-logo-AlphaLabs.png"
