@@ -5,7 +5,7 @@ hero:
   image: "/v1561542875/callvoip-website-branches-fysiotherapier-groot.png"
 headless: true
 link: "/oplossingen/branches/fysiotherapie"
-logo: "/v1561632140/callvoip-website-testimonial-fysio.png"
+logo: "/v1563975099/callvoip-website-testimonial-fysioNW.png"
 name: R. Graziani - Kirchhoff Fysio
 
 ---
