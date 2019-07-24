@@ -134,7 +134,7 @@ Als bestaande klant van Callvoip kunt u altijd uw abonnement uitbreiden. Zo kunt
 [Conference Service](/aanvragen/conference/)
 {{</ layout/column2 >}}
 {{< layout/column2 >}}
-[Importeren telefoonboek in Click-to-Dial](aanvragen/importeren-telefoonboek-c2d/)
+[Importeren telefoonboek in Click-to-Dial](/aanvragen/importeren-telefoonboek-c2d/)
 {{</ layout/column2 >}}
 {{</ layout/columns >}}
 
@@ -219,28 +219,10 @@ Als bestaande klant van Callvoip kunt u altijd diensten opzeggen. Kies hieronder
 
 {{< layout/columns >}}
 {{< layout/column2 >}}
-Gehele abonnement
-{{</ layout/column2 >}}
-{{< layout/column2 >}}
-[Nieuw nummer](/aanvragen/nummer/)
-{{</ layout/column2 >}}
-{{</ layout/columns >}}
-
-{{< layout/columns >}}
-{{< layout/column2 >}}
-[Internationaal telefoonnummer](https://www.callvoip.nl/aanvragen/internationaal-nummer/)   
+[Gehele abonnement](/opzeggen/abonnement/)   
 {{</ layout/column2 >}}   
 {{< layout/column2 >}}   
-[088-nummerblok](/aanvragen/088-blok-activatie/)   
-{{</ layout/column2 >}}   
-{{</ layout/columns >}}
-
-{{< layout/columns >}}
-{{< layout/column2 >}}
-[0800-servicenummer](/aanvragen/0800-activatie/)
-{{</ layout/column2 >}}
-{{< layout/column2 >}}
-[0900-servicenummer](/aanvragen/0900-activatie/)
+[Nummer](/opzeggen/nummer/)
 {{</ layout/column2 >}}
 {{</ layout/columns >}}
 
@@ -258,24 +240,6 @@ Gehele abonnement
 {{< layout/columns >}}
 {{< layout/column2 >}}
 [CallvoipDSL](https://www.callvoip.nl/download/callvoip/callvoip-adsl-vdsl_aanvraagformulier.pdf)
-{{</ layout/column2 >}}
-{{< layout/column2 >}}
-[Glasvezel (via Callvoip)](http://www.simmpl.nl/downloads/callvoip_ftth_aanvraagformulier.pdf)
-{{</ layout/column2 >}}
-{{</ layout/columns >}}
-
-{{< layout/columns >}}
-{{< layout/column2 >}}
-[Ziggo Zakelijk Internet](https://www.callvoip.nl/download/callvoip/callvoip_aanvraagformulier_ziggo-connect-zzp.pdf)
-{{</ layout/column2 >}}
-{{< layout/column2 >}}
-[Ziggo Zakelijk Internet Pro](https://www.callvoip.nl/download/callvoip/callvoip_aanvraagformulier_ziggo-connect-mkb.pdf)
-{{</ layout/column2 >}}
-{{</ layout/columns >}}
-
-{{< layout/columns >}}
-{{< layout/column2 >}}
-[Managed 4G-oplossing](/aanvragen/managed-4g/)
 {{</ layout/column2 >}}
 {{< layout/column2 >}}
 
