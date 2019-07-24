@@ -5,7 +5,7 @@ hero:
   image: "/v1561543731/callvoip-website-branches-ict-groot.png"
 headless: true
 link: "/oplossingen/branches/ict"
-logo: "/v1561632769/callvoip-website-testimonial-ict.png"
+logo: "/v1563975333/callvoip-website-testimonial-ictNW.png"
 name: C. Gliam - AlphaLabs
 
 ---
