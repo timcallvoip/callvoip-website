@@ -5,7 +5,7 @@ hero:
   image: "/v1561543297/callvoip-website-branches-assurantie-groot.png"
 headless: true
 link: "/oplossingen/branches/assurantie"
-logo: "/v1561637052/callvoip-website-testimonial-financieel.png"
+logo: "/v1563974794/callvoip-website-testimonial-financieelNW.png"
 name: C. Das - Taurus Financiële Belevingen
 
 ---
