@@ -25,7 +25,7 @@ url: "/aanvragen/"
 
 {{< layout/columns >}}  
 {{< layout/column2 >}}  
-[Internationaal telefoonnummer](https://www.callvoip.nl/aanvragen/internationaal-nummer/)  
+[Internationaal telefoonnummer](/aanvragen/internationaal-nummer/)  
 {{</ layout/column2 >}}  
 {{< layout/column2 >}}  
 [Activeren 088-nummer](/aanvragen/088-blok-activatie/)  
@@ -84,16 +84,16 @@ url: "/aanvragen/"
 [Managed 4G-oplossing](/aanvragen/managed-4g/)  
 {{</ layout/column2 >}}  
 {{< layout/column2 >}}  
-rechts  
+  
 {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
 {{< layout/columns >}}  
 {{< layout/column2 >}}  
-links  
+  
 {{</ layout/column2 >}}  
 {{< layout/column2 >}}  
-rechts  
+  
 {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
@@ -113,16 +113,16 @@ rechts
 [Conference Service](/aanvragen/conference/)  
 {{</ layout/column2 >}}  
 {{< layout/column2 >}}  
-[Importeren telefoonboek in Click-to-Dial](/aanvragen/gidsvermelding/)  
+[Importeren telefoonboek in Click-to-Dial](/aanvragen/importeren-telefoonboek-c2d/)  
 {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
 {{< layout/columns >}}  
 {{< layout/column2 >}}  
-links  
+  
 {{</ layout/column2 >}}  
 {{< layout/column2 >}}  
-rechts  
+  
 {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
