@@ -5,7 +5,7 @@ hero:
   image: "/v1561542997/callvoip-website-branches-marketing-groot.png"
 headless: true
 link: "/oplossingen/branches/marketing"
-logo: "/v1561631837/callvoip-website-testimonial-siteonline.png"
+logo: "/v1563975464/callvoip-website-testimonial-siteonlineNW.png"
 name: J. van Doorn - SiteOnline
 
 ---

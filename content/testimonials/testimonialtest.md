@@ -5,7 +5,7 @@ hero:
   image: v1561018210/callvoip-website-branches-tandarts-groot.png
 headless: true
 link: "/oplossingen/branches/tandarts/"
-logo: "/v1561632277/callvoip-website-testimonial-tandarts.png"
+logo: "/v1563975513/callvoip-website-testimonial-tandartsNW.png"
 name: R. Tideman - Tandartspraktijk de Wolvenstraat
 
 ---
