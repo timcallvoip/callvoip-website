@@ -288,16 +288,16 @@ Als bestaande klant van Callvoip kunt u altijd diensten opzeggen. Kies hieronder
 
 {{< layout/columns >}}
 {{< layout/column2 >}}
-[Belbundels](/aanvragen/belbundel/)
+[Belbundels](/opzeggen/belbundel/)
 {{</ layout/column2 >}}
 {{< layout/column2 >}}
-[SRTP (versleutelde gesprekken)](/aanvragen/srtp/)
+[SRTP (versleutelde gesprekken)](/opzeggen/srtp/)
 {{</ layout/column2 >}}
 {{</ layout/columns >}}
 
 {{< layout/columns >}}
 {{< layout/column2 >}}
-[ServicePlus](/aanvragen/serviceplus/)
+[ServicePlus](/opzeggen/serviceplus/)
 {{</ layout/column2 >}}
 {{< layout/column2 >}}
 
