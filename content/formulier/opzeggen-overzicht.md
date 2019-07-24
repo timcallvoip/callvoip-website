@@ -12,7 +12,7 @@ url: "/opzeggen/"
 [Gehele abonnement](/opzeggen/abonnement/)  
 {{</ layout/column2 >}}  
 {{< layout/column2 >}}  
-[Nieuw nummer](/opzeggen/nummer/)  
+[Nummer](/opzeggen/nummer/)  
 {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
