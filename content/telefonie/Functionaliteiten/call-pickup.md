@@ -9,3 +9,16 @@ hero:
 layout: ''
 
 ---
+De telefoon van een collega rinkelt en u wilt dit gesprek op uw toestel aannemen. Hoe kunt u dit gesprek aannemen?
+
+De Simmpl telefooncentrale is uitgerust met de mogelijkheid om een gesprek, dat op een ander toestel rinkelt, op uw toestel aan te nemen door een code in te toetsen of deze code onder een sneltoets te programmeren. Deze feature wordt **Call Pickup** genoemd. Het is mogelijk om de Call Pickup te gebruiken voor één toestel (waarnemen van een collega of manager), een groep van toestellen (bv. overnemen van een gesprek in het salesteam) of voor de hele organisatie.
+
+### Call Pickup in 3 soorten
+
+Call Pickup is er in drie soorten:
+
+1\. **Toestel**: Neem telefoontjes over van een specifiek toestel.
+
+2\. **Groep**: Neem telefoontjes over van een groep (bv team of afdeling).
+
+3\. **Universeel**: Neem elk inkomend telefoontje op uw toestel aan.
