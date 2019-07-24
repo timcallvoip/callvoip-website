@@ -31,6 +31,7 @@ fields:
   label: layout
   hidden: true
 pages:
+- content/telefonie/bedrijfstelefoonboek.md
 - content/oplossingen/Branches/assurantie.md
 - content/telefonie/functionaliteiten.md
 - content/oplossingen/Branches/fysiotherapie.md

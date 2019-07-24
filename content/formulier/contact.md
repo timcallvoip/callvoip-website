@@ -3,7 +3,6 @@ title: Contact
 url: "/contact/"
 
 ---
-
 {{< layout/columns >}}  
 {{< layout/column2 >}}  
 **Openingstijden**  
@@ -16,10 +15,10 @@ Email: [callvoip@callvoip.nl](https://www.callvoiptelefonie.nl/contact/contactge
 {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
-{{< layout/columns >}}  
-{{< layout/column2 >}}
+<br>
 
-<br>  
+{{< layout/columns >}}  
+{{< layout/column2 >}}  
 **Adresgegevens**  
 Koldingweg 19-1  
 9723 HL GRONINGEN
