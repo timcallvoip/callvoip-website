@@ -25,7 +25,7 @@ url: "/opzeggen/"
 [CallvoipDSL of FTTH](/opzeggen/internet-callvoip/)  
 {{</ layout/column2 >}}  
 {{< layout/column2 >}}  
-[Managed 4G-oplossing](/opzeggen/managed-4g/)  
+  
 {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
