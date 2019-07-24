@@ -46,7 +46,7 @@ Als bestaande klant van Callvoip kunt u altijd uw abonnement uitbreiden. Zo kunt
 
 {{< layout/columns >}}
 {{< layout/column2 >}}
-[Internationaal telefoonnummer](/aanvragen/internationaal-nummer/)
+[Internationaal telefoonnummer](aanvragen/internationaal-nummer/)
 {{</ layout/column2 >}}
 {{< layout/column2 >}}
 [Activeren 088-nummer](/aanvragen/088-blok-activatie/)
