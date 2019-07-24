@@ -46,7 +46,7 @@ Als bestaande klant van Callvoip kunt u altijd uw abonnement uitbreiden. Zo kunt
 
 {{< layout/columns >}}
 {{< layout/column2 >}}
-[Internationaal telefoonnummer](https://www.callvoip.nl/aanvragen/internationaal-nummer/)
+[Internationaal telefoonnummer](/aanvragen/internationaal-nummer/)
 {{</ layout/column2 >}}
 {{< layout/column2 >}}
 [Activeren 088-nummer](/aanvragen/088-blok-activatie/)
@@ -134,7 +134,7 @@ Als bestaande klant van Callvoip kunt u altijd uw abonnement uitbreiden. Zo kunt
 [Conference Service](/aanvragen/conference/)
 {{</ layout/column2 >}}
 {{< layout/column2 >}}
-[Importeren telefoonboek in Click-to-Dial](/aanvragen/gidsvermelding/)
+[Importeren telefoonboek in Click-to-Dial](aanvragen/importeren-telefoonboek-c2d/)
 {{</ layout/column2 >}}
 {{</ layout/columns >}}
 
@@ -228,11 +228,11 @@ Gehele abonnement
 
 {{< layout/columns >}}
 {{< layout/column2 >}}
-[Internationaal telefoonnummer](https://www.callvoip.nl/aanvragen/internationaal-nummer/)
-{{</ layout/column2 >}}
-{{< layout/column2 >}}
-[088-nummer](/aanvragen/088-blok-activatie/)blok
-{{</ layout/column2 >}}
+[Internationaal telefoonnummer](https://www.callvoip.nl/aanvragen/internationaal-nummer/)   
+{{</ layout/column2 >}}   
+{{< layout/column2 >}}   
+[088-nummerblok](/aanvragen/088-blok-activatie/)   
+{{</ layout/column2 >}}   
 {{</ layout/columns >}}
 
 {{< layout/columns >}}
