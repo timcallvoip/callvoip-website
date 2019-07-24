@@ -18,7 +18,7 @@ Overal en altijd, zo lang als u maar wenst. Bellers betalen normale belkosten, v
 
 * Gebruiksgemak: bellen, inloggen en vergaderen
 * Efficiënt: geen reistijd, lage kosten, effectief vergaderen!
-* Globaal: engelse prompts, nummer ook toegankelijk vanuit het buitenland
+* Globaal: Engelse prompts, nummer ook toegankelijk vanuit het buitenland
 * Voordelig: geen toeslag over vergader-gesprekstijd
 
 ### Waarom een eigen Conference Service?
@@ -29,19 +29,19 @@ Telefonisch vergaderen wordt steeds populairder. Met een groot aantal thuiswerke
 ### Abonnementskosten
 
 {{< layout/columns >}}  
- {{< layout/column2 >}}  
+{{< layout/column2 >}}  
 Maandelijks  
- {{</ layout/column2 >}}  
- {{< layout/column2 >}}  
+{{</ layout/column2 >}}  
+{{< layout/column2 >}}  
 Eenmalig  
- {{</ layout/column2 >}}  
+{{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
 {{< layout/columns >}}  
- {{< layout/column2 >}}  
+{{< layout/column2 >}}  
 € 10,00 excl. BTW  
- {{</ layout/column2 >}}  
- {{< layout/column2 >}}  
+{{</ layout/column2 >}}  
+{{< layout/column2 >}}  
 € 25,00 excl. BTW  
- {{</ layout/column2 >}}  
+{{</ layout/column2 >}}  
 {{</ layout/columns >}}
