@@ -22,6 +22,8 @@ Als bestaande klant van Callvoip kunt altijd uw abonnement wijzigen. Ook kunt u 
 
 ### Aanvragen
 
+Als bestaande klant van Callvoip kunt u altijd uw abonnement wijzigen. Zo kunt u extra diensten afnemen zoals de Conference Service, buitenlandse nummers aanvragen of servicenummers.
+
 {{< layout/columns >}}
 {{< layout/column2 >}}
 
@@ -178,6 +180,8 @@ Als bestaande klant van Callvoip kunt altijd uw abonnement wijzigen. Ook kunt u 
 
 ### Wijzigen
 
+Als bestaande klant van Callvoip kunt altijd uw abonnement wijzigen. Zo kunt u uw gidsvermelding wijzigen en uw klantgegevens wijzigen.
+
 {{< layout/columns >}}
 {{< layout/column2 >}}
 [Klantgegevens](/wijzigen/klantgegevens/)
@@ -208,6 +212,8 @@ Als bestaande klant van Callvoip kunt altijd uw abonnement wijzigen. Ook kunt u 
 <br><br>
 
 ### Opzeggen
+
+Als bestaande klant van Callvoip kunt u altijd diensten opzeggen. Kies hieronder wat u wilt opzeggen en wij zullen uw wijzigingen maandelijks doorvoeren.
 
 #### Nummers
 
