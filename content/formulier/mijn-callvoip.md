@@ -237,9 +237,9 @@ Als bestaande klant van Callvoip kunt u altijd diensten opzeggen. Kies hieronder
 
 #### Internet
 
-{{< layout/columns >}}
-{{< layout/column2 >}}
-[CallvoipDSL](https://www.callvoip.nl/download/callvoip/callvoip-adsl-vdsl_aanvraagformulier.pdf)
+{{< layout/columns >}}   
+{{< layout/column2 >}}  
+[CallvoipDSL of FTTH](/opzeggen/internet-callvoip/)
 {{</ layout/column2 >}}
 {{< layout/column2 >}}
 
@@ -259,16 +259,16 @@ Als bestaande klant van Callvoip kunt u altijd diensten opzeggen. Kies hieronder
 
 {{< layout/columns >}}
 {{< layout/column2 >}}
-[Vast Mobiel (Vamos)](/aanvragen/vamos/)
+[Vast Mobiel (Vamos)](/opzeggen/vamos/)
 {{</ layout/column2 >}}
 {{< layout/column2 >}}
-[VoIP CTI koppeling](/aanvragen/voip-cti/)
+[VoIP CTI koppeling](/opzeggen/voip-cti/)
 {{</ layout/column2 >}}
 {{</ layout/columns >}}
 
 {{< layout/columns >}}
 {{< layout/column2 >}}
-[Conference Service](/aanvragen/conference/)
+[Conference Service](/opzeggen/conference/)
 {{</ layout/column2 >}}
 {{< layout/column2 >}}
 
