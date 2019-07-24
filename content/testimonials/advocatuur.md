@@ -5,7 +5,7 @@ hero:
   image: v1561639239/callvoip-website-branches-advocatuur-groot.png
 headless: true
 link: "/oplossingen/branches/advocatuur"
-logo: "/v1561638026/callvoip-website-testimonial-advocatuur.png"
+logo: "/v1563974930/callvoip-website-testimonial-advocatuurNW.png"
 name: M. Dekker - Sec Arbeidsrecht Advocaten
 weight: "1"
 
