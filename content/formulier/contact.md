@@ -3,7 +3,6 @@ title: Contact
 url: "/contact/"
 
 ---
-## Onze contactgegevens
 
 {{< layout/columns >}}  
 {{< layout/column2 >}}  
@@ -18,7 +17,9 @@ Email: [callvoip@callvoip.nl](https://www.callvoiptelefonie.nl/contact/contactge
 {{</ layout/columns >}}
 
 {{< layout/columns >}}  
-{{< layout/column2 >}}  
+{{< layout/column2 >}}
+
+<br>  
 **Adresgegevens**  
 Koldingweg 19-1  
 9723 HL GRONINGEN
@@ -28,8 +29,10 @@ Postbus 5236
 {{</ layout/column2 >}}  
 {{< layout/column2 >}}  
 **Overige informatie**  
-IBAN: NL35RABO 0329402501  
-KvK Groningen: 02066541  
+IBAN: NL35RABO 0329402501
+
+KvK Groningen: 02066541
+
 BTW: NL1041.63.252.B01  
 {{</ layout/column2 >}}  
 {{</ layout/columns >}}
