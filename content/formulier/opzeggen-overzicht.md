@@ -9,28 +9,10 @@ url: "/opzeggen/"
 
 {{< layout/columns >}}  
 {{< layout/column2 >}}  
-Gehele abonnement  
+[Gehele abonnement](/opzeggen/abonnement/)  
 {{</ layout/column2 >}}  
 {{< layout/column2 >}}  
-[Nieuw nummer](/aanvragen/nummer/)  
-{{</ layout/column2 >}}  
-{{</ layout/columns >}}
-
-{{< layout/columns >}}  
-{{< layout/column2 >}}  
-[Internationaal telefoonnummer](https://www.callvoip.nl/aanvragen/internationaal-nummer/)  
-{{</ layout/column2 >}}  
-{{< layout/column2 >}}  
-[088-nummer](/aanvragen/088-blok-activatie/)blok  
-{{</ layout/column2 >}}  
-{{</ layout/columns >}}
-
-{{< layout/columns >}}  
-{{< layout/column2 >}}  
-[0800-servicenummer](/aanvragen/0800-activatie/)  
-{{</ layout/column2 >}}  
-{{< layout/column2 >}}  
-[0900-servicenummer](/aanvragen/0900-activatie/)  
+[Nieuw nummer](/opzeggen/nummer/)  
 {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
@@ -40,28 +22,10 @@ Gehele abonnement
 
 {{< layout/columns >}}  
 {{< layout/column2 >}}  
-[CallvoipDSL](https://www.callvoip.nl/download/callvoip/callvoip-adsl-vdsl_aanvraagformulier.pdf)  
+[CallvoipDSL of FTTH](/opzeggen/internet-callvoip/)  
 {{</ layout/column2 >}}  
 {{< layout/column2 >}}  
-[Glasvezel (via Callvoip)](http://www.simmpl.nl/downloads/callvoip_ftth_aanvraagformulier.pdf)  
-{{</ layout/column2 >}}  
-{{</ layout/columns >}}
-
-{{< layout/columns >}}  
-{{< layout/column2 >}}  
-[Ziggo Zakelijk Internet](https://www.callvoip.nl/download/callvoip/callvoip_aanvraagformulier_ziggo-connect-zzp.pdf)  
-{{</ layout/column2 >}}  
-{{< layout/column2 >}}  
-[Ziggo Zakelijk Internet Pro](https://www.callvoip.nl/download/callvoip/callvoip_aanvraagformulier_ziggo-connect-mkb.pdf)  
-{{</ layout/column2 >}}  
-{{</ layout/columns >}}
-
-{{< layout/columns >}}  
-{{< layout/column2 >}}  
-[Managed 4G-oplossing](/aanvragen/managed-4g/)  
-{{</ layout/column2 >}}  
-{{< layout/column2 >}}
-
+[Managed 4G-oplossing](/opzeggen/managed-4g/)  
 {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
@@ -71,16 +35,16 @@ Gehele abonnement
 
 {{< layout/columns >}}  
 {{< layout/column2 >}}  
-[Vast Mobiel (Vamos)](/aanvragen/vamos/)  
+[Vast Mobiel (Vamos)](/opzeggen/vamos/)  
 {{</ layout/column2 >}}  
 {{< layout/column2 >}}  
-[VoIP CTI koppeling](/aanvragen/voip-cti/)  
+[VoIP CTI koppeling](/opzeggen/voipcti/)  
 {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
 {{< layout/columns >}}  
 {{< layout/column2 >}}  
-[Conference Service](/aanvragen/conference/)  
+[Conference Service](/opzeggen/conference/)  
 {{</ layout/column2 >}}  
 {{< layout/column2 >}}
 
