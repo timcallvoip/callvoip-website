@@ -22,8 +22,8 @@ fields:
   label: SEO
   description: Seo
 pages:
-- content/ondersteuning/internet/callvoip-business-adsl-instellen.md
 - content/ondersteuning/internet/callvoip-business-vdsl-instellen.md
+- content/ondersteuning/internet/callvoip-business-adsl-instellen.md
 - content/ondersteuning/internet/callvoip-business-ftth-instellen.md
 - content/ondersteuning/vast-mobiel/vast-mobiel-vamos-informatie.md
 - content/ondersteuning/Juridisch/hotdesking-handleiding.md
