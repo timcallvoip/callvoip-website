@@ -3,7 +3,7 @@ title: Status
 hero:
   image: "/v1552398058/Team/logo-bord-breed.jpg"
 items:
-- title: Telefooncentrale
+- title: Online telefooncentrale
   status: true
 - title: Online dashboard
   status: false
