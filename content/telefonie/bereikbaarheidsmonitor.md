@@ -31,7 +31,7 @@ blocks:
     3. totale gesprekstijd en gemiddelde gesprekstijd per uur, dag, week<br>
     4. uw piekuur en piekdag: het drukste uur per dag, en piekdag per week
   position: image_left
-- title: Wat zijn de voordelen?
+- title: Wat toont de bereikbaarheidsmonitor?
   image: "/v1563355159/callvoip-website-bereikbaarheidsmonitor2.png"
   content: |-
     <b>Aangenomen gesprekken</b>: u ziet per uur, dag, week hoeveel gesprekken er totaal waren en welk deel daarvan is aangenomen. Dit wordt uitgedrukt in een aantal en een percentage. U kunt de beantwoorde gesprekken bekijken voor het totaal en elke individuele nummer.<br>
