@@ -1,6 +1,6 @@
 ---
-title: Dit is een storingsmelding
+title: Geen storing
 error: true
----
 
-Dit is een tekst voor de melding hier staat in wat er aan de hand is.
+---
+Op dit moment is er **geen storing**, de telefoondienst werkt naar behoren.

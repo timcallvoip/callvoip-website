@@ -1,6 +1,6 @@
 ---
-title: Dit is een gewone melding type
+title: Geen meldingen
 error: false
----
 
-Dit is een tekst voor de melding hier staat in wat er aan de hand is.
+---
+Geen aankondigingen.
