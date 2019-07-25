@@ -7,6 +7,6 @@ headless: true
 link: "/oplossingen/branches/makelaardij/"
 logo: "/v1563975018/callvoip-website-testimonial-makelaardijNW.png"
 name: Germ Wijnia - Bint Makelaardij
-
+website: #
 ---
 “Korte lijnen, duidelijke communicatie en altijd nieuwe **innovaties**”

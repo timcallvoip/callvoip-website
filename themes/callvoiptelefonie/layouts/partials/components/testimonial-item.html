@@ -3,6 +3,8 @@
 {{$ctx := .ctx}}
 {{ $title := .title }}
 {{ with $item }}
+{{ $link := $item.Params.website }}
+
   <div class='flex items-center {{ if eq $type "light" }} flex-row-reverse bg-grey-dark text-white {{ else }} flex-row bg-grey-lightest {{ end }}  '>
     <div class="w-1/2">
       {{ with $item.Params.hero.image}}
@@ -12,10 +14,10 @@
     </div>
     <div class="w-1/2 p-12 xl:p-24">
       {{ with $item.Params.logo }}
-      <div class="px-2">
+      <a href="{{ $link }}" class="px-2">
         <img data-src="{{ $ctx.Site.Params.cloudinary_base_url }}/w_auto,dpr_auto/{{.}}"
           class="max-h-logo-small lg:max-h-logo cld-responsive block max-w-full mb-8 object-contain" alt="Client" />
-      </div>
+      </a>
       {{ end }}
       <div class="text-lg lg:text-xl xl:text-2xl mb-4">{{ $item.Content }}</div>
       {{ with $item.Params.name }}
