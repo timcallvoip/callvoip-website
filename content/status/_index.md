@@ -5,19 +5,19 @@ hero:
 items:
 - title: Online telefooncentrale
   status: true
-- title: Online dashboard
-  status: false
-- title: Telefooncentrale
+- title: Inkomende gesprekken
   status: true
-- title: Telefooncentrale
+- title: Uitgaande gesprekken
   status: true
-- title: Telefooncentrale
+- title: Doorverbinden
   status: true
-- title: Telefooncentrale
+- title: Toestelregistraties
   status: true
-- title: Telefooncentrale
+- title: Qaller
   status: true
-- title: Telefooncentrale
+- title: Vamos
+  status: true
+- title: Trunk
   status: true
 
 ---
