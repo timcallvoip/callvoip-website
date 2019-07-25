@@ -5,6 +5,5 @@ onderdelen:
 - Algemeen
 description: ''
 images: []
-draft: true
 
 ---

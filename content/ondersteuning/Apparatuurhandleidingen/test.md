@@ -1,4 +1,4 @@
 ---
-title: Yealink T5x-serie
+title: Yealink T4x- & T5x-serie (provisioning)
 
 ---
