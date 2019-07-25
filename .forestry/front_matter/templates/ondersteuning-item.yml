@@ -22,6 +22,9 @@ fields:
   label: SEO
   description: Seo
 pages:
+- content/ondersteuning/Integraties/voip-cti-handleiding.md
+- content/ondersteuning/Integraties/vast-mobiel-vamos-handleiding.md
+- content/ondersteuning/Integraties/vast-mobiel-vamos-informatie.md
 - content/ondersteuning/Integraties/realtime-api.md
 - content/ondersteuning/Integraties/click-to-dial-yealink-adresboek.md
 - content/ondersteuning/Integraties/click-to-dial-uitgebreide-handleiding.md

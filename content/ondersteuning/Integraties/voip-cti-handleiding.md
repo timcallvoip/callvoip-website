@@ -1,5 +1,5 @@
 ---
-title: Shortcodes Simmpl (overzicht)
+title: VoIP CTI handleiding
 weight: 
 description: ''
 images: []
