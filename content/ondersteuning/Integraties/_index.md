@@ -3,5 +3,6 @@ description = ""
 images = []
 layout = "overview"
 title = "Integraties"
-weight = 5
+weight = 6
+
 +++
