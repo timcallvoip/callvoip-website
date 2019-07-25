@@ -3,8 +3,8 @@ title: Bereikbaarheidsmonitor
 description: De Bereikbaarheidsmonitor toont u in één oogopslag alles wat u wilt weten
   om uw bereikbaarheid te beoordelen én dus te verbeteren.
 images: []
-type: ''
-layout: ''
+type: 'page'
+layout: 'default'
 logos: false
 hero:
   title: Bereikbaarheidsmonitor
@@ -55,5 +55,5 @@ prijzen: []
 ---
 ## Wat kost de Bereikbaarheidsmonitor?
 
-**Niets!**  
+**Niets!**
 Het Bereikbaarheidsmonitor maakt gratis deel uit van de Simmpl telefooncentrale. Gewoon, om het Simmpl te houden.
