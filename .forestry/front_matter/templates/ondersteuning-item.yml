@@ -22,6 +22,7 @@ fields:
   label: SEO
   description: Seo
 pages:
+- content/ondersteuning/belplan/feestdagen-instellen.md
 - content/ondersteuning/belplan/nummers-ont-koppelen.md
 - content/ondersteuning/belplan/snelstart-handleiding-telefooncentrale-1.md
 - content/ondersteuning/belplan/snelstart-handleiding-telefooncentrale.md
