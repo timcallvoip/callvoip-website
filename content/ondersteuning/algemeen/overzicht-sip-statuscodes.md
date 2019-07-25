@@ -1,5 +1,5 @@
 ---
-title: Simmpl overzicht SIP statuscodes
+title: Overzicht SIP statuscodes Simmpl
 weight: 
 description: ''
 images: []
