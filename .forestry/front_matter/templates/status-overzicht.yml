@@ -1,0 +1,26 @@
+---
+label: Status Overzicht
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: field_group
+  name: hero
+  label: hero
+  fields:
+  - type: file
+    name: image
+    label: image
+- type: field_group_list
+  name: items
+  label: items
+  fields:
+  - type: text
+    name: title
+    label: Title
+  - type: boolean
+    name: status
+    label: status
+pages:
+- content/status/_index.md

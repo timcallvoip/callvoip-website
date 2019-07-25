@@ -87,6 +87,9 @@ sections:
   label: Status
   create: all
   match: "**/*"
+  templates:
+  - status-overzicht
+  - status-melding
 - type: heading
   label: Settings
 - type: document
