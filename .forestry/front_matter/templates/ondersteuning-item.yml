@@ -22,6 +22,11 @@ fields:
   label: SEO
   description: Seo
 pages:
+- content/ondersteuning/Juridisch/hotdesking-handleiding.md
+- content/ondersteuning/Juridisch/gespreksopname-handleiding.md
+- content/ondersteuning/Juridisch/extended-calls-handleiding.md
+- content/ondersteuning/Juridisch/bereikbaarheidsmonitor.md
+- content/ondersteuning/Juridisch/multiple-caller-id.md
 - content/ondersteuning/belplan/gespreksrapportages-aanvragen.md
 - content/ondersteuning/vast-mobiel/vast-mobiel-handleiding.md
 - content/ondersteuning/meldteksten-wachtmuziek/wachtmuziek.md
