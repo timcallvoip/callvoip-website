@@ -22,6 +22,8 @@ fields:
   label: SEO
   description: Seo
 pages:
+- content/ondersteuning/Apparatuurhandleidingen/gigaset-ip-pro-provisioning.md
+- content/ondersteuning/Apparatuurhandleidingen/gigaset-ip-pro-handmatig.md
 - content/ondersteuning/Apparatuurhandleidingen/yealink-t4x-serie.md
 - content/ondersteuning/simmpl-functionaliteiten/tijdsconditie-app.md
 - content/ondersteuning/simmpl-functionaliteiten/omleidings-app.md

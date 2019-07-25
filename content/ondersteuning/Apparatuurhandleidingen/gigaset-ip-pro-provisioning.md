@@ -1,5 +1,5 @@
 ---
-title: Yealink T4x- & T5x-serie (handmatig)
+title: Gigaset IP Pro (provisioning)
 weight: 
 description: ''
 images: []
