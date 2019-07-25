@@ -1,5 +1,5 @@
 ---
-title: Vast Mobiel (Vamos) handleiding
+title: Hotdesking handleiding
 weight: 
 description: ''
 images: []

@@ -1,5 +1,5 @@
 ---
-title: Vast Mobiel (Vamos) handleiding
+title: Bereikbaarheidsmonitor handleiding
 weight: 
 description: ''
 images: []

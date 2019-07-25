@@ -22,14 +22,18 @@ fields:
   label: SEO
   description: Seo
 pages:
+- content/ondersteuning/vast-mobiel/vast-mobiel-vamos-informatie.md
+- content/ondersteuning/Juridisch/hotdesking-handleiding.md
+- content/ondersteuning/Juridisch/gespreksopname-handleiding.md
+- content/ondersteuning/Juridisch/extended-calls-handleiding.md
+- content/ondersteuning/Juridisch/bereikbaarheidsmonitor.md
+- content/ondersteuning/Juridisch/multiple-caller-id.md
 - content/ondersteuning/belplan/gespreksrapportages-aanvragen.md
 - content/ondersteuning/vast-mobiel/vast-mobiel-handleiding.md
 - content/ondersteuning/meldteksten-wachtmuziek/wachtmuziek.md
 - content/ondersteuning/algemeen/conferencing-service-handleiding.md
 - content/ondersteuning/algemeen/sip-trunk-handleiding.md
 - content/ondersteuning/Integraties/voip-cti-handleiding.md
-- content/ondersteuning/Integraties/vast-mobiel-vamos-handleiding.md
-- content/ondersteuning/Integraties/vast-mobiel-vamos-informatie.md
 - content/ondersteuning/Integraties/realtime-api.md
 - content/ondersteuning/Integraties/click-to-dial-yealink-adresboek.md
 - content/ondersteuning/Integraties/click-to-dial-uitgebreide-handleiding.md
@@ -48,12 +52,8 @@ pages:
 - content/ondersteuning/Apparatuurhandleidingen/yealink-t4x-serie.md
 - content/ondersteuning/simmpl-functionaliteiten/tijdsconditie-app.md
 - content/ondersteuning/simmpl-functionaliteiten/omleidings-app.md
-- content/ondersteuning/simmpl-functionaliteiten/simmpl-trunk-service.md
 - content/ondersteuning/call-pickup.md
-- content/ondersteuning/Integraties/vamos-vast-mobiel.md
 - content/ondersteuning/Integraties/voip-cti.md
-- content/ondersteuning/simmpl-functionaliteiten/simmpl-realtime-api.md
-- content/ondersteuning/simmpl-functionaliteiten/operator-console.md
 - content/ondersteuning/simmpl-functionaliteiten/qaller-plus-app.md
 - content/ondersteuning/simmpl-functionaliteiten/email-app.md
 - content/ondersteuning/simmpl-functionaliteiten/wachtrij-app.md
@@ -63,7 +63,6 @@ pages:
 - content/ondersteuning/fax-voicemail/voicemail-instellen-afluisteren.md
 - content/ondersteuning/netwerk-ondersteuning/eerste-hulp-bij-voip-problemen.md
 - content/ondersteuning/netwerk-ondersteuning/tips-bij-router-firewall-problemen.md
-- content/ondersteuning/simmpl-functionaliteiten/shortcodes.md
 - content/ondersteuning/simmpl-functionaliteiten/prefix.md
 - content/ondersteuning/belplan/overzicht.md
 - content/ondersteuning/algemeen/storing.md
