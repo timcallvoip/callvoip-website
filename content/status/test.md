@@ -3,4 +3,4 @@ title: Geen meldingen
 error: false
 
 ---
-Geen aankondigingen.
+Er zijn op dit moment geen meldingen.
