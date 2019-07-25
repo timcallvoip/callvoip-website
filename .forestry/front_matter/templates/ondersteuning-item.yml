@@ -22,6 +22,7 @@ fields:
   label: SEO
   description: Seo
 pages:
+- content/ondersteuning/algemeen/nieuwsbrieven-overzicht.md
 - content/ondersteuning/algemeen/overzicht-sip-statuscodes.md
 - content/ondersteuning/algemeen/overzicht-shortcodes-simmpl.md
 - content/ondersteuning/algemeen/contact.md
