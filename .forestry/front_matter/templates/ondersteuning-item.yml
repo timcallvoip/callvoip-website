@@ -22,6 +22,8 @@ fields:
   label: SEO
   description: Seo
 pages:
+- content/ondersteuning/algemeen/conferencing-service-handleiding.md
+- content/ondersteuning/algemeen/sip-trunk-handleiding.md
 - content/ondersteuning/Integraties/voip-cti-handleiding.md
 - content/ondersteuning/Integraties/vast-mobiel-vamos-handleiding.md
 - content/ondersteuning/Integraties/vast-mobiel-vamos-informatie.md
