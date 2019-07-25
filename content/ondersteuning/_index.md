@@ -7,7 +7,7 @@ hero:
     we, via onze remote software, gezamenlijk naar het probleem..
   image: "/v1552466820/placeholder-werken1.jpg"
   button:
-    content: Hulp op afstand
+    content: 'Hulp op afstand '
     link: http://support.callvoip.nl:8040/
 outputs:
 - HTML
