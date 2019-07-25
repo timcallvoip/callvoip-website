@@ -82,6 +82,11 @@ sections:
   match: "**/*"
   templates:
   - formulier
+- type: directory
+  path: content/status
+  label: Status
+  create: all
+  match: "**/*"
 - type: heading
   label: Settings
 - type: document
