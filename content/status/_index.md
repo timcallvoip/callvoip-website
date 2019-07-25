@@ -21,4 +21,7 @@ items:
   status: true
 
 ---
-Dit is standaard tekst bovenaan de statuspagina. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vel quam ultricies, facilisis nunc at, consequat justo. Nunc auctor auctor lacus, id pulvinar lacus facilisis id.
+  
+Op deze pagina vindt u de status van de verschillende onderdelen van Simmpl, de online telefooncentrale van Callvoip, inclusief onderhoudsmeldingen en incidenten.
+
+Als u een niet-vermeld probleem met een van onze services wilt melden, neemt u rechtstreeks contact met ons op via <a href="tel:+31508200000">050 820 0000</a> of [callvoip@callvoip.nl](mailto:callvoip@callvoip.nl).
