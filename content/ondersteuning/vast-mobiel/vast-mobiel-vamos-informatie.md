@@ -1,5 +1,5 @@
 ---
-title: Vast Mobiel (Vamos) handleiding
+title: Vast Mobiel (Vamos) informatie
 weight: 
 description: ''
 images: []

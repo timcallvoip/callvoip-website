@@ -22,6 +22,7 @@ fields:
   label: SEO
   description: Seo
 pages:
+- content/ondersteuning/vast-mobiel/vast-mobiel-vamos-informatie.md
 - content/ondersteuning/Juridisch/hotdesking-handleiding.md
 - content/ondersteuning/Juridisch/gespreksopname-handleiding.md
 - content/ondersteuning/Juridisch/extended-calls-handleiding.md
