@@ -1,5 +1,5 @@
 ---
-title: Vamos Vast-Mobiel
+title: Vast-Mobiel integratie (overzicht)
 weight: 
 description: ''
 images: []
