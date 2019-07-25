@@ -34,3 +34,8 @@ fields:
 - type: number
   name: weight
   label: Weight
+- name: website
+  type: text
+  config:
+    required: false
+  label: Website
