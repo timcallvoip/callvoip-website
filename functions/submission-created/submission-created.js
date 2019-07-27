@@ -28,7 +28,7 @@ exports.handler = async (event, context, callback) => {
   let toEmail = '';
 
   if (data.formto == 'dev') {
-    toEmail = 'info@frankspin.nl'
+    toEmail = 'info@spinme.nl'
   }
 
   if (data.formto == 'info') {
@@ -77,8 +77,7 @@ exports.handler = async (event, context, callback) => {
   console.log('sending mail with', msgClient)
 
   try {
-    sgMail.send(msgClient);
-    console.log('Client mail send succes')
+    return sgMail.send(msgClient);
   } catch(error) {
     console.error('error', error)
   }
@@ -86,8 +85,7 @@ exports.handler = async (event, context, callback) => {
   console.log('sending mail with', msgInternal)
 
   try {
-    sgMail.send(msgInternal);
-    console.log('Internal mail send succes')
+    return sgMail.send(msgInternal);
   } catch(error) {
     console.error('error', error)
   }
