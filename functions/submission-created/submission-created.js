@@ -38,7 +38,7 @@ exports.handler = (event, context, callback) => {
     const msgInternal = {
       to: data.formto,
       from: data['e-mailadres'] || 'info@callvoiptelefonie.nl',
-      subject: `Inzending formulier ${data.form_name}`,
+      subject: 'Inzending formulier callvoip.nl',
 
       // template id from sendgrid
       templateId: data.formlayout || defaultTemplate,
