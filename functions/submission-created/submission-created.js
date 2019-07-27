@@ -49,7 +49,22 @@ exports.handler = async (event, context, callback) => {
   const msgClient = {
     to: data.email,
     from: toEmail || 'aanvragen@callvoip.nl',
-    subject: 'Inzending formulier Callvoip',
+
+    personalizations: [
+      {
+        to: [
+          {
+            email: data.email
+          }
+        ],
+        bcc: [
+          {
+            email: toEmail || 'aanvragen@callvoip.nl',
+          }
+        ],
+        subject: "Inzending formulier Callvoip",
+      }
+    ],
 
     // template id from sendgrid
     templateId: data.formlayout || defaultTemplate,
@@ -59,19 +74,19 @@ exports.handler = async (event, context, callback) => {
     }
   };
 
-  const msgInternal = {
-    to: toEmail,
-    from: data.email || 'aanvragen@callvoip.nl',
-    subject: 'Inzending formulier callvoip.nl',
+  // const msgInternal = {
+  //   to: toEmail,
+  //   from: data.email || 'aanvragen@callvoip.nl',
+  //   subject: 'Inzending formulier callvoip.nl',
 
-    // template id from sendgrid
-    templateId: internalTemplate,
-    dynamic_template_data: {
-      last_name: data.achternaam,
-      form_name: form_name,
-      fields: fields
-    }
-  };
+  //   // template id from sendgrid
+  //   templateId: internalTemplate,
+  //   dynamic_template_data: {
+  //     last_name: data.achternaam,
+  //     form_name: form_name,
+  //     fields: fields
+  //   }
+  // };
 
 
   console.log('sending mail with', msgClient)
@@ -82,13 +97,13 @@ exports.handler = async (event, context, callback) => {
     console.error('error', error)
   }
 
-  console.log('sending mail with', msgInternal)
+  // console.log('sending mail with', msgInternal)
 
-  try {
-    return sgMail.send(msgInternal);
-  } catch(error) {
-    console.error('error', error)
-  }
+  // try {
+  //   return sgMail.send(msgInternal);
+  // } catch(error) {
+  //   console.error('error', error)
+  // }
 
   return;
 };
