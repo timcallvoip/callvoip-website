@@ -11,6 +11,7 @@ exports.handler = (event, context, callback) => {
     console.log(JSON.parse(event.body).payload.form_name);
 
     const data = JSON.parse(event.body).payload.data;
+    const form_name = JSON.parse(event.body).payload.form_name;
     const fields = JSON.parse(event.body).payload.ordered_human_fields;
 
     console.log('THIS IS THE DATA', data)
@@ -21,7 +22,11 @@ exports.handler = (event, context, callback) => {
     const defaultTemplate = 'd-5f1602c68c8a42919ddf340e285386e3';
     const internalTemplate = 'd-b8915fd3b5f149ccbbcb6b469aecc71d';
 
-    console.log('emailadres is', data['e-'])
+    console.log('-----------------------------------')
+    console.log('emailadres is', data.email)
+    console.log('formlayout is', data.formlayout)
+    console.log('form_name is', form_name)
+    console.log('-----------------------------------')
 
 
     const msgClient = {
@@ -43,10 +48,10 @@ exports.handler = (event, context, callback) => {
       subject: 'Inzending formulier callvoip.nl',
 
       // template id from sendgrid
-      templateId: data.formlayout || defaultTemplate,
+      templateId: internalTemplate,
       dynamic_template_data: {
         last_name: data.achternaam,
-        form_name: data.form_name,
+        form_name: form_name,
         fields: fields
       }
     };
