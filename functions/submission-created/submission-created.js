@@ -1,5 +1,5 @@
 // Docs on event and context https://www.netlify.com/docs/functions/#the-handler-method
-exports.handler = async (event, context, callback) => {
+exports.handler =  (event, context, callback) => {
   // console.log('called', event)
   // console.log('----------------DATA--------------')
   // console.log(JSON.parse(event.body).payload.data);
@@ -48,7 +48,9 @@ exports.handler = async (event, context, callback) => {
 
   const msgClient = {
     to: data.email,
-    from: toEmail || 'aanvragen@callvoip.nl',
+    from: {
+      email: toEmail || 'aanvragen@callvoip.nl',
+    },
 
     personalizations: [
       {
@@ -89,13 +91,18 @@ exports.handler = async (event, context, callback) => {
   // };
 
 
-  console.log('sending mail with', msgClient)
 
-  try {
-    return sgMail.send(msgClient);
-  } catch(error) {
-    console.error('error', error)
-  }
+  sgMail.send(msgClient)
+    .then( () => {
+      console.log(msgClient);
+      callback(null, {
+        statusCode: 200,
+        body: JSON.stringify(msg),
+      });
+    })
+    .catch(error => callback(error));
+
+
 
   // console.log('sending mail with', msgInternal)
 
