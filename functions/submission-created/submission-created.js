@@ -22,37 +22,40 @@ exports.handler =  (event, context, callback) => {
 
   const defaultTemplate = 'd-5f1602c68c8a42919ddf340e285386e3';
 
-  let toEmail = '';
+  let fromEmail = '';
 
   if (data.formto == 'dev') {
-    toEmail = 'info@spinme.nl'
+    fromEmail = 'info@spinme.nl'
   }
 
   if (data.formto == 'info') {
-    toEmail = 'info@callvoip.nl'
+    fromEmail = 'info@callvoip.nl'
   }
 
   if (data.formto == 'offerte') {
-    toEmail = 'offerte@callvoip.nl'
+    fromEmail = 'offerte@callvoip.nl'
   }
 
   if (data.formto == 'aanvragen') {
-    toEmail = 'aanvragen@callvoip.nl'
+    fromEmail = 'aanvragen@callvoip.nl'
   }
 
 
   const msg = {
     to: data.email,
-    from:  toEmail || 'aanvragen@callvoip.nl',
+    from: {
+      email: fromEmail || 'aanvragen@callvoip.nl',
+      name: 'Callvoip'
+    },
     subject: "Inzending formulier Callvoip",
     templateId: data.formlayout || defaultTemplate,
     dynamic_template_data: {
       last_name: data.achternaam,
       form_name: form_name,
-      fields: fields
+      fields: fields,
+      subject: "Inzending formulier Callvoip"
     }
   };
-
 
   return sgMail.send(msg);
 
