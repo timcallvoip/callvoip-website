@@ -1,7 +1,7 @@
 {{ $name := default "Provide input name" (.Get 0) }}
 
 <input
-    type="text"
+    type="hidden"
     id="formlayout"
     name="formlayout"
     value="{{ $name | urlize }}"
