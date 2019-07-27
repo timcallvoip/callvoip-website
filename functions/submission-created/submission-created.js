@@ -1,20 +1,8 @@
 // Docs on event and context https://www.netlify.com/docs/functions/#the-handler-method
 exports.handler = (event, context, callback) => {
-    // console.log('called', event)
-    // console.log('----------------DATA--------------')
-    // console.log(JSON.parse(event.body).payload.data);
-    // console.log('----------------Human Fields--------------')
-    // console.log(JSON.parse(event.body).payload.human_fields);
-    // console.log('----------------Ordered Human Fields--------------')
-    // console.log(JSON.parse(event.body).payload.ordered_human_fields);
-    // console.log('----------------Form Name--------------')
-    // console.log(JSON.parse(event.body).payload.form_name);
-
     const data = JSON.parse(event.body).payload.data;
     const form_name = JSON.parse(event.body).payload.form_name;
     const fields = JSON.parse(event.body).payload.ordered_human_fields;
-
-    // console.log('THIS IS THE DATA', data)
 
     const sgMail = require('@sendgrid/mail');
     sgMail.setApiKey(process.env.SENDGRID_API_KEY);
@@ -23,30 +11,9 @@ exports.handler = (event, context, callback) => {
     const internalTemplate = 'd-b8915fd3b5f149ccbbcb6b469aecc71d';
 
 
-    const toEmail = '';
-
-    if (data.fromto == 'dev') {
-      toEmail = 'info@frankspin.nl'
-    }
-
-    if (data.fromto == 'info') {
-      toEmail = 'info@callvoip.nl'
-    }
-
-    if (data.fromto == 'offerte') {
-      toEmail = 'offerte@callvoip.nl'
-    }
-
-    if (data.fromto == 'aanvragen') {
-      toEmail = 'aanvragen@callvoip.nl'
-    }
-
-
-
-
     const msgClient = {
       to: data.email,
-      from: toEmail || 'aanvragen@callvoip.nl',
+      from: data.formto || 'aanvragen@callvoip.nl',
       subject: 'Inzending formulier Callvoip',
 
       // template id from sendgrid
@@ -58,7 +25,7 @@ exports.handler = (event, context, callback) => {
     };
 
     const msgInternal = {
-      to: toEmail,
+      to: data.formto,
       from: data.email || 'aanvragen@callvoip.nl',
       subject: 'Inzending formulier callvoip.nl',
 
