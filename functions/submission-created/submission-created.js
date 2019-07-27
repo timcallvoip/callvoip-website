@@ -13,6 +13,8 @@ exports.handler = (event, context, callback) => {
     const data = JSON.parse(event.body).payload.data;
     const fields = JSON.parse(event.body).payload.ordered_human_fields;
 
+    console.log('THIS IS THE DATA', data)
+
     const sgMail = require('@sendgrid/mail');
     sgMail.setApiKey(process.env.SENDGRID_API_KEY);
 
@@ -20,7 +22,7 @@ exports.handler = (event, context, callback) => {
 
 
     const msg = {
-      to: data.to || "aanvragen@callvoip.nl",
+      to: data.to || "info@frankspin.nl",
       from: 'info@callvoiptelefonie.nl',
       subject: 'Inzending contactformulier ontvangen',
 
