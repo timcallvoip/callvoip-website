@@ -27,19 +27,19 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{< form/input "Telefoonnummer" >}}
 
-{{< form/email "E-mailadres" required >}}
+{{< form/email "Email" required >}}
 
 {{< form/textarea "Opmerkingen" >}}
 
 {{</ form/fieldset >}}
 
-  
- {{< form/button "Verstuur formulier" >}}  
- 
+
+ {{< form/button "Verstuur formulier" >}}
+
 
 <br><br>
 
-  
+
  {{< layout/columns >}}
 
 {{< layout/column3 >}}
@@ -66,7 +66,7 @@ Eenmalig
 
 {{< layout/column3 >}}
 
-ServicePlus  
+ServicePlus
  {{</ layout/column3 >}}
 
 {{< layout/column3 >}}
@@ -83,5 +83,5 @@ ServicePlus
 
 {{</ layout/columns >}}
 
-  
+
  {{</ form >}}

@@ -27,7 +27,7 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{< form/input "Telefoonnummer" >}}
 
-{{< form/email "E-mailadres" required >}}
+{{< form/email "Email" required >}}
 
 {{</ form/fieldset >}}
 
@@ -35,7 +35,7 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{< form/fieldset "Aanvraag importeren telefoonboek" >}}
 
-{{< form/fileupload "Upload telefoonboek (formaat: csv|xlsx|xls)" >}}  
+{{< form/fileupload "Upload telefoonboek (formaat: csv|xlsx|xls)" >}}
 {{< form/textarea "Opmerkingen" >}}
 
 {{</ form/fieldset >}}
@@ -70,7 +70,7 @@ Eenmalig
 
 {{< layout/column3 >}}
 
-Importeren telefoonboek  
+Importeren telefoonboek
 {{</ layout/column3 >}}
 
 {{< layout/column3 >}}

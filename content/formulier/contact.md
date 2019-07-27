@@ -56,7 +56,7 @@ Wilt u meer informatie over onze diensten ontvangen, wilt u feedback geven of he
 
 {{< layout/split >}}
 
-{{< form/email "E-mailadres" required >}}
+{{< form/email "Email" required >}}
 
 {{< form/input "Telefoonnummer" >}}
 

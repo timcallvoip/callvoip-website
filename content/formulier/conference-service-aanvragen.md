@@ -9,25 +9,25 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{< form "aanvragen-conference" "/aanvragen/verzonden" >}}
 
-{{< form/fieldset "Bedrijfsgegevens" >}}  
-{{< form/input "Bedrijfsnaam" >}}  
-{{< form/input "Klantnummer" required >}}  
-{{< form/select "Aanhef" >}}  
-{{< form/option "Heer" >}}  
-{{< form/option "Mevrouw" >}}  
-{{</ form/select >}}  
-{{< form/input "Contactpersoon" >}}  
-{{< form/input "Telefoonnummer" >}}  
-{{< form/email "E-mailadres" required >}}
+{{< form/fieldset "Bedrijfsgegevens" >}}
+{{< form/input "Bedrijfsnaam" >}}
+{{< form/input "Klantnummer" required >}}
+{{< form/select "Aanhef" >}}
+{{< form/option "Heer" >}}
+{{< form/option "Mevrouw" >}}
+{{</ form/select >}}
+{{< form/input "Contactpersoon" >}}
+{{< form/input "Telefoonnummer" >}}
+{{< form/email "Email" required >}}
 
-{{</ form/fieldset >}}  
+{{</ form/fieldset >}}
 {{< form/fieldset "Conference gegevens" >}}
 
 _Voor de Conference Service heeft u een apart telefoonnummer nodig dat u alleen voor deze dienst reserveert. Indien u reeds een vrij nummer heeft die u kunt gebruiken voor de Conference Service, vul deze dan hieronder in. Heeft u nog geen apart telefoonnummer, dan kunt u <a href="https://callvoip.nl/aanvragen/nummer" target="blank">hier</a> een nummer aanvragen.<br>_
 
-{{< form/input "Telefoonnummer" >}}  
-{{< form/input "Aantal deelnemers" >}}  
-{{< form/textarea "Opmerkingen" >}}  
+{{< form/input "Telefoonnummer" >}}
+{{< form/input "Aantal deelnemers" >}}
+{{< form/textarea "Opmerkingen" >}}
 {{</ form/fieldset >}}
 
 {{< form/button "Verstuur formulier" >}}
@@ -60,7 +60,7 @@ Eenmalig
 
 {{< layout/column3 >}}
 
-Conference  
+Conference
 {{</ layout/column3 >}}
 
 {{< layout/column3 >}}

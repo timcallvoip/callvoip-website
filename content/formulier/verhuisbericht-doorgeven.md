@@ -25,7 +25,7 @@ Gaat u verhuizen? Vul het formulier in, controleer de bevestigingsmail en stuur 
 
 {{< form/input "Telefoonnummer" >}}
 
-{{< form/email "E-mailadres" required >}}
+{{< form/email "Email" required >}}
 
 {{</ form/fieldset >}}
 
@@ -35,10 +35,10 @@ Gaat u verhuizen? Vul het formulier in, controleer de bevestigingsmail en stuur 
 
 {{< form/input "Postcode" >}}
 
-{{< form/input "Woonplaats" >}}  
+{{< form/input "Woonplaats" >}}
 {{</ form/fieldset >}}
 
-  
+
 {{< form/fieldset "Nieuwe adres" >}}
 
 {{< form/input "Adres" >}}

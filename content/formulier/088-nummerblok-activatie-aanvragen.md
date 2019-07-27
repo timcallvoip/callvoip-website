@@ -25,7 +25,7 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{< form/input "Telefoonnummer" >}}
 
-{{< form/email "E-mailadres" required >}}
+{{< form/email "Email" required >}}
 
 {{</ form/fieldset >}}
 
@@ -33,7 +33,7 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{< form/input "Uw 088-blok" >}}
 
-{{< form/fileupload "ACM beschikking" >}}  
+{{< form/fileupload "ACM beschikking" >}}
 {{< form/textarea "Opmerkingen" >}}
 
 {{</ form/fieldset >}}
@@ -68,7 +68,7 @@ Eenmalig
 
 {{< layout/column3 >}}
 
-088-blok activeren  
+088-blok activeren
 {{</ layout/column3 >}}
 
 {{< layout/column3 >}}

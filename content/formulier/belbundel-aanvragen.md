@@ -9,25 +9,25 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{< form "aanvragen-belbundel" "/aanvragen/verzonden" >}}
 
-{{< form/fieldset "Bedrijfsgegevens" >}}  
-{{< form/input "Bedrijfsnaam" >}}  
-{{< form/input "Klantnummer" required >}}  
-{{< form/select "Aanhef" >}}  
-{{< form/option "Heer" >}}  
-{{< form/option "Mevrouw" >}}  
-{{</ form/select >}}  
-{{< form/input "Contactpersoon" >}}  
-{{< form/input "Telefoonnummer" >}}  
-{{< form/email "E-mailadres" required >}}  
+{{< form/fieldset "Bedrijfsgegevens" >}}
+{{< form/input "Bedrijfsnaam" >}}
+{{< form/input "Klantnummer" required >}}
+{{< form/select "Aanhef" >}}
+{{< form/option "Heer" >}}
+{{< form/option "Mevrouw" >}}
+{{</ form/select >}}
+{{< form/input "Contactpersoon" >}}
+{{< form/input "Telefoonnummer" >}}
+{{< form/email "Email" required >}}
 {{</ form/fieldset >}}
 
-{{< form/fieldset "Aanvraag belbundel" >}}  
-{{< form/select "Type belbundel" >}}  
-{{< form/option "500 belminuten" >}}  
-{{< form/option "1500 belminuten" >}}  
-{{< form/option "5000 belminuten" >}}  
-{{</ form/select >}}  
-{{< form/textarea "Opmerkingen" >}}  
+{{< form/fieldset "Aanvraag belbundel" >}}
+{{< form/select "Type belbundel" >}}
+{{< form/option "500 belminuten" >}}
+{{< form/option "1500 belminuten" >}}
+{{< form/option "5000 belminuten" >}}
+{{</ form/select >}}
+{{< form/textarea "Opmerkingen" >}}
 {{</ form/fieldset >}}
 
 {{< form/button "Verstuur formulier" >}}
@@ -64,7 +64,7 @@ Eenmalig
 
 {{< layout/column3 >}}
 
-500 belminuten per toestel  
+500 belminuten per toestel
 {{</ layout/column3 >}}
 
 {{< layout/column3 >}}
@@ -107,7 +107,7 @@ Eenmalig
 
 {{< layout/column3 >}}
 
-5\.000 belminuten per toestel  
+5\.000 belminuten per toestel
 {{</ layout/column3 >}}
 
 {{< layout/column3 >}}
@@ -126,7 +126,7 @@ Eenmalig
 
 <br><br>
 
-**Fair Use policy voor belbundels** 
+**Fair Use policy voor belbundels**
 
 <br>
 
@@ -134,7 +134,7 @@ Per belbundelgebruiker (= per toestelaccount) mag er max. 30% van de totaal uitg
 
 <br><br>
 
-**Loyale klanten** 
+**Loyale klanten**
 
 <br>
 

@@ -27,20 +27,20 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{< form/input "Telefoonnummer" >}}
 
-{{< form/email "E-mailadres" required >}}
+{{< form/email "Email" required >}}
 
 {{</ form/fieldset >}}
 
-  
+
  {{< form/fieldset "Opzeggegevens" >}}
 
 {{< form/input "Wensdatum opzegging" >}}
 
-{{< form/textarea "Opmerkingen" >}}  
+{{< form/textarea "Opmerkingen" >}}
  {{</ form/fieldset >}}
 
-  
+
  {{< form/button "Verstuur formulier" >}}
 
-  
+
  {{</ form >}}

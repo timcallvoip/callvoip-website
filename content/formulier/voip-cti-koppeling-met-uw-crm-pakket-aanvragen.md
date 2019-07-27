@@ -25,11 +25,11 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{< form/input "Telefoonnummer" >}}
 
-{{< form/email "E-mailadres" required >}}
+{{< form/email "Email" required >}}
 
 {{</ form/fieldset >}}
 
-  
+
  {{< form/fieldset "Aanvraag VoIP CTI" >}}
 
 {{< form/input "CRM-pakket" required >}}
@@ -62,13 +62,13 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{</ form/fieldset >}}
 
-  
- {{< form/button "Verstuur formulier" >}}  
- 
+
+ {{< form/button "Verstuur formulier" >}}
+
 
 <br><br>
 
-  
+
 {{< layout/columns >}}
 
 {{< layout/column3 >}}
@@ -95,7 +95,7 @@ Eenmalig
 
 {{< layout/column3 >}}
 
-Per organisatie  
+Per organisatie
  {{</ layout/column3 >}}
 
 {{< layout/column3 >}}
@@ -116,7 +116,7 @@ Per organisatie
 
 {{< layout/column3 >}}
 
-Per gebruiker  
+Per gebruiker
  {{</ layout/column3 >}}
 
 {{< layout/column3 >}}
@@ -131,6 +131,6 @@ Per gebruiker
 
 {{</ layout/column3 >}}
 
-{{</ layout/columns >}}  
-  
+{{</ layout/columns >}}
+
  {{</ form >}}

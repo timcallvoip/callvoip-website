@@ -27,11 +27,11 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{< form/input "Telefoonnummer" >}}
 
-{{< form/email "E-mailadres" required >}}
+{{< form/email "Email" required >}}
 
 {{</ form/fieldset >}}
 
-  
+
  {{< form/fieldset "Opzeggegevens" >}}
 
 {{< form/checkboxgroup "Wilt u uw telefoonnummers opzeggen of verhuizen" "inline" >}}
@@ -54,8 +54,8 @@ _Per wanneer wilt u opzeggen?_
 
 {{< form/textarea "Opmerkingen" >}}
 
-{{</ form/fieldset >}}  
- 
+{{</ form/fieldset >}}
+
 
 {{< form/button "Verstuur formulier" >}}
 

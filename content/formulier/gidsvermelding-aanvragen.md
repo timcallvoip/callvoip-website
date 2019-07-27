@@ -25,7 +25,7 @@ Wilt u een vermelding in de telefoongids? Vul het formulier in, controleer de be
 
 {{< form/input "Telefoonnummer" >}}
 
-{{< form/email "E-mailadres" required >}}
+{{< form/email "Email" required >}}
 
 {{</ form/fieldset >}}
 
@@ -89,7 +89,7 @@ Eenmalig
 
 {{< layout/column3 >}}
 
-1 gidsvermelding  
+1 gidsvermelding
 {{</ layout/column3 >}}
 
 {{< layout/column3 >}}
@@ -110,7 +110,7 @@ Eenmalig
 
 {{< layout/column3 >}}
 
-Extra gidsvermelding  
+Extra gidsvermelding
 {{</ layout/column3 >}}
 
 {{< layout/column3 >}}

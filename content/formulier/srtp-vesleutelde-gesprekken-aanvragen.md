@@ -9,34 +9,34 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{< form "aanvragen-srtp" "/aanvragen/verzonden" >}}
 
-{{< form/fieldset "Bedrijfsgegevens" >}}  
-{{< form/input "Bedrijfsnaam" >}}  
-{{< form/input "Klantnummer" required >}}  
-{{< form/select "Aanhef" >}}  
-{{< form/option "Heer" >}}  
-{{< form/option "Mevrouw" >}}  
-{{</ form/select >}}  
-{{< form/input "Contactpersoon" >}}  
-{{< form/input "Telefoonnummer" >}}  
-{{< form/email "E-mailadres" required >}}  
+{{< form/fieldset "Bedrijfsgegevens" >}}
+{{< form/input "Bedrijfsnaam" >}}
+{{< form/input "Klantnummer" required >}}
+{{< form/select "Aanhef" >}}
+{{< form/option "Heer" >}}
+{{< form/option "Mevrouw" >}}
+{{</ form/select >}}
+{{< form/input "Contactpersoon" >}}
+{{< form/input "Telefoonnummer" >}}
+{{< form/email "Email" required >}}
 {{</ form/fieldset >}}
 
-{{< form/fieldset "SRTP aanvragen" >}}  
-{{< form/radiogroup "SRTP" >}}  
-{{< form/radio "Ja, ik wil beveiligd bellen" "SRTP" >}}  
-{{</ form/radiogroup >}}  
-{{< form/textarea "Opmerkingen" >}}  
+{{< form/fieldset "SRTP aanvragen" >}}
+{{< form/radiogroup "SRTP" >}}
+{{< form/radio "Ja, ik wil beveiligd bellen" "SRTP" >}}
+{{</ form/radiogroup >}}
+{{< form/textarea "Opmerkingen" >}}
 {{</ form/fieldset >}}
 
 {{< form/button "Verstuur formulier" >}}
 
 <br><br>
 
-**Welke toestellen zijn geschikt?** 
+**Welke toestellen zijn geschikt?**
 
 <br>
 
-Niet alle toestellen zijn geschikt om gebruik te maken van de versleutelde gesprekken.  
+Niet alle toestellen zijn geschikt om gebruik te maken van de versleutelde gesprekken.
 Veel recente modellen van de merken Yealink en Gigaset zijn geschikt voor SRTP. Na uw aanvraag nemen wij contact met u op om te kijken of uw huidige toestellen geschikt zijn en assisteren u bij de selectie van geschikte modellen.
 
 {{</ form >}}

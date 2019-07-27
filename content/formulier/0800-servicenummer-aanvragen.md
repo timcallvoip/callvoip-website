@@ -27,7 +27,7 @@ Vul het formulier in en stuur deze met uw ACM beschikking. Controleer de bevesti
 
 {{< form/input "Telefoonnummer" >}}
 
-{{< form/email "E-mailadres" required >}}
+{{< form/email "Email" required >}}
 
 {{</ form/fieldset >}}
 
@@ -35,7 +35,7 @@ Vul het formulier in en stuur deze met uw ACM beschikking. Controleer de bevesti
 
 {{< form/input "Uw 0800-nummer" >}}
 
-{{< form/fileupload "ACM beschikking" >}}  
+{{< form/fileupload "ACM beschikking" >}}
 {{< form/radiogroup "Nieuw of bestaand nummer?" "inline" >}}
 
 {{< form/radio "Nieuw" "Nieuw of bestaand nummer?" >}}
@@ -90,7 +90,7 @@ Eenmalig
 
 {{< layout/column3 >}}
 
-0800-nummer  
+0800-nummer
 {{</ layout/column3 >}}
 
 {{< layout/column3 >}}

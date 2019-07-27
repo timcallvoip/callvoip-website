@@ -25,7 +25,7 @@ Heeft u een telefoonnummer bij een andere provider en wilt u deze ook naar Callv
 
 {{< form/input "Telefoonnummer" >}}
 
-{{< form/email "E-mailadres" required >}}
+{{< form/email "Email" required >}}
 
 {{</ form/fieldset >}}
 
@@ -43,7 +43,7 @@ Heeft u een telefoonnummer bij een andere provider en wilt u deze ook naar Callv
 
 {{< form/input "Huidige provider" >}}
 
-{{< form/textarea "Te porteren nummers" >}}  
+{{< form/textarea "Te porteren nummers" >}}
 {{< form/input "Wensdatum portering" >}}
 
 _Wij hebben een kopie van uw telefoonnota nodig om de telefoonnummers te porteren._
@@ -146,7 +146,7 @@ Los telefoonummer
 
 {{</ layout/columns >}}<br>
 
-**Let op**:<br> 
+**Let op**:<br>
 
 Neem voor de aanvraag contact op met de huidige provider om navraag te doen over eventuele contractuele verplichtingen.
 

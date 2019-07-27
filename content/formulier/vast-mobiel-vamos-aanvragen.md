@@ -25,7 +25,7 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{< form/input "Telefoonnummer" >}}
 
-{{< form/email "E-mailadres" required >}}
+{{< form/email "Email" required >}}
 
 {{</ form/fieldset >}}
 
@@ -121,10 +121,10 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{</ form/select >}}
 
-{{< form/textarea "Te porteren nummers" >}}  
+{{< form/textarea "Te porteren nummers" >}}
 {{< form/input "Wensdatum" >}}
 
-{{< form/fileupload "Kopie telefoonnota" >}}  
+{{< form/fileupload "Kopie telefoonnota" >}}
 {{< form/textarea "Opmerkingen" >}}
 
 {{</ form/fieldset >}}
@@ -159,7 +159,7 @@ Eenmalig
 
 {{< layout/column3 >}}
 
-Onbeperkt bellen/SMS in EU + 2GB data  
+Onbeperkt bellen/SMS in EU + 2GB data
 {{</ layout/column3 >}}
 
 {{< layout/column3 >}}
@@ -180,7 +180,7 @@ Onbeperkt bellen/SMS in EU + 2GB data
 
 {{< layout/column3 >}}
 
-Onbeperkt bellen/SMS in EU + 5GB data  
+Onbeperkt bellen/SMS in EU + 5GB data
 {{</ layout/column3 >}}
 
 {{< layout/column3 >}}
@@ -191,7 +191,7 @@ Onbeperkt bellen/SMS in EU + 5GB data
 
 {{< layout/column3 >}}
 
-€ 25,00 excl. BTW (per SIM-kaart)  
+€ 25,00 excl. BTW (per SIM-kaart)
 {{</ layout/column3 >}}
 
 {{</ layout/columns >}}
@@ -200,7 +200,7 @@ Onbeperkt bellen/SMS in EU + 5GB data
 
 {{< layout/column3 >}}
 
-Onbeperkt bellen/SMS in EU + 10GB data  
+Onbeperkt bellen/SMS in EU + 10GB data
 {{</ layout/column3 >}}
 
 {{< layout/column3 >}}
@@ -211,7 +211,7 @@ Onbeperkt bellen/SMS in EU + 10GB data
 
 {{< layout/column3 >}}
 
-€ 25,00 excl. BTW (per SIM-kaart)  
+€ 25,00 excl. BTW (per SIM-kaart)
 {{</ layout/column3 >}}
 
 {{</ layout/columns >}}

@@ -21,9 +21,11 @@ exports.handler = (event, context, callback) => {
     const defaultTemplate = 'd-5f1602c68c8a42919ddf340e285386e3';
     const internalTemplate = 'd-b8915fd3b5f149ccbbcb6b469aecc71d';
 
+    console.log('emailadres is', data['e-'])
+
 
     const msgClient = {
-      to: data['e-mailadres'],
+      to: data.email,
       from: data.formto || 'info@callvoiptelefonie.nl',
       subject: 'Inzending formulier Callvoip',
 
@@ -37,7 +39,7 @@ exports.handler = (event, context, callback) => {
 
     const msgInternal = {
       to: data.formto,
-      from: data['e-mailadres'] || 'info@callvoiptelefonie.nl',
+      from: data.email || 'info@callvoiptelefonie.nl',
       subject: 'Inzending formulier callvoip.nl',
 
       // template id from sendgrid
