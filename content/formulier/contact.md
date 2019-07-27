@@ -40,7 +40,7 @@ BTW: NL1041.63.252.B01
 
 Wilt u meer informatie over onze diensten ontvangen, wilt u feedback geven of heeft u hulp nodig? Neem dan gerust contact met ons op via onderstaand formulier in. Wij nemen dan spoedig contact met u op.
 
-{{< form "Offerte formulier" "/contact/verzonden" >}}
+{{< form "Contact formulier" "/contact/verzonden" >}}
 {{< form/template "d-5f1602c68c8a42919ddf340e285386e3">}}
 {{< form/to "info@frankspin.nl">}}
 

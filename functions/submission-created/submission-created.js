@@ -19,31 +19,53 @@ exports.handler = (event, context, callback) => {
     sgMail.setApiKey(process.env.SENDGRID_API_KEY);
 
     const defaultTemplate = 'd-5f1602c68c8a42919ddf340e285386e3';
+    const internalTemplate = 'd-b8915fd3b5f149ccbbcb6b469aecc71d';
 
 
-    const msg = {
-      to: data.to || "info@frankspin.nl",
-      from: 'info@callvoiptelefonie.nl',
-      subject: 'Inzending contactformulier ontvangen',
+    const msgClient = {
+      to: data['e-mailadres'],
+      from: data.formto || 'info@callvoiptelefonie.nl',
+      subject: 'Inzending formulier Callvoip',
 
       // template id from sendgrid
-      templateId: data.layout || defaultTemplate,
+      templateId: data.formlayout || defaultTemplate,
       dynamic_template_data: {
         last_name: data.achternaam,
         fields: fields
       }
     };
 
-    console.log('sending mail with', msg)
+    const msgInternal = {
+      to: data.formto,
+      from: data['e-mailadres'] || 'info@callvoiptelefonie.nl',
+      subject: `Inzending formulier ${data.form_name}`,
+
+      // template id from sendgrid
+      templateId: data.formlayout || defaultTemplate,
+      dynamic_template_data: {
+        last_name: data.achternaam,
+        fields: fields
+      }
+    };
+
+
+    console.log('sending mail with', msgClient)
 
     try {
-      sgMail.send(msg);
+      sgMail.send(msgClient);
+      console.log('Client mail send succes')
     } catch(error) {
       console.error('error', error)
     }
 
-    console.log('mail send succes')
+    console.log('sending mail with', msgInternal)
+
+    try {
+      sgMail.send(msgInternal);
+      console.log('Internal mail send succes')
+    } catch(error) {
+      console.error('error', error)
+    }
 
     return;
-
 };
