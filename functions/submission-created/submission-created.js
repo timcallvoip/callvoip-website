@@ -1,5 +1,5 @@
 // Docs on event and context https://www.netlify.com/docs/functions/#the-handler-method
-exports.handler = (event, context, callback) => {
+exports.handler = async (event, context, callback) => {
   // console.log('called', event)
   // console.log('----------------DATA--------------')
   // console.log(JSON.parse(event.body).payload.data);
@@ -9,6 +9,8 @@ exports.handler = (event, context, callback) => {
   // console.log(JSON.parse(event.body).payload.ordered_human_fields);
   // console.log('----------------Form Name--------------')
   // console.log(JSON.parse(event.body).payload.form_name);
+
+  console.log('-------------------- FORMULIER NIEUW -----------------------')
 
   const data = JSON.parse(event.body).payload.data;
   const form_name = JSON.parse(event.body).payload.form_name;
