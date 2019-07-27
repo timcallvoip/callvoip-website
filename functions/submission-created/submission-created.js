@@ -48,27 +48,10 @@ exports.handler =  (event, context, callback) => {
 
   const msgClient = {
     to: data.email,
-    from: {
-      email: toEmail || 'aanvragen@callvoip.nl',
-    },
+    from:  toEmail || 'aanvragen@callvoip.nl',
+    bcc: toEmail || 'aanvragen@callvoip.nl',
+    subject: "Inzending formulier Callvoip",
 
-    personalizations: [
-      {
-        to: [
-          {
-            email: data.email
-          }
-        ],
-        bcc: [
-          {
-            email: toEmail || 'aanvragen@callvoip.nl',
-          }
-        ],
-        subject: "Inzending formulier Callvoip",
-      }
-    ],
-
-    // template id from sendgrid
     templateId: data.formlayout || defaultTemplate,
     dynamic_template_data: {
       last_name: data.achternaam,
@@ -92,15 +75,8 @@ exports.handler =  (event, context, callback) => {
 
 
 
-  sgMail.send(msgClient)
-    .then( () => {
-      console.log(msgClient);
-      callback(null, {
-        statusCode: 200,
-        body: JSON.stringify(msg),
-      });
-    })
-    .catch(error => callback(error));
+  return sgMail.send(msgClient);
+
 
 
 
@@ -112,5 +88,5 @@ exports.handler =  (event, context, callback) => {
   //   console.error('error', error)
   // }
 
-  return;
+
 };
