@@ -27,19 +27,19 @@ exports.handler = async (event, context, callback) => {
 
   const toEmail = '';
 
-  if (data.fromto == 'dev') {
+  if (data.formto == 'dev') {
     toEmail = 'info@frankspin.nl'
   }
 
-  if (data.fromto == 'info') {
+  if (data.formto == 'info') {
     toEmail = 'info@callvoip.nl'
   }
 
-  if (data.fromto == 'offerte') {
+  if (data.formto == 'offerte') {
     toEmail = 'offerte@callvoip.nl'
   }
 
-  if (data.fromto == 'aanvragen') {
+  if (data.formto == 'aanvragen') {
     toEmail = 'aanvragen@callvoip.nl'
   }
 
