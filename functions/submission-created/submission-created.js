@@ -44,6 +44,7 @@ exports.handler = (event, context, callback) => {
       templateId: data.formlayout || defaultTemplate,
       dynamic_template_data: {
         last_name: data.achternaam,
+        form_name: data.form_name,
         fields: fields
       }
     };
