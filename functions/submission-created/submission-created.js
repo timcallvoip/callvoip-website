@@ -25,7 +25,7 @@ exports.handler = async (event, context, callback) => {
   const internalTemplate = 'd-b8915fd3b5f149ccbbcb6b469aecc71d';
 
 
-  const toEmail = '';
+  let toEmail = '';
 
   if (data.formto == 'dev') {
     toEmail = 'info@frankspin.nl'
