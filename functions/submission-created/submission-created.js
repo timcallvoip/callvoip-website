@@ -61,7 +61,7 @@ exports.handler =  async (event, context, callback) => {
   const internalmsg = {
     to: fromEmail || 'aanvragen@callvoip.nl',
     from: {
-      email: data.email,,
+      email: data.email,
       name: data.voornaam + " " + data.achternaam,
     },
     subject: "Inzending formulier Callvoip",
