@@ -15,7 +15,7 @@ exports.handler =  async (event, context, callback) => {
   const data = JSON.parse(event.body).payload.data;
   const form_name = JSON.parse(event.body).payload.form_name;
   const fields = JSON.parse(event.body).payload.ordered_human_fields;
-  let clientFields = fields;
+
 
 
   const sgMail = require('@sendgrid/mail');
@@ -42,9 +42,13 @@ exports.handler =  async (event, context, callback) => {
     fromEmail = 'aanvragen@callvoip.nl'
   }
 
+  let clientFieldsTemp = fields.filter(function( obj ) {
+    return obj.name !== 'formlayout';
+  });
 
-  delete clientFields["Formlayout"];
-  delete clientFields["Formto"];
+  let clientFields = clientFieldsTemp.filter(function( obj ) {
+    return obj.name !== 'formto';
+  });
 
   const clientmsg = {
     to: data.email,
