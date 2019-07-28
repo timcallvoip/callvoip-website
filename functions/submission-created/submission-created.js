@@ -43,8 +43,6 @@ exports.handler =  async (event, context, callback) => {
   }
 
 
-
-
   delete clientFields["Formlayout"];
   delete clientFields["Formto"];
 
