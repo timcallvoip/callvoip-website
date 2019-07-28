@@ -15,6 +15,7 @@ exports.handler =  async (event, context, callback) => {
   const data = JSON.parse(event.body).payload.data;
   const form_name = JSON.parse(event.body).payload.form_name;
   const fields = JSON.parse(event.body).payload.ordered_human_fields;
+  let clientFields = fields;
 
 
   const sgMail = require('@sendgrid/mail');
@@ -42,6 +43,11 @@ exports.handler =  async (event, context, callback) => {
   }
 
 
+
+
+  delete clientFields["Formlayout"];
+  delete clientFields["Formto"];
+
   const clientmsg = {
     to: data.email,
     from: {
@@ -53,7 +59,7 @@ exports.handler =  async (event, context, callback) => {
     dynamic_template_data: {
       last_name: data.achternaam,
       form_name: form_name,
-      fields: fields,
+      fields: clientFields,
       subject: "Inzending formulier Callvoip"
     }
   };
