@@ -1,5 +1,5 @@
 // Docs on event and context https://www.netlify.com/docs/functions/#the-handler-method
-exports.handler =  (event, context, callback) => {
+exports.handler =  async (event, context, callback) => {
   console.log('called', event)
   console.log('----------------DATA--------------')
   console.log(JSON.parse(event.body).payload.data);
@@ -21,6 +21,7 @@ exports.handler =  (event, context, callback) => {
   sgMail.setApiKey(process.env.SENDGRID_API_KEY);
 
   const defaultTemplate = 'd-5f1602c68c8a42919ddf340e285386e3';
+  const internalTemplate = 'd-b8915fd3b5f149ccbbcb6b469aecc71d';
 
   let fromEmail = '';
 
@@ -41,7 +42,7 @@ exports.handler =  (event, context, callback) => {
   }
 
 
-  const msg = {
+  const clientmsg = {
     to: data.email,
     from: {
       email: fromEmail || 'aanvragen@callvoip.nl',
@@ -57,6 +58,36 @@ exports.handler =  (event, context, callback) => {
     }
   };
 
-  return sgMail.send(msg);
+  const internalmsg = {
+    to: fromEmail || 'aanvragen@callvoip.nl',
+    from: {
+      email: data.email,,
+      name: data.voornaam + " " + data.achternaam,
+    },
+    subject: "Inzending formulier Callvoip",
+    templateId: internalTemplate,
+    dynamic_template_data: {
+      last_name: data.achternaam,
+      form_name: form_name,
+      fields: fields,
+      subject: "Inzending formulier Callvoip"
+    }
+  };
+
+  try {
+    return sgMail.send(clientmsg);
+  } catch(error) {
+    console.log('error', error)
+  }
+
+  try {
+    return sgMail.send(internalmsg);
+  } catch(error) {
+    console.log('error', error)
+  }
+
+
+  return;
+
 
 };
