@@ -8,8 +8,7 @@ url: "/contact/"
 **Openingstijden** <br> Callvoip is op werkdagen geopend vanaf 08:30 tot 17:30.   
 {{</ layout/column2 >}}   
 {{< layout/column2 >}}   
-**Contactgegevens** <br> Telefoonnummer: [050-820 00 00](tel:+31508200000)
-Email: [callvoip@callvoip.nl](https://www.callvoiptelefonie.nl/contact/contactgegevens/)
+**Contactgegevens** <br> Telefoonnummer: [050-820 00 00](tel:+31508200000) <br> Email: [callvoip@callvoip.nl](https://www.callvoiptelefonie.nl/contact/contactgegevens/)
 {{</ layout/column2 >}}
 {{</ layout/columns >}}
 
@@ -18,13 +17,11 @@ Email: [callvoip@callvoip.nl](https://www.callvoiptelefonie.nl/contact/contactge
 {{< layout/columns >}}
 {{< layout/column2 >}}
 **Adresgegevens** <br> Koldingweg 19-1 9723 HL GRONINGEN  
-Postbus 5236 9700 GE GRONINGEN   
+<br> Postbus 5236 9700 GE GRONINGEN   
 {{</ layout/column2 >}}   
 {{< layout/column2 >}}   
 **Overige informatie**   
-IBAN: NL35RABO 0329402501  
-KvK Groningen: 02066541  
-BTW: NL1041.63.252.B01  
+IBAN: NL35RABO 0329402501 <br> KvK Groningen: 02066541 <br> BTW: NL1041.63.252.B01  
 {{</ layout/column2 >}}   
 {{</ layout/columns >}}
 
