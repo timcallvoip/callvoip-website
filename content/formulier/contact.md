@@ -25,7 +25,7 @@ url: "/contact/"
 **Overige informatie**   
 IBAN: NL35RABO 0329402501 <br> KvK Groningen: 02066541 <br> BTW: NL1041.63.252.B01 <br>  
 {{</ layout/column2 >}}   
-{{</ layout/columns >}}
+{{</ layout/columns >}}<br>
 
 ### Informatie of hulp nodig?
 
