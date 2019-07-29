@@ -65,20 +65,19 @@ Een handige eerste filteroptie is om in Excel in menu \[Gegevens\] de optie \[Fi
 
 <h3>Voorbeelden gespreksrapportages opvragen:</h3>
 
-1. **U wilt de specificaties gedurende één dag van één toestel opvragen
+1. U wilt de specificaties gedurende één dag van één toestel opvragen
 
    Instructie:  
-   \**- in het basisfilter zijn geen instellingen nodig  
+   \- in het basisfilter zijn geen instellingen nodig  
    \- open het geavanceerde filter  
    \- bij \[FROM\] vult u het interne toestelnummer in van het betreffende toestel  
    \- bij alle drie datumvelden (gebeld op, opgenomen op en opgehangen op) vult u in beide kalendervelden de dag in waarvan u de specificaties wilt opvragen. In het voorbeeld is dit 1 mei 2015.
 
-   ![](https://res.cloudinary.com/callvoip/image/upload/v1564408737/gespreksrapportages-9.png)  
-   </hr>
-2. **U wilt de specificaties gedurende de afgelopen week van uw verkoopteam (3 medewerkers) bekijken
+   ![](https://res.cloudinary.com/callvoip/image/upload/v1564408737/gespreksrapportages-9.png)
+2. U wilt de specificaties gedurende de afgelopen week van uw verkoopteam (3 medewerkers) bekijken
 
    Instructie:  
-   \**- basisfilter: kies \[**last week**\] (voor een eerdere week: gebruik het advanced filter)  
+   \- basisfilter: kies \[**last week**\] (voor een eerdere week: gebruik het advanced filter)  
    \- open het geavanceerde filter  
    \- kies bij \[**From**\] het interne nummer van één van de drie verkoopteamleden  
    \- u krijgt nu de analyse te zien; herhaal dit voor de overige 2 verkoopteamleden
@@ -93,19 +92,19 @@ Een handige eerste filteroptie is om in Excel in menu \[Gegevens\] de optie \[Fi
    \- filter het excelbestand op kolom \[**from.name**\]
 
    ![](https://res.cloudinary.com/callvoip/image/upload/v1564409248/gespreksrapportages-13.png)
-3. **U wilt weten hoeveel uitgaande gesprekken u de afgelopen maand heeft ontvangen op het balietoestel
+3. U wilt weten hoeveel uitgaande gesprekken u de afgelopen maand heeft ontvangen op het balietoestel
 
    Instructie:  
-   \**- kies bij het basisfilter: \[**This month**\] (of een andere periode)  
+   \- kies bij het basisfilter: \[**This month**\] (of een andere periode)  
    \- open het geavanceerde filter  
    \- vul bij \[**From**\] het interne nummer in van het betreffende balietoestel  
    \- kies bij het basisfilter: \[**Outgoing**\]
 
    ![](https://res.cloudinary.com/callvoip/image/upload/v1564409403/gespreksrapportages-14.png)
-4. **U wilt een overzicht van het aantal keren en de data dat een bepaald specifiek nummer naar uw organisatie heeft gebeld.
+4. U wilt een overzicht van het aantal keren en de data dat een bepaald specifiek nummer naar uw organisatie heeft gebeld.
 
    Instructie:  
-   \**- open het geavanceerde filter  
+   \- open het geavanceerde filter  
    \- vul bij **FROM** het nummer in dat u zoekt en noteer het nummer als 31xxx  
    \- kies bij het basisfilter: \[Incoming\]
 
