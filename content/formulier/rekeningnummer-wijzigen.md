@@ -9,6 +9,9 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{< form "wijzigen-rekeningnummer" "/wijzigen/verzonden" >}}
 
+{{< form/template "d-fe851c4499b54b7e9378f4732769ab58">}}  
+{{< form/to "aanvragen">}}
+
 {{< form/fieldset "Bedrijfsgegevens" >}}
 
 {{< form/input "Bedrijfsnaam" >}}
@@ -31,8 +34,7 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{</ form/fieldset >}}
 
-
- {{< form/fieldset "Te wijzigen rekeningnummer" >}}
+{{< form/fieldset "Te wijzigen rekeningnummer" >}}
 
 {{< form/input "Oude IBAN-nummer" >}}
 
@@ -42,8 +44,6 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{</ form/fieldset >}}
 
+{{< form/button "Verstuur formulier" >}}
 
- {{< form/button "Verstuur formulier" >}}
-
-
- {{</ form >}}
+{{</ form >}}

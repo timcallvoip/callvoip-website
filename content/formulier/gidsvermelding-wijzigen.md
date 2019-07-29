@@ -7,6 +7,9 @@ Wilt u een vermelding in de telefoongids? Vul het formulier in, controleer de be
 
 {{< form "wijzigen-gidsvermelding" "/wijzigen/verzonden" >}}
 
+{{< form/template "d-fe851c4499b54b7e9378f4732769ab58">}}  
+{{< form/to "aanvragen">}}
+
 {{< form/fieldset "Bedrijfsgegevens" >}}
 
 {{< form/input "Bedrijfsnaam" >}}
