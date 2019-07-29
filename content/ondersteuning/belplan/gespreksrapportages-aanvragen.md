@@ -11,7 +11,9 @@ De Simmpl telefooncentrale biedt een geavanceerde rapportage module waarmee u sp
 
 Log in op de Simmpl telefooncentrale en kies links in de menubalk optie \[**Rapporten**\].
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1564407625/gespreksrapportages-1.png)Op de rapportenpagina vindt u de gespreksdetailregels (call detail records of CDR’s): een overzicht van alle gespreksregels, met de meest recente bovenaan. Deze gespreksregels worden gepresenteerd in een aantal kolommen zodat u snel kunt zien of het gaat om een inkomend of uitgaand gesprek, wat de duur is, en op welke datum en tijd werd gebeld en het gesprek werd beëindigd.
+![](https://res.cloudinary.com/callvoip/image/upload/v1564407625/gespreksrapportages-1.png)  
+  
+Op de rapportenpagina vindt u de gespreksdetailregels (call detail records of CDR’s): een overzicht van alle gespreksregels, met de meest recente bovenaan. Deze gespreksregels worden gepresenteerd in een aantal kolommen zodat u snel kunt zien of het gaat om een inkomend of uitgaand gesprek, wat de duur is, en op welke datum en tijd werd gebeld en het gesprek werd beëindigd.
 
 Als een inkomend gesprek op een groep van bijvoorbeeld 5 toestellen overgaat, en door één van de 5 toestellen in de groep wordt aangenomen, dan zal dit gesprek er ook in 5 regels instaan waarvan er bij 4 regels staat dat het gesprek niet beantwoord werd, en bij één regel dat het gesprek wel is beantwoord.
 
@@ -21,9 +23,13 @@ Als u de muis op een waarde in één van de drie rechter kolommen houdt (alle dr
 
 Bovenaan de pagina ziet u het totaal aantal gesprekken en het aantal aangenomen gesprekken. Hier kunt u de gespreksregels filteren.
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1564407752/gespreksrapportages-2.png)Hiertoe heeft u drie dropdown-menu’s waar u de gewenste selecties kunt maken: wel/niet beantwoord, inkomend/uitgaand en een voorselectie van een aantal periodes:
+![](https://res.cloudinary.com/callvoip/image/upload/v1564407752/gespreksrapportages-2.png)  
+  
+Hiertoe heeft u drie dropdown-menu’s waar u de gewenste selecties kunt maken: wel/niet beantwoord, inkomend/uitgaand en een voorselectie van een aantal periodes:
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1564407875/gespreksrapportages-3.png)Maak uw selecties om snel en gericht een beeld te krijgen van de belverkeersstromen en verdeling daarvan in uw gebruiksomgeving.
+![](https://res.cloudinary.com/callvoip/image/upload/v1564407875/gespreksrapportages-3.png)  
+  
+Maak uw selecties om snel en gericht een beeld te krijgen van de belverkeersstromen en verdeling daarvan in uw gebruiksomgeving.
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1564407939/gespreksrapportages-4.png)<h2>Geavanceerd filter gespreksregels</h2>
 
