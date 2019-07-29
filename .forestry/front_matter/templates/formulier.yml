@@ -13,9 +13,9 @@ fields:
     required: false
   label: URL
 pages:
+- content/formulier/contact.md
 - content/formulier/wijziging-verzonden.md
 - content/formulier/opzegging-verzonden.md
-- content/formulier/contact.md
 - content/formulier/aanvraag-verzonden.md
 - content/formulier/vast-mobiel-vamos-opzeggen.md
 - content/formulier/serviceplus-opzeggen.md

@@ -3,6 +3,8 @@ title: Contact
 url: "/contact/"
 
 ---
+<br>
+
 {{< layout/columns >}}   
 {{< layout/column2 >}}   
 **Openingstijden** <br> Callvoip is op werkdagen geopend vanaf 08:30 tot 17:30.   
@@ -21,7 +23,7 @@ url: "/contact/"
 {{</ layout/column2 >}}   
 {{< layout/column2 >}}   
 **Overige informatie**   
-IBAN: NL35RABO 0329402501 <br> KvK Groningen: 02066541 <br> BTW: NL1041.63.252.B01  
+IBAN: NL35RABO 0329402501 <br> KvK Groningen: 02066541 <br> BTW: NL1041.63.252.B01 <br>  
 {{</ layout/column2 >}}   
 {{</ layout/columns >}}
 
