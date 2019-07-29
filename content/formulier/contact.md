@@ -40,9 +40,7 @@ BTW: NL1041.63.252.B01
 
 Wilt u meer informatie over onze diensten ontvangen, wilt u feedback geven of heeft u hulp nodig? Neem dan gerust contact met ons op via onderstaand formulier in. Wij nemen dan spoedig contact met u op.
 
-{{< form "Contact formulier" "/contact/verzonden" >}}
-{{< form/template "d-bb5785f73c154508a7d4125575855140">}}
-{{< form/to "aanvragen">}}
+{{< form "Contact formulier" "/contact/verzonden" >}} {{< form/template "d-bb5785f73c154508a7d4125575855140">}} {{< form/to "offerte">}}
 
 {{< layout/split >}}
 

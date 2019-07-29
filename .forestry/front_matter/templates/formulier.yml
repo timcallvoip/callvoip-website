@@ -13,11 +13,11 @@ fields:
     required: false
   label: URL
 pages:
+- content/formulier/contact.md
 - content/formulier/aanvraag-verzonden.md
 - content/formulier/vast-mobiel-vamos-opzeggen.md
 - content/formulier/serviceplus-opzeggen.md
 - content/formulier/voip-cti-koppeling-met-uw-crm-pakket-aanvragen.md
-- content/formulier/contact.md
 - content/formulier/mijn-callvoip.md
 - content/formulier/callvoipdsl-of-callvoipftth-opzeggen.md
 - content/formulier/voip-cti-koppeling-met-uw-crm-pakket-opzeggen.md
