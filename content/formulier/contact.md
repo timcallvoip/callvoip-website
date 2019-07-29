@@ -3,14 +3,12 @@ title: Contact
 url: "/contact/"
 
 ---
-{{< layout/columns >}}
-{{< layout/column2 >}}
-**Openingstijden**
-Callvoip is op werkdagen geopend vanaf 08:30 tot 17:30.
-{{</ layout/column2 >}}
-{{< layout/column2 >}}
-**Contactgegevens**
-Telefoonnummer: [050-820 00 00](tel:+31508200000)
+{{< layout/columns >}}   
+{{< layout/column2 >}}   
+**Openingstijden** <br> Callvoip is op werkdagen geopend vanaf 08:30 tot 17:30.   
+{{</ layout/column2 >}}   
+{{< layout/column2 >}}   
+**Contactgegevens** <br> Telefoonnummer: [050-820 00 00](tel:+31508200000)
 Email: [callvoip@callvoip.nl](https://www.callvoiptelefonie.nl/contact/contactgegevens/)
 {{</ layout/column2 >}}
 {{</ layout/columns >}}
