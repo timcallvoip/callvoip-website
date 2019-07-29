@@ -7,7 +7,7 @@ images: []
 ---
 De Simmpl telefooncentrale biedt een geavanceerde rapportage module waarmee u specificaties en gespreksrapportages kunt opvragen. U heeft een basisfilter, een geavanceerd filter en u kunt de gespreksselectie downloaden om deze in excel verder te filteren.
 
-<h2>Gespreksregels</h2>
+<h3>Gespreksregels</h3>
 
 Log in op de Simmpl telefooncentrale en kies links in de menubalk optie \[**Rapporten**\].
 
@@ -19,7 +19,7 @@ Als een inkomend gesprek op een groep van bijvoorbeeld 5 toestellen overgaat, en
 
 Als u de muis op een waarde in één van de drie rechter kolommen houdt (alle drie met een datum) krijgt u een relatieve tijdsindicatie te zien, bv. vandaag, gisteren, afgelopen vrijdag.
 
-<h2>Basisfilter gespreksregels</h2>
+<h3>Basisfilter gespreksregels</h3>
 
 Bovenaan de pagina ziet u het totaal aantal gesprekken en het aantal aangenomen gesprekken. Hier kunt u de gespreksregels filteren.
 
@@ -31,7 +31,7 @@ Hiertoe heeft u drie dropdown-menu’s waar u de gewenste selecties kunt maken: 
   
 Maak uw selecties om snel en gericht een beeld te krijgen van de belverkeersstromen en verdeling daarvan in uw gebruiksomgeving.
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1564407939/gespreksrapportages-4.png)<h2>Geavanceerd filter gespreksregels</h2>
+![](https://res.cloudinary.com/callvoip/image/upload/v1564407939/gespreksrapportages-4.png)<h3>Geavanceerd filter gespreksregels</h3>
 
 Wilt u de gesprekregels verder analyseren? Gebruik daarvoor de geavanceerde filterfunctie. U activeert het geavanceerde filter met de gele button \[Advance filter\] rechtsbovenaan de pagina:
 
@@ -55,7 +55,7 @@ Het geavanceerde filter volgt de volgende opties toe:
 
 Opmerkingen bij datumfilters: als u bij de datum-filters alleen de linker kalenderdatum invult dan wordt de periode van dat moment tot nu gebruikt. Wilt u alleen de betreffende datum, vul dan in de rechter kalender ook die datum in.
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1564408418/gespreksrapportages-7.png)<h2>Gespreksregels downloaden</h2>
+![](https://res.cloudinary.com/callvoip/image/upload/v1564408418/gespreksrapportages-7.png)<h3>Gespreksregels downloaden</h3>
 
 Als u de gewenste selectie heeft gemaakt dan kunt u deze downloaden naar een .csv bestand (= comma separated value) dat u kunt inlezen in Excel. Als u het .csv opent ziet u de waarden in excel-kolommen weergegeven.
 
@@ -63,7 +63,7 @@ Een handige eerste filteroptie is om in Excel in menu \[Gegevens\] de optie \[Fi
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1564408518/gespreksrapportages-8.png)Aan het aantal regels kunt zien om hoeveel gesprekken het gaat. Dit aantal wordt linksonder in de statusbalk weergegeven. Als u een filterselectie kopieert en in een nieuw blad plakt, kunt u ook het totale aantal seconden (kolom Call Duration) berekenen. Deze call duration in seconden kunt u dan delen door 60 om minuten te krijgen.
 
-<h2>Voorbeelden gespreksrapportages opvragen:</h2>
+<h3>Voorbeelden gespreksrapportages opvragen:</h3>
 
 1. **U wilt de specificaties gedurende één dag van één toestel opvragen
 
