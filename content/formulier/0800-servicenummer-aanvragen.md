@@ -9,6 +9,9 @@ Vul het formulier in en stuur deze met uw ACM beschikking. Controleer de bevesti
 
 {{< form "aanvragen-0800" "/aanvragen/verzonden" >}}
 
+{{< form/template "d-bb5785f73c154508a7d4125575855140">}}  
+{{< form/to "aanvragen">}}
+
 {{< form/fieldset "Bedrijfsgegevens" >}}
 
 {{< form/input "Bedrijfsnaam" >}}

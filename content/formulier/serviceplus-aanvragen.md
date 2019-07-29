@@ -9,6 +9,9 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{< form "aanvragen-serviceplus" "/aanvragen/verzonden" >}}
 
+{{< form/template "d-bb5785f73c154508a7d4125575855140">}}  
+{{< form/to "aanvragen">}}
+
 {{< form/fieldset "Bedrijfsgegevens" >}}
 
 {{< form/input "Bedrijfsnaam" >}}
@@ -33,14 +36,11 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{</ form/fieldset >}}
 
-
- {{< form/button "Verstuur formulier" >}}
-
+{{< form/button "Verstuur formulier" >}}
 
 <br><br>
 
-
- {{< layout/columns >}}
+{{< layout/columns >}}
 
 {{< layout/column3 >}}
 
@@ -67,7 +67,7 @@ Eenmalig
 {{< layout/column3 >}}
 
 ServicePlus
- {{</ layout/column3 >}}
+{{</ layout/column3 >}}
 
 {{< layout/column3 >}}
 
@@ -83,5 +83,4 @@ ServicePlus
 
 {{</ layout/columns >}}
 
-
- {{</ form >}}
+{{</ form >}}
