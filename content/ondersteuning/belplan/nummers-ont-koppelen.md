@@ -63,4 +63,38 @@ Het belplan is nu niet meer gekoppeld aan het externe nummer. Het externe nummer
 
 ### Een ongebruikt nummer in gebruik nemen (trunk)
 
+Om een beschikbaar nummer aan een trunk te koppelen gaat u als volgt te werkt. 
+
+Login op Simmpl en klik in het menu op \[**toestellen**\] > tabblad Trunks Klik bij de trunk die u wilt bewerken op het bewerken-icoon (tandwieltje rechts)
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1564491810/Support-nummerontkoppelen-trunkregistratie_fpibfl.png)
+
+In stap 1 van de Trunk-instellingen kunt u een nummer toevoegen. Klik op de drop-down voor een overzicht van uw nummers. U ziet ALLE nummers met een | (semi-colon) en daarachter of ze aan een belplan of trunk zijn gekoppeld. De vrije nummers hebben deze toevoeging niet:
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1564491845/Support-nummerontkoppelen-trunknummers_z4ueu5.png)
+
+Kies een vrij nummer en vink aan of u: 
+
+* het nummer zowel INKOMEND wilt koppelen (gesprekken komen op de trunk uit)
+* of als NUMMERWEERGAVE (u kunt het nummer meesturen met uw trunkverkeer)
+* of BEIDE
+
+Klik vervolgens op de plus om het nummer aan uw trunk te koppelen.
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1564491881/Support-nummerontkoppelen-trunknummertoevoegen_cv4oys.png)
+
+Rond de trunk wizard af om de instellingen op te slaan. 
+
+NB: u kunt een nummer dat al wordt gebruikt selecteren, u koppelt het dan aan deze trunk en ontkoppelt het van een belplan. U kunt het ook enkel als nummerweergave gebruiken en het nummer behoudt dan zijn inkomende route.
+
 ### Een gebruikt nummer ontkoppelen (trunk)
+
+Om een nummer van een trunk te ontkoppelen gaat u als volgt te werk: 
+
+Login op Simmpl en klik in het menu op \[**toestellen**\] > tabblad Trunks Klik bij de trunk die u wilt bewerken op het bewerken-icoon (tandwieltje rechts). 
+
+In stap 1 van de Trunk-instellingen ziet u welke nummers aan de trunk zijn gekoppeld. Om een nummer te verwijderen, klik op het rode kruis. 
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1564491701/Support-nummerontkoppelen-trunkroodkruis_bpmsyt.png)
+
+Het nummer is nu verwijderd van de trunk. Rond de trunk wizard af om de instellingen op te slaan.
