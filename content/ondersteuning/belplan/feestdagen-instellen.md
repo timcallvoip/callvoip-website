@@ -32,17 +32,18 @@ Start met een plan: u bent op vakantie / niet aan het werk, wat moet er gebeuren
 
 Een prachtige optie van Simmpl is de **emailnotificatie**: ontvang een email met daarin het nummer van de beller. Met een helder plan voor ogen bent u in een paar minuten klaar!
 
+{{< layout/columns >}}  
+ {{< layout/column2 >}}
+
 ### Afwezigheidsperiode instellen
 
-{{< layout/columns >}}  
- {{< layout/column2 >}}  
 Start met het instellen van de tijdsperiode dat u er niet bent. U maakt een **tijdsconditie**, handig hiervoor is de tijdsconditie DATUM: selecteer jaar, maand, de individuele dagen en de start- en eindtijd. 
 
 Stap voor stap: 
 
-1. Login; kies links \[BELPLANNEN\] en in het bovenmenu \[TIJDSCONDITIES\] 
-2. Kies \[+ TOEVOEGEN\] om een tijdsconditie aan te maken en kies \[DATUM\]. 
-3. Geef uw tijdsconditie een naam. Selecteer vervolgens het jaar, maand, de individuele dagen en start- -en eindtijd van uw vakantie. Klik op \[OPSLAAN\] Gefeliciteerd! Uw tijdsconditie is nu aangemaakt! Deze doet nu nog niets; pas als u hem in uw belroute plaatst kunt u zorgen dat er in dit tijdsinterval de juiste dingen gebeuren.  
+1. Login; kies links \[**BELPLANNEN**\] en in het bovenmenu \[**TIJDSCONDITIES**\] 
+2. Kies \[+ **TOEVOEGEN**\] om een tijdsconditie aan te maken en kies \[**DATUM**\]. 
+3. Geef uw tijdsconditie een naam. Selecteer vervolgens het jaar, maand, de individuele dagen en start- -en eindtijd van uw vakantie. Klik op \[**OPSLAAN**\] Gefeliciteerd! Uw tijdsconditie is nu aangemaakt! Deze doet nu nog niets; pas als u hem in uw belroute plaatst kunt u zorgen dat er in dit tijdsinterval de juiste dingen gebeuren.  
      
     {{</ layout/column2 >}}  
     {{< layout/column2 >}}  
