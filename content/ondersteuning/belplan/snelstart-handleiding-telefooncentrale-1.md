@@ -40,3 +40,5 @@ Om uw telefoonnummer te laten rinkelen op één of meer toestellen heeft u nodig
 * een **belplan**: hierin wordt het nummer gekoppeld aan een of meer acties 
 * een **gebruiker**: gebruikersaccount met verkort nummer en e-mailadres 
 * een **toestel**: toestelaccount dat u koppelt aan de gebruiker en instelt op uw toestel
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1564481674/Support-snelstart-kennismaking_t3itvq.png)
