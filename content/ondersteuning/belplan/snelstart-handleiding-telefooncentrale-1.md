@@ -56,17 +56,32 @@ Als u een nummer aanvraagt zorgt CallvoipTelefonie dat er een belplan wordt gema
 
   – pasfoto / avatar (optioneel)   
   – deze wordt getoond in de apps, lijst en bij de login   
-  \- voor- en achternaam   
-  \- emailadres, dit wordt gebruikt voor o.a. password recovery en voicemail/faxen   
-  \- wachtwoord, hiermee kan de gebruiker zelf inloggen   
-  \- intern nummer: het verkorte nummer waarmee men naar elkaar kan doorverbinden   
-  \- inlognaam: deze wordt gegenereerd uit intern nummer en bedrijfsloginnaam   
-  \- selecteer mee te sturen nummer: dit nummer stuurt de beller mee bij uitbellen   
-  \- koppelen met toestel: dit kan zodra u het toestelaccount heeft aangemaakt   
-  \- kies een rol: geef deze gebruiker een user  
-  \- of administrator-profiel   
-  \- persoonlijke voicemail (default uit): deze kunt u op deze pagina inschakelen
+  – voor- en achternaam   
+  – e-mailadres, dit wordt gebruikt voor o.a. password recovery en voicemail/faxen   
+  – wachtwoord, hiermee kan de gebruiker zelf inloggen   
+  – intern nummer: het verkorte nummer waarmee men naar elkaar kan doorverbinden   
+  – inlognaam: deze wordt gegenereerd uit intern nummer en bedrijfsloginnaam   
+  – selecteer mee te sturen nummer: dit nummer stuurt de beller mee bij uitbellen   
+  – koppelen met toestel: dit kan zodra u het toestelaccount heeft aangemaakt   
+  – kies een rol: geef deze gebruiker een user  
+  – of administrator-profiel   
+  – persoonlijke voicemail (default uit): deze kunt u op deze pagina inschakelen
 * Sla de gebruiker op, u ziet de gebruiker nu terug in het gebruikersoverzicht
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1564482035/Support-snelstart-receptiejanneke_z22jbb.png)
+
+**Toestel** **aanmaken**
+
+* Ga naar menu \[toestellen\] en klik op \[toevoegen\]
+* Vul de toestelgegevens in:
+
+  – merk: kies het merk of kies \[other\]   
+  – selecteer type: indien beschikbaar, kies het type toestel   
+  (– bij bepaalde merken is provisioning mogelijk– zie hiervoor de aparte handleiding)  
+  – naam: geef het toestel een naam (bv. toestel receptie, toestel werkplaats)  
+  – koppel aan gebruiker: selecteer hier de zojuist aangemaakte gebruiker 
+* Klik op volgende stap voor de SIP-gegevens die nodig zijn om uw toestel in te stellen
+* Sla het toestel op, u ziet het toestel nu terug in het toesteloverzicht.
 
 ## Hoe richt ik het belplan in?
 
