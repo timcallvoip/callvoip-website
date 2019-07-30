@@ -7,3 +7,6 @@ description: ''
 images: []
 
 ---
+Voor actuele storingen en meldingen moet u op onze status-pagina zijn:
+
+<a href="/status/" class="button">Status</a>
