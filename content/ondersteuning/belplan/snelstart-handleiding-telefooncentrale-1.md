@@ -41,4 +41,35 @@ Om uw telefoonnummer te laten rinkelen op één of meer toestellen heeft u nodig
 * een **gebruiker**: gebruikersaccount met verkort nummer en e-mailadres 
 * een **toestel**: toestelaccount dat u koppelt aan de gebruiker en instelt op uw toestel
 
+Korte kennismaking
+
 ![](https://res.cloudinary.com/callvoip/image/upload/v1564481674/Support-snelstart-kennismaking_t3itvq.png)
+
+## Hoe voeg ik een gebruiker met toestel toe?
+
+Als u een nummer aanvraagt zorgt CallvoipTelefonie dat er een belplan wordt gemaakt, maar er worden nog geen gebruikers en toestellen aangemaakt – dit doet u als volgt. NB: alleen een gebruiker die aan een toestel is gekoppeld (een ‘gebruiker-toestelcombinatie’) kan bellen en gebeld worden. Zorg dus dat uw beide aanmaakt en koppelt.
+
+**Gebruiker aanmaken** 
+
+* Ga naar menu \[gebruiker\] en klik op \[toevoegen\]
+* Vul de gebruikersgegevens in:
+
+  – pasfoto / avatar (optioneel)   
+  – deze wordt getoond in de apps, lijst en bij de login   
+  \- voor- en achternaam   
+  \- emailadres, dit wordt gebruikt voor o.a. password recovery en voicemail/faxen   
+  \- wachtwoord, hiermee kan de gebruiker zelf inloggen   
+  \- intern nummer: het verkorte nummer waarmee men naar elkaar kan doorverbinden   
+  \- inlognaam: deze wordt gegenereerd uit intern nummer en bedrijfsloginnaam   
+  \- selecteer mee te sturen nummer: dit nummer stuurt de beller mee bij uitbellen   
+  \- koppelen met toestel: dit kan zodra u het toestelaccount heeft aangemaakt   
+  \- kies een rol: geef deze gebruiker een user  
+  \- of administrator-profiel   
+  \- persoonlijke voicemail (default uit): deze kunt u op deze pagina inschakelen
+* Sla de gebruiker op, u ziet de gebruiker nu terug in het gebruikersoverzicht
+
+## Hoe richt ik het belplan in?
+
+## Hoe zorg ik dat mijn telefoonnummer op een toestel rinkelt?
+
+## Hoe zorg ik dat mijn telefoonnummer op meerdere toestellen rinkelt?
