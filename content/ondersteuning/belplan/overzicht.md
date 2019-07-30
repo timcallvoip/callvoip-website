@@ -5,5 +5,6 @@ onderdelen:
 weight: 
 description: ''
 images: []
+draft: true
 
 ---
