@@ -75,3 +75,37 @@ Heeft u geen voicemail? Maak op de telefooncentrale dan een voicemailbox aan en 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1564494502/Support-feestdagen-belplan_pew7go.png)  
  {{</ layout/column2 >}}  
 {{</ layout/columns >}}
+
+#### Optie 1: ontvang een emailnotificatie van elk inkomend telefoontje
+
+{{< layout/columns >}}  
+ {{< layout/column2 >}}  
+Handig! Met de **email app** kunt u instellen dat u een email krijgt van elk gesprek dat langskomt in de belroute: dit mailbericht komt gelijk na het gesprek. 
+
+Handig als u op vakantie bent, maar ook voor gesprekken die worden gemist tijdens normale werktijd, of buiten werktijd! 
+
+> Sleep de email app in de belroute onder de tijdsconditie, voor of na de meldtekst en sla op.  
+ {{</ layout/column2 >}}  
+ {{< layout/column2 >}}  
+![](https://res.cloudinary.com/callvoip/image/upload/v1564494895/Support-feestdagen-email_bknhxn.png)  
+ {{</ layout/column2 >}}  
+{{</ layout/columns >}}
+
+#### Optie 2: zet het vakantieschema aan/uit met de smartphone app Qaller
+
+Wilt u de flexibiliteit hebben om op elk gewenst moment te bepalen wanneer uw vakantieroute aan of uit is? Dat is mogelijk met de omleidings-app en Qaller, onze smartphone app. 
+
+Met de **omleidings-app** kunt u een schakelaar aan de belroute toevoegen. De schakelaar kunt u aan en uitzetten op de centrale, met een telefoontoestel en met Qaller, de smartphone app. 
+
+1. Klik en sleep de **omleidings-app** naar de belroute: deze kan in plaats van de tijdsconditie komen. Zorg dat de gewenste acties onder de omleidings-app **inspringen** zodat zij zich aan de schakelaar (aan/uit) houden. 
+2. Installeer Qaller (zie [www.callvoip/telefonie/qaller](www.callvoip/telefonie/qaller)) en zorg dat u beheerder bent. Swipe naar het belplan van uw telefoonnummer – onderaan de pagina vindt u de omleidingen en hier kunt u ze met één druk op de knop aan en uitzetten.
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1564494945/Support-feestdagen-belplanqaller_zxe7s1.png)
+
+#### Optie 3: integreer een spoedoptie
+
+Wenst u voor spoedeisende zaken tijdens uw afwezigheid de mogelijkheid te bieden om een keuze te maken en naar een ander nummer (mobiel of waarnemer) te worden doorverbonden? 
+
+Dat kan met het **keuzemenu** (NB: voor de keuzemenu-app geldt een meerprijs van 4 euro per maand). Maak een keuzemenu aan; plaats bij **START** de begroetingstekst waarin u de beller ook de keuze-optie noemt. Bij de gewenste keuze (bv. 1) zet u de doorverbinden app met het juiste spoednummer.
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1564495010/Support-feestdagen-keuzemenu_e9plzu.png)
