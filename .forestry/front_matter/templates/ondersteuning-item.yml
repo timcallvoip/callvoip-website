@@ -22,6 +22,7 @@ fields:
   label: SEO
   description: Seo
 pages:
+- content/ondersteuning/algemeen/contact.md
 - content/ondersteuning/internet/callvoip-business-vdsl-instellen.md
 - content/ondersteuning/internet/callvoip-business-adsl-instellen.md
 - content/ondersteuning/internet/callvoip-business-ftth-instellen.md
@@ -48,7 +49,6 @@ pages:
 - content/ondersteuning/algemeen/nieuwsbrieven-overzicht.md
 - content/ondersteuning/algemeen/overzicht-sip-statuscodes.md
 - content/ondersteuning/algemeen/overzicht-shortcodes-simmpl.md
-- content/ondersteuning/algemeen/contact.md
 - content/ondersteuning/Apparatuurhandleidingen/fritz-box.md
 - content/ondersteuning/Apparatuurhandleidingen/gigaset-ip-pro-provisioning.md
 - content/ondersteuning/Apparatuurhandleidingen/gigaset-ip-pro-handmatig.md
