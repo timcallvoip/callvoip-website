@@ -8,13 +8,13 @@ images: []
 **Gefeliciteerd**!  
 U maakt gebruik van Simmpl: de intuïtieve cloudbased telefooncentrale voor de zakelijke gebruiksomgeving. In deze handleiding vindt u een korte instructie bij het inloggen en gebruiken van de telefooncentrale. Simmpl biedt een duidelijke en intuïtieve internet-bediening: via drag-and-drop en keuze uit de vele acties creëert u in no-time en met een minimum aan ervaring de gewenste belroutes.
 
-## Simmpl: opbouw en werkwijze
+### Simmpl: opbouw en werkwijze
 
 #### Opbouw
 
-De Simmpl telefooncentrale is opgebouwd uit de volgende onderdelen:   
-1\. **Gebruikers**: uw medewerkers en hun rol, die u koppelt aan een toestel   
-2\. **Toestellen**: uw telefoons en hun functies, die gekoppeld worden aan een gebruiker   
+De Simmpl telefooncentrale is opgebouwd uit de volgende onderdelen:  
+1\. **Gebruikers**: uw medewerkers en hun rol, die u koppelt aan een toestel  
+2\. **Toestellen**: uw telefoons en hun functies, die gekoppeld worden aan een gebruiker  
 3\. **Belplan**: belroutes per nummer waar u aangeeft wat er gebeurt als er gebeld wordt
 
 #### Werkwijze
@@ -23,48 +23,49 @@ Om de Simmpl centrale in te richten start u met inloggen (zie punt 2). Vervolgen
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1564481303/Support-snelstart-apps_axysrx.png)
 
-## Inloggen op Simmpl
-
 {{< layout/columns >}}  
- {{< layout/column2 >}}  
+{{< layout/column2 >}}
+
+### Inloggen op Simmpl
+
 Inloggen op Simmpl doet u op het volgende adres: [http://panel.callvoip.nl](http://panel.callvoip.nl). Gebruik de username (gebruikersnaam) en het password (wachtwoord) van het klantgegevensformulier dat u van CallvoipTelefonie heeft ontvangen, en klik op \[log in\]. U komt nu op het Simmpl Dashboard terecht: het startpunt van uw verdere activiteiten. Op de volgende pagina vindt u een nadere toelichting van de onderdelen van het dashboard.  
- {{</ layout/column2 >}}  
- {{< layout/column2 >}}  
+{{</ layout/column2 >}}  
+{{< layout/column2 >}}  
 ![](https://res.cloudinary.com/callvoip/image/upload/v1564481506/support-snelstart-inlog_hpakcp.png)  
- {{</ layout/column2 >}}  
+{{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
-**Uw telefoonnummers voorzien van een belroute**   
-Om uw telefoonnummer te laten rinkelen op één of meer toestellen heeft u nodig: 
+**Uw telefoonnummers voorzien van een belroute**  
+Om uw telefoonnummer te laten rinkelen op één of meer toestellen heeft u nodig:
 
-* een **belplan**: hierin wordt het nummer gekoppeld aan een of meer acties 
-* een **gebruiker**: gebruikersaccount met verkort nummer en e-mailadres 
+* een **belplan**: hierin wordt het nummer gekoppeld aan een of meer acties
+* een **gebruiker**: gebruikersaccount met verkort nummer en e-mailadres
 * een **toestel**: toestelaccount dat u koppelt aan de gebruiker en instelt op uw toestel
 
 Korte kennismaking
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1564481674/Support-snelstart-kennismaking_t3itvq.png)
 
-## Hoe voeg ik een gebruiker met toestel toe?
+### Hoe voeg ik een gebruiker met toestel toe?
 
 Als u een nummer aanvraagt zorgt CallvoipTelefonie dat er een belplan wordt gemaakt, maar er worden nog geen gebruikers en toestellen aangemaakt – dit doet u als volgt. NB: alleen een gebruiker die aan een toestel is gekoppeld (een ‘gebruiker-toestelcombinatie’) kan bellen en gebeld worden. Zorg dus dat uw beide aanmaakt en koppelt.
 
-**Gebruiker aanmaken** 
+**Gebruiker aanmaken**
 
 * Ga naar menu \[gebruiker\] en klik op \[toevoegen\]
 * Vul de gebruikersgegevens in:
 
-  – pasfoto / avatar (optioneel)   
-  – deze wordt getoond in de apps, lijst en bij de login   
-  – voor- en achternaam   
-  – e-mailadres, dit wordt gebruikt voor o.a. password recovery en voicemail/faxen   
-  – wachtwoord, hiermee kan de gebruiker zelf inloggen   
-  – intern nummer: het verkorte nummer waarmee men naar elkaar kan doorverbinden   
-  – inlognaam: deze wordt gegenereerd uit intern nummer en bedrijfsloginnaam   
-  – selecteer mee te sturen nummer: dit nummer stuurt de beller mee bij uitbellen   
-  – koppelen met toestel: dit kan zodra u het toestelaccount heeft aangemaakt   
+  – pasfoto / avatar (optioneel)  
+  – deze wordt getoond in de apps, lijst en bij de login  
+  – voor- en achternaam  
+  – e-mailadres, dit wordt gebruikt voor o.a. password recovery en voicemail/faxen  
+  – wachtwoord, hiermee kan de gebruiker zelf inloggen  
+  – intern nummer: het verkorte nummer waarmee men naar elkaar kan doorverbinden  
+  – inlognaam: deze wordt gegenereerd uit intern nummer en bedrijfsloginnaam  
+  – selecteer mee te sturen nummer: dit nummer stuurt de beller mee bij uitbellen  
+  – koppelen met toestel: dit kan zodra u het toestelaccount heeft aangemaakt  
   – kies een rol: geef deze gebruiker een user  
-  – of administrator-profiel   
+  – of administrator-profiel  
   – persoonlijke voicemail (default uit): deze kunt u op deze pagina inschakelen
 * Sla de gebruiker op, u ziet de gebruiker nu terug in het gebruikersoverzicht
 
@@ -75,11 +76,11 @@ Als u een nummer aanvraagt zorgt CallvoipTelefonie dat er een belplan wordt gema
 * Ga naar menu \[toestellen\] en klik op \[toevoegen\]
 * Vul de toestelgegevens in:
 
-  – merk: kies het merk of kies \[other\]   
-  – selecteer type: indien beschikbaar, kies het type toestel   
+  – merk: kies het merk of kies \[other\]  
+  – selecteer type: indien beschikbaar, kies het type toestel  
   (– bij bepaalde merken is provisioning mogelijk– zie hiervoor de aparte handleiding)  
   – naam: geef het toestel een naam (bv. toestel receptie, toestel werkplaats)  
-  – koppel aan gebruiker: selecteer hier de zojuist aangemaakte gebruiker 
+  – koppel aan gebruiker: selecteer hier de zojuist aangemaakte gebruiker
 * Klik op volgende stap voor de SIP-gegevens die nodig zijn om uw toestel in te stellen
 * Sla het toestel op, u ziet het toestel nu terug in het toesteloverzicht.
 
@@ -87,7 +88,7 @@ Als u een nummer aanvraagt zorgt CallvoipTelefonie dat er een belplan wordt gema
 
 **_Belangrijk_**: in het gebruikersoverzicht, kolom \[Name of device\] en in het toesteloverzicht, kolom \[Koppel aan gebruiker\] is zichtbaar dat het toestel aan een gebruiker is gekoppeld. Alleen gebruiker-toestel-combinaties kunnen bellen en gebeld worden.
 
-## Hoe richt ik het belplan in?
+### Hoe richt ik het belplan in?
 
 Als klant heeft u één of meer nummers. Al uw nummers (bestaande en nieuw aangevraagde) worden door CallvoipTelefonie gekoppeld aan een belplan. Als het goed is ziet u dus (tenminste) net zoveel belplannen als dat u nummers bezit. U kunt zien of een belplan aan een nummer is gekoppeld en aan welk nummer; het nummer staat dan onderin het belplan weergegeven.
 
@@ -99,14 +100,14 @@ Als u het belplan van uw keuze heeft gevonden, klik hier dan op – de belroute 
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1564482463/Support-snelstart-belplanmetapplijst_vy4grg.png)
 
-## Hoe zorg ik dat mijn telefoonnummer op een toestel rinkelt?
+### Hoe zorg ik dat mijn telefoonnummer op een toestel rinkelt?
 
 Om te zorgen dat een inkomend gesprek op uw telefoonnummer overgaat op één toestel sleept u de app \[**doorverbinden**\] naar het plaatsingskader en laat deze los, het detailscherm van de transfer app verschijnt.
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1564482535/Support-snelstart-doorverbinden_ga1d5a.png)
 
-**Interne doorschakelingen** - als u wilt dat inkomende gesprekken doorschakelen naar toestel 001, klik dan in het veld \[**Transfer to**\] en vul hier in: 001.   
-**_Belangrijk_**: u dient dan al een gebruiker 001 en toestel te hebben aangemaakt, en deze gebruiker aan het toestel gekoppeld! Zie hiervoor punt 1. 
+**Interne doorschakelingen** - als u wilt dat inkomende gesprekken doorschakelen naar toestel 001, klik dan in het veld \[**Transfer to**\] en vul hier in: 001.  
+**_Belangrijk_**: u dient dan al een gebruiker 001 en toestel te hebben aangemaakt, en deze gebruiker aan het toestel gekoppeld! Zie hiervoor punt 1.
 
 De bijbehorende gebruiker-toestel-combinatie wordt geselecteerd (of kies zelf een **gebruiker-toestel-combinatie** in de dropdown-lijst). Selecteer de gebruiker en klik buiten het \[transfer to\] kader.
 
@@ -121,7 +122,7 @@ Richt de \[transfer app\] nu verder in:
 
 **Externe doorschakelingen**: U kunt ook doorschakelen naar een extern nummer (bv. mobiel): vul dan het mobiele nummer in veld \[Transfer to\] in (zonder spaties of streepjes) en vul de time-out in. U kunt bij externe doorschakelingen ook instellen welk nummer bij de ontvangende telefoon verschijnt: het nummer van de beller of één van uw eigen nummers. Sla de transfer-app op en sla de belroute op – uw belroute is gereed!
 
-## Hoe zorg ik dat mijn telefoonnummer op meerdere toestellen rinkelt?
+### Hoe zorg ik dat mijn telefoonnummer op meerdere toestellen rinkelt?
 
 Om te zorgen dat een inkomend gesprek op uw telefoonnummer overgaat op meerdere toestellen sleept u de app \[**belgroep**\] naar het plaatsingskader en laat deze los, het detailscherm van de belgroep app verschijnt.
 
@@ -133,7 +134,7 @@ Om te zorgen dat een inkomend gesprek op uw telefoonnummer overgaat op meerdere 
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1564482890/Support-snelstart-belgroepuitgebreid_cjl4oh.png)
 
-Na het toevoegen van de gebruikers kunt u bepalen hoe de toestellen ten opzichte van elkaar rinkelen: 
+Na het toevoegen van de gebruikers kunt u bepalen hoe de toestellen ten opzichte van elkaar rinkelen:
 
 * **Ring all**: tegelijk gedurende de ingestelde time-out
 * **Memory Hunt**: telkens één extra, nadat de instelde time-out is uitgevoerd
