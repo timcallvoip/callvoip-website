@@ -50,6 +50,27 @@ Stap voor stap:
     {{</ layout/column2 >}}  
    {{</ layout/columns >}}
 
-Meldtekst inspreken
+### Meldtekst inspreken
 
-Pas uw belroute aan
+Een gemakkelijke manier om een kwalitatief goed geluidsbestand te maken is het **inspreken van een voicemail** op uw eigen voicemail. Ingesproken voicemailberichten komen als .mp3 geluidsbestand per email binnen; spreek in en een paar seconden later wordt uw meldtekst per email bij u afgeleverd! Sla dit bestand op uw computer op, op een plek waar u deze terug kunt vinden. Ze kunnen dan in de meldtekstenbibliotheek van de centrale worden geupload.
+
+Heeft u geen voicemail? Maak op de telefooncentrale dan een voicemailbox aan en voeg deze in uw belroute toe; bel uw nummer, spreek in en haal de voicemail weer weg.
+
+### Pas uw belroute aan
+
+{{< layout/columns >}}  
+ {{< layout/column2 >}}
+
+1. Login, klik links op \[**BELPLANNEN**\] en kies het belplan van het telefoonnummer dat u wilt instellen. De belroute wordt geopend. 
+2. Links van het belplan vindt u de lijst met alle apps. Klik op \[**TIJDSCONDITIE**\] en sleep deze bovenaan in uw belplan, of in ieder geval **BOVEN** de normale acties. 
+3. Er verschijnt een pop-up \[**TIJDCONDITIE**\]: kies via de dropdown de zojuist aangemaakte tijdsconditie. Klik dan op \[**OPSLAAN**\]: uw tijdsconditie zit nu in de belroute. 
+4. In plaatsingskader \[**LEEG**\] kunt u nu een app plaatsen om de gewenste actie te laten plaatsvinden. Stel, u wilt een meldtekst plaatsen en dan de verbinding verbreken. Klik en sleep app \[**GELUID**\] naar kader \[**LEEG**\]. Klik op upload om uw meldtekst te uploaden en selecteer deze vervolgens in de bibliotheek. Kies opslaan. Klik en sleep app \[**HANG OP**\] en zet deze onder de meldtekst. 
+5. **BELANGRIJK**: zorg dat de acties **inspringen** onder de tijdsconditie; dit betekent dat zij zich aan de tijdsconditie houden en niet **BUITEN** uw afwezigheidsperiode uitgevoerd worden. 
+6. Klik ten slotte op \[**OPSLAAN**\] om alles vast te leggen.
+
+  
+ {{</ layout/column2 >}}  
+ {{< layout/column2 >}}  
+![](https://res.cloudinary.com/callvoip/image/upload/v1564494502/Support-feestdagen-belplan_pew7go.png)  
+ {{</ layout/column2 >}}  
+{{</ layout/columns >}}
