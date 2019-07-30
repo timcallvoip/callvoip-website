@@ -33,3 +33,10 @@ Inloggen op Simmpl doet u op het volgende adres: [http://panel.callvoip.nl](http
 ![](https://res.cloudinary.com/callvoip/image/upload/v1564481506/support-snelstart-inlog_hpakcp.png)  
  {{</ layout/column2 >}}  
 {{</ layout/columns >}}
+
+**Uw telefoonnummers voorzien van een belroute**   
+Om uw telefoonnummer te laten rinkelen op één of meer toestellen heeft u nodig: 
+
+* een **belplan**: hierin wordt het nummer gekoppeld aan een of meer acties 
+* een **gebruiker**: gebruikersaccount met verkort nummer en e-mailadres 
+* een **toestel**: toestelaccount dat u koppelt aan de gebruiker en instelt op uw toestel
