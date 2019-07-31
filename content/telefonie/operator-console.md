@@ -31,13 +31,13 @@ blocks:
 - title: Wat kunt u er precies mee?
   image: "/v1557821422/OperatorPanel2.jpg"
   content: |-
-    De Operator Console geeft receptionisten, supervisors, callcenter-trainers, etc. een duidelijk overzicht wat er gebeurt in de organisatie.
+    De Operator Console geeft een duidelijk overzicht van wat er gebeurt in de organisatie.
 
     Ideaal voor:
 
-    1. Receptionisten: zie in één oogopslag of collega’s beschikbaar zijn; klik en neem aan, verbind door, zet in de wacht of trek een gesprek naar je toe. Hou overzicht.
-    2. Supervisor: zie in één oogopslag uw wachtrijen: key statistics (wachtenden, gem. wachttijd, ingelogde agenten). Klik door naar details per wachtrij (welke bellers wachten, worden geholpen)
-    3. Trainer: geavanceerde training voor inbound callcenter. Luister mee met gesprekken, fluister uw collega iets toe of breek op het gesprek in (listen-in, whisper-in, barge-in).
+    1. <b>Receptionisten</b>: zie in één oogopslag of collega’s beschikbaar zijn; klik en neem aan, verbind door, zet in de wacht of trek een gesprek naar je toe. Hou overzicht.
+    2. <b>Supervisor</b>: zie in één oogopslag uw wachtrijen: key statistics (wachtenden, gem. wachttijd, ingelogde agenten). Klik door naar details per wachtrij (welke bellers wachten, worden geholpen)
+    3. <b>Trainer</b>: geavanceerde training voor inbound callcenter. Luister mee met gesprekken, fluister uw collega iets toe of breek op het gesprek in (listen-in, whisper-in, barge-in).
   position: image_right
 usps:
   title: Voordelen Operator Console
