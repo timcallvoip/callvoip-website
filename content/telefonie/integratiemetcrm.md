@@ -13,11 +13,11 @@ hero:
   image: "/v1552466820/hostedvoip.svg"
 blocks:
 - content: |-
-    Voor VoIP CTI heeft u nodig:
+    <br> Voor VoIP CTI heeft u nodig:
 
-    • een Windows-PC of Server. Aan Apple-mogelijkheden wordt gewerkt
-    • uw CRM-pakket: check hier of neem contact op
-    • de Simmpl telefooncentrale met VoIP CTI licentie per gebruiker
+    • een Windows-PC of Server. Aan Apple-mogelijkheden wordt gewerkt <br>
+    • uw CRM-pakket: check hier of neem contact op <br>
+    • de Simmpl telefooncentrale met VoIP CTI licentie per gebruiker <br>
 
     Voor veel pakketten is de installatie eenvoudig: installeer de Client software per gebruiker en gebruik de CRM Configurator om de koppeling tot stand te brengen.
 
@@ -26,7 +26,7 @@ blocks:
     <a href="/offerte/" class="button">Vraag dan nu een offerte aan</a>
   image: "/v1557910637/SC-logos-cti.png"
   position: image_left
-  title: Wat is er nodig voor VoIP CTI én welke applicaties kunt u koppelen?
+  title: Wat is er nodig én welke applicaties kunt u koppelen?
 - title: Vergelijking met andere integratie
   image: "/v1557910428/SIMMPL_INTGRATIETABEL_141118MT.png"
   content: "De Simmpl telefooncentrale van CallvoipTelefonie is klaar om te koppelen!\nU
