@@ -9,9 +9,9 @@ layout: default
 logos: false
 hero:
   title: Operator Console
-  content: De Operator Panel is speciaal ontwikkeld voor receptionisten, supervisors
-    en callcenter trainers en biedt realtime informatie, statistieken en extra telefoniemogelijkheden.
-    Zo zie je gemakkelijk en centraal wat er binnen het bedrijf gebeurt.
+  content: De Operator Panel is ontwikkeld voor receptionisten, supervisors en callcenter
+    trainers en biedt realtime informatie, statistieken en extra telefoniemogelijkheden.
+    Zo ziet u gemakkelijk en centraal wat er binnen het bedrijf gebeurt.
   button:
     content: Vraag nu een offerte aan
     link: "/offerte/"
@@ -63,7 +63,7 @@ intro:
   content: ''
 prijzen:
 - title: Wat kost het Operator Console?
-  content: Bent u al klant? Klik dan op de knop hieronder om aan te vragen.
+  content: Bereken uw mogelijke kosten via onze online calculator.
   tarieven:
     items:
     - title: Maandelijks
@@ -73,7 +73,7 @@ prijzen:
     title: Per gebruiker
     footer: Prijzen zijn excl. BTW
   button:
-    title: Operator Console aanvragen
-    link: "/aanvragen/operator-console/"
+    title: Bereken het zelf
+    link: "/calculator/"
 
 ---
