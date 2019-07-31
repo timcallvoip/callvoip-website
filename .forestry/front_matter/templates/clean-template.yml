@@ -31,6 +31,8 @@ fields:
   label: layout
   hidden: true
 pages:
+- content/bedank/opzegging-verzonden.md
+- content/bedank/wijziging-verzonden.md
 - content/telefonie/Functionaliteiten/call-pickup.md
 - content/telefonie/conference-service.md
 - content/telefonie/bedrijfstelefoonboek.md

@@ -6,6 +6,6 @@ hero:
 slug: "/aanvragen/verzonden/"
 
 ---
-Je aanvraag is succesvol verzonden. We nemen zo snel mogelijk contact met je op.
+U ontvangt een e-mail met uw aanvraaggegevens. Controleert u deze gegevens goed en bij **akkoord ontvangen wij graag een reply.**
 
-Team Callvoip
+Heeft u in tussentijd vragen? Neem dan gerust contact met ons op via [050-820 00 00](tel:+31508200000)
