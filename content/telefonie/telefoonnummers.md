@@ -78,6 +78,8 @@ Bied uw klanten een betaald 0900-servicenummer voor support of sales. Klanten be
 
 {{</ layout/columns >}}
 
+<br>
+
 ### Benieuwd naar de mogelijkheden voor uw situatie?
 
 <br>
