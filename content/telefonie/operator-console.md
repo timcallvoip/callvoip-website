@@ -53,7 +53,7 @@ usps:
       in) met een gesprek, fluistert (whisper in) uw collega wat in of neemt het hele
       gesprek over (barge in).
     icon: fa-headset
-  - icon: fa-sort-numeric-asc
+  - icon: fa-sort-numeric-down
     title: Statistieken
     content: Bekijk hoe lang de beller in de wacht staat en wat per gebruiker de gemiddelde
       gespreks- duur is. De statistieken kunt u gebruiken als basis voor het verbeteren
