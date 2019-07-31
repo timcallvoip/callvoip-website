@@ -2,12 +2,15 @@
 type: page
 title: Offerte aanvraag ontvangen
 description: Bedankt voor je offerte aanvraag.
-images:
-- "/v1552991205/Team/logo-bord-breed.jpg"
-slug: calculator/verzonden
+images: []
+slug: "/calculator/verzonden/"
 hero:
   image: ''
 layout: ''
 
 ---
-Bedankt voor je offerte aanvraag.
+Je aanvraag is succesvol verzonden. We nemen zo snel mogelijk contact met je op.
+
+Heeft u in tussentijd vragen? Neem dan gerust contact met ons op via [050-820 00 00](tel:+31508200000)
+
+**Team Callvoip**
