@@ -12,9 +12,13 @@ layout: ''
 ---
 Neem uw huidige telefoonnummers mee of vraag nieuwe telefoonnummers aan. Het kan allemaal bij Callvoip.
 
+<a href="/offerte/" class="button">Vraag hier een offerte aan!</a>
+
+<br>
+
 ### Nummerbehoud
 
-Met de **overstapservice** van Callvoip kunt u zorgeloos overstappen. Wij zorgen ervoor dat u altijd bereikbaar blijft en nemen uw telefoonnummers over van uw huidige provider. Of het nu gaat om een landelijk telefoonnummer of regionaal telefoonnummer, Callvoip regelt het voor u. <br>
+Met de **overstapservice** van Callvoip kunt u zorgeloos overstappen. Wij zorgen ervoor dat u altijd bereikbaar blijft en nemen uw telefoonnummers over van uw huidige provider. Of het nu gaat om een landelijk telefoonnummer of regionaal telefoonnummer, Callvoip regelt het voor u. <br><br>
 
 ### Regionale nummers
 
@@ -24,7 +28,7 @@ Heeft u meer telefoonnummers nodig? Dan kunt u kiezen voor een nummerblok met 10
 
 * Nummers uit alle regio’s
 * Binnen 24 uur actief
-* Ook met nummerbehoud <br>
+* Ook met nummerbehoud <br><br>
 
 ### Landelijke nummers
 
@@ -50,7 +54,7 @@ Een 085-nummer is een telefoonnummer voor de zakelijke markt en geeft u een prof
 
 ### Internationale nummers
 
-Met **internationale** nummers bent u ook bereikbaar voor uw buitenlandse klanten. Heeft u een Belgisch- of Duits telefoonnummer? Dan heeft u geluk, want het is mogelijk om deze nummers te verhuizen (porteren) naar Callvoip. <br>
+Met **internationale** nummers bent u ook bereikbaar voor uw buitenlandse klanten. Heeft u een Belgisch- of Duits telefoonnummer? Dan heeft u geluk, want het is mogelijk om deze nummers te verhuizen (porteren) naar Callvoip. <br><br>
 
 ### Service nummers
 
