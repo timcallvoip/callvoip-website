@@ -15,15 +15,15 @@ hero:
 blocks:
 - content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent, dat
     gaat verder dan alleen maar telefonie via vaste toestellen. Ook op uw mobiele
-    telefoon bent u altijd bereikbaar met onze <a href="/telefonie/qaller/">Qaller</a>
-    en <a href="/telefonie/vastmobielintegratie/">Vamos</a> oplossing.
+    telefoon bent u altijd bereikbaar met <a href="/telefonie/qaller/">Qaller</a>
+    en <a href="/telefonie/vastmobielintegratie/">Vamos</a>.
   image: "/v1552466820/phones.png"
   position: image_left
-  title: Zakelijke VoIP waar je op kan vertrouwen, ook met uw mobiel!
+  title: Altijd bereikbaar met Callvoip, ook met uw mobiel!
 - content: |-
     Bij CallvoipTelefonie krijgt u toegang tot de modernste online telefooncentrale, Simmpl. Simmpl, omdat de telefooncentrale u voorziet van zeer veel professionele <a href="/telefonie/functionaliteiten/">functionaliteiten</a> en uitblinkt in bedieningsgemak.
 
-    Met alle professionele functies maken we u écht beter bereikbaar. Alles kunt u eenvoudig instellen en mocht u er toch even niet uitkomen, dan helpen wij u graag. Hieronder vindt u een greep uit onze vele mogelijkheden.
+    Met alle professionele functies maken we u écht beter bereikbaar. Alles kunt u eenvoudig instellen en mocht u er toch even niet uitkomen, dan helpen wij u graag!
   image: "/v1552466837/instellingen.png"
   position: image_right
   title: Functionaliteiten van de online telefooncentrale
