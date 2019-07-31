@@ -18,10 +18,11 @@ blocks:
 - title: Bereikbaarheidsmonitor, wat monitort het precies?
   image: "/v1563354632/callvoip-website-bereikbaarheidsmonitor-stats.png"
   content: |-
+    <br>
     • Hoe bereikbaar is uw organisatie? <br><br>
     • Wat is het drukste uur en de drukste dag qua telefonie? <br><br>
     • Hoe is de telefoondrukte verdeeld over uren en dagen? <br><br>
-    • Welk nummer wordt het meest gebeld?<br>
+    • Welk nummer wordt het meest gebeld?<br><br>
 
     Belangrijke vragen om de telefonische performance van uw organisatie in kaart te brengen.
 
@@ -45,12 +46,12 @@ usps:
   - icon: fa-file-pdf
     title: Inzicht
     content: U krijgt een duidelijk beeld van uw inkomende telefonie.
-  - icon: ''
-    title: ''
-    content: ''
-  - icon: ''
-    title: ''
-    content: ''
+  - icon: fa-tropy
+    title: Beter bereikbaar
+    content: Door de inzichten verbetert u uw inkomende telefonie.
+  - icon: fa-piggy-bank
+    title: Gratis
+    content: Professionele functionaliteit, gratis voor onze klanten.
 intro:
   title: ''
   content: ''
