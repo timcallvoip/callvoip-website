@@ -62,8 +62,8 @@ prijzen:
 - title: Qaller
   content: Mobiel doorschakelen <br> Aan/-uitzetten omleidingen <br>
   button:
-    title: Handleiding
-    link: http://www.simmpl.nl/downloads/Simmpl_handleiding_qaller_plus_mobile_app.pdf
+    title: Meer informatie
+    link: https://callvoiptelefoniewebsite.netlify.com/ondersteuning/simmpl-functionaliteiten/qaller-plus-app/
   tarieven:
     title: Per gebruiker
     footer: Prijzen zijn excl. BTW
@@ -84,8 +84,8 @@ prijzen:
     - title: Maandelijks
       price: '4.00'
   button:
-    title: Handleiding
-    link: http://www.simmpl.nl/downloads/Simmpl_handleiding_qaller_plus_mobile_app.pdf
+    title: Bereken het zelf
+    link: "/calculator/"
 description: Met Qaller bent u inkomend bereikbaar op- en belt u uit met het zakelijk
   nummer. Tevens bedient u eenvoudig de online telefooncentrale.
 images: []
