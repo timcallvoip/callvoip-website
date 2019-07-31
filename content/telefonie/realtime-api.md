@@ -43,11 +43,15 @@ Denkt u bijvoorbeeld aan de volgende toepassingen:
 
 ## Hoe realiseer ik dit?
 
-Als u klant bent van Callvoip kunt u beginnen. Neem contact met ons op en wij kunnen u voorzien van de juiste documentatie. <br>
+Als u klant bent van Callvoip kunt u beginnen. Neem contact met ons op en wij kunnen u voorzien van de juiste documentatie. 
+
+<br>
 
 ## Doen jullie dit ook?
 
-Nee. Lukt u dit niet zelf, dan kunt u hiervoor een externe partij inhuren. Wij brengen u graag in contact met één. Wel hebben wij één functionaliteit voor onze klanten ontwikkeld: [Click-to-Dial](/clicktodial/). <br>
+Nee. Lukt u dit niet zelf, dan kunt u hiervoor een externe partij inhuren. Wij brengen u graag in contact met één. Wel hebben wij één functionaliteit voor onze klanten ontwikkeld: [Click-to-Dial](/telefonie/clicktodial/). 
+
+<br>
 
 ### Benieuwd naar de mogelijkheden voor uw situatie?
 
