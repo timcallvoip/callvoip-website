@@ -16,7 +16,9 @@ Vul hieronder uw gegevens in en u ontvangt **binnen één werkdag** een vrijblij
 
 Heeft u eerst advies nodig of heeft u nog vragen, bel ons gerust op [**050 820 0001**](tel:+31508200001).
 
-{{< form "Offerte formulier" "/offerte/verzonden" >}}
+{{< form "Offerte formulier" "/offerte/verzonden" >}}  
+{{< form/template "d-5f1602c68c8a42919ddf340e285386e3">}}  
+{{< form/to "offerte">}}
 
 {{< layout/split >}}
 
