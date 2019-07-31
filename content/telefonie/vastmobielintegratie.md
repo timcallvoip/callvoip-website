@@ -26,7 +26,7 @@ blocks:
   title: 'Vamos update april 2019:'
 usps:
   title: Geniet van een beter telefoongesprek
-  content: 'Enkele voordelen van Vast-Mobiel op een rijtje:'
+  content: 'Enkele voordelen van Vast-Mobiel (Vamos) op een rijtje:'
   items:
   - icon: fa-spinner
     title: Bereikbaarheid
@@ -62,7 +62,8 @@ hero:
   image: "/v1555571805/phones.png"
 intro:
   title: Wat zijn de kosten?
-  content: 'De Vast Mobiel integratie van Callvoip komt in drie verschillende abonnementen:'
+  content: 'De Vast Mobiel integratie (Vamos) van Callvoip komt in drie verschillende
+    abonnementen:'
 prijzen:
 - content: Onbeperkt bellen in EU + 2GB data
   button:
