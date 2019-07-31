@@ -10,7 +10,7 @@ hero:
   title: Managed 4G-oplossing
   content: 'Is er op uw locatie slecht tot geen internet mogelijk? Kies dan voor draadloos
     internet via 4G: goed internet op elke plek, compleet met apparatuur, installatie
-    en monitoring. U heeft al snel internet via 4G vanaf €99,- excl. BTW per maand. '
+    en monitoring. U heeft al snel internet via 4G vanaf €99,- per maand. '
   button:
     content: Benieuwd naar de mogelijkheden?
     link: "/internet/postcodecheck/"
