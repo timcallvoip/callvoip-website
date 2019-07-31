@@ -146,7 +146,7 @@ options:
     link: "/ondersteuning/"
 prefooter:
   title: Wil je ook zorgeloos bereikbaar zijn?
-  content: "95% van onze klanten adviseert ons bij hun netwerk. Benieuwd naar de testimonials
+  content: "95% van onze klanten adviseert ons bij hun netwerk. Bekijk de testimonials
     van onze klanten? \nU vindt ze <a href=\"/testimonials/\">hier</a>."
 testimonial:
   image: "/v1556267419/Callvoip-website-logo-AlphaLabs.png"
