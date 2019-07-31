@@ -9,7 +9,7 @@ outputs:
 - JSON
 basic:
 - name: Telefooncentrale
-  description: Ieder abonnement komt standaard met onze luxe online telefooncentrale.
+  description: Simmpl, onze online telefooncentrale, krijgt u standaard.
   min: 1
   max: 1
   price_monthly: 7.5
