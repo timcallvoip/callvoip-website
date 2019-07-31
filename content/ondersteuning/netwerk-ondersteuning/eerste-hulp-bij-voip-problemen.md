@@ -20,7 +20,7 @@ Wij hopen dat u spoedig weer zorgeloos gebruik kunt maken van CallvoipTelefonie!
 3. **Controleer of er recentelijk zaken in uw netwerk zijn veranderd**  
    Doen problemen zich sinds kort voor? Mogelijk is de ingebruikname van een nieuwe firmware of een nieuw apparaat de oorzaak van uw probleem. Denkt u bv. aan een firmware-update van uw modem-router, plaatsing van een nieuwe modem-router omdat u van provider bent gewijzigd, vervanging van een switch of vervanging van een firewall in het datacenter. Als dit het geval is, probeer te onderzoeken of deze wijziging de oorzaak is. En laat deze herstellen.
 4. **Check de Simmpl meldingenpagina of er storingen zijn**  
-   Het is mogelijk dat er zich een storing voordoet op de Simmpl telefooncentrale. Raadpleeg <a href="https://www.simmpl.nl/meldingen" target="_blank">actuele meldingen</a> of er sprake is van een storing. Als dat zo is houden wij u via de storingspagina op de hoogte van nieuws.
+   Het is mogelijk dat er zich een storing voordoet op de Simmpl telefooncentrale. Raadpleeg <a href="https://www.simmpl.nl/meldingen" target="_blank">**actuele meldingen**</a> of er sprake is van een storing. Als dat zo is houden wij u via de storingspagina op de hoogte van nieuws.
 
 <h3>U kunt niet gebeld worden maar zelf wel uitbellen</h3>
 
