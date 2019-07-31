@@ -26,7 +26,7 @@ blocks:
 - title: 'Uw 4G draadloze internetoplossing in 4 stappen:'
   image: "/v1560863784/callvoip-website-managed4g-2.jpg"
   content: |-
-    1. <a href="/mijncallvoip/aanvragen/managed-4g/">Klik hier</a> en vraag Managed 4G internet aan
+    1. <a href="/aanvragen/managed-4g/">Klik hier</a> en vraag Managed 4G internet aan
     2. Er volgt een locatie-scan om wensen en mogelijkheden te bespreken
     3. Een monteur komt de 4G-apparatuur en antennes installeren
     4. Terwijl u geniet van snel en goed internet wordt de verbinding 24/7 gemonitord
@@ -38,7 +38,7 @@ usps:
   items:
   - icon: fa-rocket
     title: Snel en stabiel internet
-    content: Door de locatiescan van te voren heeft u na installatie snel & stabiel
+    content: Door de locatiescan van te voren, heeft u na installatie snel & stabiel
       internet.
   - icon: fa-cog
     title: Inclusief apparatuur en installatie
@@ -54,7 +54,7 @@ prijzen:
   content: De eenmalige kosten zijn een schatting en verschillen per situatie.
   button:
     title: Aanvragen
-    link: "/mijncallvoip/aanvragen/managed-4g"
+    link: "/aanvragen/managed-4g"
   tarieven:
     items:
     - title: Maandelijks
@@ -67,7 +67,7 @@ prijzen:
   content: De eenmalige kosten zijn een schatting en verschillen per situatie.
   button:
     title: Aanvragen
-    link: "/mijncallvoip/aanvragen/managed-4g"
+    link: "/aanvragen/managed-4g"
   tarieven:
     title: Snel 4G internet met onbeperkt data
     items:
