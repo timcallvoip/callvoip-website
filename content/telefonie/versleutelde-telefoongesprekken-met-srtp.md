@@ -17,6 +17,8 @@ Als eerste provider in Nederland levert Callvoip versleutelde telefoongesprekken
 * **TLS:** een soort HTTPS-certificaat voor beveiligde telefonie tussen centrale en uw telefoon
 * **SRTP:** de daadwerkelijke versleuteling van het gesprek vanaf uw telefoontoestel
 
+<a href="/offerte/" class="button">Vraag hier een offerte aan!</a>
+
 <br>
 
 ## Wat is TLS?
