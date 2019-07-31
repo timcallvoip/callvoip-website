@@ -10,7 +10,7 @@ hero:
 layout: ''
 
 ---
-Neem uw huidige telefoonnummers mee of vraag nieuwe telefoonnummers aan. Het kan allemaal bij Callvoip.
+Neem uw huidige telefoonnummers mee of vraag nieuwe telefoonnummers aan; landelijke-, regionale-, internationale- of servicenummers. Het kan allemaal bij Callvoip.
 
 <a href="/offerte/" class="button">Vraag hier een offerte aan!</a>
 
