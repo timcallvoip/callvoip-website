@@ -6,8 +6,8 @@ logos: true
 hero:
   title: Qaller (mobiele app)
   content: |-
-    Met Qaller wordt uw mobiele telefoon onderdeel van de online telefooncentrale:
-    bedien de telefooncentrale vanaf uw smartphone, gebruik uw smartphone alsof het een kantoortoestel is: bellen en gebeld worden.
+    Met Qaller wordt uw mobiele telefoon onderdeel van de online telefooncentrale.
+    Bedien de telefooncentrale vanaf uw smartphone én gebruik uw smartphone alsof het een kantoortoestel is (bellen en gebeld worden).
   button:
     content: Bereken je kosten
     link: "/calculator"
