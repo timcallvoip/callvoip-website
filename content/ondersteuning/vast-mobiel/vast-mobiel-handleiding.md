@@ -74,7 +74,7 @@ Hieronder vindt u een stapsgewijze instructie bij de ingebruikname van Vamos.
     In het UC Panel: klik links in het menu op de Naam. Bij INCOMING CALL ROUTERING, gsa naar FOLLOW DIALPLAN en klik op EDIT:  
     ![](https://res.cloudinary.com/callvoip/image/upload/v1564577919/vamoshandleiding-6_bey22q.png)  
     U komt nu bij het persoonlijk belplan van de mobiel dat u naar wens kunt inregelen.  
-    Sleep de gewenste acties link naar de belroute rechts. Net als in het bedrijfsbelplan kunt u de volgorde en instellingen wijzigen. TIP: U kunt ook verwijzen naar een belplan waar u nog meer mogelijkheden heeft ten aanzien van de vervolgroute  
+    Sleep de gewenste acties link naar de belroute rechts. Net als in het bedrijfsbelplan kunt u de volgorde en instellingen wijzigen. **TIP**: U kunt ook verwijzen naar een belplan waar u nog meer mogelijkheden heeft ten aanzien van de vervolgroute  
     ![](https://res.cloudinary.com/callvoip/image/upload/v1564577968/vamoshandleiding-7_xqoe8x.png)  
     Heeft u vragen of wilt u dat wij met u meedenken? Bel of mail dan gerust!  
     ![](https://res.cloudinary.com/callvoip/image/upload/v1564578021/vamoshandleiding-8_veyj2w.png)
@@ -115,25 +115,32 @@ Hieronder vindt u een stapsgewijze instructie bij de ingebruikname van Vamos.
 10. **Bijlage 3: Veelgestelde vragen bij Vamos Vast-Mobiel:**  
     Q: Kan ik mijn huidige Mobiele SIM en mobiel abonnement blijven gebruiken?  
     A: Nee, de Vamos Vast-Mobiel oplossing vereist dat u de SIM van Callvoip gebruikt met het bijbehorende Vamos abonnement. U kunt uw huidige mobiele nummer behouden door dit naar Callvoip toe te porteren.  
+      
     Q: Wat gebeurt er als iemand mijn mobiele nummer belt?  
     A: Zodra u uw mobiele SIM-kaart heeft ontvangen, geplaatst en deze geactiveerd is in het panel wordt uw mobiele nummer gekoppeld aan uw Simmpl gebruikersprofiel. Als iemand uw mobiele nummer belt, zal het gesprek verlopen zoals u in uw persoonlijk belplan heeft aangegeven. Dit kunt u gemakkelijk aanpassen via de Qaller smartphone app. Met de Vamos app en in de panel kunt u eenvoudig bepalen of inkomende gesprekken moeten rinkelen op uw vaste toestel, mobiele toestel of op beide toestellen.  
+      
     Q: Kan ik mijn zaak-nummer meesturen als ik vanaf mijn mobiel uitbel?  
     A: Jazeker, dat is mogelijk! Op de Simmpl centrale kunt u instellen dat u het zakelijke nummer meestuurt als u met uw mobiel uitbelt. Dit kan ook via de handige Vamos smartphone app.  
+      
     Q: Hoe kan ik interne gesprekken voeren met mijn VAMOS SIM kaart?  
     A: U kunt eenvoudig elk intern nummer bellen (bv 100 of 205) door dit eenvoudigweg op uw mobiele telefoon in te toetsen, via de ‘native dialer’: **het is niet nodig hier een app voor te gebruiken**. **LET OP**: het is helaas niet mogelijk om verkorte nummer te bellen die slechts 2 cijfers kennen (dit is te kort). Gebruik daarom verkorte nummers van 3 cijfers or meer.  
+      
     Q: Kan ik wisselgesprek gebruiken?  
     A: De mogelijkheid tot het ontvangen van wisselgesprekken is standaard geactiveerd voor Vamos SIM-kaarten. Mocht je wisselgesprekken willen deactiveren dan kan je dat via de instellingen op het mobiele toestel zelf uitschakelen en uiteraard ook weer inschakelen indien gewenst. Wanneer wisselgesprek niet kan worden gewijzigd via de instellingen op de mobiele telefoon dan is het mogelijk om deze optie als volgt te wijzigen:  
     \- **Bel naar 43#** om wisselgesprekken te activeren  
     \- **Bel naar #43#** om wisselgesprekken te deactiveren  
     \- **Bel naar #43#** om de wisselgesprek status te controleren  
+      
     Q: Werkt Call Recording/gespreksopname ook bij bellen met de mobiele telefoon?  
     A: Ja, als u Call Recording (gespreksopname) heeft ingeschakeld op de Simmpl centrale, dan worden gesprekken op uw vaste en op uw mobiele toestel opgenomen.  
+      
     Q: Wat zijn de Vamos APN instellingen?  
     A: Vamos maakt gebruik van een eigen Access Point Name (APN) voor algemene toegang tot het Internet. Deze APN moet ingesteld worden in de mobiele telefoon. Zonder deze instellingen kan de simkaart geen verbinding maken met het Internet.  
     Name: vrije invoer (Android only)  
     APN: 2apn.net  
     Username: internet  
     Password: internet  
+      
     Q: Ik kan niet mobiel bellen met Vamos  
     A: Vervelend!! Doorloop deze stappen om het probleem te verhelpen:  
     \- **Is er netwerkdekking?** Het gebeurt niet vaak meer, maar op sommige plaatsen is er nog steeds geen (of slecht) netwerk.  
@@ -142,11 +149,13 @@ Hieronder vindt u een stapsgewijze instructie bij de ingebruikname van Vamos.
     \- **Zijn er blokkades actief?** In de telefooncentrale kun je gesprekken naar bepaalde bestemmingen blokkeren. Probeer een nummer te bellen dat zeker moet werken.  
     \- Is er geen **probleem met je mobiele toestel** (instellingen of hardware)?  
     Nog steeds niet gelukt? Neem contact op met Callvoip.  
+      
     Q: Hoe stel ik mijn voicemail in?  
     A: De voicemailinstellingen voor Vamos mobiel stel je in op de Simmpl telefooncentrale, niet op het mobiele toestel/netwerk. Om gebruik te kunnen maken van de voicemail moet tenminste aan de volgende onderdelen zijn voldaan:  
     \- Voicemail moet zijn geactiveerd in je gebruikersprofiel op Simmpl  
     \- De voicemailbox moet in je persoonlijke belroute staan  
     \- Zodra ingesteld worden voicemailberichten als audiofile gemaild; je kunt berichten ook afluisteren door te bellen naar 1233.  
     Hulp nodig? Neem contact op met Callvoip.  
+      
     Q: Andere vraag?  
     A: Neem dan contact op met Callvoip. Ook vind je veel vragen en antwoorden op <a href="https://vamos.tech/" target="_blank">https://vamos.tech</a>.
