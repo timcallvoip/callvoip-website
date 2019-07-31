@@ -82,7 +82,7 @@ usps:
   - icon: fa-sort-numeric-down
     title: Wachtrij (Queue)
     content: Met een <a href="/telefonie/functionaliteiten/wachtrij/">wachtrij</a>
-      kunt alle bellers te woord staan. De beller wordt bijv. begroet met een meldtekst
+      kunt u alle bellers te woord staan. De beller wordt bijv. begroet met een meldtekst
       en vervolgens in de wacht gezet.
   - icon: fa-file-pdf
     title: Faxbox
@@ -92,8 +92,8 @@ usps:
   - icon: fa-deaf
     title: Gespreksopname
     content: 'Met <a href="/telefonie/functionaliteiten/gespreksopname/">gespreksopname</a>
-      kunt u uw telefoongesprekken opnemen en terugluisteren. U kunt zelf per gebruiker
-      in- en uitschakelen. '
+      kunt u uw telefoongesprekken opnemen en terugluisteren. U kunt het zelf per
+      gebruiker in- en uitschakelen. '
   - icon: fa-unlock
     title: Versleutelde gesprekken
     content: Wij bieden de mogelijkheid om uw telefonie te versleutelen en zo uw privacy
