@@ -77,7 +77,7 @@ TIP: voer één wijziging per keer door en test; voer daarna een volgende wijzig
 6. **Forward VoIP-poorten naar apparatuur**  
    U kunt proberen om de benodigde poorten die de VoIP-signalen transporteren te forwarden naar uw VoIP-apparatuur. U maakt in de NAT-tabel van de router een regel aan waardoor de achterliggende VoIP-apparatuur op een aantal vaste poorten naar buiten gaat. Deze poorten kunt u middels een andere NAT-regel ook weer openstellen voor inkomend verkeer.  
    De hieronder genoemde poorten zijn doorgaans nodig voor VoIP verkeer vanaf uw VoIP-apparaat naar de Simmpl telefooncentrales.  
-   **Onbelemmerd verkeer tussen uw netwerk en de Simmpl centrale**:  
+   Onbelemmerd verkeer tussen uw netwerk en de Simmpl centrale:  
    \- UDP **van** alle poorten in bereik 185.19.236.0/22 (=185.19.236.0 t/m 185.19.239.255)  
    \- UDP **naar** alle poorten in bereik: 185.19.236.0/22 (=185.19.236.0 t/m 185.19.239.255)  
    Afhankelijk van uw situatie:  
@@ -86,9 +86,9 @@ TIP: voer één wijziging per keer door en test; voer daarna een volgende wijzig
    Gedeeltelijke openstelling van het uitgaande audio-verkeer:  
    \- 5060 UDP > SIP (signaleringspoort > maakt registratie mogelijk)  
    \- 10000 - 60000 UDP > RTP (NB: deze instellingen zijn niet meer nodig als u regel 1 en 2 al heeft ingesteld)
-7. **Zet VoIP-apparatuur in DMZ  
-   **Schakel de optie **DMZ** in op uw router – deze zorgt ervoor dat de firewall niet geldt voor een specifiek IP-adres. Vul hier het IP-adres van uw VoIP-apparaat in. Zijn dat er meerdere, test dan eerst met één VoIP-apparaat.
+7. **Zet VoIP-apparatuur in DMZ**  
+   Schakel de optie **DMZ** in op uw router – deze zorgt ervoor dat de firewall niet geldt voor een specifiek IP-adres. Vul hier het IP-adres van uw VoIP-apparaat in. Zijn dat er meerdere, test dan eerst met één VoIP-apparaat.
 
 Het vinden van de juiste instellingen voor uw router / netwerk kan een tijdrovende klus zijn, en mogelijk krijgt u dit niet voor elkaar omdat de router te inflexibel is. Neem ook de uren van u dan wel uw systeembeheerder mee in de overweging om een nieuwe router aan te schaffen. Wij hebben goede ervaringen met de producten van de merken FRITZ!Box en DrayTek.
 
-Laat u ons gerust uw situatie weten - wij doen ons best u te adviseren zodat u zo snel mogelijk zorgeloost kunt bellen en gebeld kunt worden.dat er meerdere, test dan eerst met één VoIP-apparaat.
+Laat u ons gerust uw situatie weten - wij doen ons best u te adviseren zodat u zo snel mogelijk zorgeloos kunt bellen en gebeld kunt worden.dat er meerdere, test dan eerst met één VoIP-apparaat.
