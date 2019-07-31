@@ -41,7 +41,7 @@ usps:
     content: Geen doorschakelkosten meer van de telefooncentrale naar uw mobiele telefoon.
     icon: fa-piggy-bank
   - title: Werkt
-    content: Vamos is geschikt voor elke mobiele telefoon.
+    content: Vamos is geschikt voor elke mobiele telefoon en werkt dus altijd.
     icon: fa-mobile
   - icon: fa-comment-alt-smile
     title: Keuzevrijheid
