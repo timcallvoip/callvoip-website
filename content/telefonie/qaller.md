@@ -35,10 +35,11 @@ usps:
   items:
   - icon: fa-cloud
     title: Flexibel
-    content: Met de mobiele app Qaller heeft altijd en overal toegang tot uw telefooncentrale.
+    content: Met de mobiele app Qaller heeft u altijd en overal toegang tot uw telefooncentrale.
   - icon: fa-user-lock
     title: Veilig
-    content: U bepaalt welke werknemers toegang krijgen tot gebruik van de app.
+    content: U bepaalt welke werknemers toegang krijgen tot gebruik van de gratis
+      en betaalde variant.
   - icon: fa-comment-alt-smile
     title: Eenvoudig
     content: U wijzigt gemakkelijk de belroute van uw toestel of nummers in ad hoc
