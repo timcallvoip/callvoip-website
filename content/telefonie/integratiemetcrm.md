@@ -47,10 +47,10 @@ usps:
   items:
   - icon: fa-cloud
     title: Efficiënt
-    content: Zet heel eenvoudig een gesprek op door op het nummer te klikken
+    content: Zet heel eenvoudig een gesprek op door op het nummer te klikken.
   - icon: fa-user-lock
     title: Klantvriendelijk
-    content: U weet wie u aan de lijn hebt en kan de klant snel en efficiënt helpen
+    content: U weet wie u aan de lijn heeft en u kunt de klant snel en efficiënt helpen.
   - icon: fa-comment-alt-smile
     title: Werknemerstevredenheid
     content: Het werk wordt gemakkelijker, geen verkeerde nummers meer!
@@ -63,10 +63,10 @@ intro:
 prijzen:
 - title: Koppel de Simmpl centrale met uw CRM-pakket
   content: U betaalt eenmalig als organisatie voor de koppeling. Maandelijks betaalt
-    u per gebruiker die gebruik maakt van VoIP CTI
+    u per gebruiker die gebruik maakt van VoIP CTI.
   button:
-    title: Direct aanvragen
-    link: mijncallvoip/aanvragen/voip-cti/
+    title: Bereken het zelf
+    link: "/calculator/"
   tarieven:
     footer: Prijzen zijn excl. BTW
     items:
