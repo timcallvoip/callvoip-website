@@ -151,7 +151,7 @@ prefooter:
 testimonial:
   image: "/v1556267419/Callvoip-website-logo-AlphaLabs.png"
   title: Carlo Giliam - Alpha Labs
-  content: Al <strong>meer dan 10 jaar</strong> levert CallVoip ons de benodigde oplossingen
+  content: Al <strong>meer dan 10 jaar</strong> levert Callvoip ons de benodigde oplossingen
     voor vaste telefonie. Van beginnende ondernemer tot en met personeel; ze denken
     altijd met je mee.
 description: Callvoip is de zakelijke telefonieprovider in Nederland. Bespaar op uw
