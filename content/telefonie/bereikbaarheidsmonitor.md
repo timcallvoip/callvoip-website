@@ -48,7 +48,6 @@ intro:
 prijzen: []
 
 ---
-## Wat kost de Bereikbaarheidsmonitor?
+## Wat kost het?
 
-**Niets!**
-Het Bereikbaarheidsmonitor maakt gratis deel uit van de Simmpl telefooncentrale. Gewoon, om het Simmpl te houden.
+**Niets!** De Bereikbaarheidsmonitor maakt gratis deel uit van de Simmpl telefooncentrale. Gewoon, om het Simmpl te houden.

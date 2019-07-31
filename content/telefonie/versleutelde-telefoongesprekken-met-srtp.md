@@ -34,9 +34,7 @@ Alle internetverkeer van Callvoip verloopt via TLS – dit is standaard inbegrep
 SRTP staat voor Secure Real-time Transport Protocol, ofwel de beveiliging van uw werkelijke telefoongesprekken. Deze zijn beveiligd tegen meeluisteren. De spraak van uw telefoongesprekken tussen onze telefooncentrale en uw telefoon zijn dan beveiligd.
 
 **SRTP is een extra functie die u kunt aanvragen. Hiervoor geldt een meerprijs.**  
-Door het aanzetten van SRTP beveiligd spraakverkeer worden alle telefoongesprekken van al uw telefoontoestellen versleuteld. Er geldt een meerprijs van € 2,00 per telefoon per maand. Deze meerprijs wordt berekend voor alle toestellen in uw klantomgeving.
-
-<br>
+Door het aanzetten van SRTP beveiligd spraakverkeer, worden alle telefoongesprekken van al uw telefoontoestellen versleuteld. Er geldt een meerprijs van € 2,00 excl. BTW per telefoon per maand. Deze meerprijs wordt berekend voor alle toestellen in uw klantomgeving.
 
 ### Wanneer zijn de gesprekken versleuteld?
 
