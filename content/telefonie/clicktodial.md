@@ -10,8 +10,8 @@ logos: false
 hero:
   title: Click-to-Dial
   content: Met de Click-to-Dial-plugin van Callvoip worden telefoonnummers in uw Chrome
-    webbrowser klikbaar. Één klik op het nummer en uw toestel belt uit. Is dit alles?
-    Nee! Zo krijgt u bij inkomende oproepen een notificatie, ziet u de beschikbaarheid
+    webbrowser klikbaar. <br> Één klik op het nummer en uw toestel belt uit. Is dit
+    alles? Nee! Zo krijgt u bij inkomende oproepen een notificatie, ziet u de beschikbaarheid
     van uw collega's, kunt u gesprekken doorverbinden en heeft u een telefoonboek.
   button:
     content: Offerte aanvragen
@@ -22,6 +22,7 @@ blocks:
   image: "/v1557822664/C2D-update-feb19.png"
   content: |2-
 
+    <br>
     -<b>Click-to-dial:</b> klik en bel een nummer op uw toestel.<br>
     -<b>Select-and-dial:</b> selecteer en right-click om te bellen.<br>
     -<b>Paste-and-dial:</b> plak/type een nummer in de app en bel!<br>
