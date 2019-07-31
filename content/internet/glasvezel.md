@@ -6,8 +6,8 @@ logos: false
 hero:
   title: Glasvezel
   content: Met een glasvezel verbinding heeft u uw eigen lijn en een stabiele snelheid.
-    Zowel de upload- als de download- snelheid staan aan elkaar gelijk. Zo heeft u
-    1 aanspreekpunt en ontvangt u korting op de maandelijkse abonnementsprijs.
+    Zowel de upload- als de download- snelheid zijn gelijk. Zo heeft u 1 aanspreekpunt
+    en ontvangt u korting op de maandelijkse abonnementsprijs.
   button:
     content: Benieuwd naar de mogelijkheden?
     link: "/internet/postcodecheck/"
@@ -27,13 +27,13 @@ usps:
   items:
   - icon: fa-hand-pointer
     title: Eén aanspreekpunt
-    content: Eén aanspreekpunt voor internet, telefonie, apparatuur en installatie
+    content: Eén aanspreekpunt voor internet, telefonie, apparatuur en installatie.
   - icon: fa-piggy-bank
     title: Korting
-    content: CallvoipTelefonie-klanten krijgen korting op Callvoip internet
+    content: Callvoip-klanten krijgen korting op de Callvoip internet abonnementen.
   - icon: fa-trophy
     title: Perfecte basis
-    content: Callvoip internet biedt een goede basis voor uw telefonie
+    content: Callvoip internet biedt de beste basis voor uw telefoniesituatie.
 intro:
   title: Abonnementen
   content: Callvoip biedt drie verschillende FTTH-abonnementen.
