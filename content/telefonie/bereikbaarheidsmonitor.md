@@ -45,7 +45,7 @@ usps:
   - icon: fa-file-pdf
     title: Inzicht
     content: U krijgt een duidelijk beeld van uw inkomende telefonie.
-  - icon: fa-tropy
+  - icon: fa-trophy
     title: Beter bereikbaar
     content: Door de inzichten verbetert u uw inkomende telefonie.
   - icon: fa-piggy-bank
