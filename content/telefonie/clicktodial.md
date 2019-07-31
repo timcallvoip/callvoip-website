@@ -18,7 +18,7 @@ hero:
     link: "/offerte/"
   image: "/v1557822744/C2D-update-jan19.png"
 blocks:
-- title: Welke functies heeft de Click-to-Dial plugin allemaal?
+- title: 'Click-to-Dial plugin: Welke functies heeft het?'
   image: "/v1557822664/C2D-update-feb19.png"
   content: |2-
 
@@ -27,8 +27,8 @@ blocks:
     -<b>Select-and-dial:</b> selecteer en right-click om te bellen.<br>
     -<b>Paste-and-dial:</b> plak/type een nummer in de app en bel!<br>
     -<b>Log met gesprekken (in/uit)</b> met datum en tijd.<br>
-    -<b>Popup inkomend gesprek:</b> met nummer en naam.<br>
-    -<b>Adresboek:</b> voeg naam toe en bookmark: prive/gedeeld.<br>
+    -<b>Pop-up inkomend gesprek:</b> met nummer en naam.<br>
+    -<b>Adresboek:</b> voeg naam toe en bookmark: privé/gedeeld.<br>
     -<b>Bedrijfstelefoonboek:</b> gedeelde nummers ook zichtbaar bij collega’s.<br>
     -<b>Nummer-kopie-functie:</b> kopieer een nummer en vind bellers nog sneller in uw CRM!<br>
     -<b>Yealink-adresboek:</b> koppel uw Yealink toestel met uw Click to Dial adresboek!
