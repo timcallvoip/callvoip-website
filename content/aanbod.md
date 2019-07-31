@@ -41,7 +41,7 @@ aanbod:
       image: "/v1557757556/hero-home-2x.png"
       button:
         content: Meer over Hosted VoIP
-        link: "/hosted-voip/"
+        link: "/hostedvoip/"
   - tab:
       title: Het beste internet
       content: Zakelijk internet is een belangrijke basis voor uw organisatie.
