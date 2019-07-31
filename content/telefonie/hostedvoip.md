@@ -1,12 +1,12 @@
 ---
-title: Hosted VoIP telefonie
+title: Hosted VoIP telefonie - de modernste online telefooncentrale
 type: page
 layout: default
 logos: false
 hero:
   title: Hosted VoIP
   content: Met een Hosted VoIP bent u overal en altijd bereikbaar en bespaart u voortaan
-    op uw maandelijkse abonnementskosten. Met Hosted VoIP gaat de zakelijke telefonie
+    op uw maandelijkse abonnements- kosten. Met Hosted VoIP gaat de zakelijke telefonie
     over het internet en bevindt de telefooncentrale zich in de cloud.
   button:
     content: Bereken je kosten
