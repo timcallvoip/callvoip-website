@@ -54,7 +54,7 @@ usps:
   - icon: fa-cloud
     title: Biedt VoIP voldoende functionaliteiten?
     content: Bij Callvoip hoeft u echt niets aan functionaliteiten in te leveren.
-      Via de online telefooncentrale beschikt u over tal van <a href="'/telefonie/functionaliteiten/">professionele
+      Via de online telefooncentrale beschikt u over tal van <a href="/telefonie/functionaliteiten/">professionele
       functionaliteiten</a>.
   - icon: fa-wifi
     title: Welke internetverbinding is het meest geschikt?
