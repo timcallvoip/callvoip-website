@@ -97,7 +97,7 @@ usps:
   - icon: fa-unlock
     title: Versleutelde gesprekken
     content: Wij bieden de mogelijkheid om uw telefonie te versleutelen en zo uw privacy
-      te waarborgen. Dit doen we door middel van <a href="/telefonie/functionaliteiten/versleutelde-telefoongesprekken-met-srtp">SRTP</a>
+      te waarborgen. Dit doen we door middel van <a href="/telefonie/versleutelde-telefoongesprekken/">SRTP</a>
       en TLS.
   - icon: fa-mobile
     title: Qaller Plus (mobiele app)
