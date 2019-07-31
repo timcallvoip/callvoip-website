@@ -5,7 +5,7 @@ layout: default
 logos: false
 hero:
   title: Hosted VoIP
-  content: Met een Hosted VoIP bent u overal en altijd bereikbaar en bespaart u voortaan
+  content: Met Hosted VoIP bent u overal en altijd bereikbaar en bespaart u voortaan
     op uw maandelijkse abonnements- kosten. Met Hosted VoIP gaat de zakelijke telefonie
     over het internet en bevindt de telefooncentrale zich in de cloud.
   button:
@@ -121,7 +121,8 @@ prijzen:
       price: '2.00'
     - title: Extra kanalen (6x)
       price: '15.00'
-description: ''
+description: Welkom in de wereld van Voice over IP. Bekijk alle mogelijkheden en ontdek
+  onze interessante abonnementskosten. Start direct met besparen!
 images: []
 menu:
   main:
