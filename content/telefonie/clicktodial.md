@@ -36,8 +36,8 @@ blocks:
 - title: Hoe werkt het?
   image: "/v1557823877/c2d_3xnw_270119MT-2.png"
   content: |-
-    Alle telefoonnummers in uw Chrome browser worden belbaar. Nummers worden getoond met een groen hoorntje of u kunt ze rechts-klikken of kopieren ien plakken in de Click to Dial app.
-    Zodra u klikt, rechts klikt of het nummer plakt in de app, zal uw eigen telefoon direct overgaan. Zodra u de hoorn opneemt, zal uw telefoon starten met bellen naar het nummer waarop u klikte. Hierdoor hoeft u zelf geen telefoonnummers meer in te toetsen: geen fouten, geen bril op zetten, geen tijdverlies: gewoon snel en simmpl bellen!
+    Alle telefoonnummers in uw Chrome browser worden belbaar. Nummers worden getoond met een groen hoorntje of u kunt ze rechts-klikken of kopiëren en plakken in de Click to Dial app.
+    Zodra u klikt, rechts klikt of het nummer plakt in de app, zal uw eigen telefoon direct overgaan. Zodra u de hoorn opneemt zal uw telefoon starten met bellen naar het nummer waarop u klikte. Hierdoor hoeft u zelf geen telefoonnummers meer in te toetsen: geen fouten, geen bril opzetten, geen tijdverlies: gewoon snel en Simmpl bellen!
   position: image_right
 usps:
   title: Voordelen Click-to-Dial
@@ -51,7 +51,7 @@ usps:
     content: Gemakkelijk geïnstalleerd met onze handleiding.
   - icon: fa-mouse-pointer
     title: Gemak
-    content: Elk telefoonnummer in Chrome Browser klik- en belbaar.
+    content: Elk telefoonnummer in uw Chrome Browser wordt klik- en belbaar.
   - icon: fa-users
     title: Telefoonboek
     content: U houdt eenvoudig een privé en bedrijfstelefoonboek bij.
