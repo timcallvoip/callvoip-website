@@ -39,9 +39,18 @@ blocks:
     <b>Piekuur / piekdag</b>: de managementbalk aan de rechterzijde van het dashboard toont u op welk uur van de dag cq. op welke dag van de week er de meeste telefoondrukte is. Een simpel feit, maar toch waardevol te weten en ook hoe dit zich ontwikkelt in uw activiteitenseizoenen.
   position: image_right
 usps:
-  title: ''
+  title: Wat zijn de voordelen?
   content: ''
-  items: []
+  items:
+  - icon: fa-file-pdf
+    title: Inzicht
+    content: U krijgt een duidelijk beeld van uw inkomende telefonie.
+  - icon: ''
+    title: ''
+    content: ''
+  - icon: ''
+    title: ''
+    content: ''
 intro:
   title: ''
   content: ''
