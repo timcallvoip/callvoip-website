@@ -56,47 +56,39 @@ Het **tweede** advies is de complexiteit in uw netwerk zover mogelijk te reducer
 
 Hieronder vindt u een aantal **verdere adviezen** die u behulpzaam kunnen zijn bij het lokaliseren van de blokkades en het wegnemen hiervan danwel verbeteren van de situatie.
 
-**TIP**: voer één wijziging per keer door en test; voer daarna een volgende wijziging door. Lossen de suggesties uw probleem niet op, dan adviseren wij u de aanschaf van een ander apparaat dat wel geschikt is voor het bedienen van VoIP-verkeer.
+TIP: voer één wijziging per keer door en test; voer daarna een volgende wijziging door. Lossen de suggesties uw probleem niet op, dan adviseren wij u de aanschaf van een ander apparaat dat wel geschikt is voor het bedienen van VoIP-verkeer.
 
 1. **Controleer internetverbinding**  
    Controleer eerst of u een werkende internetverbinding heeft. Open een willekeurige website, bv. <a href="https://www.nu.nl" target="_blank">www.nu.nl</a>. Zo niet: neem dan contact op met uw internetprovider.
 2. **Belangrijk: gebruik laatste firmware op uw router**  
    Controleer of uw router de laatst beschikbare firmware heeft. Zo niet, upgrade dan de firmware. Veel VoIP-firewall-problemen worden opgelost door een recente firmware, omdat de fabrikant hierin ondersteuning biedt voor VoIP-verkeer. Bij oudere firmwares is deze ondersteuning vaak niet of in mindere mate aanwezig. Voor gedetailleerde instructies raadpleeg de handleiding en/of fabrikant / website van uw router.
 3. **Laat verkeer van/naar telefooncentrales door**  
-   Stel in de router in dat verkeer afkomstig van en richting de IP-adressen (range) van onze telefoooncentrales altijd wordt doorgelaten.
-
-   Dit adres is: **pbx.callvoip.nl**
-
+   Stel in de router in dat verkeer afkomstig van en richting de IP-adressen (range) van onze telefoooncentrales altijd wordt doorgelaten. Dit adres is: **pbx.callvoip.nl**  
    Netwerkadressen:  
    UDP **van** alle poorten in bereik **185.19.236.0/22** (=185.19.236.0 t/m 185.19.239.255)  
    UDP **naar** alle poorten in bereik: **185.19.236.0/22** (=185.19.236.0 t/m 185.19.239.255)  
    Uw netwerkrouter router dient dit verkeer goed te routeren.
 4. **Zet firewall-services uit**  
    Sommige routers veranderen SIP-gegevenspakketten waardoor VoIP-problemen worden gecreëerd. Ga naar de configuratiepagina van uw firewall (vaak menu-opties als Configuration / Firewall / Advanced Settings) en:  
-   \- zet **Stateful Packet Inspection (SPI)** uit > sla op en test.  
-   \- zet **SIP Application Layer Gateway (SIP ALG**) uit > sla op en test
+   \- zet **Stateful Packet Inspection (SPI)** uit > sla op en test  
+   \- zet **SIP Application Layer Gateway (SIP ALG)** uit > sla op en test
 5. **Schakel Firewall uit**  
    Probeer om de firewall uit te schakelen (disable), herstart router en VoIP-telefoon en test. Dit is geen eindoplossing maar wel een test of de firewall het probleem veroorzaakt. Ongeacht of dit wel of geen oplossing / verbetering biedt, is het advies om de firewall hierna wel weer te activeren om geen onnodige netwerkrisico’s te lopen. Probeer het pijnpunt in de firewall-configuratie te vinden en weg te nemen.
 6. **Forward VoIP-poorten naar apparatuur**  
-   U kunt proberen om de benodigde poorten die de VoIP-signalen transporteren te forwarden naar uw VoIP-apparatuur. U maakt in de NAT-tabel van de router een regel aan waardoor de achterliggende VoIP-apparatuur op een aantal vaste poorten naar buiten gaat. Deze poorten kunt u middels een andere NAT-regel ook weer openstellen voor inkomend verkeer.
-
-   De hieronder genoemde poorten zijn doorgaans nodig voor VoIP verkeer vanaf uw VoIP-apparaat naar de Simmpl telefooncentrales.
-
-   **Onbelemmerd verkeer tussen uw netwerk en de Simmpl centrale:**  
+   U kunt proberen om de benodigde poorten die de VoIP-signalen transporteren te forwarden naar uw VoIP-apparatuur. U maakt in de NAT-tabel van de router een regel aan waardoor de achterliggende VoIP-apparatuur op een aantal vaste poorten naar buiten gaat. Deze poorten kunt u middels een andere NAT-regel ook weer openstellen voor inkomend verkeer.  
+   De hieronder genoemde poorten zijn doorgaans nodig voor VoIP verkeer vanaf uw VoIP-apparaat naar de Simmpl telefooncentrales.  
+   **Onbelemmerd verkeer tussen uw netwerk en de Simmpl centrale**:  
    \- UDP **van** alle poorten in bereik 185.19.236.0/22 (=185.19.236.0 t/m 185.19.239.255)  
-   \- UDP **naar** alle poorten in bereik: 185.19.236.0/22 (=185.19.236.0 t/m 185.19.239.255)
-
+   \- UDP **naar** alle poorten in bereik: 185.19.236.0/22 (=185.19.236.0 t/m 185.19.239.255)  
    Afhankelijk van uw situatie:  
    \- Poort 80 TCP naar 185.19.236.0 - 185.19.239.255 (webinterface en provisioning)  
-   \- Poort 443 TCP naar 185.19.236.0 - 185.19.239.255 (webinterface en provisioning)
-
-   Gedeeltelijke openstelling van het uitgaande audio-verkeer::  
+   \- Poort 443 TCP naar 185.19.236.0 - 185.19.239.255 (webinterface en provisioning)  
+   Gedeeltelijke openstelling van het uitgaande audio-verkeer:  
    \- 5060 UDP > SIP (signaleringspoort > maakt registratie mogelijk)  
-   \- 10000 - 60000 UDP > RTP  
-   (**NB**: deze instellingen zijn niet meer nodig als u regel 1 en 2 al heeft ingesteld)
-7. **Zet VoIP-apparatuur in DMZ**  
-   Schakel de optie **DMZ** in op uw router – deze zorgt ervoor dat de firewall niet geldt voor een specifiek IP-adres. Vul hier het IP-adres van uw VoIP-apparaat in. Zijn dat er meerdere, test dan eerst met één VoIP-apparaat.
+   \- 10000 - 60000 UDP > RTP (NB: deze instellingen zijn niet meer nodig als u regel 1 en 2 al heeft ingesteld)
+7. **Zet VoIP-apparatuur in DMZ  
+   **Schakel de optie **DMZ** in op uw router – deze zorgt ervoor dat de firewall niet geldt voor een specifiek IP-adres. Vul hier het IP-adres van uw VoIP-apparaat in. Zijn dat er meerdere, test dan eerst met één VoIP-apparaat.
 
 Het vinden van de juiste instellingen voor uw router / netwerk kan een tijdrovende klus zijn, en mogelijk krijgt u dit niet voor elkaar omdat de router te inflexibel is. Neem ook de uren van u dan wel uw systeembeheerder mee in de overweging om een nieuwe router aan te schaffen. Wij hebben goede ervaringen met de producten van de merken FRITZ!Box en DrayTek.
 
-Laat u ons gerust uw situatie weten - wij doen ons best u te adviseren zodat u zo snel mogelijk zorgeloos kunt bellen en gebeld kunt worden.
+Laat u ons gerust uw situatie weten - wij doen ons best u te adviseren zodat u zo snel mogelijk zorgeloost kunt bellen en gebeld kunt worden.dat er meerdere, test dan eerst met één VoIP-apparaat.
