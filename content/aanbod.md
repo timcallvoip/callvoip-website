@@ -36,8 +36,7 @@ aanbod:
       title: Altijd bereikbaar zijn
       content: Wij weten als geen ander hoe belangrijk bereikbaarheid is voor ondernemers.
         Met de modernste online telefooncentrale van Callvoip is dat voor iedereen
-        mogelijk, zowel op uw vaste telefoons als op de mobiel. Benieuwd wat u bij
-        onze Hosted VoIP krijgt?
+        mogelijk, zowel op uw vaste telefoons als op de mobiel. Benieuwd wat u krijgt?
       image: "/v1557757556/hero-home-2x.png"
       button:
         content: Meer over Hosted VoIP
@@ -65,7 +64,7 @@ aanbod:
       content: Koppel de online telefooncentrale met uw CRM-pakket, maak gebruik van
         de Click-to-Dial, bouw zelf een koppeling via onze Realtime API of integreer
         uw mobiele telefoons met de Vast Mobiel Integratie (Vamos). Benieuwd naar
-        de mogelijkheden voor uw situatie?
+        de mogelijkheden?
       image: "/v1557906588/Vamos.png"
       button:
         content: Vraag een offerte aan!
