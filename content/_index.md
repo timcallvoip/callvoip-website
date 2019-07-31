@@ -15,7 +15,7 @@ hero:
     link: telefonie/hostedvoip/
   - icon: fa-tty
     title: Mobiele telefoon onderdeel van de zakelijke telefonieoplossing?
-    content: Gebruik de Vast Mobiel Integratie (Vamos) van Callvoip!
+    content: Gebruik de Vast Mobiel Integratie (Vamos)
     link: telefonie/vastmobielintegratie/
 intro:
   image: "/v1557750090/hero-home-2x.png"
