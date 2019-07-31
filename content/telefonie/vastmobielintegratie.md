@@ -1,5 +1,5 @@
 ---
-title: Vast Mobiel Integratie (Vamos)
+title: Vast Mobiel Integratie (Vamos) - uw mobiele telefoon onderdeel van uw telefooncentrale
 type: page
 layout: default
 blocks:
@@ -67,7 +67,7 @@ prijzen:
 - content: Onbeperkt bellen in EU + 2GB data
   button:
     title: Nu aanvragen
-    link: "/mijncallvoip/aanvragen/vamos"
+    link: "/aanvragen/vamos/"
   tarieven:
     title: Per SIM-kaart
     footer: Prijzen zijn excl. BTW
@@ -89,12 +89,12 @@ prijzen:
       price: '25.00'
   button:
     title: Nu aanvragen
-    link: "/mijncallvoip/aanvragen/vamos"
+    link: "/aanvragen/vamos/"
 - title: 10 GB data
   content: Onbeperkt bellen in EU + 10GB data
   button:
     title: Nu aanvragen
-    link: "/mijncallvoip/aanvragen/vamos"
+    link: "/aanvragen/vamos/"
   tarieven:
     title: Per SIM-kaart
     footer: Prijzen zijn excl. BTW
