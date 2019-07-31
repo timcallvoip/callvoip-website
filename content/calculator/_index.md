@@ -76,8 +76,8 @@ security:
     required: false
 options:
   title: Breid uit met extra's
-  description: 'Misschien is onze standaard telefooncentrale niet genoeg voor u. Breid
-    deze dan eenvoudig uit met de volgende functionaliteiten:'
+  description: 'Misschien is onze standaard telefooncentrale niet genoeg. Breid deze
+    dan eenvoudig uit met:'
   items:
   - name: Wachtrij
     description: Heeft u veel inkomend telefonieverkeer en wilt u elke beller beantwoorden?
