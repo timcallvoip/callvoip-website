@@ -92,4 +92,9 @@ Hieronder vindt u een aantal **verdere adviezen** die u behulpzaam kunnen zijn b
    \- 5060 UDP > SIP (signaleringspoort > maakt registratie mogelijk)  
    \- 10000 - 60000 UDP > RTP  
    (**NB**: deze instellingen zijn niet meer nodig als u regel 1 en 2 al heeft ingesteld)
-7. **Zet VoIP-apparatuur in DMZ**
+7. **Zet VoIP-apparatuur in DMZ  
+   **Schakel de optie **DMZ** in op uw router – deze zorgt ervoor dat de firewall niet geldt voor een specifiek IP-adres. Vul hier het IP-adres van uw VoIP-apparaat in. Zijn dat er meerdere, test dan eerst met één VoIP-apparaat.
+
+Het vinden van de juiste instellingen voor uw router / netwerk kan een tijdrovende klus zijn, en mogelijk krijgt u dit niet voor elkaar omdat de router te inflexibel is. Neem ook de uren van u dan wel uw systeembeheerder mee in de overweging om een nieuwe router aan te schaffen. Wij hebben goede ervaringen met de producten van de merken FRITZ!Box en DrayTek.
+
+Laat u ons gerust uw situatie weten - wij doen ons best u te adviseren zodat u zo snel mogelijk zorgeloos kunt bellen en gebeld kunt worden.

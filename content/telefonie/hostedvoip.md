@@ -65,15 +65,15 @@ usps:
 intro:
   title: Wat kost bellen met Callvoip?
   content: "Iedere klant is anders en dat betekent dus ook dat geen telefooncentrale
-    gelijk is. Hieronder enkele cases uitgewerkt. Benieuwd wat de kosten zijn voor
-    uw situatie? \nBel met <b><u><a href=\"tel:+31508200000\">050 820 0000</a></u></b>
-    of bereken het via onze <b><u><a href=\"/calculator\">calculator</a></u></b>."
+    gelijk is. <br> Benieuwd wat de kosten zijn voor uw situatie? \nBel met <b><u><a
+    href=\"tel:+31508200000\">050 820 0000</a></u></b> of bereken het via onze <b><u><a
+    href=\"/calculator\">calculator</a></u></b>."
 prijzen:
 - title: Zelfstandigen
   content: Online telefooncentrale, geen poespas én bereikbaar op één toestel.
   button:
     title: Oplossingen voor het ZZP
-    link: oplossingen/zelfstandigen/
+    link: "/oplossingen/zelfstandigen/"
   tarieven:
     title: Maandelijkse kosten
     footer: Prijzen zijn excl. BTW
