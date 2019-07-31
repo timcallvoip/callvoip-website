@@ -17,6 +17,8 @@ Als eerste provider in Nederland levert Callvoip versleutelde telefoongesprekken
 * **TLS:** een soort HTTPS-certificaat voor beveiligde telefonie tussen centrale en uw telefoon
 * **SRTP:** de daadwerkelijke versleuteling van het gesprek vanaf uw telefoontoestel
 
+<br>
+
 ## Wat is TLS?
 
 TLS staat voor Transport Layer Security: dit is te vergelijken met een HTTPS-verbinding (het slotje ten teken van beveiligd internetverkeer) en dan specifiek voor VoIP. Dankzij de TLS-beveiliging gaan alle gegevens van uw telefoon beveiligd naar onze telefooncentrale: een veilig idee.
@@ -25,12 +27,16 @@ Alle internetverkeer van Callvoip verloopt via TLS – dit is standaard inbegrep
 
 **TLS is standaard inbegrepen en gratis voor alle klanten.**
 
+<br>
+
 ## Wat is SRTP?
 
 SRTP staat voor Secure Real-time Transport Protocol, ofwel de beveiliging van uw werkelijke telefoongesprekken. Deze zijn beveiligd tegen meeluisteren. De spraak van uw telefoongesprekken tussen onze telefooncentrale en uw telefoon zijn dan beveiligd.
 
 **SRTP is een extra functie die u kunt aanvragen. Hiervoor geldt een meerprijs.**  
 Door het aanzetten van SRTP beveiligd spraakverkeer worden alle telefoongesprekken van al uw telefoontoestellen versleuteld. Er geldt een meerprijs van € 2,00 per telefoon per maand. Deze meerprijs wordt berekend voor alle toestellen in uw klantomgeving.
+
+<br>
 
 ### Wanneer zijn de gesprekken versleuteld?
 
@@ -46,6 +52,10 @@ Het kan zijn dat dit gesprek tussen de (mobiele) telefoon en de ontvangende prov
 
 ![voorbeelden](https://www.callvoiptelefonie.nl/wp-content/uploads/2016/10/voorbeelden_SRTP_vb3.png)
 
-**Wilt u gebruik maken van SRTP? En bent u al klant? Dan kunt u dit hieronder aanvragen:**
+<br>
 
-<a href="/mijncallvoip/aanvragen/srtp/" class="button">SRTP aanvragen</a>
+### Benieuwd naar de mogelijkheden voor uw situatie?
+
+<br>
+
+<a href="/offerte/" class="button">Vraag hier een offerte aan!</a>
