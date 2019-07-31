@@ -13,14 +13,14 @@ hero:
     link: "/calculator"
   image: "/v1552466820/hostedvoip.svg"
 blocks:
-- content: Met de mobiele app Qaller kunt u uw telefooncentrale beheren en bedienen
-    via uw smartphone of tablet. Wanneer dan ook, waar dan ook. Snel en gemakkelijk.
-    Dat biedt vrijheid en onafhankelijkheid. Deze variant van Qaller is <b>gratis</b>.
+- content: Met de <b>gratis</b> variant van Qaller kunt u uw telefooncentrale beheren
+    en bedienen via uw smartphone. Wanneer dan ook, waar dan ook. Snel en gemakkelijk.
+    Dat biedt vrijheid en onafhankelijkheid.
   image: "/v1552466820/phones.png"
   position: image_left
   title: Bedien de telefooncentrale (Qaller)
 - content: |-
-    Met Qaller Plus:<br>
+    Met de <b>betaalde</b> variant van Qaller:<br>
     …bedient u de telefooncentrale.<br>
     …belt u vanaf uw smartphone met uw zakelijke telefoonnummer.<br>
     …zien relaties uw mobiele telefoonnummer niet.<br>
