@@ -18,7 +18,7 @@ hero:
     content: Gebruik de Vast Mobiel Integratie (Vamos)
     link: telefonie/vastmobielintegratie/
 intro:
-  image: "/v1564584391/callvoip-website-beeldscherm-belplan_lsq8m8.png"
+  image: "/v1557757556/hero-home-2x.png"
   title: Voordelig bellen vanuit de cloud
   content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent op één
     en hetzelfde nummer. Op kantoor via een vast toestel of onderweg via uw eigen
