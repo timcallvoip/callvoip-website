@@ -32,11 +32,8 @@ Als wederverkoper van telefonieoplossingen is het zeer belangrijk dat men bereik
 2\. aandeel beantwoorde gesprekken, totaal en als percentage  
 3\. totale gesprekstijd en gemiddelde gesprekstijd per uur, dag, week  
 4\. uw **piekuur** en **piekdag**: het drukste uur per dag, en piekdag per week  
- {{</ layout/column2 >}}  
- {{< layout/column2 >}}  
-![](https://res.cloudinary.com/callvoip/image/upload/v1563355159/callvoip-website-bereikbaarheidsmonitor2.png)  
- {{</ layout/column2 >}}  
-{{</ layout/columns >}}
+  
+![](https://res.cloudinary.com/callvoip/image/upload/v1563355159/callvoip-website-bereikbaarheidsmonitor2.png)
 
 #### Vamos
 
