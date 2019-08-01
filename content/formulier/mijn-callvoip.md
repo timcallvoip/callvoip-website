@@ -262,7 +262,7 @@ Als bestaande klant van Callvoip kunt u altijd diensten opzeggen. Kies hieronder
 [Vast Mobiel (Vamos)](/opzeggen/vamos/)
 {{</ layout/column2 >}}
 {{< layout/column2 >}}
-[VoIP CTI koppeling](opzeggen/voipcti/)
+[VoIP CTI koppeling](/opzeggen/voipcti/)
 {{</ layout/column2 >}}
 {{</ layout/columns >}}
 
