@@ -25,7 +25,7 @@ blocks:
     zoekt: een complete hosted VoIP-oplossing met telefoonnummers en als u wenst hardware
     en internetverbinding. Veel extra features, zoals een wachtrij, keuzemenu of gespreksopname,
     zijn beschikbaar. "
-  image: "/v1552466837/windows.svg"
+  image: "/v1557757556/callplan-2x.png"
   position: ''
   title: Iedere organisatie is uniek
 usps:
