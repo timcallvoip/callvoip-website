@@ -30,21 +30,21 @@ Inkomende belletjes worden naar de bureautoestellen van de werknemers gezet, all
 
 {{< layout/columns >}}
 
- {{< layout/column2 >}}
+{{< layout/column2 >}}
 
-Er wordt veel uitgebeld en dit wordt een stuk eenvoudiger met onze Click-to-Dial. Door op een telefoonnummer te klikken in de Chrome browser, belt je toestel uit. Ook bij binnenkomende oproepen ziet men meteen wie er belt dankzij het geïntegreerde telefoonboek.
+Er wordt veel uitgebeld en dit wordt een stuk eenvoudiger met onze Click-to-Dial. Door op een telefoonnummer te klikken in de Chrome browser, belt je toestel uit. Ook bij binnen- komende oproepen ziet men meteen wie er belt dankzij het geïntegreerde telefoonboek.
 
 #### Qaller
 
 Elke medewerker werkt minimaal 1 dag vanuit huis. Hier moet men ook bereikbaar zijn, maar nog belangrijker, men moet vanuit hier ook met het zakelijk telefoonnummer kunnen uitbellen. Hiervoor gebruikt men de Qaller app voor de mobiele telefoon. Deze app koppelt u met uw toestel op de online telefooncentrale. Als dat toetstel rinkelt, dan rinkelt de Qaller ook. Via de app kunt uw uitbellen en u bepaalt of u met het nummer van de zaak uitbelt of anoniem.
 
- {{</ layout/column2 >}}
+{{</ layout/column2 >}}
 
- {{< layout/column2 >}}
+{{< layout/column2 >}}
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1562676419/Callvoip-website-branches-marketing-voorbeeld.png)
 
- {{</ layout/column2 >}}
+{{</ layout/column2 >}}
 
 {{</ layout/columns >}}
 
