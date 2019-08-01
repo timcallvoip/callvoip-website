@@ -15,7 +15,7 @@ hero:
   button:
     content: Vraag nu een offerte aan
     link: "/offerte/"
-  image: "/v1560247728/Callvoip-website-operatorconsole.jpg"
+  image: "/v1564654873/operatror-console-sideways_t2v6rc.png"
 blocks:
 - title: Wat is het?
   image: "/v1557821337/quadrant.png"

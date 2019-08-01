@@ -10,7 +10,7 @@ hero:
   button:
     content: Vraag nu een offerte aan!
     link: "/offerte"
-  image: "/v1552466820/hostedvoip.svg"
+  image: "/v1564654873/meerdere-paginas-sideways_vqbtqv.png"
 blocks:
 - content: 'Een VoIP-trunk is een verbinding tussen het Callvoip-platform en uw eigen
     centrale. Door deze trunk lopen alle gesprekken van al uw nummers: inkomend en
