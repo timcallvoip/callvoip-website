@@ -11,7 +11,7 @@ hero:
   button:
     content: Bereken je kosten
     link: "/calculator"
-  image: "/v1552466820/hostedvoip.svg"
+  image: "/v1557759324/gesprekken.png"
 blocks:
 - content: |-
     Klanten van Callvoip gebruiken de Simmpl online telefooncentrale.
