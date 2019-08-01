@@ -18,7 +18,7 @@ Elke praktijk heeft een eigen toestel. Mocht deze niet worden opgenomen, dan wor
 
 ### De oplossing van Callvoip
 
-Dankzij de professionele functionaliteiten van de online telefooncentrale van Callvoip is men beter bereikbaar en kan men efficiënter werken. De volgende functionaliteiten zijn ingezet bij
+Dankzij de professionele functionaliteiten van de online telefooncentrale van Callvoip is men beter bereikbaar en kan men efficiënter werken. De volgende functionaliteiten zijn ingezet:
 
 {{< layout/columns >}}
 
