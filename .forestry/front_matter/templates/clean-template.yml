@@ -31,6 +31,7 @@ fields:
   label: layout
   hidden: true
 pages:
+- content/oplossingen/Branches/makelaardij.md
 - content/oplossingen/Branches/fysiotherapie.md
 - content/oplossingen/Branches/kapsalon.md
 - content/oplossingen/Branches/marketingbureau.md
@@ -38,7 +39,6 @@ pages:
 - content/telefonie/gesprekskosten.md
 - content/oplossingen/Branches/recruitment.md
 - content/oplossingen/Branches/advocatuur.md
-- content/oplossingen/Branches/makelaardij.md
 - content/telefonie/Functionaliteiten/busy-lamp-field-blf.md
 - content/oplossingen/Branches/tandartspraktijk.md
 - content/oplossingen/Branches/reisbureau.md
