@@ -26,8 +26,6 @@ Veel gesprekken komen binnen via de receptietoestellen. De wens is er om vanaf h
 
 #### Bereikbaarheidsmonitor
 
-{{< layout/columns >}}  
- {{< layout/column2 >}  
 Als wederverkoper van telefonieoplossingen is het zeer belangrijk dat men bereikbaar is en blijft. Om dit te monitoren wordt gebruik gemaakt van de gratis bereikbaarheidsmonitor. Belangrijke indicatoren die zichtbaar zijn:
 
 1\. alle gesprekken per uur, dag, week; totaal en per nummer  
