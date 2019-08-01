@@ -10,27 +10,32 @@ hero:
 layout: ''
 
 ---
-Als kapsalon is het belangrijk dat u goed bereikbaar bent voor uw klanten. Binnen werktijd moeten de toestellen rinkelen en moet op drukke momenten de beller worden opgevangen. Buiten werktijd moet de beller de melding krijgen dat jullie gesloten zijn.
+Als aanbieder van ICT diensten (waaronder telefonie) is het belangrijk dat u goed bereikbaar bent voor uw klanten. Daarnaast is het zeer belangrijk om zelf alle ins & outs te kennen van de telefonieoplossing.
 
 ### Situatiebeschrijving
 
-De eigenaar van de verschillende kapsalons merkt dat er veel inkomende belletjes gemist worden doordat alleen de desbetreffende kapsalon kan opnemen. De wens is er om inkomende oproepen door te schakelen naar kantoor om zo alle oproepen op te vangen.
+De aanbieder van ICT diensten merkt dat bereikbaarheid en een professionele telefonieoplossing steeds belangrijk wordt bij haar klanten. 
 
 ### De oplossing van Callvoip
 
-Dankzij de professionele functionaliteiten van de online telefooncentrale van Callvoip zijn de kapsalons beter bereikbaar en kan men efficiënter werken. De volgende functionaliteiten zijn ingezet:
+Dankzij de professionele functionaliteiten van de online telefooncentrale van Callvoip zijn is de aanbieder van ICT diensten (én haar klanten) beter bereikbaar. De volgende functionaliteiten zijn ingezet:
 
-#### Meldtekst
+#### Operator Console
 
-Om meer professionaliteit uit te stralen krijgt elke beller eerst een meldtekst te horen. In deze meldtekst wordt men welkom geheten bij de salon. Vervolgens rinkelt het toestel op de desbetreffende vestiging die wordt gebeld.
+#### Bereikbaarheidsmonitor
 
-#### Belgroep + Prefix
+{{< layout/columns >}}  
+ {{< layout/column2 >}}  
+ links  
+ {{</ layout/column2 >}}  
+ {{< layout/column2 >}}  
+![](https://res.cloudinary.com/callvoip/image/upload/v1563355159/callvoip-website-bereikbaarheidsmonitor2.png)  
+ {{</ layout/column2 >}}  
+{{</ layout/columns >}}
 
-Mocht de salon niet in staat zijn om op te nemen, dan wordt de beller na een halve minuut doorgeschakeld naar het hoofdkantoor. In de belgroep staan meerdere toestellen en deze rinkelen simultaan. Door middel van een prefix weet het toestel op het hoofdkantoor naar welke salon wordt gebeld.
+#### Vamos
 
-#### Openingstijden
-
-Via tijdscondities wordt bepaalt welke belroute de beller volgt. Binnen werktijd rinkelen toestellen. Buiten werktijd krijgt de beller een melding dat men gesloten is, wat de regulier openingstijden zijn en wordt vervolgens de verbinding verbroken.
+Klanten kunnen een onderhoudscontract afsluiten voor betere support. Elke monteur heeft zijn/haar eigen klanten door wie ze gebeld worden, daarnaast zijn de monteurs vaak onderweg. De oplossing die hier het best bij past is de Vast-Mobiel Integratie. 
 
 ### Benieuwd naar de mogelijkheden voor uw situatie?
 
