@@ -58,8 +58,8 @@ usps:
     icon: fa-abacus
   - icon: fa-shopping-cart
     title: Webwinkel
-    content: <a href="/oplossingen/branches/webwinkel/" class="button">Bekijk hier
-      de brancheoplossing</a>
+    content: <a href="/oplossingen/branches/webshop/" class="button">Bekijk hier de
+      brancheoplossing</a>
 intro:
   title: ''
   content: ''
