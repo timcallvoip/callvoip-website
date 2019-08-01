@@ -22,6 +22,8 @@ Dankzij de professionele functionaliteiten van de online telefooncentrale van Ca
 
 #### Operator Console
 
+Veel gesprekken komen binnen via de receptietoestellen. De wens is er om vanaf het computerbeeldscherm snel & eenvoudig te zien wie er in gesprek is en wie beschikbaar. Dit kan met het Operator Console. Ook kan men gesprekken doorverbinden en statistieken bekijken.
+
 #### Bereikbaarheidsmonitor
 
 {{< layout/columns >}}  
