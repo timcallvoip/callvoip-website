@@ -6,7 +6,7 @@ logos: true
 hero:
   title: Trunkoplossing
   content: Heeft u een eigen IP-telefooncentrale en wilt u kosten besparen? Dan biedt
-    een VoIP trunk een uitstekende start!
+    een VoIP trunk van Callvoip een uitstekende start!
   button:
     content: Vraag nu een offerte aan!
     link: "/offerte"
