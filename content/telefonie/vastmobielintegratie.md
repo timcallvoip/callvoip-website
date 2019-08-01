@@ -59,7 +59,7 @@ hero:
   button:
     content: Vraag nu een offerte aan
     link: "/offerte"
-  image: "/v1555571805/phones.png"
+  image: "/v1564654595/vastmobielintegratie-phone-clear_gy2w87.png"
 intro:
   title: Wat zijn de kosten?
   content: 'De Vast Mobiel integratie (Vamos) van Callvoip komt in drie verschillende

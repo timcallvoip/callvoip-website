@@ -155,10 +155,10 @@ fields:
         name: price
         label: Price
 pages:
+- content/telefonie/vastmobielintegratie.md
 - content/telefonie/integratiemetcrm.md
 - content/oplossingen/mkb.md
 - content/oplossingen/zelfstandigen.md
-- content/telefonie/vastmobielintegratie.md
 - content/telefonie/hostedvoip.md
 - content/telefonie/clicktodial.md
 - content/internet/kabel.md
