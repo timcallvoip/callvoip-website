@@ -1,5 +1,5 @@
 ---
-title: Integratie met CRM (VoIP CTI)
+title: Integratie met uw CRM-pakket (VoIP CTI)
 type: page
 layout: default
 logos: false

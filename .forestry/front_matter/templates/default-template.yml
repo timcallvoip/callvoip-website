@@ -155,16 +155,16 @@ fields:
         name: price
         label: Price
 pages:
+- content/telefonie/vastmobielintegratie.md
+- content/telefonie/integratiemetcrm.md
 - content/telefonie/hostedvoip.md
 - content/telefonie/clicktodial.md
 - content/internet/kabel.md
 - content/internet/glasvezel.md
 - content/oplossingen/trunk.md
 - content/oplossingen/branches.md
-- content/telefonie/integratiemetcrm.md
 - content/telefonie/bereikbaarheidsmonitor.md
 - content/telefonie/qaller.md
-- content/telefonie/vastmobielintegratie.md
 - content/oplossingen/mkb.md
 - content/oplossingen/zelfstandigen.md
 - content/telefonie/operator-console.md

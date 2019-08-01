@@ -1,5 +1,5 @@
 ---
-title: Vast Mobiel Integratie (Vamos) - uw mobiele telefoon onderdeel van uw telefooncentrale
+title: Vast Mobiel Integratie (Vamos) - altijd & overal bereikbaar
 type: page
 layout: default
 blocks:
