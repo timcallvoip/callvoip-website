@@ -10,7 +10,7 @@ hero:
 layout: ''
 
 ---
-Met meerdere vestigingen is men opzoek naar een aanbieder waar al deze praktijken ondergebracht kunnen worden. Belangrijk was dat alle onder één factuur komt en dat eenvoudig én op één plek, de belroutes van de verschillende vestigingen gewijzigd kunnen worden.
+Met meerdere vestigingen is men opzoek naar een aanbieder waar al deze praktijken ondergebracht kunnen worden. Belangrijk is dat alles onder één factuur komt en dat eenvoudig én op één plek, de belroutes van de verschillende vestigingen gewijzigd kunnen worden.
 
 ### Situatiebeschrijving
 

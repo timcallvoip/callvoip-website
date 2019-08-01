@@ -31,6 +31,7 @@ fields:
   label: layout
   hidden: true
 pages:
+- content/oplossingen/Branches/fysiotherapie.md
 - content/oplossingen/Branches/kapsalon.md
 - content/oplossingen/Branches/marketingbureau.md
 - content/telefonie/bedrijfstelefoonboek.md
@@ -61,7 +62,6 @@ pages:
 - content/telefonie/Functionaliteiten/call-pickup.md
 - content/telefonie/conference-service.md
 - content/oplossingen/Branches/assurantie.md
-- content/oplossingen/Branches/fysiotherapie.md
 - content/oplossingen/Branches/webshop.md
 - content/telefonie/Functionaliteiten/belgroep-huntgroup.md
 - content/telefonie/Functionaliteiten/wachtrij-queue.md
