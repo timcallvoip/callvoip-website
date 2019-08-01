@@ -1,5 +1,5 @@
 ---
-title: Hosted VoIP telefonie - de modernste online telefooncentrale
+title: Hosted VoIP - modernste online telefooncentrale
 type: page
 layout: default
 logos: false
@@ -11,7 +11,7 @@ hero:
   button:
     content: Bereken je kosten
     link: "/calculator"
-  image: "/v1556267113/gesprekken.png"
+  image: "/v1564643171/callvoip-website-hostedvoip-beeldscherm_gnjoib.png"
 blocks:
 - content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent, dat
     gaat verder dan alleen maar telefonie via vaste toestellen. Ook op uw mobiele
