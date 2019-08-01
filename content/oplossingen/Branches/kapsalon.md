@@ -22,13 +22,13 @@ Dankzij de professionele functionaliteiten van de online telefooncentrale van Ca
 
 #### Meldtekst
 
-{{< layout/columns >}}
-
-{{< layout/column2 >}}
-
 Om meer professionaliteit uit te stralen krijgt elke beller eerst een meldtekst te horen. In deze meldtekst wordt men welkom geheten bij de salon. Vervolgens rinkelt het toestel op de desbetreffende vestiging die wordt gebeld.
 
 #### Belgroep + Prefix
+
+{{< layout/columns >}}
+
+{{< layout/column2 >}}
 
 Mocht de salon niet in staat zijn om op te nemen, dan wordt de beller na een halve minuut doorgeschakeld naar het hoofdkantoor. In de belgroep staan meerdere toestellen en deze rinkelen simultaan. Door middel van een prefix weet het toestel op het hoofdkantoor naar welke salon wordt gebeld.
 
