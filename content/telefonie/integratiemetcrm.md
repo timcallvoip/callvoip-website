@@ -10,7 +10,7 @@ hero:
   button:
     content: Bereken je kosten
     link: "/calculator"
-  image: "/v1552466820/hostedvoip.svg"
+  image: "/v1564654521/intergratiemetcrm-sideways_qwruw7.png"
 blocks:
 - content: |-
     <br> Voor VoIP CTI heeft u nodig:
