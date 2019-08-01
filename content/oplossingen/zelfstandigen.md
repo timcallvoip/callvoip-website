@@ -6,8 +6,8 @@ logos: true
 hero:
   title: Zelfstandigen
   content: 'Als ZZP’er heeft u het druk genoeg. Callvoip biedt de telefoonoplossing
-    die u zoekt: telefoonnummer, telefoon en een flexibele door uzelf te bedienen
-    online telefooncentrale.'
+    die u zoekt: telefoonnummer, telefoon & een flexibele door uzelf te bedienen online
+    telefooncentrale.'
   button:
     content: Bereken je kosten
     link: "/calculator"
@@ -22,7 +22,7 @@ blocks:
 usps:
   title: Geniet als ZZP-er van optimale bereikbaarheid
   content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent, dat
-    gaat verder dan alleen maar telefonie.
+    gaat verder dan telefonie.
   items:
   - icon: fa-cloud
     title: Moderne centrale in de cloud
