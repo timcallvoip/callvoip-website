@@ -13,6 +13,7 @@ fields:
     required: false
   label: URL
 pages:
+- content/formulier/mijn-callvoip.md
 - content/formulier/aanvraag-verzonden.md
 - content/formulier/callvoipdsl-of-callvoipftth-opzeggen.md
 - content/formulier/voip-cti-koppeling-met-uw-crm-pakket-opzeggen.md
@@ -35,7 +36,6 @@ pages:
 - content/formulier/opzegging-verzonden.md
 - content/formulier/vast-mobiel-vamos-opzeggen.md
 - content/formulier/serviceplus-opzeggen.md
-- content/formulier/mijn-callvoip.md
 - content/formulier/belbundel-opzeggen.md
 - content/formulier/abonnement-opzeggen.md
 - content/formulier/opzeggen-overzicht.md

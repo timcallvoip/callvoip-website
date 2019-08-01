@@ -46,7 +46,7 @@ Als bestaande klant van Callvoip kunt u altijd uw abonnement uitbreiden. Zo kunt
 
 {{< layout/columns >}}
 {{< layout/column2 >}}
-[Internationaal telefoonnummer](aanvragen/internationaal-nummer/)
+[Internationaal telefoonnummer](/aanvragen/internationaal-nummer/)
 {{</ layout/column2 >}}
 {{< layout/column2 >}}
 [Activeren 088-nummer](/aanvragen/088-blok-activatie/)
@@ -219,9 +219,9 @@ Als bestaande klant van Callvoip kunt u altijd diensten opzeggen. Kies hieronder
 
 {{< layout/columns >}}
 {{< layout/column2 >}}
-[Gehele abonnement](/opzeggen/abonnement/)   
-{{</ layout/column2 >}}   
-{{< layout/column2 >}}   
+[Gehele abonnement](/opzeggen/abonnement/)  
+{{</ layout/column2 >}}  
+{{< layout/column2 >}}  
 [Nummer](/opzeggen/nummer/)
 {{</ layout/column2 >}}
 {{</ layout/columns >}}
@@ -237,7 +237,7 @@ Als bestaande klant van Callvoip kunt u altijd diensten opzeggen. Kies hieronder
 
 #### Internet
 
-{{< layout/columns >}}   
+{{< layout/columns >}}  
 {{< layout/column2 >}}  
 [CallvoipDSL of FTTH](/opzeggen/internet-callvoip/)
 {{</ layout/column2 >}}
