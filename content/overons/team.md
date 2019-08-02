@@ -49,7 +49,7 @@ team:
   function: Commercieel Medewerker
   name: Ralph Elshot
   image: "/v1557495164/Portretfoto.jpg"
-description: 'Maak kennis met het team van Callvoip: Ralph, Dion, Remco, Lynn, Milan,
+description: 'Maak kennis met het team van Callvoip: Tim, Ralph, Dion, Remco, Lynn,
   Herman, Marieke & Robert.'
 images: []
 menu:
