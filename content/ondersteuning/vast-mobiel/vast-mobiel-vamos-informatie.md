@@ -7,7 +7,7 @@ images: []
 ---
 Onze klanten vroegen om mobiele vrijheid, en deze wens is gehoord, Vamos is ons antwoord. Simmpl, de meest eenvoudige telefooncentrale is er vanaf nu ook voor mobiel! Callvoip voorziet u van een SIM-kaart met uw eigen, of een nieuw, mobiel nummer. Met de handige Vamos app stelt u gemakkelijk in hoe u wilt bellen en gebeld wilt worden.
 
-De voordelen van Vamos:
+<h3>De voordelen van Vamos:</h3>
 
 * Uw vaste nummer op uw mobiel: bellen én gebeld worden via je smartphone
 * Werk mobiel, met de zakelijke uitstraling van een vast nummer
@@ -21,8 +21,6 @@ De voordelen van Vamos:
 Als u niet aanneemt kan een mobiel gesprek ook door een collega, de receptie, op de bedrijfsvoicemail. Gebruik keuzemenu’s, wachtrijen of call recording. Zo is de mobiele bereikbaarheid niet meer afhankelijk van de mobiele gebruiker zelf; de telefooncentrale regelt dit voortaan ook voor u. Uw bereikbaarheid neemt nog verder toe!
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1564576567/vamoshandleiding-1_aufg0h.png)
-
-<h2>Waarom Vamos?</h2>
 
 <h3>Vrijheid en onafhankelijkheid</h3>
 
@@ -76,13 +74,16 @@ Communiceer met uw klant op de manier die hij wenst! Het gebruik van WhatsApp vo
 
 Na het aanvragen van Vamos krijgt u van ons een SIM-kaart die u in eigen smartphone kunt gebruiken. Uw bereikbaarheid kunt u instellen op 2 manieren:
 
-1. Via een computer op de Simmpl centrale  
+1. **Via een computer op de Simmpl centrale**  
    Log in op Simmpl en stel eenvoudig in waar mobiele oproepen rinkelen: op uw kantoortoestel, op uw mobiele toestel of op beide. Ook kunt u hier instellen welk nummer er wordt meegestuurd als u met uw mobiele toestel uitbelt:  
    ![](https://res.cloudinary.com/callvoip/image/upload/v1564578320/vamoshandleiding-10_hhokdf.png)
-2. Via uw smartphone met de Vamos Smartphone app  
+2. **Via uw smartphone met de Vamos Smartphone app**  
    Installeer de Smartphone app en log gemakkelijk in vanuit Qaller of met uw Simmpl gebruiksgegevens. Met Vamos stelt u met een druk op de knop in:  
+     
    \- welk toestel rinkelt bij een inkomend mobiel gesprek: vast, mobiel, beide  
    \- welk nummer u meestuurt bij uitbellen: mobiel, vast of anoniem  
+     
+   Bovendien belt u collega’s direct op hun interne nummer alsof u uw kantoortoestel gebruikt.  
    Bovendien belt u collega’s direct op hun interne nummer alsof u uw kantoortoestel gebruikt.  
    ![](https://res.cloudinary.com/callvoip/image/upload/v1564576860/vamoshandleiding-2_kuzmbh.png)
 
@@ -94,32 +95,35 @@ Vamos biedt onbeperkt bellen in de EU met 2GB of 5GB data en kost 39,- resp. 45,
 
 <h3>Veel gestelde vragen bij Vamos Vast-Mobiel:</h3>
 
-Q: Kan ik mijn huidige Mobiele SIM en mobiel abonnement blijven gebruiken?  
-A: Nee, de Vamos Vast-Mobiel oplossing vereist dat u de SIM van Callvoip gebruikt met het beijbehorende Vamos abonnement. U kunt uw huidige mobiele nummer behouden door dit naar Callvoip toe te porteren.
+Q: **Kan ik mijn huidige Mobiele SIM en mobiel abonnement blijven gebruiken?**  
+A: Nee, de Vamos Vast-Mobiel oplossing vereist dat u de SIM van Callvoip gebruikt met het bijbehorende Vamos abonnement. U kunt uw huidige mobiele nummer behouden door dit naar Callvoip toe te porteren.
 
-Q: Wat gebeurt er als iemand mijn mobiele nummer belt?  
+Q: **Wat gebeurt er als iemand mijn mobiele nummer belt?**  
 A: Zodra u uw mobiele SIM-kaart heeft ontvangen, geplaatst en deze geactiveerd is in het panel wordt uw mobiele nummer gekoppeld aan uw Simmpl gebruikersprofiel. Als iemand uw mobiele nummer belt, zal het gesprek verlopen zoals u in uw persoonlijk belplan heeft aangegeven. Dit kunt u gemakkelijk aanpassen via de Qaller smartphone app. Met de Vamos app en in de panel kunt u eenvoudig bepalen of inkomende gesprekken moeten rinkelen op uw vaste toestel, mobiele toestel of op beide toestellen.
 
-Q: Kan ik mijn zaak-nummer meesturen als ik vanaf mijn mobiel uitbel?  
+Q: **Kan ik mijn zaak-nummer meesturen als ik vanaf mijn mobiel uitbel?**  
 A: Jazeker, dat is mogelijk! Op de Simmpl centrale kunt u instellen dat u het zakelijke nummer meestuurt als u met uw mobiel uitbelt. Dit kan ook via de handige Vamos smartphone app.
 
-Q: Hoe kan ik interne gesprekken voeren met mijn VAMOS SIM kaart?  
+Q: **Hoe kan ik interne gesprekken voeren met mijn VAMOS SIM kaart?**  
 A: U kunt eenvoudig elk intern nummer bellen (bv 100 or 8300) door dit eenvoudigweg op uw mobiele telefoon in te toetsen, via de ‘native dialer’: **het is niet nodig hier een app voor te gebruiken. LET OP**: het is helaas niet mogelijk om verkorte nummer te bellen die:  
+  
 \- …starten met 00 > in dat geval kunt u de interne nummers wijzigen  
 \- …slechts 2 cijfers kennen (te kort)  
 \- **Advies**: gebruik verkorte nummers van 3 cijfers die niet met een 0 starten.
 
-Q: Kan ik wisselgesprek gebruiken?  
+Q: **Kan ik wisselgesprek gebruiken?**  
 A: De mogelijkheid tot het ontvangen van wisselgesprekken is standaard geactiveerd voor Vamos SIM-kaarten. Mocht je wisselgesprekken willen deactiveren dan kan je dat via de instellingen op het mobiele toestel zelf uitschakelen en uiteraard ook weer inschakelen indien gewenst. Wanneer wisselgesprek niet kan worden gewijzigd via de instellingen op de mobiele telefoon dan is het mogelijk om deze optie als volgt te wijzigen:  
+  
 \*_Bel naar 43#_ om wisselgesprekken te activeren  
 **Bel naar #43#** om wisselgesprekken te deactiveren  
 \*_Bel naar #43#_ om de wisselgesprek status te controleren
 
-Q: Werkt Call Recording/gespreksopname ook bij bellen met de mobiele telefoon?  
+Q: **Werkt Call Recording/gespreksopname ook bij bellen met de mobiele telefoon?**  
 A: Ja, als u Call Recording (gespreksopname) heeft ingeschakeld op de Simmpl centrale, dan worden gesprekken op uw vaste en op uw mobiele toestel opgenomen.
 
-Q: Wat zijn de Vamos APN instellingen?  
+Q: **Wat zijn de Vamos APN instellingen?**  
 A: Vamos maakt gebruik van een eigen Access Point Name (APN) voor algemene toegang tot het Internet. Deze APN moet ingesteld worden in de mobiele telefoon. Zonder deze instellingen kan de simkaart geen verbinding maken met het Internet.  
+  
 Name: vrije invoer (Android only)  
 APN: 2apn.net  
 Username: internet  
