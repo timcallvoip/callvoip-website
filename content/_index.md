@@ -145,7 +145,7 @@ options:
       direct met een specialist.
     link: "/ondersteuning/"
 prefooter:
-  title: Wil je ook zorgeloos bereikbaar zijn?
+  title: Wit u ook zorgeloos bereikbaar zijn?
   content: 95% van onze klanten adviseert ons bij hun netwerk. Bekijk de <a href="/testimonials/">testimonials</a>
     van onze klanten.
 testimonial:
