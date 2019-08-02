@@ -98,3 +98,39 @@ Onderin beeld kunt u zien of u als Standard of Advanced gebruiker bent ingelogd.
    Bij \[**outgoing calls**\] het nummer waarmee dit toestel uitbelt (één van uw accounts)   
    Bij \[**incoming calls**\] de nummers (één of meer) waarop het toestel reageert  
    ![](https://res.cloudinary.com/callvoip/image/upload/v1564738350/fritzbox-22_r46gmt.png)
+
+<h3>Uw voicemail bellen?</h3>
+
+De Simmpl centrale biedt twee soorten voicemail:   
+\- bedrijfsvoicemailbox > bel 1233 gevolgd door het voicemailboxnummer   
+\- persoonlijke voicemail > bel 1233 of uw eigen verkorte nummer (001, 002, etc.)
+
+<h3>Problemen met de gesprekskwaliteit van toestellen achter uw FRITZ!?</h3>
+
+Als u (soms) meer bandbreedte gebruikt dan u tot uw beschikking heeft, of als de hoeveelheid bandbreedte die u krijgt in de praktijk schommelt zodat u deze grens tegenkomt, dan kan het zijn dat u een slechtere gesprekskwaliteit ervaart. Storingen, echo, ruis, delen die uit het gesprek wegvallen: dit zijn voorbeelden van zaken die kunnen optreden bij te weinig bandbreedte.
+
+In zo’n situatie kunt u een extra prioritering inschakelen voor uw IP-toestellen die achter de FRITZBox staan.
+
+1. Log in op uw FRITZ!Box
+2. Ga naar menu \[Internet\]  \[Filters\]
+3. Kies tabblad \[Prioritization\]
+4. Bij **Prioritized Applications**, voeg een prioriteitsregel toe voor \[**All devices**\] > \[**Internet Telephony**\]
+5. Sla op en verifieer of de problemen nu minder danwel verdwenen zijn
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1564738971/fritzbox-23_qs0nxb.png)
+
+<h3>Gefeliciteerd!</h3>
+
+U heeft uw toestel nu gekoppeld met het nummer en kunt starten met bellen en gebeld worden.
+
+<h3>FRITZ!Box resetten naar factory defaults:</h3>
+
+* Kunt u nog inloggen? Reset uw FRITZ!Box dan via menu \[System\] > \[Backup\] > tabblad \[Factory Settings\]
+* Kunt u niet meer inloggen? Sluit een telefoontoestel op de FRITZ!Box aan
+* Bel met het toestel de volgende code: #991*15901590*
+* U hoort een pieptoon; wacht tot u alles LED’s aan en uit ziet gaan
+* Hang nu pas op. Uw FRITZBox is nu gereset naar factory defaults
+
+<h3>FRITZ!Box kopen en/of support nodig?</h3>
+
+CallvoipTelefonie werkt al jaren met FRITZ!Boxen en kan u het gebruik hiervan van harte aanbevelen. Bezoek <a href="[https://fritzshop.nl/](https://fritzshop.nl/ "https://fritzshop.nl/")" target="_blank>FRITZ!Shop</a> voor een ruim assortiment en veel tips. Voor uw supportvragen kunt u ook bij de <a href="[https://nl.avm.de/service/fritzbox/fritzbox-7490/knowledge-base/](https://nl.avm.de/service/fritzbox/fritzbox-7490/knowledge-base/ "https://nl.avm.de/service/fritzbox/fritzbox-7490/knowledge-base/")" target="_blank">officiële website van AVM</a> terecht.
