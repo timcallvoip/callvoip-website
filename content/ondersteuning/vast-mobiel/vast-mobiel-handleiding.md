@@ -9,18 +9,18 @@ Hieronder vindt u een stapsgewijze instructie bij de ingebruikname van Vamos.
 
  1. **Aanvraag Vamos abonnement**  
     U kunt Vamos aanvragen op <a href="https://www.callvoiptelefonie.nl/mijncallvoip/aanvragen/aanvraag-vast-mobiel-vamos/" target="_blank">**onze website**</a>.  
-    Wij bevestigen de ontvangst van uw aanvraag en informeren u over het verdere traject.  
-      
+    Wij bevestigen de ontvangst van uw aanvraag en informeren u over het verdere traject.
+
     \- **Wilt u een nieuw nummer?**  
     Een nieuw mobiel nummer kan doorgaans binnen 24 uur worden geactiveerd.  
     \- **Wilt u een bestaand mobiel nummer porteren?**  
     Ook dat kan, veelal loopt er nog een contract dat moet worden uitgediend; anders is vaak sprake van een opzegtermijn van één maand. De mobiele overstap wordt dan actief na deze maand.  
-    Voor het porteren van een mobiel nummer hebben wij van u nodig:  
-      
+    Voor het porteren van een mobiel nummer hebben wij van u nodig:
+
     \- een nota van de oude provider  
     \- het Simkaartnummer (ICC-ID) iPhone: Instellingen > Algemeen > Info > ICCID  
-    \- het Simkaartnummer (ICC-ID) Android: download app SIM Card  
-      
+    \- het Simkaartnummer (ICC-ID) Android: download app SIM Card
+
     Wij dienen de portering in en houden u op de hoogte.
  2. **SIM-kaart wordt toegestuurd**  
     Na ontvangst van uw aanvraag sturen wij u per post een SIM-kaart toe. Deze SIM is nog niet geactiveerd – dat gebeurt pas als u de SIM heeft ontvangen.
@@ -31,59 +31,59 @@ Hieronder vindt u een stapsgewijze instructie bij de ingebruikname van Vamos.
  4. **Configuratie centrale**  
     Als uw SIM is geactiveerd kunt u op de telefooncentrale het mobiele nummer zien en instellen wat er moet gebeuren als u op het mobiele nummer gebeld wordt en met welk nummer u uitbelt. Dit is ook instelbaar via de Vamos app (zie volgende punt).
  5. **Download Vamos App voor instellingen en extra mogelijkheden**  
-    Download de Vamos Smartphone App in de Playstore / Appstore. U kunt op Vamos inloggen met uw gebruikersnaam en wachtwoord van de Simmpl telefooncentrale. > indien nodig: bel Callvoip voor assistentie.  
-      
-    **Met de Vamos App kunt u instellen**:  
-      
+    Download de Vamos Smartphone App in de Playstore / Appstore. U kunt op Vamos inloggen met uw gebruikersnaam en wachtwoord van de Simmpl telefooncentrale. > indien nodig: bel Callvoip voor assistentie.
+
+    **Met de Vamos App kunt u instellen**:
+
     \- welk nummer u meestuurt  
-    \- welke telefoons rinkelen (vast, mobiel)  
-      
-    **Verder kunt u met de Vamos App**:  
-      
+    \- welke telefoons rinkelen (vast, mobiel)
+
+    **Verder kunt u met de Vamos App**:
+
     \- het interne telefoonboek oproepen (collega’s) en hun status zien  
     \- een Vamos-gesprek in de wacht zetten  
     \- een Vamos-gesprek doorverbinden  
     \- een Vamos-gesprek op uw smartphone overzetten naar uw vaste toestel en v.v.  
     \- in een Vamos-gesprek call recording (gespreksopname) starten  
-    \* dit kan alleen als gespreksopname is ingeschakeld  
-      
+    \* dit kan alleen als gespreksopname is ingeschakeld
+
     U kunt in de Vamos App doorklikken naar Qaller app om uw belroutes te beheren.  
     ![](https://res.cloudinary.com/callvoip/image/upload/v1564576860/vamoshandleiding-2_kuzmbh.png)
  6. **Internet: stel de Vamos Access Point Name (APN) in**  
-    Om internet te kunnen gebruiken dient u de Vamos Access Point Name (APN) in te stellen. Dat doet u als volgt:  
+    Om internet te kunnen gebruiken dient u de Vamos Access Point Name (APN) in te stellen. Dat doet u als volgt:
+
+    **a. Android**:  
       
-    **a. Android:  
-    **  
     \- ga naar Verbindingen > Mobiele Netwerken > Namen Toegangspunten  
     \- kies \[Toevoegen\]  
-    \- voeg een APN toe met deze gegevens:  
-      
+    \- voeg een APN toe met deze gegevens:
+
     APN: 2apn.net  
     Gebruikersnaam: internet  
-    Wachtwoord: internet  
-      
+    Wachtwoord: internet
+
     \- sla het APN op en koppel deze aan de Vamos SIM  
     ![](https://res.cloudinary.com/callvoip/image/upload/v1564577079/vamoshandleiding-3_cx5rcz.png)
 
-    **b. iPhone:  
-    **  
-    \- ga naar Instellingen > Mobiel netwerk > Opties mobiele data > Mobiel netwerk  
-    \- wijzig de APN gegevens als volgt:  
+    **b. iPhone**:  
       
+    \- ga naar Instellingen > Mobiel netwerk > Opties mobiele data > Mobiel netwerk  
+    \- wijzig de APN gegevens als volgt:
+
     APN: 2apn.net  
     Gebruikersnaam: internet  
-    Wachtwoord: internet  
-      
+    Wachtwoord: internet
+
     \- als u de wijzigingen heeft gedaan klikt u op \[ < Vorige \] om de wijzigingen op te slaan  
     ![](https://res.cloudinary.com/callvoip/image/upload/v1564577254/vamoshandleiding-4_izrrlt.png)
  7. **Bepalen wat er gebeurt als uw mobiele nummer wordt gebeld**  
     Wat wilt u dat er gebeurt als uw mobiele nummer wordt gebeld? Dit kunt u op de Simmpl telefooncentrale instellen in het persoonlijk belplan van de gebruiker met het mobiele nummer.  
     Bepaal eerst wat u wilt dat er gebeurt als uw mobiel wordt gebeld:  
-    **De klassieke belroute is:  
-    **  
-    \- rinkel xxx seconden  
-    \- ga dan naar de mobiele voicemail (meldtekst met inspreekoptie)  
+    **De klassieke belroute is**:  
       
+    \- rinkel xxx seconden  
+    \- ga dan naar de mobiele voicemail (meldtekst met inspreekoptie)
+
     De voicemail is de persoonlijk voicemail van de gebruiker. Deze kunt u beluisteren en van een welkomstboodschap voorzien door 1233 te bellen. Ingesproken voicemailberichten kunnen ook als mp3-bestand gemaild worden.  
     U kunt niet beantwoorde mobiele oproepen ook laten doorschakelen naar een collega, afdeling, bedrijfsvoicemail, belplan met een vervolgroute, schakelaars en prefixes. Zo kunnen mobiele oproepen dus ook op vaste toestellen uitkomen en is de kwetsbaarheid van een individueel mobiel nummer veel kleiner dan vroeger.  
     U kunt de instellingen doen op de Simmpl centrale. Log in op Simmpl, ga naar de gebruikers en ga haar het UC Panel van de gebruiker:  
