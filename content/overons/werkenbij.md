@@ -18,7 +18,7 @@ blocks:
   position: image_right
 - title: Met wie kom je te werken?
   content: |-
-    <p>Om je alvast voor te bereiden op misschien wel je toekomstige collega’s, hebben wij een team-pagina gemaakt. Hier vertellen wij allemaal ons verhaal, hoe zijn wij bij Callvoip terecht gekomen?</p>
+    <p>Om je alvast voor te bereiden op misschien wel je toekomstige collega’s, hebben wij een team-pagina gemaakt. Benieuwd?</p>
     <a href="/overons/team" class="button">Bekijk de medewerkers van Callvoip hier!</a>
   image: "/v1560244521/callvoip-website-werkenbij2.jpg"
   position: image_left
