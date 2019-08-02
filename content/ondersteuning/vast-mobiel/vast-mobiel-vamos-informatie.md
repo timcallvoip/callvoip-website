@@ -105,19 +105,19 @@ A: Jazeker, dat is mogelijk! Op de Simmpl centrale kunt u instellen dat u het za
 
 Q: Hoe kan ik interne gesprekken voeren met mijn VAMOS SIM kaart?  
 A: U kunt eenvoudig elk intern nummer bellen (bv 100 or 8300) door dit eenvoudigweg op uw mobiele telefoon in te toetsen, via de ‘native dialer’: **het is niet nodig hier een app voor te gebruiken. LET OP**: het is helaas niet mogelijk om verkorte nummer te bellen die:  
-\- …starten met 00 > in dat geval kunt u de interne nummers wijzigen   
+\- …starten met 00 > in dat geval kunt u de interne nummers wijzigen  
 \- …slechts 2 cijfers kennen (te kort)  
 \- **Advies**: gebruik verkorte nummers van 3 cijfers die niet met een 0 starten.
 
 Q: Kan ik wisselgesprek gebruiken?  
 A: De mogelijkheid tot het ontvangen van wisselgesprekken is standaard geactiveerd voor Vamos SIM-kaarten. Mocht je wisselgesprekken willen deactiveren dan kan je dat via de instellingen op het mobiele toestel zelf uitschakelen en uiteraard ook weer inschakelen indien gewenst. Wanneer wisselgesprek niet kan worden gewijzigd via de instellingen op de mobiele telefoon dan is het mogelijk om deze optie als volgt te wijzigen:  
-**Bel naar *43#** om wisselgesprekken te activeren  
+\*_Bel naar 43#_ om wisselgesprekken te activeren  
 **Bel naar #43#** om wisselgesprekken te deactiveren  
-**Bel naar *#43#** om de wisselgesprek status te controleren
+\*_Bel naar #43#_ om de wisselgesprek status te controleren
 
 Q: Werkt Call Recording/gespreksopname ook bij bellen met de mobiele telefoon?  
-A: Ja, als u Call Recording (gespreksopname) heeft ingeschakeld op de Simmpl centrale, dan worden gesprekken op uw vaste en op uw mobiele toestel opgenomen.  
-  
+A: Ja, als u Call Recording (gespreksopname) heeft ingeschakeld op de Simmpl centrale, dan worden gesprekken op uw vaste en op uw mobiele toestel opgenomen.
+
 Q: Wat zijn de Vamos APN instellingen?  
 A: Vamos maakt gebruik van een eigen Access Point Name (APN) voor algemene toegang tot het Internet. Deze APN moet ingesteld worden in de mobiele telefoon. Zonder deze instellingen kan de simkaart geen verbinding maken met het Internet.  
 Name: vrije invoer (Android only)  

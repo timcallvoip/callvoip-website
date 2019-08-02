@@ -22,6 +22,7 @@ fields:
   label: SEO
   description: Seo
 pages:
+- content/ondersteuning/vast-mobiel/vast-mobiel-vamos-informatie.md
 - content/ondersteuning/Apparatuurhandleidingen/fritz-box.md
 - content/ondersteuning/call-pickup.md
 - content/ondersteuning/simmpl-functionaliteiten/tijdsconditie-app.md
@@ -32,7 +33,6 @@ pages:
 - content/ondersteuning/netwerk-ondersteuning/tips-bij-router-firewall-problemen.md
 - content/ondersteuning/algemeen/overzicht-sip-statuscodes.md
 - content/ondersteuning/algemeen/contact.md
-- content/ondersteuning/vast-mobiel/vast-mobiel-vamos-informatie.md
 - content/ondersteuning/Integraties/realtime-api.md
 - content/ondersteuning/belplan/feestdagen-instellen.md
 - content/ondersteuning/belplan/nummers-ont-koppelen.md
