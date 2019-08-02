@@ -78,12 +78,11 @@ Na het aanvragen van Vamos krijgt u van ons een SIM-kaart die u in eigen smartph
    Log in op Simmpl en stel eenvoudig in waar mobiele oproepen rinkelen: op uw kantoortoestel, op uw mobiele toestel of op beide. Ook kunt u hier instellen welk nummer er wordt meegestuurd als u met uw mobiele toestel uitbelt:  
    ![](https://res.cloudinary.com/callvoip/image/upload/v1564578320/vamoshandleiding-10_hhokdf.png)
 2. **Via uw smartphone met de Vamos Smartphone app**  
-   Installeer de Smartphone app en log gemakkelijk in vanuit Qaller of met uw Simmpl gebruiksgegevens. Met Vamos stelt u met een druk op de knop in:  
-     
+   Installeer de Smartphone app en log gemakkelijk in vanuit Qaller of met uw Simmpl gebruiksgegevens. Met Vamos stelt u met een druk op de knop in:
+
    \- welk toestel rinkelt bij een inkomend mobiel gesprek: vast, mobiel, beide  
    \- welk nummer u meestuurt bij uitbellen: mobiel, vast of anoniem  
      
-   Bovendien belt u collega’s direct op hun interne nummer alsof u uw kantoortoestel gebruikt.  
    Bovendien belt u collega’s direct op hun interne nummer alsof u uw kantoortoestel gebruikt.  
    ![](https://res.cloudinary.com/callvoip/image/upload/v1564576860/vamoshandleiding-2_kuzmbh.png)
 
@@ -105,25 +104,26 @@ Q: **Kan ik mijn zaak-nummer meesturen als ik vanaf mijn mobiel uitbel?**
 A: Jazeker, dat is mogelijk! Op de Simmpl centrale kunt u instellen dat u het zakelijke nummer meestuurt als u met uw mobiel uitbelt. Dit kan ook via de handige Vamos smartphone app.
 
 Q: **Hoe kan ik interne gesprekken voeren met mijn VAMOS SIM kaart?**  
-A: U kunt eenvoudig elk intern nummer bellen (bv 100 or 8300) door dit eenvoudigweg op uw mobiele telefoon in te toetsen, via de ‘native dialer’: **het is niet nodig hier een app voor te gebruiken. LET OP**: het is helaas niet mogelijk om verkorte nummer te bellen die:  
-  
+A: U kunt eenvoudig elk intern nummer bellen (bv 100 or 8300) door dit eenvoudigweg op uw mobiele telefoon in te toetsen, via de ‘native dialer’: **het is niet nodig hier een app voor te gebruiken.   
+LET OP**: het is helaas niet mogelijk om verkorte nummer te bellen die:
+
 \- …starten met 00 > in dat geval kunt u de interne nummers wijzigen  
 \- …slechts 2 cijfers kennen (te kort)  
 \- **Advies**: gebruik verkorte nummers van 3 cijfers die niet met een 0 starten.
 
 Q: **Kan ik wisselgesprek gebruiken?**  
-A: De mogelijkheid tot het ontvangen van wisselgesprekken is standaard geactiveerd voor Vamos SIM-kaarten. Mocht je wisselgesprekken willen deactiveren dan kan je dat via de instellingen op het mobiele toestel zelf uitschakelen en uiteraard ook weer inschakelen indien gewenst. Wanneer wisselgesprek niet kan worden gewijzigd via de instellingen op de mobiele telefoon dan is het mogelijk om deze optie als volgt te wijzigen:  
-  
-\*_Bel naar 43#_ om wisselgesprekken te activeren  
-**Bel naar #43#** om wisselgesprekken te deactiveren  
-\*_Bel naar #43#_ om de wisselgesprek status te controleren
+A: De mogelijkheid tot het ontvangen van wisselgesprekken is standaard geactiveerd voor Vamos SIM-kaarten. Mocht je wisselgesprekken willen deactiveren dan kan je dat via de instellingen op het mobiele toestel zelf uitschakelen en uiteraard ook weer inschakelen indien gewenst. Wanneer wisselgesprek niet kan worden gewijzigd via de instellingen op de mobiele telefoon dan is het mogelijk om deze optie als volgt te wijzigen:
+
+\- **Bel naar 43#** om wisselgesprekken te activeren  
+\- **Bel naar #43#** om wisselgesprekken te deactiveren  
+\- **Bel naar #43#** om de wisselgesprek status te controleren
 
 Q: **Werkt Call Recording/gespreksopname ook bij bellen met de mobiele telefoon?**  
 A: Ja, als u Call Recording (gespreksopname) heeft ingeschakeld op de Simmpl centrale, dan worden gesprekken op uw vaste en op uw mobiele toestel opgenomen.
 
 Q: **Wat zijn de Vamos APN instellingen?**  
-A: Vamos maakt gebruik van een eigen Access Point Name (APN) voor algemene toegang tot het Internet. Deze APN moet ingesteld worden in de mobiele telefoon. Zonder deze instellingen kan de simkaart geen verbinding maken met het Internet.  
-  
+A: Vamos maakt gebruik van een eigen Access Point Name (APN) voor algemene toegang tot het Internet. Deze APN moet ingesteld worden in de mobiele telefoon. Zonder deze instellingen kan de simkaart geen verbinding maken met het Internet.
+
 Name: vrije invoer (Android only)  
 APN: 2apn.net  
 Username: internet  
