@@ -129,21 +129,25 @@ options:
     title: Je eigen centrale in de cloud
     content: Geen telefooncentrale op locatie, maar een moderne centrale in de cloud.
     link: "/telefonie/hostedvoip/"
+    tab: true
   - icon: fa-wifi
     title: Kabel, DSL of toch glasvezel?
     content: Samen kijken we wat het beste bij uw situatie past. Kabel, ADSL of toch
       glasvezel?
     link: "/internet/postcodecheck/"
+    tab: true
   - icon: fa-tty
     title: Nieuwe apparatuur nodig?
     content: Geen opdringerige verkopers. Met onze specialist kijk je samen of je
       huidige apparatuur geschikt is.
     link: https://callvoip.shop/
+    tab: true
   - icon: fa-headset
     title: Hulp nodig? Wij staan voor je klaar
     content: Geen lange wachttijden of doorverbinden. Bij Callvoip spreek je altijd
       direct met een specialist.
     link: "/ondersteuning/"
+    tab: true
 prefooter:
   title: Wit u ook zorgeloos bereikbaar zijn?
   content: 95% van onze klanten adviseert ons bij hun netwerk. Bekijk de <a href="/testimonials/">testimonials</a>
