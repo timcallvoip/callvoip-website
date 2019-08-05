@@ -119,7 +119,7 @@ Om uw belplan voor de feestdagen in te richten, beginnen we met het aanmaken van
 
 {{< layout/columns >}}  
  {{< layout/column2 >}}  
-**Stap 2: belroute tijdens feestdagen instellen   
+**Stap 2: belroute tijdens feestdagen instellen  
 **De zojuist gemaakte tijdsconditie kunt u in uw belplan plaatsen en daar stelt u in welke acties er tijdens de tijdsconditie worden uitgevoerd. 
 
 1\. Klik in de menubalk links op \[**BELPLANNEN**\] 
