@@ -14,7 +14,7 @@ hero:
   button:
     content: Benieuwd naar de mogelijkheden?
     link: "/internet/postcodecheck/"
-  image: "/v1560863687/callvoip-website-managed4g-1.jpg"
+  image: "/v1565000291/Callvoip-website-internet-4g_mpec8y.png"
 blocks:
 - title: Hoe werkt het?
   image: "/v1559644006/geuzenet_logo.png"
