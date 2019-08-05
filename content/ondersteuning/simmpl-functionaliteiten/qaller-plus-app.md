@@ -21,7 +21,7 @@ Met de Qaller Plus smartphone app kan de Simmpl telefooncentrale vanaf de smartp
  {{< layout/column2 >}}  
 1\. **Download de App** in de [Appstore (Apple)](https://play.google.com/store/apps/details?id=com.digifoon.qaller&hl=nl) of [Google Play (Android)](https://apps.apple.com/nl/app/qaller/id1140548146) 
 
-2\. Login als beheerder op Simmpl en zet Qaller Plus aan. Qaller Plus voegt de mogelijkheid tot in/uitgaand bellen toe aan Qaller. NB : Qaller Plus wordt als toestelaccount berekend. 
+2\. **Login als beheerder op Simmpl en zet Qaller Plus aan**. Qaller Plus voegt de mogelijkheid tot in/uitgaand bellen toe aan Qaller. NB : Qaller Plus wordt als toestelaccount berekend. 
 
 3\. **Start de app op uw smartphone** en vul uw Simmpl gebruikersnaam in bv: 001.devriesbv, 005.jansennotarissen, etc.  
  {{</ layout/column2 >}}  
@@ -43,7 +43,7 @@ Met de Qaller Plus smartphone app kan de Simmpl telefooncentrale vanaf de smartp
 5\. * De QR Code en Pair Code vindt u op de Simmpl telefooncentrale. Log in als gebruiker; rechstboven staat uw naam. Klik hierop. Kies **Verbind Mobiele App** voor de QR Code en Pair code.  
  {{</ layout/column2 >}}  
  {{< layout/column2 >}}  
-**![](https://res.cloudinary.com/callvoip/image/upload/v1565014350/support-qaller-ps2_kmlmfh.png)**  
+![](https://res.cloudinary.com/callvoip/image/upload/v1565014687/support-qaller-ps2_gk0kns.png)  
  {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
@@ -68,7 +68,7 @@ Gefeliciteerd! De Qaller App is nu geactiveerd en klaar voor gebruik!
 3\. Selecteer de route van uw keuze  
  {{</ layout/column2 >}}  
  {{< layout/column2 >}}  
-**AFBEELDING**  
+**![](https://res.cloudinary.com/callvoip/image/upload/v1565014706/support-qaller-ps3_zn5acy.png)**  
  {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
@@ -87,7 +87,7 @@ Gefeliciteerd! De Qaller App is nu geactiveerd en klaar voor gebruik!
 4\. … of gebruik de omleidingen / omleidingsgroepen* (A, B, etc) Omleidingen zijn customized aanpassingen die u op de Simmpl telefooncentrale als beheerder instelt  
  {{</ layout/column2 >}}  
  {{< layout/column2 >}}  
-**AFBEELDING**  
+**![](https://res.cloudinary.com/callvoip/image/upload/v1565014722/support-qaller-ps4_jplrcz.png)**  
  {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
@@ -102,7 +102,7 @@ Gefeliciteerd! De Qaller App is nu geactiveerd en klaar voor gebruik!
 2\. Gebeld worden: Qaller ontvangt de gesprekken op uw eigen nummer (001, 002) en laat deze ook overgaan op uw smartphone. U kunt overal gebeld worden waar u over internet beschikt. Een inkomend Qaller-gesprek herkent u aan het rode Qaller scherm.  
  {{</ layout/column2 >}}  
  {{< layout/column2 >}}  
-**AFBEELDING**  
+**![](https://res.cloudinary.com/callvoip/image/upload/v1565014738/support-qaller-ps5_p33sbq.png)**  
  {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
@@ -111,7 +111,7 @@ Gefeliciteerd! De Qaller App is nu geactiveerd en klaar voor gebruik!
 3\. Uitbellen: Klik op het middelste icoon onderin uw scherm (dialpad) en draai een nummer. Met Qaller kunt u uitbellen naar collega’s: zij zien uw interne nummer. Met Qaller kunt u uitbellen naar externe nummers, hierbij wordt uw zaaknummer meegestuurd.  
  {{</ layout/column2 >}}  
  {{< layout/column2 >}}  
-**AFBEELDING**  
+**![](https://res.cloudinary.com/callvoip/image/upload/v1565014753/support-qaller-ps6_vvwbiz.png)**  
  {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
