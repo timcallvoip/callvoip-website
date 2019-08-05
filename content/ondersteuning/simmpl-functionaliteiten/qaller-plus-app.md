@@ -116,3 +116,41 @@ Gefeliciteerd! De Qaller App is nu geactiveerd en klaar voor gebruik!
 {{</ layout/columns >}}
 
 <br>
+
+#### Instellingsmogelijkheden
+
+Als u de Qaller App heeft geopend ziet u geheel rechtsboven drie kleine rondjes. Klik hierop om naar de instellingspagina te gaan. Hier kunt u het volgende doen: 
+
+**1. Vergrendelcode voor start instellen** 
+
+Het is mogelijk om het gebruik van de app te vergrendelen met een zelf te kiezen 5- cijferige vergrendelcode. 
+
+**2. Gespreksinstellingen** 
+
+De Qaller App toont hoe Qaller via internet is verbonden (nl. via Wi-Fi, roaming of 2G/3G/4G) en hoe Qaller haar uitgaande gesprekken opzet (via internet of via callback). U heeft zelf ook de mogelijkheid om dit hier aan te passen. 
+
+**3. Mobiele nummer** 
+
+Vul hier uw mobiele nummer in zonder streepjes of spaties 
+
+**4. Algemene instellingen** 
+
+Via button \[ONTKOPPEL APP VAN ACCOUNT\] kunt u Qaller loskoppelen van uw Simmpl gebruikersaccount. U kunt dan niet meer bellen/gebeld worden en u kunt de telefooncentrale ook niet meer bedienen.
+
+<br>
+
+### Veelgestelde vragen over Qaller en Qaller Plus
+
+<br>
+
+###### **Is de Qaller App kostenloos te gebruiken?** 
+
+Ja en nee: dat hangt ervan af welke mogelijkheden u gebruikt: 
+
+**Qaller**: hiermee kunt u de telefooncentrale bedienen, Qaller is kosteloos. 
+
+**Qaller Plus**: hiermee kunt u óók in/uitgaand bellen. Qaller Plus wordt berekend als toestel (éénmalig 5,- ex BTW en maandelijks 4,- ex BTW).
+
+De basisfunctie is het bedienen van de telefooncentrale; hiervoor kunt u Qaller kosteloos gebruiken. De extra functionaliteit van Qaller Plus is het kunnen bellen en gebeld worden via 4G / Wifi en via GSM waarbij uw uw zakelijke nummer meestuurt. Qaller Plus kunt u per gebruiker aanzetten op de telefooncentrale.
+
+<br>
