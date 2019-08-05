@@ -51,7 +51,7 @@ Gefeliciteerd! De Qaller App is nu geactiveerd en klaar voor gebruik!
 
 <br>
 
-Met Qaller uw eigen bereikbaarheid instellen
+#### Met Qaller uw eigen bereikbaarheid instellen
 
 {{< layout/columns >}}  
  {{< layout/column2 >}}  
@@ -71,3 +71,48 @@ Met Qaller uw eigen bereikbaarheid instellen
 **AFBEELDING**  
  {{</ layout/column2 >}}  
 {{</ layout/columns >}}
+
+<br>
+
+#### Met Qaller de bereikbaarheid van een bedrijfsnummer instellen
+
+{{< layout/columns >}}  
+ {{< layout/column2 >}}  
+1\. Open de Qaller App 
+
+2\. Blader via swipe of de oranje ronde knop naar het juiste bedrijfsnummer 
+
+3\. Overrule de hele bedrijfsroute met één van de vier route-opties… 
+
+4\. … of gebruik de omleidingen / omleidingsgroepen* (A, B, etc) Omleidingen zijn customized aanpassingen die u op de Simmpl telefooncentrale als beheerder instelt  
+ {{</ layout/column2 >}}  
+ {{< layout/column2 >}}  
+**AFBEELDING**  
+ {{</ layout/column2 >}}  
+{{</ layout/columns >}}
+
+<br>
+
+#### Met Qaller Plus bellen en gebeld worden
+
+{{< layout/columns >}}  
+ {{< layout/column2 >}}  
+1\. Heeft u Qaller Plus? En heeft uw smartphone internet? Dan kunt u bellen en gebeld worden alsof u op kantoor bent. 
+
+2\. Gebeld worden: Qaller ontvangt de gesprekken op uw eigen nummer (001, 002) en laat deze ook overgaan op uw smartphone. U kunt overal gebeld worden waar u over internet beschikt. Een inkomend Qaller-gesprek herkent u aan het rode Qaller scherm.  
+ {{</ layout/column2 >}}  
+ {{< layout/column2 >}}  
+**AFBEELDING**  
+ {{</ layout/column2 >}}  
+{{</ layout/columns >}}
+
+{{< layout/columns >}}  
+ {{< layout/column2 >}}  
+3\. Uitbellen: Klik op het middelste icoon onderin uw scherm (dialpad) en draai een nummer. Met Qaller kunt u uitbellen naar collega’s: zij zien uw interne nummer. Met Qaller kunt u uitbellen naar externe nummers, hierbij wordt uw zaaknummer meegestuurd.  
+ {{</ layout/column2 >}}  
+ {{< layout/column2 >}}  
+**AFBEELDING**  
+ {{</ layout/column2 >}}  
+{{</ layout/columns >}}
+
+<br>
