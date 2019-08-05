@@ -85,5 +85,3 @@ De detailpagina van WAN 1 komt naar voren. Vul die in zoals hieronder aangegeven
 ![](https://res.cloudinary.com/callvoip/image/upload/v1565008931/support-vdsl-draytek3_nmutyu.png)
 
 Klik vervolgens op OK om de instellingen op te slaan. Wacht nu ca 5 minuten en kijk of u internetverbinding heeft. Zo niet, check de bekabeling en doe de draytek dan eens uit, wacht ca 10 sec en doe hem dan weer aan. Komt de verbinding niet op, neem dan contact op met Callvoip voor verdere assistentie.
-
-FRITZ!Box
