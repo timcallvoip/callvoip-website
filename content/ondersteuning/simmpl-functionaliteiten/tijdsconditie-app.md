@@ -9,16 +9,13 @@ De Simmpl telefooncentrale biedt u de mogelijkheid om tijdvlakken te definieren.
 
 Denk bijvoorbeeld aan:
 
-* **Dag-/nachtschema** – binnen werktijd gaan uw telefoons rinkelen, buiten werktijd wordt automatisch de voicemail ingeschakeld om gesprekken aan te nemen. 
+**Dag-/nachtschema** – binnen werktijd gaan uw telefoons rinkelen, buiten werktijd wordt automatisch de voicemail ingeschakeld om gesprekken aan te nemen. 
 
+**Feestdagenfilter** – tijdens de door u ingestelde feestdagen wordt een bandje afgespeeld evt. gevolgd door de mogelijkheid om iets in te spreken. U kunt in uw tijdsconditie alle feestdagen van dit en komende jaren meenemen zodat u er geen omkijken meer naar heeft! 
 
-* **Feestdagenfilter** – tijdens de door u ingestelde feestdagen wordt een bandje afgespeeld evt. gevolgd door de mogelijkheid om iets in te spreken. U kunt in uw tijdsconditie alle feestdagen van dit en komende jaren meenemen zodat u er geen omkijken meer naar heeft! 
+**Lunchpauze** – als het lunchtijd is wordt automatisch een bijbehorende meldtekst afgespeeld en kan de beller een bericht inspreken. 
 
-
-* **Lunchpauze** – als het lunchtijd is wordt automatisch een bijbehorende meldtekst afgespeeld en kan de beller een bericht inspreken. 
-
-
-* **Bedrijfsuitjes** – een dagje uit of stopt het team iets eerder i.v.m. een uitje? Zet het klaar zodat de beller bv. naar mobiel gaat of een bandje hoort, en gun uzelf een wat telefonie betreft zorgenloos uitje!
+**Bedrijfsuitjes** – een dagje uit of stopt het team iets eerder i.v.m. een uitje? Zet het klaar zodat de beller bv. naar mobiel gaat of een bandje hoort, en gun uzelf een wat telefonie betreft zorgenloos uitje!
 
 {{< layout/columns >}}  
  {{< layout/column2 >}}  
