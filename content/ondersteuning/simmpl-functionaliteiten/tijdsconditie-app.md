@@ -49,7 +49,7 @@ Om uw belplan met openingstijden in te richten, beginnen we met het aanmaken van
 4\. Geef uw tijdsconditie een naam en selecteer vervolgens de dagen en tijden dat u geopend bent en klik op \[**Opslaan**\]  
  {{</ layout/column2 >}}  
  {{< layout/column2 >}}  
- rechts  
+![](https://res.cloudinary.com/callvoip/image/upload/v1565016396/support-tijdsconditie4_twaqvc.png)  
  {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
@@ -71,7 +71,7 @@ De zojuist gemaakte tijdsconditie kunt u in uw belplan plaatsen en daar stelt u 
 6\. Klik op opslaan om de instellingen vast te leggen.  
  {{</ layout/column2 >}}  
  {{< layout/column2 >}}  
- rechts  
+![](https://res.cloudinary.com/callvoip/image/upload/v1565016443/support-tijdsconditie5_fq5yfp.png)  
  {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
@@ -93,7 +93,7 @@ Tot slot dienen we de route voor buiten werktijd in te stellen.
 6\. Klik op opslaan om de instelling vast te leggen  
  {{</ layout/column2 >}}  
  {{< layout/column2 >}}  
- rechts  
+![](https://res.cloudinary.com/callvoip/image/upload/v1565016483/support-tijdsconditie6_v9co9r.png)  
  {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
