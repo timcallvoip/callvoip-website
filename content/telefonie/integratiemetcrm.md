@@ -10,7 +10,7 @@ hero:
   button:
     content: Bereken je kosten
     link: "/calculator"
-  image: "/v1564654521/intergratiemetcrm-sideways_qwruw7.png"
+  image: "/v1565001373/Callvoip-website-voipctisimmpl_cyzmc3.png"
 blocks:
 - content: |-
     <br> Voor VoIP CTI heeft u nodig:
@@ -24,7 +24,7 @@ blocks:
     Hier links ziet u slechts een selectie van pakketten waarmee onze Hosted VoIP centrale gekoppeld kan worden. In totaal kan er met meer dan 100 pakketten een koppeling worden gemaakt! Benieuwd of de telefooncentrale gekoppeld kan worden met uw pakket?
 
     <a href="/offerte/" class="button">Vraag dan nu een offerte aan</a>
-  image: "/v1565001373/Callvoip-website-voipctisimmpl_cyzmc3.png"
+  image: "/v1564654858/intergratiemetcrm-flat_n40ydz.png"
   position: image_left
   title: Wat is er nodig én welke applicaties kunt u koppelen?
 - title: Vergelijking met andere integratie
