@@ -26,7 +26,7 @@ Met de Qaller Plus smartphone app kan de Simmpl telefooncentrale vanaf de smartp
 3\. **Start de app op uw smartphone** en vul uw Simmpl gebruikersnaam in bv: 001.devriesbv, 005.jansennotarissen, etc.  
  {{</ layout/column2 >}}  
  {{< layout/column2 >}}  
-**![](https://res.cloudinary.com/callvoip/image/upload/v1565014329/support-qaller-ps1_dnrv7u.png)**  
+![](https://res.cloudinary.com/callvoip/image/upload/v1565014510/support-qaller-ps1_gyqmje.png)  
  {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
