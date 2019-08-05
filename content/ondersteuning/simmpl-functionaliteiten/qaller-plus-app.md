@@ -143,14 +143,68 @@ Via button \[ONTKOPPEL APP VAN ACCOUNT\] kunt u Qaller loskoppelen van uw Simmpl
 
 <br>
 
-###### **Is de Qaller App kostenloos te gebruiken?** 
+###### Is de Qaller App kostenloos te gebruiken? 
 
 Ja en nee: dat hangt ervan af welke mogelijkheden u gebruikt: 
 
-**Qaller**: hiermee kunt u de telefooncentrale bedienen, Qaller is kosteloos. 
+**Qaller**: hiermee kunt u de telefooncentrale bedienen, Qaller is kosteloos 
 
 **Qaller Plus**: hiermee kunt u óók in/uitgaand bellen. Qaller Plus wordt berekend als toestel (éénmalig 5,- ex BTW en maandelijks 4,- ex BTW).
 
 De basisfunctie is het bedienen van de telefooncentrale; hiervoor kunt u Qaller kosteloos gebruiken. De extra functionaliteit van Qaller Plus is het kunnen bellen en gebeld worden via 4G / Wifi en via GSM waarbij uw uw zakelijke nummer meestuurt. Qaller Plus kunt u per gebruiker aanzetten op de telefooncentrale.
+
+<br>
+
+###### Wat is mijn Simmpl gebruikersnaam en waar vind ik die?
+
+Uw gebruikersnaam ziet er bv zo uit: Uw gebruikersnaam ziet er bv zo uit: **001.mijnbedrijf**. 
+
+• vóór de punt staat uw eigen verkorte nummer (waarmee een collega naar u belt) 
+
+• ná de punt uw bedrijfsloginnaam, vaak gelijk aan de bedrijfsnaam in uw emailadres U kunt uw gebruikersnaam terugvinden op de telefooncentrale: 
+
+• log in als beheerder via [https://panel.callvoip.nl](https://panel.callvoip.nl) 
+
+• klik op \[gebruikers\] en zoek uzelf in de lijst 
+
+• klik op het tandwiel-icoon (bewerk gebruiker) – hier vindt u uw hele loginnaam en kunt u het password instellen 
+
+Lukt het niet? Geen nood, bel / mail / chat ons en wij helpen u!
+
+<br>
+
+###### Wat is het wachtwoord van mijn Simmpl gebruikersnaam?
+
+Uw Simmpl wachtwoord kunt u instellen in de Simmpl telefooncentrale. U kunt uw wachtwoord instellen op de telefooncentrale: 
+
+• log in als beheerder via [https://panel.callvoip.nl ](https://panel.callvoip.nl )
+
+• klik op \[gebruikers\] en zoek uzelf in de lijst 
+
+• klik op het tandwiel-icoon (bewerk gebruiker) – hier vindt u uw hele loginnaam en kunt u het password instellen 
+
+Lukt het niet? Geen nood, bel / mail / chat ons en wij helpen u!
+
+<br>
+
+###### Hoe zet ik Qaller Plus aan?
+
+Na het downloaden en invullen van uw Simmpl gebruikersnaam (bv 002.devriesbv) kunt u de app op 3 manieren activeren: 
+
+1) vul het Simmpl wachtwoord bij uw gebruikersnaam in 
+
+2) of: laat uw smartphone de QR-Code inscannen 
+
+3) of: vul de PAIRCODE in op uw smartphone
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
 
 <br>
