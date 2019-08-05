@@ -143,7 +143,7 @@ Via button \[ONTKOPPEL APP VAN ACCOUNT\] kunt u Qaller loskoppelen van uw Simmpl
 
 <br>
 
-###### Is de Qaller App kostenloos te gebruiken? 
+##### Is de Qaller App kostenloos te gebruiken? 
 
 Ja en nee: dat hangt ervan af welke mogelijkheden u gebruikt: 
 
@@ -155,7 +155,7 @@ De basisfunctie is het bedienen van de telefooncentrale; hiervoor kunt u Qaller 
 
 <br>
 
-###### Wat is mijn Simmpl gebruikersnaam en waar vind ik die?
+##### Wat is mijn Simmpl gebruikersnaam en waar vind ik die?
 
 Uw gebruikersnaam ziet er bv zo uit: Uw gebruikersnaam ziet er bv zo uit: **001.mijnbedrijf**. 
 
@@ -173,7 +173,7 @@ Lukt het niet? Geen nood, bel / mail / chat ons en wij helpen u!
 
 <br>
 
-###### Wat is het wachtwoord van mijn Simmpl gebruikersnaam?
+##### Wat is het wachtwoord van mijn Simmpl gebruikersnaam?
 
 Uw Simmpl wachtwoord kunt u instellen in de Simmpl telefooncentrale. U kunt uw wachtwoord instellen op de telefooncentrale: 
 
@@ -187,7 +187,7 @@ Lukt het niet? Geen nood, bel / mail / chat ons en wij helpen u!
 
 <br>
 
-###### Hoe zet ik Qaller Plus aan?
+##### Hoe zet ik Qaller Plus aan?
 
 Na het downloaden en invullen van uw Simmpl gebruikersnaam (bv 002.devriesbv) kunt u de app op 3 manieren activeren: 
 
