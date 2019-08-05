@@ -48,3 +48,26 @@ Met de Qaller Plus smartphone app kan de Simmpl telefooncentrale vanaf de smartp
 {{</ layout/columns >}}
 
 Gefeliciteerd! De Qaller App is nu geactiveerd en klaar voor gebruik!
+
+<br>
+
+Met Qaller uw eigen bereikbaarheid instellen
+
+{{< layout/columns >}}  
+ {{< layout/column2 >}}  
+1\. Open de Qaller app op uw smartphone 
+
+2\. U ziet de 4 beheermogelijkheden van uw eigen toestel (bv 001) 
+
+\- volg originele belroute, mét mogelijkheid om Qaller (niet) mee te laten rinkelen 
+
+\- doorschakelen naar mobiel 
+
+\- doorschakelen naar voicemail - doorschakelen naar collega / extern nummer 
+
+3\. Selecteer de route van uw keuze  
+ {{</ layout/column2 >}}  
+ {{< layout/column2 >}}  
+**AFBEELDING**  
+ {{</ layout/column2 >}}  
+{{</ layout/columns >}}
