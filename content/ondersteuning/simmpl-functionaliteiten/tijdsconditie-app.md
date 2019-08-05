@@ -33,6 +33,10 @@ Tijdscondities zijn zeer eenvoudig in te stellen aan de hand van kalenders voor 
 
 ### Voorbeeld 1: dag-nacht-schema instellen
 
+<br>
+
+### Voorbeeld 2: feestdagenfilter instellen
+
 Een feestdagenfilter kunt u op eenvoudige wijze in Simmpl instellen. Aan de hand van handige kalenders selecteert u de dagen dat u gesloten bent. Zo kunt u in een handomdraai instellen dat de beller iop feestdagen een speciale meldtekst krijgt te horen - een professionele uitstraling!
 
 {{< layout/columns >}}  
@@ -90,6 +94,4 @@ Tot slot kunnen we de meldtekst uploaden en onder de Tijdsconditie voor de feest
  {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
-<br>
-
-### Voorbeeld 2: feestdagenfilter instellen
+**_TIP_**: ga naar [/ondersteuning/meldteksten-wachtmuziek/](/ondersteuning/meldteksten-wachtmuziek/ ) om de Simmpl meldtekstenbibliotheek te bezoeken – hier vindt u een aantal standaard meldteksten (zonder uw bedrijfsnaam) die u kunt gebruiken.
