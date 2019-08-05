@@ -155,6 +155,7 @@ fields:
         name: price
         label: Price
 pages:
+- content/telefonie/vastmobielintegratie.md
 - content/telefonie/integratiemetcrm.md
 - content/internet/managed-4g-oplossing.md
 - content/internet/glasvezel.md
@@ -165,7 +166,6 @@ pages:
 - content/oplossingen/trunk.md
 - content/telefonie/operator-console.md
 - content/oplossingen/mkb.md
-- content/telefonie/vastmobielintegratie.md
 - content/telefonie/hostedvoip.md
 - content/telefonie/clicktodial.md
 - content/telefonie/bereikbaarheidsmonitor.md
