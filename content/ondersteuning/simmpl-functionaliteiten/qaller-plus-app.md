@@ -43,7 +43,7 @@ Met de Qaller Plus smartphone app kan de Simmpl telefooncentrale vanaf de smartp
 5\. * De QR Code en Pair Code vindt u op de Simmpl telefooncentrale. Log in als gebruiker; rechstboven staat uw naam. Klik hierop. Kies **Verbind Mobiele App** voor de QR Code en Pair code.  
  {{</ layout/column2 >}}  
  {{< layout/column2 >}}  
-**AFBEELDING**  
+**![](https://res.cloudinary.com/callvoip/image/upload/v1565014350/support-qaller-ps2_kmlmfh.png)**  
  {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
