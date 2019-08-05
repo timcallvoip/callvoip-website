@@ -275,7 +275,7 @@ Ja! U kunt in uw belplan zorgen dat inkomende gesprekken naar uw mobiele telefoo
 
 <br>
 
-**Qaller Plus: hoe werkt de callback precies?**
+##### Qaller Plus: hoe werkt de callback precies?
 
 Als u een uitgaand gesprek wilt voeren met Qaller Plus, stuurt Qaller Plus een API verzoek naar de Simmpl telefooncentrale. De Simmpl telefooncentrale start dan een nieuw gesprek naar uw mobiele nummer. Alleen als het gesprek ook wordt aangenomen wordt een uitbelverzoek geplaatst naar het nummer dat u op Qaller Plus heeft ingetoetst.
 
@@ -293,7 +293,7 @@ Helaas, nu nog niet, maar deze wens is bekend en we kijken dat we deze in een vo
 
 <br>
 
-**Qaller Plus: kan ik ook aannemen met een swipe knop?**
+##### Qaller Plus: kan ik ook aannemen met een swipe knop?
 
 Nee helaas, voor het aannemen hebben we nu een aanneemtoets waarop u moet drukken. Dit werkt sneller dan swipe; en deze snelheid is nodig als uw telefoon uit een diepe slaap komt en als hij andere processen moet starten; de swipe knop is daarom bewust niet toegepast.
 
@@ -333,6 +333,6 @@ Er zijn verschillende redenen dat Qaller Plus een inkomend gesprek niet direct a
 
 \- **Komt uw smartphone uit een deep sleep?** Dan kan het meer tijd kosten om de app te starten. Bij een inkomende oproep sturen wij een priority impuls voor VoIP naar de smartphone. Google en Apple zijn verantwoordelijk voor de snelheid waarmee deze aankomt. Uw smartphone zorgt dan voor het ontwaken, starten en rinkelen van het inkomende gesprek. Zorg er dus voor dat u een gesprek lang genoeg (20-25 seconden = 4 à 5x) laat overgaan zodat hij tijd genoeg krijgt om te ontwaken. 
 
-\- **Kan uw app op de achtergrond draaien?** Heeft u bij de app ingesteld dat deze op de achtergrond mag draaien (run on background)? Dat is standaard het geval, maar dit kan worden uitgezet. Verifieer dat dit aanstaat bij uw app  instellingen  run on background.
+\- **Kan uw app op de achtergrond draaien?** Heeft u bij de app ingesteld dat deze op de achtergrond mag draaien (run on background)? Dat is standaard het geval, maar dit kan worden uitgezet. Verifieer dat dit aanstaat bij uw app > instellingen > run on background.
 
 <br>
