@@ -11,7 +11,7 @@ hero:
   button:
     content: Benieuwd naar de mogelijkheden?
     link: "/internet/postcodecheck/"
-  image: "/v1564999081/callvoip-website-internet-glasvezel_xgnbci.png"
+  image: "/v1565000133/callvoip-website-internet-glasvezel2_mvvorj.png"
 blocks:
 - title: Callvoip FTTH Glasvezel – dé beste basis voor VoIP!
   image: ''
