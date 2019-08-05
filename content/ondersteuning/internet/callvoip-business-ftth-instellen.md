@@ -20,7 +20,7 @@ PPPoE (FRITZ!Box)
 PPPoA (Draytek)  
 {{</ layout/column3 >}}  
 {{< layout/column3 >}}  
-rechts  
+  
 {{</ layout/column3 >}}  
 {{</ layout/columns >}}
 

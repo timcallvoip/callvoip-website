@@ -22,9 +22,9 @@ fields:
   label: SEO
   description: Seo
 pages:
-- content/ondersteuning/internet/callvoip-business-ftth-instellen.md
 - content/ondersteuning/internet/callvoip-business-vdsl-instellen.md
 - content/ondersteuning/internet/callvoip-business-adsl-instellen.md
+- content/ondersteuning/internet/callvoip-business-ftth-instellen.md
 - content/ondersteuning/netwerk-ondersteuning/eerste-hulp-bij-voip-problemen.md
 - content/ondersteuning/fax-voicemail/voicemail-instellen-afluisteren.md
 - content/ondersteuning/simmpl-functionaliteiten/wachtrij-app.md

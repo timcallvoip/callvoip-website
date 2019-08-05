@@ -12,88 +12,88 @@ De Callvoip Business ADSL-internetverbindingen zijn meestel van het type PPPoE e
 <br>
 
 {{< layout/columns >}}  
- {{< layout/column3 >}}  
+{{< layout/column3 >}}  
 **Encapsulatie**  
- {{</ layout/column3 >}}  
- {{< layout/column3 >}}  
+{{</ layout/column3 >}}  
+{{< layout/column3 >}}  
 PPPoE (FRITZ!Box)  
 PPPoA (Draytek)  
- {{</ layout/column3 >}}  
- {{< layout/column3 >}}  
- rechts  
- {{</ layout/column3 >}}  
+{{</ layout/column3 >}}  
+{{< layout/column3 >}}  
+  
+{{</ layout/column3 >}}  
 {{</ layout/columns >}}
 
 {{< layout/columns >}}  
- {{< layout/column3 >}}  
+{{< layout/column3 >}}  
 **VPI**  
- {{</ layout/column3 >}}  
- {{< layout/column3 >}}  
+{{</ layout/column3 >}}  
+{{< layout/column3 >}}  
 0  
- {{</ layout/column3 >}}  
- {{< layout/column3 >}}  
-  
- {{</ layout/column3 >}}  
+{{</ layout/column3 >}}  
+{{< layout/column3 >}}
+
+{{</ layout/column3 >}}  
 {{</ layout/columns >}}
 
 {{< layout/columns >}}  
- {{< layout/column3 >}}  
+{{< layout/column3 >}}  
 **VCI**  
- {{</ layout/column3 >}}  
- {{< layout/column3 >}}  
+{{</ layout/column3 >}}  
+{{< layout/column3 >}}  
 35  
- {{</ layout/column3 >}}  
- {{< layout/column3 >}}  
-  
- {{</ layout/column3 >}}  
+{{</ layout/column3 >}}  
+{{< layout/column3 >}}
+
+{{</ layout/column3 >}}  
 {{</ layout/columns >}}
 
 {{< layout/columns >}}  
- {{< layout/column3 >}}  
+{{< layout/column3 >}}  
 **Username | Password**  
- {{</ layout/column3 >}}  
- {{< layout/column3 >}}  
+{{</ layout/column3 >}}  
+{{< layout/column3 >}}  
 callvoip | callvoip  
- {{</ layout/column3 >}}  
- {{< layout/column3 >}}  
-  
- {{</ layout/column3 >}}  
+{{</ layout/column3 >}}  
+{{< layout/column3 >}}
+
+{{</ layout/column3 >}}  
 {{</ layout/columns >}}
 
 {{< layout/columns >}}  
- {{< layout/column3 >}}  
+{{< layout/column3 >}}  
 **DNS-server 1**  
- {{</ layout/column3 >}}  
- {{< layout/column3 >}}  
+{{</ layout/column3 >}}  
+{{< layout/column3 >}}  
 62\.212.131.101  
- {{</ layout/column3 >}}  
- {{< layout/column3 >}}  
-  
- {{</ layout/column3 >}}  
+{{</ layout/column3 >}}  
+{{< layout/column3 >}}
+
+{{</ layout/column3 >}}  
 {{</ layout/columns >}}
 
 {{< layout/columns >}}  
- {{< layout/column3 >}}  
+{{< layout/column3 >}}  
 **DNS-server 2**  
- {{</ layout/column3 >}}  
- {{< layout/column3 >}}  
+{{</ layout/column3 >}}  
+{{< layout/column3 >}}  
 62\.212.131.130  
- {{</ layout/column3 >}}  
- {{< layout/column3 >}}  
-  
- {{</ layout/column3 >}}  
+{{</ layout/column3 >}}  
+{{< layout/column3 >}}
+
+{{</ layout/column3 >}}  
 {{</ layout/columns >}}
 
 {{< layout/columns >}}  
- {{< layout/column3 >}}  
+{{< layout/column3 >}}  
 **SMTP-server**  
- {{</ layout/column3 >}}  
- {{< layout/column3 >}}  
+{{</ layout/column3 >}}  
+{{< layout/column3 >}}  
 smtp.ipcentraal.nl  
- {{</ layout/column3 >}}  
- {{< layout/column3 >}}  
-  
- {{</ layout/column3 >}}  
+{{</ layout/column3 >}}  
+{{< layout/column3 >}}
+
+{{</ layout/column3 >}}  
 {{</ layout/columns >}}
 
 <br>

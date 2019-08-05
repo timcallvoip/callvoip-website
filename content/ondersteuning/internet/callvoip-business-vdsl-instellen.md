@@ -7,7 +7,7 @@ images: []
 ---
 ### Algemeen
 
-De Callvoip Business ADSL-internetverbindingen zijn meestel van het type PPPoE en er kunnen per type apparaat verschillen zijn in de beste instellingswijze.
+De Callvoip Business VDSL-internetverbindingen zijn meestel van het type PPPoE en er kunnen per type apparaat verschillen zijn in de beste instellingswijze.
 
 <br>
 
@@ -20,7 +20,7 @@ PPPoE (FRITZ!Box)
 PPPoA (Draytek)  
 {{</ layout/column3 >}}  
 {{< layout/column3 >}}  
-rechts  
+  
 {{</ layout/column3 >}}  
 {{</ layout/columns >}}
 
