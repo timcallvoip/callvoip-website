@@ -12,7 +12,7 @@ hero:
   button:
     content: Benieuwd naar de mogelijkheden?
     link: "/internet/postcodecheck/"
-  image: "/v1564999241/callvoip-website-internet-kabel_ylxqye.png"
+  image: "/v1565000079/callvoip-website-internet-kabel2_n2llz0.png"
 blocks:
 - content: |-
     - Supersnel zakelijk internet tot 500 Mbps
