@@ -5,7 +5,7 @@ hero:
   content: Oplossingen en ondersteuning voor veel voorkomende problemen. Handige artikelen
     en software downloads. Natuurlijk helpen we je ook graag via onze chat of kijken
     we, via onze remote software, gezamenlijk naar het probleem..
-  image: "/v1552466820/placeholder-werken1.jpg"
+  image: "/v1564997580/Callvoip-website-3laptops_t7bfir.png"
   button:
     content: 'Hulp op afstand '
     link: http://support.callvoip.nl:8040/
