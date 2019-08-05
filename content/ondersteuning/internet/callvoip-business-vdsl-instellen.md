@@ -67,6 +67,8 @@ smtp.ipcentraal.nl
 {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
+<br>
+
 ### Draytek
 
 Log in en ga naar WAN en vervolgens naar General Setup. Kies WAN1 (= xDSL interface) en stel deze in zoals hieronder aangegeven (NB: na het opslaan wijzigt de indicator ADSL in VDSL):

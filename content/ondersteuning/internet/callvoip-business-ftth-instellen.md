@@ -67,6 +67,8 @@ smtp.ipcentraal.nl
 {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
+<br>
+
 ### Draytek
 
 Log in en ga naar **WAN** en vervolgens **General Setup**. Kies **WAN2** (= router-poort) en stel deze in zoals hieronder aangegeven. Belangrijk: laat veld **_Display Name_** leeg
