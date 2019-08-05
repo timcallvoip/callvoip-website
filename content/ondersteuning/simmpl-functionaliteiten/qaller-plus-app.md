@@ -199,12 +199,140 @@ Na het downloaden en invullen van uw Simmpl gebruikersnaam (bv 002.devriesbv) ku
 
 <br>
 
-<br>
+##### Waar vind ik de QR Code?
+
+Log in op Simmpl ([https://panel.callvoip.nl](https://panel.callvoip.nl)) als gebruiker 
+
+• Rechtsboven staat uw naam; klik daarop en kies \[Verbind mobiele app\]. 
+
+• De QR Code wordt nu getoond. 
+
+• U kunt ook een PAIR CODE / KOPPELINGSCODE genereren en Qaller daarmee activeren. 
+
+Wat u precies ziet hangt af van uw type Smartphone en de grootte van uw scherm. 
+
+• Bij veel Android Smartphones kan het keyboard worden verborgen met de \[terug\] toets. 
+
+• Bij iPhones kan dit soms niet; scroll het scherm iets omhoog om het toch te zien. 
+
+• Of bel ons voor uw wachtwoord, dan bent u er ook!
 
 <br>
 
-<br>
+##### Hoe vaak moet ik Qaller opnieuw activeren?
+
+Dat hoeft u maar éénmalig te doen. Mogelijk is nieuwe activatie incidenteel nodig na een update van uw smartphone of van de Qaller software. 
+
+**Tip**: ervaart u uitval van de registratie? Deïnstalleer Qaller dan en installeer opnieuw. U heeft dan de laatste versie van Qaller en activeert opnieuw, wat de stabiliteit zal optimaliseren.
 
 <br>
+
+##### Waar kan ik Qaller Plus downloaden?
+
+Er is maar één Qaller app die u kunt downloaden, en dat is Qaller. Echter, u upgrade Qaller naar Qaller Plus door op de telefooncentrale Qaller Plus in te schakelen. U ontvangt hiervan een emailnotificatie. Als u daarna Qaller op uw smartphone herstart dan is Qaller ook geschikt om te bellen en gebeld te worden. Qaller is kostenloos; het gebruik van Qaller Plus wordt berekend als toestel.
+
+<br>
+
+##### Hoe zet ik Qaller Plus uit?
+
+Qaller Plus zet u uit op de Simmpl telefooncentrale: login en ga naar het gebruikersoverzicht. Bij de instellingen van een individuele gebruiker kunt u Qaller Plus uitschakelen. De facturatie van Qaller Plus stopt daarna.
+
+<br>
+
+##### Waarom kan ik niet alle belplannen van mijn bedrijf zien?
+
+Om alle belplannen te kunnen zien moet u **beheerder** zijn. Gebruikers met permissie \[gebruiker\] kunnen alleen hun eigen belplan beheren en zien. Elke individuele gebruiker kan beheerder worden gemaakt.
+
+<br>
+
+##### Hoe maak ik van een gebruiker een beheerder?
+
+Log in op Simmpl als beheerder, ga links in het menu naar Gebruikers. Bij de gebruiker die u wilt aanpassen kiest u rechts op het middelste icoon (bewerken) en wijzigt u de rol. Sla op. In het gebruikersoverzicht kunt u controleren of de rol is aangepast van gebruiker naar beheerder.
+
+<br>
+
+##### Hoe kan ik Qaller Plus activeren voor andere gebruikers?
+
+Dit doet u door op de Simmpl telefooncentrale voor deze gebruiker Qaller Plus te activeren (u ontvangt hiervan een administratieve bevestiging per email). Zorg dat deze gebruiker op zijn of haar Smartphone Qaller downloadt ([www.qallerapp.com]()) en dat deze wordt geactiveerd vanuit de login van deze gebruiker (en niet van bv. de beheerder). Activeert u Qaller met een ANDERE gebruiker dan waarvoor u Qaller Plus heeft geactiveerd, dan verschijnt de bel-optie niet in Qaller.
+
+<br>
+
+##### Kan ik mijn Qaller-account wijzigen van de éne gebruiker naar de andere?
+
+Ja dat kan: hiertoe gaat u naar de settingspagina in Qaller (rechtsboven, icoon 3 rondjes) en kiest u \[Ontkoppel app van account\]. Qaller wordt nu ontkoppeld. U kunt Qaller nu weer koppelen met de juiste gebruiker. NB: vergeet u niet om voor deze gebruiker Qaller Plus te activeren indien u wilt kunnen uitbellen met Qaller.
+
+<br>
+
+##### Ik klik om een belplan te selecteren maar hij selecteert hem niet. Wat doe ik fout?
+
+Dit komt omdat u uw keuze (een belplan, een voicemailbox, een nummer, etc.) iets langer moet aanklikken. Deze reactietijd hebben we bewust verhoogd om te voorkomen dat een toevallige klik op uw mobiel gelijk een (bel-)actie tot gevolg heeft.
+
+<br>
+
+##### Kan ik Qaller Plus gebruiken voor provider-onafhankelijke vast-mobiel-integratie?
+
+Ja! U kunt in uw belplan zorgen dat inkomende gesprekken naar uw mobiele telefoon worden doorgeschakeld, zodat u inkomende gesprekken op uw smartphone ontvangt. Gecombineerd met de uitbel-mogelijkheden van Qaller Plus beschikt u over een volledige vast-mobiel integratie. Deze vorm van vast-mobiel integratie is provider-onafhankelijk, er is geen specifieke Simkaart of extra contract voor nodig.
+
+<br>
+
+**Qaller Plus: hoe werkt de callback precies?**
+
+Als u een uitgaand gesprek wilt voeren met Qaller Plus, stuurt Qaller Plus een API verzoek naar de Simmpl telefooncentrale. De Simmpl telefooncentrale start dan een nieuw gesprek naar uw mobiele nummer. Alleen als het gesprek ook wordt aangenomen wordt een uitbelverzoek geplaatst naar het nummer dat u op Qaller Plus heeft ingetoetst.
+
+<br>
+
+##### Qaller Plus: de contactregels zijn vrij groot, ik zie maar een paar contacten. Kan dat subtieler?
+
+Ja, we kijken naar een hetontwerp van het adresboek en de contactenpresentatie. Wacht de volgende updates af.
+
+<br>
+
+##### Qaller Plus: als ik op een contact druk, kan ik een bevestiging krijgen voor ik ga bellen?
+
+Helaas, nu nog niet, maar deze wens is bekend en we kijken dat we deze in een volgende update toepassen.
+
+<br>
+
+**Qaller Plus: kan ik ook aannemen met een swipe knop?**
+
+Nee helaas, voor het aannemen hebben we nu een aanneemtoets waarop u moet drukken. Dit werkt sneller dan swipe; en deze snelheid is nodig als uw telefoon uit een diepe slaap komt en als hij andere processen moet starten; de swipe knop is daarom bewust niet toegepast.
+
+<br>
+
+##### Qaller Plus: zitten de aanneem- en ophangknop verkeerd om?
+
+Het blijkt dat de aanneem en ophangknop bij verschillende toestellen op verschillende plekken zijn. Bij sommige gebruikers lijken de Qaller knoppen daarom verkeerd om te zitten. We hebben deze positie genomen om dat de knoppen zo qua bediening het meest logisch zijn – met uw duim kunt u een gesprek snel aannemen (aanneem knop zit rechts).
+
+<br>
+
+##### Qaller Plus: kan het beeldscherm ook op zwart gaan als ik bel?
+
+Als u met de mobiel belt gaat het scherm op zwart als u belt. Bij Qaller is dit nog niet het geval waardoor u mogelijk processen onbedoeld start. Dit is bekend en we hopen dit op te kunnen lossen in een volgende update.
+
+<br>
+
+##### Qaller Plus: het scherm licht ook op als hij niet hoeft mee te rinkelen. Kan dat uit?
+
+De instelling of de Qaller App meerinkelt staat in uw smartphone. Als er een gesprek binnenkomt start de app, en pas daarna verneemt de app of Qaller moet meerinkelen of niet. De app is dan gestart, de telefoon licht op.
+
+<br>
+
+##### Qaller Plus: de app gaat niet automatisch uit na een oproep. Kan dat anders?
+
+Na een oproep blijft Qaller vaak aanstaan. Dat is vervelend want kost batterijcapaciteit. Wij sturen wel een einde-notificatie zodat uw smartphone de app weer inactief kan maken maar deze wordt niet altijd goed verwerkt. We kijken of dit kan worden geoptimaliseerd.
+
+<br>
+
+##### Qaller Plus gaat niet of pas laat rinkelen, wat kan ik daaraan doen?
+
+Er zijn verschillende redenen dat Qaller Plus een inkomend gesprek niet direct aanneemt. 
+
+\- **Heeft u een snelle processor en/of besteed uw processor voldoende aandacht aan Qaller?** Een nieuwere smartphone is vaak sneller, en een grotere snellere processor kan meer aan. Dit kan mede van invloed zijn op de snelheid waarmee Qaller Plus gesprekken laat rinkelen. 
+
+\- **Is de batterij vol genoeg?** Als de batterijlading van uw smartphone laag is dan start de smartphone een soort rantsoen: de belangrijkste processen worden het eerst gevoed, andere processen zoals Qaller komen pas later. Dit kan een reden zijn dat Qaller niet direct start. Zorg dus voor een goed opgeladen smartphone. 
+
+\- **Komt uw smartphone uit een deep sleep?** Dan kan het meer tijd kosten om de app te starten. Bij een inkomende oproep sturen wij een priority impuls voor VoIP naar de smartphone. Google en Apple zijn verantwoordelijk voor de snelheid waarmee deze aankomt. Uw smartphone zorgt dan voor het ontwaken, starten en rinkelen van het inkomende gesprek. Zorg er dus voor dat u een gesprek lang genoeg (20-25 seconden = 4 à 5x) laat overgaan zodat hij tijd genoeg krijgt om te ontwaken. 
+
+\- **Kan uw app op de achtergrond draaien?** Heeft u bij de app ingesteld dat deze op de achtergrond mag draaien (run on background)? Dat is standaard het geval, maar dit kan worden uitgezet. Verifieer dat dit aanstaat bij uw app  instellingen  run on background.
 
 <br>
