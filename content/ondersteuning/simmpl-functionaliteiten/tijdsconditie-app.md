@@ -33,6 +33,70 @@ Tijdscondities zijn zeer eenvoudig in te stellen aan de hand van kalenders voor 
 
 ### Voorbeeld 1: dag-nacht-schema instellen
 
+Als uw bedrijf geopend is wilt u dat uw telefoon overgaat. Als u gesloten bent wilt u dat er een gesloten-tekst wordt afgespeeld met de mogelijkheid om een bericht in te spreken. Hieronder ziet u hoe u uw openingstijden kunt instellen voor een professionele uitstraling naar uw klanten en relaties.
+
+{{< layout/columns >}}  
+ {{< layout/column2 >}}  
+**Stap 1: tijdsconditie aanmaken**   
+Om uw belplan met openingstijden in te richten, beginnen we met het aanmaken van uw tijdscondities: 
+
+1\. Klik in de menubalk links op \[**BELPLANNEN**\] 
+
+2\. Klik in het menu bovenaan op \[**TIJDSCONDITIES**\] 
+
+3\. Klik rechts bovenaan op \[**+Toevoegen**\] en selecteer vervolgens \[**Weekdagen**\]. NB: er zijn nog twee andere soorten tijdscondities: periode en datum (kalender) 
+
+4\. Geef uw tijdsconditie een naam en selecteer vervolgens de dagen en tijden dat u geopend bent en klik op \[**Opslaan**\]  
+ {{</ layout/column2 >}}  
+ {{< layout/column2 >}}  
+ rechts  
+ {{</ layout/column2 >}}  
+{{</ layout/columns >}}
+
+{{< layout/columns >}}  
+ {{< layout/column2 >}}  
+**Stap 2: belroute binnen werktijd instellen**   
+De zojuist gemaakte tijdsconditie kunt u in uw belplan plaatsen en daar stelt u in welke acties er tijdens de tijdsconditie worden uitgevoerd. 
+
+1\. Klik in de menubalk links op \[**BELPLANNEN**\] 
+
+2\. Klik op het belplan van uw telefoonnummer om te openen 
+
+3\. Links staat de lijst met apps; klik op de app \[**TIJDSCONDITIE**\] en houde muis ingedrukt – sleep de app naar uw belplan tot er een omstippeld plaatsingskader \[**ITEM TOEVOEGEN**\] verschijnt. Laat de muis los. 
+
+4\. Er verschijnt een pop-up: in veld variabele kunt u één an de beschikbare tijdscondities selecteren. Kies hier uw werktijdentijdsconditie. 
+
+5\. Vervolgens sleept u de acties die u wilt laten uitvoeren vanuit de applijst ónder de tijdsconditie – deze acties springen in (zie voorbeeld). Dat betekent dat ze alleen worden uitgevoerd binnen de ingestelde tijdsconditie. 
+
+6\. Klik op opslaan om de instellingen vast te leggen.  
+ {{</ layout/column2 >}}  
+ {{< layout/column2 >}}  
+ rechts  
+ {{</ layout/column2 >}}  
+{{</ layout/columns >}}
+
+{{< layout/columns >}}  
+ {{< layout/column2 >}}  
+**Stap 3: belroute buiten werktijd instellen**   
+Tot slot dienen we de route voor buiten werktijd in te stellen. 
+
+1\. Open nogmaals het belplan van uw telefoonnummer. 
+
+2\. Selecteer app \[**TIJDSCONDITIE**\] en sleep deze naar uw belplan, zoals hiernaast weergegeven 
+
+3\. In de popup selecteert u opnieuw dezelfde tijdsconditie **werktijden**. 
+
+4\. Onderaan staat \[**Keer deze tijdsconditie om**\] – stel deze in op \[**ja**\]. De acties die u hieronder plaatst worden uitgevoerd op alle momenten behalve de werktijden. 
+
+5\. Sleep nu de gewenste acties, zoals een meldtekst of voicemail, onder de Tijdsconditie. Deze acties worden automatisch uitgevoerd. 
+
+6\. Klik op opslaan om de instelling vast te leggen  
+ {{</ layout/column2 >}}  
+ {{< layout/column2 >}}  
+ rechts  
+ {{</ layout/column2 >}}  
+{{</ layout/columns >}}
+
 <br>
 
 ### Voorbeeld 2: feestdagenfilter instellen
