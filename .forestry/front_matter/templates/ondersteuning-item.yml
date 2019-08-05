@@ -22,6 +22,7 @@ fields:
   label: SEO
   description: Seo
 pages:
+- content/ondersteuning/simmpl-functionaliteiten/qaller-plus-app.md
 - content/ondersteuning/internet/callvoip-business-ftth-instellen.md
 - content/ondersteuning/internet/callvoip-business-vdsl-instellen.md
 - content/ondersteuning/internet/callvoip-business-adsl-instellen.md
@@ -64,7 +65,6 @@ pages:
 - content/ondersteuning/Apparatuurhandleidingen/gigaset-ip-pro-handmatig.md
 - content/ondersteuning/Apparatuurhandleidingen/yealink-t4x-serie.md
 - content/ondersteuning/simmpl-functionaliteiten/omleidings-app.md
-- content/ondersteuning/simmpl-functionaliteiten/qaller-plus-app.md
 - content/ondersteuning/fax-voicemail/fax-versturen.md
 - content/ondersteuning/simmpl-functionaliteiten/prefix.md
 - content/ondersteuning/belplan/overzicht.md
