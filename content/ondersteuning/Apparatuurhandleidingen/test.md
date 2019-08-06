@@ -38,8 +38,7 @@ Hieronder vindt u ons snelle stappenplan en een uitgebreider stappenplan met ged
 
 1. **Sluit uw Yealink IP-telefoon aan en maak deze klaar voor gebruik**  
    Sluit uw Yealink IP-telefoon aan. Zorg dat het toestel met een netwerkkabel is verbonden met uw internetverbinding. Let erop dat u de kabel aan de toestel-zijde aansluit op de INTERNET-poort (en niet op de PC-poort, daar kan evt. uw computer op aangesloten worden). Deze netwerkkabel wordt op uw netwerk/router aangesloten zodat de telefoon met internet is verbonden.  
-   Als u de telefoon start, dan zal deze doorgaans eerst kijken of er nieuwe firmware beschikbaar is. Wacht totdat het toestel hiermee klaar is en ga pas dan verder.
-
+   Als u de telefoon start, dan zal deze doorgaans eerst kijken of er nieuwe firmware beschikbaar is. Wacht totdat het toestel hiermee klaar is en ga pas dan verder.  
    Als het een nieuw toestel is, dan staan er nog geen instellingen in. Als het een toestel is dat eerder reeds in gebruik was, dan is het aan te raden om het toestel te resetten. Dat doet u door de OK toets (ronde knop) 10 seconden ingedrukt te houden totdat het toestel vraagt of het moet worden gereset. Bevestig dit en wacht tot het toestel weer terug is.
 2. **Vraag het IP-adres van uw IP-toestel op en log op uw toestel in**  
    Om op het IP-toestel in te loggen heeft u het IP-adres nodig.
