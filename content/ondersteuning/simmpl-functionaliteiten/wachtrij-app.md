@@ -7,7 +7,7 @@ images: []
 ---
 De Simmpl telefooncentrale beschikt over een professioneel wachtrijsysteem. Een wachtrij is een prachtige, intelligente feature van de Simmpl telefooncentrale. De wachtrij neemt gesprekken aan, verbindt deze door met uw wachtrij-agenten en houdt bellers op een comfortabele manier vast als er niemand vrij is. Dit is een uitkomst op momenten dat het erg druk is.
 
-## Samenvatting
+### Samenvatting
 
 De wachtrij feature werkt zo:
 
@@ -21,20 +21,45 @@ De wachtrij feature werkt zo:
 8. **Duurt het te lang**? U kunt instellen hoe lang de wachtrij duurt (seconden); daarna zal de beller doorstromen naar de volgende actie in uw belplan, bv. een keuzemenu met optie om te wachten of in te spreken, voicemail, of een ander (mobiel) telefoonnummer.
 9. **Wachtrijstatistieken**: op de telefooncentrale bij rapporten > queues vindt u handige wachtrijstatistieken zodat u de juiste conclusies kunt trekken.
 
-## Een wachtrij aanmaken
+<br>
+
+### Een wachtrij aanmaken
 
 Zo maakt u een wachtrij aan:
 
-1. Klik in het belplanoverzicht op \[wachtrijen\]: u ziet de al aangemaakte wachtrijen.
-2. Klik op button \[Toevoegen\]
+1. Klik in het belplanoverzicht op \[**wachtrijen**\]: u ziet de al aangemaakte wachtrijen.
+2. Klik op button \[**Toevoegen**\]
 
-1. Doorloop de wachtrij-wizard, links vindt u de vier onderdelen die u kunt instellen.
-   * Naam wachtrij: geef de wachtrij een herkenbare naam en een kleur:
-   * Instellingen: definieer hoe de wachtrij de gesprekken over uw agents verdeelt:
-   * Geluiden: welkomsttekst en tussentijdse tekst met instelbare herhaalfrequentie:
-   * Wachtrij agenten: voeg interne toestellen en desgewenst externe nummers toe
-2. Sla de wachtrij op – u keert terug in het wachtrij-overzicht en ziet de wachtrij erbij staan.
-3. Voeg de wachtrij toe aan uw belroute – ga terug naar uw belroute. Voeg de wachtrij-app op de juiste plaats in en kies de juiste wachtrij:
+![](https://res.cloudinary.com/callvoip/image/upload/v1565081290/support-wachtrij1_gvtddw.png)
+
+3. Doorloop de wachtrij-wizard, links vindt u de vier onderdelen die u kunt instellen.
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1565081410/support-wachtrij2_fwxb7q.png)
+
+* **Naam wachtrij**: geef de wachtrij een herkenbare naam en een kleur:
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1565081487/support-wachtrij_nc1pfp.png)
+
+* **Instellingen**: definieer hoe de wachtrij de gesprekken over uw agents verdeelt:
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1565081528/support-wachtrij4_y4iial.png)
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1565081634/support-wachtrij5_lzisap.png)
+
+* **Geluiden**: welkomsttekst en tussentijdse tekst met instelbare herhaalfrequentie:
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1565081687/support-wachtrij6_iayvpw.png)
+
+* **Wachtrij agenten**: voeg interne toestellen en desgewenst externe nummers toe
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1565081735/support-wachtrij7_stbkjc.png)
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1565081782/support-wachtrij8_uuxppy.png)
+
+5. **Sla de wachtrij op** – u keert terug in het wachtrij-overzicht en ziet de wachtrij erbij staan.
+6. **Voeg de wachtrij toe aan uw belroute** – ga terug naar uw belroute. Voeg de wachtrij-app op de juiste plaats in en kies de juiste wachtrij:
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1565081852/support-wachtrij9_z0gvki.png)
 
 ## Wachtmuziek
 
