@@ -10,6 +10,8 @@ Het in gebruik nemen van een Yealink toestel is Simmpl! Daarvoor biedt de Simmpl
 \- in minder dan een minuut is uw toestel ingesteld!  
 Hieronder vindt u ons snelle stappenplan en een uitgebreider stappenplan met gedetailleerde informatie en illustraties.
 
+<h3>Stappenplan (snel)</h3>
+
 1. **Sluit uw Yealink IP-telefoon aan en maak deze klaar voor gebruik**  
    Zorg dat het toestel is aangesloten op uw netwerk en met internet is verbonden.
 2. **Vraag het IP-adres van uw IP-toestel op en log op uw toestel in**  
@@ -32,14 +34,13 @@ Hieronder vindt u ons snelle stappenplan en een uitgebreider stappenplan met ged
 
 **Gefeliciteerd, provisioning is geslaagd!**
 
+<h3>Stappenplan (uitgebreid)</h3>
+
 1. **Sluit uw Yealink IP-telefoon aan en maak deze klaar voor gebruik**  
    Sluit uw Yealink IP-telefoon aan. Zorg dat het toestel met een netwerkkabel is verbonden met uw internetverbinding. Let erop dat u de kabel aan de toestel-zijde aansluit op de INTERNET-poort (en niet op de PC-poort, daar kan evt. uw computer op aangesloten worden). Deze netwerkkabel wordt op uw netwerk/router aangesloten zodat de telefoon met internet is verbonden.  
    Als u de telefoon start, dan zal deze doorgaans eerst kijken of er nieuwe firmware beschikbaar is. Wacht totdat het toestel hiermee klaar is en ga pas dan verder.
 
    Als het een nieuw toestel is, dan staan er nog geen instellingen in. Als het een toestel is dat eerder reeds in gebruik was, dan is het aan te raden om het toestel te resetten. Dat doet u door de OK toets (ronde knop) 10 seconden ingedrukt te houden totdat het toestel vraagt of het moet worden gereset. Bevestig dit en wacht tot het toestel weer terug is.
-
-   Wel zo praktisch, stel het toestel nog even op Nederlands in. Druk op het toestel zelf op de volgende knoppen:  
-   Menu toets > 3. settings > 1. basic settings > 1. language > kies Nederlands
 2. **Vraag het IP-adres van uw IP-toestel op en log op uw toestel in**  
    Om op het IP-toestel in te loggen heeft u het IP-adres nodig.
 
