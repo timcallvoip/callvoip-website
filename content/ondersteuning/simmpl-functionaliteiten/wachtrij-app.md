@@ -114,6 +114,10 @@ Week 13 (28-31 mrt): 140+133+159+125+130=687 sec/5 dagen=gem. 137 sec. gesprekst
 D. Gemiddelde duur wachtrijgesprekken per maand   
 Weekwaarden week 10, 11, 12,13 totaal: 448 seconden / 4 weken = 112 sec. gesprekstijd
 
+![](https://res.cloudinary.com/callvoip/image/upload/v1565082522/support-wachtrij-stat5_bzelxr.png)
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1565082481/support-wachtrij-stat6_ndflvm.png)
+
 <br>
 
 ### Overig
