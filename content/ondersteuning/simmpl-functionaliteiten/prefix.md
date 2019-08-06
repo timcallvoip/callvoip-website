@@ -31,6 +31,12 @@ De prefix stelt u in staat om een zelfgekozen naam, nummer of code in te stellen
 
 U heeft meerdere nummers, bv. zaak en privé, en wilt gesprekken op hetzelfde toestel ontvangen. Met de prefix kunt u zien op welk nummer u gebeld wordt en met de juiste naam aannemen.
 
+![](https://res.cloudinary.com/callvoip/image/upload/v1565080486/support-prefix1_tt1zpi.png)
+
+<br>
+
 ### Voorbeeld 2: prefix per menu-optie
 
 U heeft een keuzemenu en kunt aan elke optie een prefix toekennen. U kunt zo zien welke keuze een beller maakt. Dit is bv. handig als u een beller voor een taal of afdeling laat kiezen.
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1565080500/support-prefix2_pjd21j.png)
