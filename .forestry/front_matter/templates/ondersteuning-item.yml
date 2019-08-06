@@ -23,6 +23,7 @@ fields:
   description: Seo
 pages:
 - content/ondersteuning/simmpl-functionaliteiten/wachtrij-app.md
+- content/ondersteuning/Apparatuurhandleidingen/yealink-t4x-serie.md
 - content/ondersteuning/simmpl-functionaliteiten/prefix.md
 - content/ondersteuning/Apparatuurhandleidingen/gigaset-ip-pro-provisioning.md
 - content/ondersteuning/Apparatuurhandleidingen/gigaset-ip-pro-handmatig.md
@@ -64,7 +65,6 @@ pages:
 - content/ondersteuning/Integraties/click-to-dial.md
 - content/ondersteuning/belplan/snelstart-handleiding-telefooncentrale.md
 - content/ondersteuning/algemeen/overzicht-shortcodes-simmpl.md
-- content/ondersteuning/Apparatuurhandleidingen/yealink-t4x-serie.md
 - content/ondersteuning/simmpl-functionaliteiten/omleidings-app.md
 - content/ondersteuning/fax-voicemail/fax-versturen.md
 - content/ondersteuning/belplan/overzicht.md

@@ -61,6 +61,46 @@ Zo maakt u een wachtrij aan:
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1565081852/support-wachtrij9_z0gvki.png)
 
+De wachtrij wordt nu in de belroute geïntegreerd. Sla de belroute op en test of alles naar tevredenheid werkt!
+
+<br>
+
 ## Wachtmuziek
 
 <a href="[/ondersteuning/meldteksten-wachtmuziek/wachtmuziek/](/meldteksten-wachtmuziek/wachtmuziek/)" target="_blank" class="button">Bekijk hier alle wachtmuziek</a>
+
+<br>
+
+### Wachtrijstatistieken
+
+<br>
+
+### Overig
+
+##### Wachttijd-indicatie in het scherm van interne agents
+
+De wachtrij verdeelt binnenkomende gesprekken op de ingestelde manier over de i ngelogde agents (tegelijk, least calls answered en willekeurig). In het display van de IP-telefoon (interne agents) wordt weergegeven: 
+
+**\[wachttijd\] \[prefix\] \[nummer van de beller\]** 
+
+Als u niet aanneemt komt het gesprek later weer terug; u ziet dan weer de bijgewerkte wachttijdindicatie. Voor meer informatie over wachttijden, zie ook wachtrijstatistieken.
+
+<br>
+
+##### Wachtrij-indicatie voor externe agents
+
+Als een externe agent een wachtrijgesprek aanneemt hoort hij/zij dat het om een wachtrijgesprek gaat en volgt een keuze om het gesprek wel of niet aan te nemen. De beller die in de wacht staat merkt hier niets van.
+
+<br>
+
+##### In- en uitloggen
+
+Interne wachtrij-agenten (IP-toestellen) kunnen zelf in- en uitloggen in de wachtrij door te bellen naar shortcode *100 (togglecode: u hoort of u inlogt of uitlogt). Dit is ook in te stellen in de beheerpagina’s (beheerder) en in de userpanel (gebruiker). 
+
+Externe agenten kunne deze code niet gebruiken; hiervan kan de status in het beheerpanel (beheerder) worden ingesteld en zij hebben de keuze of ze een gesprek wel of niet willen aannemen.
+
+<br>
+
+#### Ingebruikname van de nieuwe wachtrijen
+
+Had u al wachtrijen vóór de wachtrij-update? Deze blijven gewoon werken op de gebruikelijke manier. Met één willekeurige wijziging neemt u de nieuwe mogelijkheden in gebruik. De statistieken worden gelijk al gevoed.
