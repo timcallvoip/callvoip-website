@@ -26,28 +26,16 @@ De wachtrij feature werkt zo:
 Zo maakt u een wachtrij aan:
 
 1. Klik in het belplanoverzicht op \[wachtrijen\]: u ziet de al aangemaakte wachtrijen.
-2. Klik op button \[Toevoegen\]  
-     
-   ![](https://s3.eu-central-1.amazonaws.com/trengo/media/hc_m_g22ybItaU1hp4YL1NHA9kGdAwNDs1x.png)
-3. Doorloop de wachtrij-wizard, links vindt u de vier onderdelen die u kunt instellen.
-   * Naam wachtrij: geef de wachtrij een herkenbare naam en een kleur:
-   * Instellingen: definieer hoe de wachtrij de gesprekken over uw agents verdeelt:  
-       
-     ![](https://s3.eu-central-1.amazonaws.com/trengo/media/hc_m_ve7xIzDoD0R82l2I5ezcY4A9Rf7tOW.png)  
-     ![](https://s3.eu-central-1.amazonaws.com/trengo/media/hc_m_RiTzPpW9mZhQ6svqlehuZVLSNzWIgH.png)
-   * Geluiden: welkomsttekst en tussentijdse tekst met instelbare herhaalfrequentie:  
-       
-     ![](https://s3.eu-central-1.amazonaws.com/trengo/media/hc_m_bZPrcyhF7PvF3DktvQPHuG4ZtA7T9x.png)
-   * Wachtrij agenten: voeg interne toestellen en desgewenst externe nummers toe  
-     ![](https://s3.eu-central-1.amazonaws.com/trengo/media/hc_m_KA4a7q7Eb7yNEwNFS7i3DOw52uOhcL.png)
-4. Sla de wachtrij op – u keert terug in het wachtrij-overzicht en ziet de wachtrij erbij staan.
-5. Voeg de wachtrij toe aan uw belroute – ga terug naar uw belroute. Voeg de wachtrij-app op de juiste plaats in en kies de juiste wachtrij:
+2. Klik op button \[Toevoegen\]
 
-  
-![](https://s3.eu-central-1.amazonaws.com/trengo/media/hc_m_ayafQh8KXOPOstxMXt8zQitKlg1Sd5.png)
+1. Doorloop de wachtrij-wizard, links vindt u de vier onderdelen die u kunt instellen.
+   * Naam wachtrij: geef de wachtrij een herkenbare naam en een kleur:
+   * Instellingen: definieer hoe de wachtrij de gesprekken over uw agents verdeelt:
+   * Geluiden: welkomsttekst en tussentijdse tekst met instelbare herhaalfrequentie:
+   * Wachtrij agenten: voeg interne toestellen en desgewenst externe nummers toe
+2. Sla de wachtrij op – u keert terug in het wachtrij-overzicht en ziet de wachtrij erbij staan.
+3. Voeg de wachtrij toe aan uw belroute – ga terug naar uw belroute. Voeg de wachtrij-app op de juiste plaats in en kies de juiste wachtrij:
 
 ## Wachtmuziek
 
-    <div class="row"><div class="medium-6 columns"><a download="Chillout_slow" href="http://www.callvoip.nl/cvtsupport/audio/chillout_slow_243.wav" rel="noopener noreferrer" target="_blank">Chillout slow</a></div><div class="medium-6 columns"><audio controls="controls"><source src="http://www.callvoip.nl/cvtsupport/audio/chillout_slow_243.wav" type="audio/mpeg"></audio></div></div><div class="row"><div class="medium-6 columns"><a download="Guitar" href="http://www.callvoip.nl/cvtsupport/audio/moh_guitarsong_343.wav" rel="noopener noreferrer" target="_blank">Guitarsong</a></div><div class="medium-6 columns"><audio controls="controls"><source src="http://www.callvoip.nl/cvtsupport/audio/moh_guitarsong_343.wav" type="audio/mpeg"></audio></div></div><div class="row"><div class="medium-6 columns"><a download="Jazz_easybeat" href="http://www.callvoip.nl/cvtsupport/audio/moh_jazz_easybeat_217.wav" rel="noopener noreferrer" target="_blank">Jazz Easybeat</a></div><div class="medium-6 columns"><audio controls="controls"><source src="http://www.callvoip.nl/cvtsupport/audio/moh_jazz_easybeat_217.wav" type="audio/mpeg"></audio></div></div><div class="row"><div class="medium-6 columns"><a download="Jazz_fast" href="http://www.callvoip.nl/cvtsupport/audio/moh_jazz_fast_258.wav" rel="noopener noreferrer" target="_blank">Jazz fast</a></div><div class="medium-6 columns"><audio controls="controls"><source src="http://www.callvoip.nl/cvtsupport/audio/moh_jazz_fast_258.wav" type="audio/mpeg"></audio></div></div><div class="row"><div class="medium-6 columns"><a download="Jazz_fastbeat" href="http://www.callvoip.nl/cvtsupport/audio/moh_jazz_fastbeat_315.wav" rel="noopener noreferrer" target="_blank">Jazz Fastbeat</a></div><div class="medium-6 columns"><audio controls="controls"><source src="http://www.callvoip.nl/cvtsupport/audio/moh_jazz_fastbeat_315.wav" type="audio/mpeg"></audio></div></div><div class="row"><div class="medium-6 columns"><a download="funky_jazz" href="http://www.callvoip.nl/cvtsupport/audio/moh_funkyjazz_midtempo_217.wav" rel="noopener noreferrer" target="_blank">Funky Jazz</a></div><div class="medium-6 columns"><audio controls="controls"><source src="http://www.callvoip.nl/cvtsupport/audio/moh_funkyjazz_midtempo_217.wav" type="audio/mpeg"></audio></div></div><div class="row"><div class="medium-6 columns"><a download="funky_pop" href="http://www.callvoip.nl/cvtsupport/audio/moh_funkypop_midtempo_154.wav" rel="noopener noreferrer" target="_blank">Funky Pop</a></div><div class="medium-6 columns"><audio controls="controls"><source src="http://www.callvoip.nl/cvtsupport/audio/moh_funkypop_midtempo_154.wav" type="audio/mpeg"></audio></div></div><div class="callout"><br></div>
-
-<a href="http://www.simmpl.nl/downloads/Simmpl_handleiding_wachtrij.pdf" target="_blank" class="button">Bekijk de handleiding</a>
+<a href="[/ondersteuning/meldteksten-wachtmuziek/wachtmuziek/](/meldteksten-wachtmuziek/wachtmuziek/)" target="_blank" class="button">Bekijk hier alle wachtmuziek</a>
