@@ -7,14 +7,29 @@ images: []
 ---
 Click-to-Dial is een gratis extensie voor Google Chrome waarmee weergegeven telefoonnummers op websites klikbaar worden zodat u sneller kunt bellen.
 
-<a href="https://goo.gl/Px9dGE" target="_blank" class="button">Download Click-to-Dial voor Chrome</a>
+<h3>Breid de Simmpl telefooncentrale uit met de gratis Simmpl Chrome app</h3>
 
-Hieronder vindt u de snelstarthandleiding en volledige handleiding van Click-to-Dial.
+* Click-to-Dial: klik en bel vanaf je eigen toestel
+* Bedrijfs- / privé telefoonboek: met nummers en namen
+* Popup inkomende gesprekken: met nummers en namen
+* Logboek: alle gesprekken van / naar je eigen toestel
+* Yealink telefoonboek: adresboek uitleesbaar door uw Yealink toestellen
+* Nummer-kopieer-functie: klik en kopieer een nummer
+* <a href="https://www.callvoiptelefonie.nl/clicktodial/" target="_blank">Meer informatie over Click-to-Dial</a>
 
-<a href="http://www.simmpl.nl/downloads/Simmpl_snelstarthandleiding_ClicktoDial.pdf" target="_blank" class="button">Bekijk de snelstarthandleiding</a>
+<h3>Join the app!</h3>
 
-<a href="http://www.simmpl.nl/downloads/Simmpl_handleiding_ClicktoDial.pdf" target="_blank" class="button">Bekijk de handleiding</a>
+* Download de app <a href="https://goo.gl/Px9dGE" target="_blank">hier</a>
+* Log in met Simmpl gebruikersnaam en wachtwoord
+* Activeer en klaar!
 
-Installeer de gratis Click-to-Dial extensie en laat uw Yealink toestellen het Click-to-Dial adresboek uitlezen met behulp van onderstaande instructie.
+![](https://res.cloudinary.com/callvoip/image/upload/v1565088973/click2dial-yealink-1_au2gwv.png)
 
-<a href="http://www.simmpl.nl/downloads/Simmpl_snelstarthandleiding_Yealink-C2D-adresboek.pdf" target="_blank" class="button">Bekijk de instructie</a>
+![](https://res.cloudinary.com/callvoip/image/upload/v1565093891/click2dial-snelstart-1_migwer.png)  
+![](https://res.cloudinary.com/callvoip/image/upload/v1565093933/click2dial-snelstart-2_bqpsrt.png)
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1565094000/click2dial-snelstart-3_lz291k.png)  
+![](https://res.cloudinary.com/callvoip/image/upload/v1565094052/click2dial-snelstart-4_hffavv.png)  
+![](https://res.cloudinary.com/callvoip/image/upload/v1565094139/click2dial-snelstart-5_dsfkai.png)
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1565094187/click2dial-snelstart-6_yjegzw.png)

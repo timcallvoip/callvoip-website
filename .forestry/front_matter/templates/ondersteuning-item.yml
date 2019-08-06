@@ -22,6 +22,8 @@ fields:
   label: SEO
   description: Seo
 pages:
+- content/ondersteuning/simmpl-functionaliteiten/omleidings-app.md
+- content/ondersteuning/Integraties/click-to-dial.md
 - content/ondersteuning/Integraties/click-to-dial-yealink-adresboek.md
 - content/ondersteuning/meldteksten-wachtmuziek/wachtmuziek.md
 - content/ondersteuning/simmpl-functionaliteiten/email-app.md
@@ -62,10 +64,8 @@ pages:
 - content/ondersteuning/algemeen/sip-trunk-handleiding.md
 - content/ondersteuning/Integraties/voip-cti-handleiding.md
 - content/ondersteuning/Integraties/click-to-dial-uitgebreide-handleiding.md
-- content/ondersteuning/Integraties/click-to-dial.md
 - content/ondersteuning/belplan/snelstart-handleiding-telefooncentrale.md
 - content/ondersteuning/algemeen/overzicht-shortcodes-simmpl.md
-- content/ondersteuning/simmpl-functionaliteiten/omleidings-app.md
 - content/ondersteuning/fax-voicemail/fax-versturen.md
 - content/ondersteuning/belplan/overzicht.md
 - content/ondersteuning/algemeen/storing.md
