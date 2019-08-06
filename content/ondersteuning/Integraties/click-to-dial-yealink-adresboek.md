@@ -30,3 +30,35 @@ Uw Yealink kijkt naar het Click to Dial adresbestand en zal zo altijd de actuele
 Een <a href="https://www.callvoiptelefonie.nl/mijncallvoip/aanvragen/importeren-telefoonboek-in-click-to-dial/" target="_blank">adresboekfile</a> upload kost 50,- ex. BTW éénmalig.
 
 <h3>Instructie voor Yealink T4x toestellen</h3>
+
+1. Open de beheertab van Click to Dial en klik op \[Yealink Telefoonboek\]: het vinkje verschijnt
+2. Log in op uw Yealink, open Directory > Remote Phone Book  
+   **NB**: Bij de Yealink T2x toestellen is dit menu **Contacts**
+3. Plak de link en geef een naam
+4. Zet Incoming/Outgoing Call Lookup op \[Enabled\] en \[Confirm\]
+5. Geef het adresboek een handige plek in het Yealink display  
+   In uw Yealink, kies menu DSSKey > Programmable Key  
+   (Voor Yealink T2x toestellen: ga naar menu PHONE > DSS Keys)  
+     
+   Bij Softkey 2: selecteer XML Phonebook  
+   (Voor Yealink T2x toestellen: kies XML Group ipv XML Phonebook  
+     
+   Bij Label, geef een naam (niet te lang)  
+     
+   Confirm en voilá...enjoy!  
+   ![](https://res.cloudinary.com/callvoip/image/upload/v1565092136/click2dial-yealink-2_e0z1ks.png)  
+   ![](https://res.cloudinary.com/callvoip/image/upload/v1565092203/click2dial-yealink-3_dqdcvb.png)
+
+<h3>Instructie voor Yealink T2x toestellen</h3>
+
+De webinterface van de Yealink T2x toestellen zien er iets anders uit.  
+Als u de Click to Dial Yealink Adresboek heeft gekopieerd, log in op uw Yealink.
+
+1. Ga naar menu Contacts en kies in het submenu Remote Phone Book
+2. Plaats de link en sla op met Confirm
+3. Ga naar menu Phone en submenu DSS Keys en kies Programmable Keys
+4. Bij softkey 2, selecteer XML Group en geef een naam
+5. Confirm en voilá...enjoy!
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1565092457/click2dial-yealink-4_car0dx.png)  
+![](https://res.cloudinary.com/callvoip/image/upload/v1565092472/click2dial-yealink-5_thhkqe.png)

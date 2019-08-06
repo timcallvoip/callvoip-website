@@ -22,8 +22,8 @@ fields:
   label: SEO
   description: Seo
 pages:
-- content/ondersteuning/meldteksten-wachtmuziek/wachtmuziek.md
 - content/ondersteuning/Integraties/click-to-dial-yealink-adresboek.md
+- content/ondersteuning/meldteksten-wachtmuziek/wachtmuziek.md
 - content/ondersteuning/simmpl-functionaliteiten/email-app.md
 - content/ondersteuning/simmpl-functionaliteiten/wachtrij-app.md
 - content/ondersteuning/Apparatuurhandleidingen/yealink-t4x-serie.md
