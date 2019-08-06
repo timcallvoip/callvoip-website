@@ -83,13 +83,13 @@ exports.handler =  async (event, context, callback) => {
   };
 
   try {
-    return sgMail.send(clientmsg);
+    sgMail.send(clientmsg);
   } catch(error) {
     console.log('error', error)
   }
 
   try {
-    return sgMail.send(internalmsg);
+    sgMail.send(internalmsg);
   } catch(error) {
     console.log('error', error)
   }
