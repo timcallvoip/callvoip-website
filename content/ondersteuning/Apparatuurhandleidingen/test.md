@@ -39,12 +39,12 @@ Hieronder vindt u ons snelle stappenplan en een uitgebreider stappenplan met ged
    Als het een nieuw toestel is, dan staan er nog geen instellingen in. Als het een toestel is dat eerder reeds in gebruik was, dan is het aan te raden om het toestel te resetten. Dat doet u door de OK toets (ronde knop) 10 seconden ingedrukt te houden totdat het toestel vraagt of het moet worden gereset. Bevestig dit en wacht tot het toestel weer terug is.
 
    Wel zo praktisch, stel het toestel nog even op Nederlands in. Druk op het toestel zelf op de volgende knoppen:  
-   _Menu toets > 3. settings > 1. basic settings > 1. language > kies Nederlands_
+   Menu toets > 3. settings > 1. basic settings > 1. language > kies Nederlands
 2. **Vraag het IP-adres van uw IP-toestel op en log op uw toestel in**  
    Om op het IP-toestel in te loggen heeft u het IP-adres nodig.
 
-   > druk op de OK toets om het IP-adres op te vragen  
-   Een IP-adres ziet er bijvoorbeeld als volgt uit: 192.168.1.105
+   \- druk op de OK toets om het IP-adres op te vragen  
+   \- Een IP-adres ziet er bijvoorbeeld als volgt uit: 192.168.1.105
 
    Ga nu naar internet en vul het IP-adres met puntjes in de adresbalk van uw internetprogramma (browser) in. Het inlogscherm verschijnt:  
    ![](https://res.cloudinary.com/callvoip/image/upload/v1565083035/yealink-provisioning-1_jo6zdb.png)
@@ -71,8 +71,8 @@ Hieronder vindt u ons snelle stappenplan en een uitgebreider stappenplan met ged
 5. **Log in op uw IP-toestel om de provisioning link te plaatsen**  
    Ga terug naar het andere internet-tabblad waar u was ingelogd op uw toestel, of log opnieuw op uw toestel in. Ga naar tabblad \[Settings\] > submenu \[Auto Provision\].
 
-   > vervang de waarde van veld \[Provisioning Server\] met de provisioning link   
-   > Controleer of deze begint met http://provisioning.callvoip.nl/....  
+   \- vervang de waarde van veld \[Provisioning Server\] met de provisioning link  
+   \- Controleer of deze begint met http://provisioning.callvoip.nl/....  
    ![](https://res.cloudinary.com/callvoip/image/upload/v1565084058/yealink-provisioning-9_mhvp39.png)  
    klik nu op \[Confirm\] om de link op te slaan  
    klik tenslotte op \[Auto Provision\] om de provisioning te starten.  
@@ -107,7 +107,7 @@ Controleer welke firmwareversie u nu heeft door op het toestel in te loggen > u 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1565084681/yealink-provisioning-16_ug20sl.png)  
 Af-fabriek worden de toestellen van Yealink voorzien van een provisioninglink naar de firmware-server. Dit betekent in de meeste gevallen dat een toestel dat wordt aangesloten op internet en wordt geherstart automatisch gaat zoeken naar de laatste firmware versie.
 
-> sluit het toestel aan op internet en herstart; kijk of het toestel gaat zoeken naar firmware.
+\- sluit het toestel aan op internet en herstart; kijk of het toestel gaat zoeken naar firmware.
 
 Als uw toestel niet automatisch de firmware upgrade uitvoert, log dan in op uw toestel en ga naar tabblad \[Upgrade\], submenu \[Advanced\]. Controleer hier twee dingen:  
 \- Staat er iets ingevuld in veld \[Provisioningserver\]? Dit zou de server van de leverancier van de telefoon (Yealink) moeten zijn. Als het veld leeg is is het logisch dat het toestel niet upgrade. Reset het toestel dan naar factory defaults om deze instellingen te herstellen.  
