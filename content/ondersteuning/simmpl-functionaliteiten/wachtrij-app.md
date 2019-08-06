@@ -65,7 +65,7 @@ De wachtrij wordt nu in de belroute geïntegreerd. Sla de belroute op en test of
 
 <br>
 
-## Wachtmuziek
+### Wachtmuziek
 
 <a href="[/ondersteuning/meldteksten-wachtmuziek/wachtmuziek/](/meldteksten-wachtmuziek/wachtmuziek/)" target="_blank" class="button">Bekijk hier alle wachtmuziek</a>
 
