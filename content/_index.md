@@ -14,7 +14,7 @@ hero:
     content: Kies voor de Hosted VoIP oplossing
     link: telefonie/hostedvoip/
   - icon: fa-tty
-    title: Mobiele telefoon onderdeel van de zakelijke telefonieoplossing?
+    title: Mobiele telefoon als onderdeel van de zakelijke telefonieoplossing?
     content: Gebruik de Vast Mobiel Integratie (Vamos)
     link: telefonie/vastmobielintegratie/
 intro:
