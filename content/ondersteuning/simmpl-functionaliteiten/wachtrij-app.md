@@ -73,6 +73,47 @@ De wachtrij wordt nu in de belroute geïntegreerd. Sla de belroute op en test of
 
 ### Wachtrijstatistieken
 
+In menu **RAPPORTEN** > tabblad **QUEUE** vindt u geavanceerde wachtrijstatistieken in 3 grafieken. Deze grafieken kunt u naar wens filteren naar wachtrij, agent en tijdsperiode. In de grafieken ziet u de verdeling in tijd in de gewenste periode (dag, week, maand).
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1565082164/support-wachtrij-stat1_au5ozr.png)
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1565082177/support-wachtrij-stat2_j0cnvf.png)
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1565082191/support-wachtrij-stat3_nbbhlv.png)
+
+##### Voorbeeld: berekenen gemiddelde wachtrij voor een klant
+
+Om uw callcenter performance te kunnen beoordelen en sturen heeft u behoefte aan stuurcijfers. De grafieken zijn van waarde omdat ze de dynamiek tonen: momenten van drukte, toppen, dalen, extremen en hoe dit zich in de tijd verspreid.
+
+Echter, u heeft ook graag kwantitatieve waarden waarop u kunt sturen. Aan de hand van de waarden van de grafiek kunt u met niet al te veel moeite een berekening maken. Hieronder een voorbeeld voor het berekenen van de **gemiddelde wachttijd** van klanten in de wachtrij.
+
+1\. Log in, open Rapporten > tabblad Queues > grafiek Waiting Time of Caller in Queue   
+2\. Zet deze op MONTH view   
+3\. Laat de muis op een dag rusten, dan krijgt u de waarden per dag te zien.   
+4\. Noteer de dagwaarden (seconden) voor een week, tel deze op en deel door 5
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1565082317/support-wachtrij-stat4_wcbcop.png)
+
+**Voorbeeld**:
+
+A. gem. wachttijd per week   
+Week 10 (05-11 mrt): 233+171+67+62+97=630 sec/5 dagen=gem. 126 sec. wachttijd   
+Week 11 (14-18 mrt): 185+265+190+238+132=1010 sec/5 dagen=gem. 202 sec. wachttijd   
+Week 12 (21-25 mrt): 156+187+257+92+317=1009 sec/5 dagen=gem. 201 sec. wachttijd   
+Week 13 (28-31 mrt): 198+127+59+159+130=673 sec/5 dagen=gem. 135 sec. wachttijd 
+
+B. Gemiddelde wachttijd per maand   
+Weekwaarden week 10, 11, 12,13 totaal: 664 seconden / 4 weken = 166 seconden wachttijd 
+
+C. gem. duur wachtrijgesprekken per week   
+Week 10 (05-11 mrt): 198+160+171+130+121=780 sec/5 dagen=gem. 156 sec. gesprekstijd   
+Week 11 (14-18 mrt): 166+124+2+41+65=398 sec/5 dagen=gem. 80 sec. gesprekstijd   
+Week 12 (21-25 mrt): 10+49+125+48+145=377 sec/5 dagen=gem. 75 sec. gesprekstijd   
+Week 13 (28-31 mrt): 140+133+159+125+130=687 sec/5 dagen=gem. 137 sec. gesprekstijd 
+
+D. Gemiddelde duur wachtrijgesprekken per maand   
+Weekwaarden week 10, 11, 12,13 totaal: 448 seconden / 4 weken = 112 sec. gesprekstijd
+
 <br>
 
 ### Overig
