@@ -97,7 +97,6 @@ exports.handler =  async (event, context, callback) => {
   // if everything was fine we send status code 200
   return callback(null, {
     statusCode: 200,
-    headers,
     body: JSON.stringify({
       message: "Message sent successfully!",
     }),
