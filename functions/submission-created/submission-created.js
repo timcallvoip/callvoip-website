@@ -95,7 +95,11 @@ exports.handler =  async (event, context, callback) => {
   }
 
 
-  return;
+  return {
+    statusCode: 200,
+    body: 'Ok'
+  }
+
 
 
 };
