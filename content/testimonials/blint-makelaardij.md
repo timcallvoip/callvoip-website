@@ -1,5 +1,5 @@
 ---
-title: Blint Makelaardij
+title: Bint Makelaardij
 type: testimonial
 hero:
   image: "/v1561542254/callvoip-website-branches-makelaardij-groot.png"
@@ -7,6 +7,7 @@ headless: true
 link: "/oplossingen/branches/makelaardij/"
 logo: "/v1563975018/callvoip-website-testimonial-makelaardijNW.png"
 name: Germ Wijnia - Bint Makelaardij
-website: #
+website: https://www.bintmakelaardij.nl/
+
 ---
 “Korte lijnen, duidelijke communicatie en altijd nieuwe **innovaties**”
