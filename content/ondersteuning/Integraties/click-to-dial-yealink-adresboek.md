@@ -38,14 +38,11 @@ Een <a href="https://www.callvoiptelefonie.nl/mijncallvoip/aanvragen/importeren-
 4. Zet Incoming/Outgoing Call Lookup op \[Enabled\] en \[Confirm\]
 5. Geef het adresboek een handige plek in het Yealink display  
    In uw Yealink, kies menu DSSKey > Programmable Key  
-   (Voor Yealink T2x toestellen: ga naar menu PHONE > DSS Keys)  
-     
-   Bij Softkey 2: selecteer XML Phonebook  
-   (Voor Yealink T2x toestellen: kies XML Group ipv XML Phonebook  
-     
-   Bij Label, geef een naam (niet te lang)  
-     
-   Confirm en voilá...enjoy!  
+   (Voor Yealink T2x toestellen: ga naar menu PHONE > DSS Keys)
+6. Bij Softkey 2: selecteer XML Phonebook  
+   (Voor Yealink T2x toestellen: kies XML Group ipv XML Phonebook
+7. Bij Label, geef een naam (niet te lang)
+8. Confirm en voilá...enjoy!  
    ![](https://res.cloudinary.com/callvoip/image/upload/v1565092136/click2dial-yealink-2_e0z1ks.png)  
    ![](https://res.cloudinary.com/callvoip/image/upload/v1565092203/click2dial-yealink-3_dqdcvb.png)
 
