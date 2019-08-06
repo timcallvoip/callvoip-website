@@ -49,7 +49,7 @@ Neem het gesprek aan en uw toestel start met bellen naar het aangeklikte nummer.
    **Tip 1**: Nummer niet herkend? **Select-to-Dial**! Selecteer, right-click en kies Click-to-Dial om te bellen.  
    **Tip 2**: Nummer niet in Chrome? **Paste-to-Dial**! Kopieer en type/plak, klik op button \[GA\]  
    ![](https://res.cloudinary.com/callvoip/image/upload/v1565095880/click2dial-uitgebreid-4_e0osc4.png)
-6. Notificatie: Zie welk nummer u belt!  
+6. **Notificatie: Zie welk nummer u belt!**  
    Wordt u gebeld, dan verschijnt er een popup met het nummer én naam (als deze in uw telefoonboek is opgeslagen):  
    ![](https://res.cloudinary.com/callvoip/image/upload/v1565096047/click2dial-uitgebreid-5_gypeza.png)  
    ![](https://res.cloudinary.com/callvoip/image/upload/v1565096105/click2dial-uitgebreid-6_wlcpvh.png)
@@ -113,7 +113,7 @@ Q: **Ik kan de app niet vinden; waar kan ik hem downloaden?**
 A: Er zijn meerdere stores; onze app staat in de Chrome Store en niet in de App Store of Play Store. U vindt de app <a href="https://goo.gl/Px9dGE" target="_blank">hier</a>.
 
 Q: **Inloggen / Activeren lukt niet - ik krijg een foutmelding**  
-A: Vul de eerste keer de 4 velden in en klik op \[**Registreren en inloggen**\]. Lukt dit niet? Check de rood gemarkeerde velden en vul deze opnieuw in. De ID en Secret vindt u in API koppeling op Simmpl; uw gebruikersnaam is uw verkorte nummer.bedrijfsnaam (bv 008.tijdhofconsulting) en inlog password.   
+A: Vul de eerste keer de 4 velden in en klik op \[**Registreren en inloggen**\]. Lukt dit niet? Check de rood gemarkeerde velden en vul deze opnieuw in. De ID en Secret vindt u in API koppeling op Simmpl; uw gebruikersnaam is uw verkorte nummer.bedrijfsnaam (bv 008.tijdhofconsulting) en inlog password.  
 (**NB**: u gebruikt dus niet het beheerderspassword, maar het gebruikerspassword.)
 
 Q: **Inloggen / Activeren lukt niet - ik krijg GEEN foutmelding**  
@@ -121,8 +121,8 @@ A: Alles lijkt goed ingevuld en u krijgt geen foutmelding maar de activeerknop g
 Lukt het nog niet: leeg dan de browserhistorie / cookies en installeer de plugin nogmaals.
 
 Q: **Activatie geslaagd! Maar de app staat uit?**  
-A: Ja, na activatie staat de app uit, klik op de schakelaar en schakel hem in.  
-  
+A: Ja, na activatie staat de app uit, klik op de schakelaar en schakel hem in.
+
 Q: **Als ik mijn account ontkoppel, hoe log ik dan weer in?**  
 A: Vul de 2 velden opnieuw in; na ontkoppelen blijven de ID en Secret bewaard; u kunt dus vrij eenvoudig opnieuw inloggen of als andere gebruiker inloggen.
 
