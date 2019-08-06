@@ -22,6 +22,7 @@ fields:
   label: SEO
   description: Seo
 pages:
+- content/ondersteuning/Apparatuurhandleidingen/gigaset-ip-pro-provisioning.md
 - content/ondersteuning/Apparatuurhandleidingen/gigaset-ip-pro-handmatig.md
 - content/ondersteuning/simmpl-functionaliteiten/tijdsconditie-app.md
 - content/ondersteuning/simmpl-functionaliteiten/qaller-plus-app.md
@@ -62,7 +63,6 @@ pages:
 - content/ondersteuning/Integraties/click-to-dial.md
 - content/ondersteuning/belplan/snelstart-handleiding-telefooncentrale.md
 - content/ondersteuning/algemeen/overzicht-shortcodes-simmpl.md
-- content/ondersteuning/Apparatuurhandleidingen/gigaset-ip-pro-provisioning.md
 - content/ondersteuning/Apparatuurhandleidingen/yealink-t4x-serie.md
 - content/ondersteuning/simmpl-functionaliteiten/omleidings-app.md
 - content/ondersteuning/fax-voicemail/fax-versturen.md
