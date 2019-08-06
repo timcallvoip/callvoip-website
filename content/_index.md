@@ -32,7 +32,7 @@ intro:
   - icon: fa-boxes-alt
     content: Flexibel en schaalbaar. Eenvoudig via uw eigen beveiligde omgeving.
   - icon: fa-piggy-bank
-    content: Tot wel 50% voordeliger dan tradionele telefooncentrale
+    content: Tot wel 50% voordeliger dan tradionele telefooncentrale.
 usps:
 - title: Callvoip is er voor de ondernemers
   content: <p>Callvoip levert met Simmpl een telefooncentrale dat zorgt voor optimale
@@ -45,7 +45,7 @@ usps:
     title: Tijdscondities
     content: Met de <a href="/telefonie/functionaliteiten/tijdsconditie/">tijdsconditie-app</a>
       definieert u vooraf tijden waarop één of meerdere acties in de belroute plaatsvinden.
-      Bijv. tijdens de Feestdagen.
+      Bijvoorbeeld tijdens de Feestdagen.
   - icon: fa-arrows-h
     title: Doorverbinden
     content: Met de <a href="/telefonie/functionaliteiten/doorverbinden/">doorverbinden-app</a>
