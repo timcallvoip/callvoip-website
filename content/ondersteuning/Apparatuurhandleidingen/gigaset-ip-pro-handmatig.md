@@ -107,8 +107,8 @@ Onder functietoesten gaat u naar \[toetsen\]. Hier klikt u vervolgens op \[toevo
 ![](https://res.cloudinary.com/callvoip/image/upload/v1565016839/gigaset-manual-16_btpnza.png)  
 **Toevoegen > Edit**  
 ![](https://res.cloudinary.com/callvoip/image/upload/v1565016889/gigaset-manual-17_zqpjwr.png)  
-Aan de linkerkant het overzicht van de sneltoetsen.   
-Rood: toestel ingesprek   
+Aan de linkerkant het overzicht van de sneltoetsen.  
+Rood: toestel ingesprek  
 Groen: toestel vrij  
 ![](https://res.cloudinary.com/callvoip/image/upload/v1565016949/gigaset-manual-18_fxpug9.png)
 
@@ -118,20 +118,20 @@ In deze handleiding kunt u lezen hoe u uw Gigaset Maxwell IP Phone instelt voor 
 
 1. **Sluit de Gigaset Maxwell aan**  
    Aan de achterkant van het Gigaset Maxwell toestel vindt u de aansluitmogelijkheid voor een netwerkkabel. Sluit hier een netwerkkabel op aan en sluit de kabel aan de andere zijde aan op uw netwerk/router zodat het toestel met internet is verbonden.
-2. **Inloggen op de webpagina van de Maxwell:  
-   **Om op de Maxwell in te loggen heeft u het IP-adres nodig.  
+2. **Inloggen op de webpagina van de Maxwell**:  
+   Om op de Maxwell in te loggen heeft u het IP-adres nodig.  
    Dat kunt u als volgt opvragen:  
    \- Ga via de menu toets (middelste knop op het toestel) instellingen > lokaal netwerk. Afhankelijk van het model dient u naar beneden te scrollen. Dit kan door op de onderste knop van de zilveren rand om de menutoets te drukken  
    \- Vul het ip adres in de adresbalk van de browser in.  
    \- Het standaard wachtwoord is \[**admin**\]  
    ![](https://res.cloudinary.com/callvoip/image/upload/v1565017115/gigaset-manual-19_ftkl5a.png)
-3. **Maak een Simmpl gebruiker aan  
-   **Voordat u de telefoon kunt instellen maakt u op de Simmpl centrale aan:  
+3. **Maak een Simmpl gebruiker aan**  
+   Voordat u de telefoon kunt instellen maakt u op de Simmpl centrale aan:  
    \- een gebruiker (Extension): naam met een verkort nummer.  
    \- een toestel hoeft u niet aan te maken als u het toestel automatisch laat instellen (auto provisioning)
-4. **Advies: configureer via AUTO PROVISIONING  
-   **Wij adviseren om de Maxwell via AUTO PROVISIONING automatisch door de telefooncentrale te laten instellen: dit gaat snel en de resultaten zijn goed. Bij het aanmaken van een toestelaccount vindt u deze optie.  
-   De de Simmpl beheerpagina vraagt om: MAC adres en MAC ID:  
+4. **Advies: configureer via AUTO PROVISIONING**  
+   Wij adviseren om de Maxwell via **AUTO PROVISIONING** automatisch door de telefooncentrale te laten instellen: dit gaat snel en de resultaten zijn goed. Bij het aanmaken van een toestelaccount vindt u deze optie.  
+   De Simmpl beheerpagina vraagt om: MAC adres en MAC ID:  
    ![](https://res.cloudinary.com/callvoip/image/upload/v1565017233/gigaset-manual-20_rlrkf7.png)  
    Deze 2 codes vindt u in de Maxwell in menu STATUS:  
    ![](https://res.cloudinary.com/callvoip/image/upload/v1565017281/gigaset-manual-21_cqyh8a.png)  
@@ -141,14 +141,15 @@ In deze handleiding kunt u lezen hoe u uw Gigaset Maxwell IP Phone instelt voor 
 
 Op de Maxwell configuratie pagina kunt u aangeven of de basis automatisch een IP-adres krijgt toegewezen of kunt u een vast IP-adres instellen. Wij adviseren DHCP; uw technisch adviseur kan u adviseren wat in uw situatie het beste is.  
 ![](https://res.cloudinary.com/callvoip/image/upload/v1565017376/gigaset-manual-22_f0zi8k.png)  
-**Vervolgens klikt u op \[Telefonie\] > \[SIP en RTP algemeen\]  
-**![](https://res.cloudinary.com/callvoip/image/upload/v1565017441/gigaset-manual-23_pumtd5.png)  
+**Vervolgens klikt u op \[Telefonie\] > \[SIP en RTP algemeen\]**  
+![](https://res.cloudinary.com/callvoip/image/upload/v1565017441/gigaset-manual-23_pumtd5.png)  
 **SIP accounts:**  
-Hier kunt u verschillende lijnen configureren.   
+Hier kunt u verschillende lijnen configureren.  
 Druk op de \[bewerk\] toets om een lijn in te stellen.  
 ![](https://res.cloudinary.com/callvoip/image/upload/v1565017512/gigaset-manual-24_da5phw.png)  
-**SIP-account settings:  
-**![](https://res.cloudinary.com/callvoip/image/upload/v1565017573/gigaset-manual-25_ptzlcf.png)  
+**SIP-account settings**:  
+  
+![](https://res.cloudinary.com/callvoip/image/upload/v1565017573/gigaset-manual-25_ptzlcf.png)  
 **Codecs:**  
 ![](https://res.cloudinary.com/callvoip/image/upload/v1565017636/gigaset-manual-26_j3g1w8.png)  
 **Voicemail:**  
@@ -158,9 +159,10 @@ Druk op de \[bewerk\] toets om een lijn in te stellen.
 
 Hier zijn de sneltoetsen in te stellen. U kunt hier kiezen voor een lijn-toets, een sneltoets of een BLF toets om te zien wie er in gesprek is.
 
-**NB:** via de autoprovisioning kunt u dit instellen op de SIMMPl centrale via button **CUSTOMiZE DEVICE BEHAVIOUR  
-**![](https://res.cloudinary.com/callvoip/image/upload/v1565017776/gigaset-manual-28_dtfjni.png)  
-U kunt in het toestel ook instellingen bekijken.   
+**NB:** via de autoprovisioning kunt u dit instellen op de SIMMPl centrale via button **CUSTOMiZE DEVICE BEHAVIOUR**  
+  
+![](https://res.cloudinary.com/callvoip/image/upload/v1565017776/gigaset-manual-28_dtfjni.png)  
+U kunt in het toestel ook instellingen bekijken.  
 Als u wijzigingen doorvoert zal de auto provisioning de instellingen ca 12 uur later weer terugzetten naar de instellingen op de server.  
 ![](https://res.cloudinary.com/callvoip/image/upload/v1565017837/gigaset-manual-29_tkpjge.png)  
 ![](https://res.cloudinary.com/callvoip/image/upload/v1565017882/gigaset-manual-30_sjzegu.png)  
@@ -171,7 +173,7 @@ Als u wijzigingen doorvoert zal de auto provisioning de instellingen ca 12 uur l
 
 <a href="https://www.gigaset.com/nl_nl/cms/ondersteuning.html" target="_blank">Gigaset support</a>: Beantwoord de meeste vragen!
 
-**Resetten naar factory defaults:  
-**- Druk de button op het basisstation in en haal de basis van de stroom af.  
+**Resetten naar factory defaults**:  
+\- Druk de button op het basisstation in en haal de basis van de stroom af.  
 \- Sluit de stroomkabel weer aan maar houd de button nog 15 seconden vast.  
 \- Laat de knop nu los - de basis is nu gereset naar fabrieksinstellingen
