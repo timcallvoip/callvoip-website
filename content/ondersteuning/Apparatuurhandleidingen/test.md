@@ -44,8 +44,7 @@ Hieronder vindt u ons snelle stappenplan en een uitgebreider stappenplan met ged
    Om op het IP-toestel in te loggen heeft u het IP-adres nodig.
 
    \- druk op de OK toets om het IP-adres op te vragen  
-   \- Een IP-adres ziet er bijvoorbeeld als volgt uit: 192.168.1.105
-
+   \- Een IP-adres ziet er bijvoorbeeld als volgt uit: 192.168.1.105  
    Ga nu naar internet en vul het IP-adres met puntjes in de adresbalk van uw internetprogramma (browser) in. Het inlogscherm verschijnt:  
    ![](https://res.cloudinary.com/callvoip/image/upload/v1565083035/yealink-provisioning-1_jo6zdb.png)
 3. **Het verzamelen van de benodigde toestelgegevens**  
@@ -54,12 +53,10 @@ Hieronder vindt u ons snelle stappenplan en een uitgebreider stappenplan met ged
    Provisioning werkt vanaf firmwareversie x.70. Heeft uw toestel een oudere firmwareversie? Upgrade dan eerst de firmware.  
    ![](https://res.cloudinary.com/callvoip/image/upload/v1565083161/yealink-provisioning-3_zzzv7z.png)
 4. **Log in op de Simmpl centrale om een gebruiker en toestel aan te maken**  
-   U heeft de configuratiepagina van uw IP-telefoon nog geopend. Open nu een tweede internetvenster (bv. nieuw tabblad in uw browser) en ga in dat tabblad naar de Simmpl telefooncentrale. U kunt dan gemakkelijk het toestel aanmaken en de provisioning link op de telefooncentrale opvragen, en deze daarna op de juiste plaats in uw toestel plaatsen zonder dat u opnieuw hoeft in te loggen.
-
+   U heeft de configuratiepagina van uw IP-telefoon nog geopend. Open nu een tweede internetvenster (bv. nieuw tabblad in uw browser) en ga in dat tabblad naar de Simmpl telefooncentrale. U kunt dan gemakkelijk het toestel aanmaken en de provisioning link op de telefooncentrale opvragen, en deze daarna op de juiste plaats in uw toestel plaatsen zonder dat u opnieuw hoeft in te loggen.  
    Ga naar <a href="https://panel.callvoip.nl/login/panel" target="_blank">https://panel.callvoip.nl/login/panel</a> en log in op uw Simmpl telefooncentrale. Kies links in het menu optie \[Toestellen\].  
    ![](https://res.cloudinary.com/callvoip/image/upload/v1565083314/yealink-provisioning-4_cw9ojl.png)  
-   Als het toestel dat u wilt gaan gebruiken nog niet is aangemaakt, voeg dan een toestel toe door op button \[Toevoegen\] te klikken en doorloop de wizard.
-
+   Als het toestel dat u wilt gaan gebruiken nog niet is aangemaakt, voeg dan een toestel toe door op button \[Toevoegen\] te klikken en doorloop de wizard.  
    **Let op**: selecteer het juiste merk en type toestel. U kunt het type toestel vinden op de doos en in het menu van uw toestel  
    ![](https://res.cloudinary.com/callvoip/image/upload/v1565083732/yealink-provisioning-5_uery2l.png)  
    ![](https://res.cloudinary.com/callvoip/image/upload/v1565083789/yealink-provisioning-6_np4gfy.png)  
@@ -69,8 +66,7 @@ Hieronder vindt u ons snelle stappenplan en een uitgebreider stappenplan met ged
    \- **BELANGRIJK**: klik op \[**Afronden**\] om het toestel definitief aan te maken. Als u dit vergeet is het toestel niet aangemaakt en zal provisioning niet werken.  
    ![](https://res.cloudinary.com/callvoip/image/upload/v1565083927/yealink-provisioning-8_ta5ud4.png)
 5. **Log in op uw IP-toestel om de provisioning link te plaatsen**  
-   Ga terug naar het andere internet-tabblad waar u was ingelogd op uw toestel, of log opnieuw op uw toestel in. Ga naar tabblad \[Settings\] > submenu \[Auto Provision\].
-
+   Ga terug naar het andere internet-tabblad waar u was ingelogd op uw toestel, of log opnieuw op uw toestel in. Ga naar tabblad \[Settings\] > submenu \[Auto Provision\].  
    \- vervang de waarde van veld \[Provisioning Server\] met de provisioning link  
    \- Controleer of deze begint met http://provisioning.callvoip.nl/....  
    ![](https://res.cloudinary.com/callvoip/image/upload/v1565084058/yealink-provisioning-9_mhvp39.png)  
@@ -105,8 +101,7 @@ Bij tabblad \[Upgrade\] > \[Basic\] ziet u de firmwareversie en heeft u de mogel
 
 Controleer welke firmwareversie u nu heeft door op het toestel in te loggen > u ziet de firmwareversie staan op tabblad \[Status\]. U kunt op het toestel zelf ook klikken op \[Menu\] > \[Status\] > \[Firmware\] om de firmwareversie op te vragen.  
 ![](https://res.cloudinary.com/callvoip/image/upload/v1565084681/yealink-provisioning-16_ug20sl.png)  
-Af-fabriek worden de toestellen van Yealink voorzien van een provisioninglink naar de firmware-server. Dit betekent in de meeste gevallen dat een toestel dat wordt aangesloten op internet en wordt geherstart automatisch gaat zoeken naar de laatste firmware versie.
-
+Af-fabriek worden de toestellen van Yealink voorzien van een provisioninglink naar de firmware-server. Dit betekent in de meeste gevallen dat een toestel dat wordt aangesloten op internet en wordt geherstart automatisch gaat zoeken naar de laatste firmware versie.  
 \- sluit het toestel aan op internet en herstart; kijk of het toestel gaat zoeken naar firmware.
 
 Als uw toestel niet automatisch de firmware upgrade uitvoert, log dan in op uw toestel en ga naar tabblad \[Upgrade\], submenu \[Advanced\]. Controleer hier twee dingen:  
