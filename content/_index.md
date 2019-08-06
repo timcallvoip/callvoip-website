@@ -63,13 +63,13 @@ usps:
       omleidingen aanmaken.
   - icon: fa-bell
     title: Meldteksten
-    content: Met deze functionaliteit kunt u verschillende <a href="/telefonie/functionaliteiten/meldtekst/">meldtekst</a>
-      in uw belplan plaatsen. Denk hierbij aan bijvoorbeeld een welkomst-meldtekst.
+    content: Met deze functionaliteit kunt u verschillende <a href="/telefonie/functionaliteiten/meldtekst/">meldteksten</a>
+      in uw belplan plaatsen. Denk hierbij aan bijvoorbeeld een welkomsttekst.
   - icon: fa-file-audio
     title: Voicemailbox
     content: Met de <a href="/telefonie/functionaliteiten/voicemail/">voicemailbox</a>
-      kunt u gemiste gesprekken opvangen. De beller kan, na het door u ingestelde
-      melding, een bericht inspreken.
+      kunt u gemiste gesprekken opvangen. De beller kan, na de door u ingestelde melding,
+      een bericht inspreken.
 - title: Breid uw telefooncentrale eenvoudig uit
   content: 'Elke telefoniesituatie is anders. Het zou dus kunnen dat u de basis telefooncentrale
     wenst uit te breiden met één van de volgende betaalde functionaliteiten:'
@@ -126,7 +126,7 @@ options:
     mogen daarbij niet ontbreken.
   items:
   - icon: fa-cloud
-    title: Je eigen centrale in de cloud
+    title: Uw eigen centrale in de cloud
     content: Geen telefooncentrale op locatie, maar een moderne centrale in de cloud.
     link: "/telefonie/hostedvoip/"
     tab: true
