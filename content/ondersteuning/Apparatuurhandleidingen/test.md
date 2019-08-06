@@ -10,21 +10,21 @@ Het in gebruik nemen van een Yealink toestel is Simmpl! Daarvoor biedt de Simmpl
 \- in minder dan een minuut is uw toestel ingesteld!  
 Hieronder vindt u ons snelle stappenplan en een uitgebreider stappenplan met gedetailleerde informatie en illustraties.
 
-1. Sluit uw Yealink IP-telefoon aan en maak deze klaar voor gebruik  
+1. **Sluit uw Yealink IP-telefoon aan en maak deze klaar voor gebruik**  
    Zorg dat het toestel is aangesloten op uw netwerk en met internet is verbonden.
-2. Vraag het IP-adres van uw IP-toestel op en log op uw toestel in  
+2. **Vraag het IP-adres van uw IP-toestel op en log op uw toestel in**  
    Druk op de \[OK\]-toets om het IP-adres op te vragen en log in, default user en password zijn \[admin en \[admin\].
-3. Het verzamelen van de benodigde toestelgegevens  
+3. **Het verzamelen van de benodigde toestelgegevens**  
    Als u inlogt vindt u op tabblad \[status\]:  
    \- de firmware-versie > provisioning is mogelijk vanaf versie x.70  
    \- het MAC-adres > dit kunt u invullen op de Simmpl centrale
-4. Log in op de Simmpl centrale om een gebruiker en toestel aan te maken  
+4. **Log in op de Simmpl centrale om een gebruiker en toestel aan te maken**  
    Zorg dat u op de Simmpl centrale een gebruiker en een toestel heeft aangemaakt en gekoppeld. (voor meer informatie, zie de handleidingen in onze bibliotheek).  
    Ga naar de toestel-instellingen, kies in stap 1 \[Provisioning\] en plak het MAC-adres. Kopieer in stap 2 de provisioning link en vergeet niet op \[Finish\] te klikken.
-5. Log in op uw IP-toestel om de provisioning link te plaatsen  
+5. **Log in op uw IP-toestel om de provisioning link te plaatsen**  
    Log weer in op het toestel en ga naar tabblad \[Upgrade\] > tab \[Advanced\].  
    Plak de provisioning link in veld \[Provisioning Server\] en klik op \[Auto Provisioning\]. Bevestig en wacht tot het toestel klaar is met instellen.
-6. Controleer of provisioning is geslaagd!  
+6. **Controleer of provisioning is geslaagd!**  
    Controleer of provisioning geslaagd is  
    \- door te testen of het toestel kan uitbellen  
    \- door te testen of de gegevens goed op Accounttabblad 1 staan  
@@ -32,7 +32,7 @@ Hieronder vindt u ons snelle stappenplan en een uitgebreider stappenplan met ged
 
 **Gefeliciteerd, provisioning is geslaagd!**
 
-1. Sluit uw Yealink IP-telefoon aan en maak deze klaar voor gebruik  
+1. **Sluit uw Yealink IP-telefoon aan en maak deze klaar voor gebruik**  
    Sluit uw Yealink IP-telefoon aan. Zorg dat het toestel met een netwerkkabel is verbonden met uw internetverbinding. Let erop dat u de kabel aan de toestel-zijde aansluit op de INTERNET-poort (en niet op de PC-poort, daar kan evt. uw computer op aangesloten worden). Deze netwerkkabel wordt op uw netwerk/router aangesloten zodat de telefoon met internet is verbonden.  
    Als u de telefoon start, dan zal deze doorgaans eerst kijken of er nieuwe firmware beschikbaar is. Wacht totdat het toestel hiermee klaar is en ga pas dan verder.
 
@@ -40,7 +40,7 @@ Hieronder vindt u ons snelle stappenplan en een uitgebreider stappenplan met ged
 
    Wel zo praktisch, stel het toestel nog even op Nederlands in. Druk op het toestel zelf op de volgende knoppen:  
    _Menu toets > 3. settings > 1. basic settings > 1. language > kies Nederlands_
-2. Vraag het IP-adres van uw IP-toestel op en log op uw toestel in  
+2. **Vraag het IP-adres van uw IP-toestel op en log op uw toestel in**  
    Om op het IP-toestel in te loggen heeft u het IP-adres nodig.
 
    > druk op de OK toets om het IP-adres op te vragen  
@@ -48,12 +48,12 @@ Hieronder vindt u ons snelle stappenplan en een uitgebreider stappenplan met ged
 
    Ga nu naar internet en vul het IP-adres met puntjes in de adresbalk van uw internetprogramma (browser) in. Het inlogscherm verschijnt:  
    ![](https://res.cloudinary.com/callvoip/image/upload/v1565083035/yealink-provisioning-1_jo6zdb.png)
-3. Het verzamelen van de benodigde toestelgegevens  
+3. **Het verzamelen van de benodigde toestelgegevens**  
    Om uw toestel te kunnen hebben we een aantal gegevens nodig. Als u bent ingelogd op uw toestel zien we deze gegevens gelijk in het scherm:  
    ![](https://res.cloudinary.com/callvoip/image/upload/v1565083097/yealink-provisioning-2_dyhrj5.png)  
    Provisioning werkt vanaf firmwareversie x.70. Heeft uw toestel een oudere firmwareversie? Upgrade dan eerst de firmware.  
    ![](https://res.cloudinary.com/callvoip/image/upload/v1565083161/yealink-provisioning-3_zzzv7z.png)
-4. Log in op de Simmpl centrale om een gebruiker en toestel aan te maken  
+4. **Log in op de Simmpl centrale om een gebruiker en toestel aan te maken**  
    U heeft de configuratiepagina van uw IP-telefoon nog geopend. Open nu een tweede internetvenster (bv. nieuw tabblad in uw browser) en ga in dat tabblad naar de Simmpl telefooncentrale. U kunt dan gemakkelijk het toestel aanmaken en de provisioning link op de telefooncentrale opvragen, en deze daarna op de juiste plaats in uw toestel plaatsen zonder dat u opnieuw hoeft in te loggen.
 
    Ga naar <a href="https://panel.callvoip.nl/login/panel" target="_blank">https://panel.callvoip.nl/login/panel</a> en log in op uw Simmpl telefooncentrale. Kies links in het menu optie \[Toestellen\].  
@@ -67,7 +67,7 @@ Hieronder vindt u ons snelle stappenplan en een uitgebreider stappenplan met ged
    \- kopieer de provisioning link met uw muis of met button \[**Kopieer**\]  
    \- **BELANGRIJK**: klik op \[**Afronden**\] om het toestel definitief aan te maken. Als u dit vergeet is het toestel niet aangemaakt en zal provisioning niet werken.  
    ![](https://res.cloudinary.com/callvoip/image/upload/v1565083927/yealink-provisioning-8_ta5ud4.png)
-5. Log in op uw IP-toestel om de provisioning link te plaatsen  
+5. **Log in op uw IP-toestel om de provisioning link te plaatsen**  
    Ga terug naar het andere internet-tabblad waar u was ingelogd op uw toestel, of log opnieuw op uw toestel in. Ga naar tabblad \[Settings\] > submenu \[Auto Provision\].  
      
    > vervang de waarde van veld \[Provisioning Server\] met de provisioning link Controleer of deze begint met http://provisioning.callvoip.nl/....  
@@ -80,7 +80,7 @@ Hieronder vindt u ons snelle stappenplan en een uitgebreider stappenplan met ged
    ![](https://res.cloudinary.com/callvoip/image/upload/v1565084192/yealink-provisioning-11_lk261b.png)  
    Als de telefooncentrale klaar is met provisioning volgt melding:  
    ![](https://res.cloudinary.com/callvoip/image/upload/v1565084243/yealink-provisioning-12_g2z8aq.png)
-6. Controleer of provisioning is geslaagd!  
+6. **Controleer of provisioning is geslaagd!**  
    Uw toestel is nu geprovisioned.   
    Dat betekent dat de Simmpl telefooncentrale het toestel heeft ingeregeld en dat u ermee moet kunnen bellen*.  
    U kunt dit op de volgende manier testen:  
