@@ -138,13 +138,13 @@ options:
     tab: true
   - icon: fa-tty
     title: Nieuwe apparatuur nodig?
-    content: Geen opdringerige verkopers. Met onze specialist kijk je samen of je
+    content: Geen opdringerige verkopers. Met onze specialist kijkt u samen of uw
       huidige apparatuur geschikt is.
     link: https://callvoip.shop/
     tab: true
   - icon: fa-headset
-    title: Hulp nodig? Wij staan voor je klaar
-    content: Geen lange wachttijden of doorverbinden. Bij Callvoip spreek je altijd
+    title: Hulp nodig? Wij staan voor u klaar
+    content: Geen lange wachttijden of doorverbinden. Bij Callvoip spreek u altijd
       direct met een specialist.
     link: "/ondersteuning/"
     tab: true
