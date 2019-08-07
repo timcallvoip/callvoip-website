@@ -11,12 +11,12 @@ hero:
   button:
     content: Bereken je kosten
     link: "/calculator"
-  image: "/v1552466820/hostedvoip.svg"
+  image: "/v1565183715/callvoip-website-qaller-algemeen_z8qd3q.png"
 blocks:
 - content: Met de <b>gratis</b> variant van Qaller kunt u uw telefooncentrale beheren
     en bedienen via uw smartphone. Wanneer dan ook, waar dan ook. Snel en gemakkelijk.
     Dat biedt vrijheid en onafhankelijkheid.
-  image: "/v1552466820/phones.png"
+  image: "/v1565183745/callvoip-website-qaller-dialplan_lniops.png"
   position: image_left
   title: Bedien de telefooncentrale (Qaller)
 - content: |-
@@ -26,7 +26,7 @@ blocks:
     …zien relaties uw mobiele telefoonnummer niet.<br>
     …loopt zakelijk belverkeer via de telefooncentrale.<br>
     …bent u inkomend bereikbaar, zowel intern als extern.<br>
-  image: "/v1552466837/windows.svg"
+  image: "/v1565183772/callvoip-website-qaller-bellen_caeolh.png"
   position: ''
   title: Bel met uw zakelijke telefoonnummer (Qaller Plus)
 usps:
