@@ -13,6 +13,7 @@ fields:
     required: false
   label: URL
 pages:
+- content/formulier/aanvragen-nummer.md
 - content/formulier/mijn-callvoip.md
 - content/formulier/aanvragen-overzicht.md
 - content/formulier/gidsvermelding-aanvragen.md
@@ -44,7 +45,6 @@ pages:
 - content/formulier/voip-cti-koppeling-met-uw-crm-pakket-aanvragen.md
 - content/formulier/internationaal-nummer-aanvragen.md
 - content/formulier/nummerportering-aanvragen.md
-- content/formulier/aanvragen-nummer.md
 - content/formulier/aanvraag-verzonden.md
 - content/formulier/wijziging-verzonden.md
 - content/formulier/opzegging-verzonden.md
