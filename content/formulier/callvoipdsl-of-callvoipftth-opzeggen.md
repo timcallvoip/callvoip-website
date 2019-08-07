@@ -40,4 +40,4 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{< form/button "Verstuur formulier" >}}
 
-{{</ form >}}
+{{</ form >}} 

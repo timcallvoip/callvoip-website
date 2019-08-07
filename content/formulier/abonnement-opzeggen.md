@@ -59,4 +59,4 @@ _Per wanneer wilt u het abonnement opzeggen?_
 
 {{< form/button "Verstuur formulier" >}}
 
-{{</ form >}}
+{{</ form >}} 

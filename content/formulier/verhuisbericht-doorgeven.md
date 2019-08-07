@@ -56,4 +56,4 @@ Gaat u verhuizen? Vul het formulier in, controleer de bevestigingsmail en stuur 
 
 {{< form/button "Verstuur formulier" >}}
 
-{{</ form >}}
+{{</ form >}} 

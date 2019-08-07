@@ -13,6 +13,14 @@ fields:
     required: false
   label: URL
 pages:
+- content/formulier/vast-mobiel-vamos-opzeggen.md
+- content/formulier/callvoipdsl-of-callvoipftth-opzeggen.md
+- content/formulier/verhuisbericht-doorgeven.md
+- content/formulier/serviceplus-opzeggen.md
+- content/formulier/abonnement-opzeggen.md
+- content/formulier/conference-service-opzeggen.md
+- content/formulier/voip-cti-koppeling-met-uw-crm-pakket-opzeggen.md
+- content/formulier/nummer-opzeggen.md
 - content/formulier/srtp-vesleutelde-gesprekken-opzeggen.md
 - content/formulier/klantgegevens-wijzigen.md
 - content/formulier/belbundel-opzeggen.md
@@ -37,16 +45,8 @@ pages:
 - content/formulier/contact.md
 - content/formulier/mijn-callvoip.md
 - content/formulier/aanvraag-verzonden.md
-- content/formulier/callvoipdsl-of-callvoipftth-opzeggen.md
-- content/formulier/voip-cti-koppeling-met-uw-crm-pakket-opzeggen.md
-- content/formulier/conference-service-opzeggen.md
-- content/formulier/nummer-opzeggen.md
-- content/formulier/verhuisbericht-doorgeven.md
 - content/formulier/wijziging-verzonden.md
 - content/formulier/opzegging-verzonden.md
-- content/formulier/vast-mobiel-vamos-opzeggen.md
-- content/formulier/serviceplus-opzeggen.md
-- content/formulier/abonnement-opzeggen.md
 - content/formulier/opzeggen-overzicht.md
 - content/formulier/wijzigen-overzicht.md
 - content/formulier/aanvragen-overzicht.md
