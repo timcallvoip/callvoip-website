@@ -13,6 +13,11 @@ fields:
     required: false
   label: URL
 pages:
+- content/formulier/conference-service-aanvragen.md
+- content/formulier/managed-4g-verbinding-aanvragen.md
+- content/formulier/importeren-telefoonboek-click-to-dial-aanvragen.md
+- content/formulier/splitsing-10-blok-aanvragen.md
+- content/formulier/088-nummerblok-activatie-aanvragen.md
 - content/formulier/gidsvermelding-aanvragen.md
 - content/formulier/srtp-vesleutelde-gesprekken-aanvragen.md
 - content/formulier/0800-servicenummer-aanvragen.md
@@ -31,8 +36,6 @@ pages:
 - content/formulier/srtp-vesleutelde-gesprekken-opzeggen.md
 - content/formulier/conference-service-opzeggen.md
 - content/formulier/nummer-opzeggen.md
-- content/formulier/importeren-telefoonboek-click-to-dial-aanvragen.md
-- content/formulier/088-nummerblok-activatie-aanvragen.md
 - content/formulier/0900-servicenummer-aanvragen.md
 - content/formulier/verhuisbericht-doorgeven.md
 - content/formulier/rekeningnummer-wijzigen.md
@@ -45,8 +48,5 @@ pages:
 - content/formulier/opzeggen-overzicht.md
 - content/formulier/wijzigen-overzicht.md
 - content/formulier/aanvragen-overzicht.md
-- content/formulier/splitsing-10-blok-aanvragen.md
 - content/formulier/klantgegevens-wijzigen.md
 - content/formulier/gidsvermelding-wijzigen.md
-- content/formulier/conference-service-aanvragen.md
-- content/formulier/managed-4g-verbinding-aanvragen.md
