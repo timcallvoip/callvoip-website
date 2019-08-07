@@ -35,7 +35,7 @@ Vul het formulier in, controleer de bevestigingsmail en stuur deze per mail naar
 
 {{</ form >}}
 
-<br><br>
+<br>
 
 {{< layout/columns >}}
 {{< layout/column3 >}}
