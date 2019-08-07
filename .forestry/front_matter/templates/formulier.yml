@@ -13,6 +13,10 @@ fields:
     required: false
   label: URL
 pages:
+- content/formulier/conference-service-aanvragen.md
+- content/formulier/contact.md
+- content/formulier/abonnement-opzeggen.md
+- content/formulier/conference-service-opzeggen.md
 - content/formulier/verhuisbericht-doorgeven.md
 - content/formulier/klantgegevens-wijzigen.md
 - content/formulier/gidsvermelding-wijzigen.md
@@ -21,13 +25,10 @@ pages:
 - content/formulier/voip-cti-koppeling-met-uw-crm-pakket-opzeggen.md
 - content/formulier/belbundel-opzeggen.md
 - content/formulier/serviceplus-opzeggen.md
-- content/formulier/abonnement-opzeggen.md
-- content/formulier/conference-service-opzeggen.md
 - content/formulier/nummer-opzeggen.md
 - content/formulier/srtp-vesleutelde-gesprekken-opzeggen.md
 - content/formulier/rekeningnummer-wijzigen.md
 - content/formulier/0900-servicenummer-aanvragen.md
-- content/formulier/conference-service-aanvragen.md
 - content/formulier/managed-4g-verbinding-aanvragen.md
 - content/formulier/importeren-telefoonboek-click-to-dial-aanvragen.md
 - content/formulier/splitsing-10-blok-aanvragen.md
@@ -42,7 +43,6 @@ pages:
 - content/formulier/internationaal-nummer-aanvragen.md
 - content/formulier/nummerportering-aanvragen.md
 - content/formulier/aanvragen-nummer.md
-- content/formulier/contact.md
 - content/formulier/mijn-callvoip.md
 - content/formulier/aanvraag-verzonden.md
 - content/formulier/wijziging-verzonden.md
