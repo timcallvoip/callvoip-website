@@ -13,6 +13,7 @@ fields:
     required: false
   label: URL
 pages:
+- content/formulier/gidsvermelding-wijzigen.md
 - content/formulier/callvoipdsl-of-callvoipftth-opzeggen.md
 - content/formulier/vast-mobiel-vamos-opzeggen.md
 - content/formulier/voip-cti-koppeling-met-uw-crm-pakket-opzeggen.md
@@ -24,7 +25,6 @@ pages:
 - content/formulier/nummer-opzeggen.md
 - content/formulier/srtp-vesleutelde-gesprekken-opzeggen.md
 - content/formulier/klantgegevens-wijzigen.md
-- content/formulier/gidsvermelding-wijzigen.md
 - content/formulier/rekeningnummer-wijzigen.md
 - content/formulier/0900-servicenummer-aanvragen.md
 - content/formulier/conference-service-aanvragen.md
