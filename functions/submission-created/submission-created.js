@@ -77,7 +77,7 @@ exports.handler =  async (event, context, callback) => {
     dynamic_template_data: {
       last_name: data.achternaam,
       form_name: form_name,
-      fields: fields,
+      fields: clientFields,
       subject: "Nieuwe inzending formulier: " + " " + form_name,
     }
   };
