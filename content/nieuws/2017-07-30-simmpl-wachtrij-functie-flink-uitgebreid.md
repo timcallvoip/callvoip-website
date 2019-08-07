@@ -18,8 +18,8 @@ U heeft meer informatie over de wachtende beller en kunt hem dankzij deze tools 
 
 Meer informatie:
 
-&bull; <a href="http://www.simmpl.nl/downloads/Simmpl_feature-update_juli.pdf" target="_blank"><u>Klik voor de Simmpl feature update (juli-17)</u></a>
-&bull; <a href="http://www.simmpl.nl/downloads/Simmpl_handleiding_wachtrij.pdf" target="_blank"><u>Meer informatie over de Wachtrij App</u></a>
+&bull; <a href="https://www.simmpl.nl/downloads/Simmpl_feature-update_juli.pdf" target="_blank"><u>Klik voor de Simmpl feature update (juli-17)</u></a>
+&bull; <a href="https://www.simmpl.nl/downloads/Simmpl_handleiding_wachtrij.pdf" target="_blank"><u>Meer informatie over de Wachtrij App</u></a>
 
 
 Zo kunt u voortaan:

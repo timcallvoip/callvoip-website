@@ -38,4 +38,4 @@ Dan kunnen wij dit uiteraard ook voor u doen!
 
 In onze handleiding leest u precies wat u met deze mooie nieuwe feature gespreksopname kunt doen.
 
-<a class="button" href="http://www.simmpl.nl/downloads/Simmpl_handleiding_Call-Recording.pdf" target="_blank">Handleiding Gespreksopname</a>
+<a class="button" href="https://www.simmpl.nl/downloads/Simmpl_handleiding_Call-Recording.pdf" target="_blank">Handleiding Gespreksopname</a>

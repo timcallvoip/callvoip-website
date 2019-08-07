@@ -26,7 +26,7 @@ Met Click-to-Dial maakt u in een handomdraai alle telefoonnummers in uw Chrome w
 Met onze handleiding heeft u de plugin in een handomdraai geïnstalleerd.
 
 <a href="https://chrome.google.com/webstore/detail/simmpl-click-to-dial/hnjepanannlajhppemgdmcjjpimlhkgm?hl=nl" target="_blank" class="button hollow">Download plugin</a>
-<a href="http://www.simmpl.nl/downloads/Simmpl_handleiding_ClicktoDial.pdf" target="_blank" class="button hollow">Handleiding</a>
+<a href="https://www.simmpl.nl/downloads/Simmpl_handleiding_ClicktoDial.pdf" target="_blank" class="button hollow">Handleiding</a>
 
 
  [1]: https://chrome.google.com/webstore/detail/simmpl-click-to-dial/hnjepanannlajhppemgdmcjjpimlhkgm?hl=nl

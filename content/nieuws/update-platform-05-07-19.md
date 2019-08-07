@@ -36,7 +36,7 @@ Er zijn extra statistieken toegevoegd aan de gespreksrapportages. Zo heeft u sne
 
 U kunt hier per belplan bekijken wat de dagelijkse of wekelijkse statistieken (beantwoorde gesprekken, gespreksduur en piekuur) zijn:
 
-<a href="http://www.simmpl.nl/downloads/Callvoip_Snelstart_Bereikbaarheidsdashboard.pdf" class="button">Snelstart handleiding</a>
+<a href="https://www.simmpl.nl/downloads/Callvoip_Snelstart_Bereikbaarheidsdashboard.pdf" class="button">Snelstart handleiding</a>
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1562745475/printscreenCallStatistics.png)
 

@@ -87,7 +87,7 @@ Als bestaande klant van Callvoip kunt u altijd uw abonnement uitbreiden. Zo kunt
 [CallvoipDSL](https://www.callvoip.nl/download/callvoip/callvoip-adsl-vdsl_aanvraagformulier.pdf)
 {{</ layout/column2 >}}
 {{< layout/column2 >}}
-[Glasvezel (via Callvoip)](http://www.simmpl.nl/downloads/callvoip_ftth_aanvraagformulier.pdf)
+[Glasvezel (via Callvoip)](https://www.simmpl.nl/downloads/callvoip_ftth_aanvraagformulier.pdf)
 {{</ layout/column2 >}}
 {{</ layout/columns >}}
 
@@ -219,9 +219,9 @@ Als bestaande klant van Callvoip kunt u altijd diensten opzeggen. Kies hieronder
 
 {{< layout/columns >}}
 {{< layout/column2 >}}
-[Gehele abonnement](/opzeggen/abonnement/)  
-{{</ layout/column2 >}}  
-{{< layout/column2 >}}  
+[Gehele abonnement](/opzeggen/abonnement/)
+{{</ layout/column2 >}}
+{{< layout/column2 >}}
 [Nummer](/opzeggen/nummer/)
 {{</ layout/column2 >}}
 {{</ layout/columns >}}
@@ -237,8 +237,8 @@ Als bestaande klant van Callvoip kunt u altijd diensten opzeggen. Kies hieronder
 
 #### Internet
 
-{{< layout/columns >}}  
-{{< layout/column2 >}}  
+{{< layout/columns >}}
+{{< layout/column2 >}}
 [CallvoipDSL of FTTH](/opzeggen/internet-callvoip/)
 {{</ layout/column2 >}}
 {{< layout/column2 >}}

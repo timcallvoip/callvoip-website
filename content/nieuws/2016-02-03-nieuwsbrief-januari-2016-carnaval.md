@@ -30,4 +30,4 @@ Dan kunnen wij dit uiteraard ook voor u doen!
 
 Namens het hele CallvoipTeam wensen wij u een kleurrijk Carnaval!
 
-<a class="button" href="http://www.simmpl.nl/downloads/Simmpl_handleiding_tijdscondities.pdf" target="_blank">Handleiding Tijdscondities</a>
+<a class="button" href="https://www.simmpl.nl/downloads/Simmpl_handleiding_tijdscondities.pdf" target="_blank">Handleiding Tijdscondities</a>

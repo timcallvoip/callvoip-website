@@ -17,4 +17,4 @@ Daarnaast hebben we nóg een aantal van uw wensen verwerkt tot prachtige nieuwe 
 
 Binnenkort ontvangt u meer informatie over alle nieuwe mogelijkheden!
 
-<a href="http://www.callvoiptelefonie.nl/qaller"><img src="https://res.cloudinary.com/callvoip/image/upload/v1556647042/SIMMPL_QALLER_TRANSPARANT-300x297.png" class="aligncenter size-medium" /></a>
+<a href="https://www.callvoiptelefonie.nl/qaller"><img src="https://res.cloudinary.com/callvoip/image/upload/v1556647042/SIMMPL_QALLER_TRANSPARANT-300x297.png" class="aligncenter size-medium" /></a>

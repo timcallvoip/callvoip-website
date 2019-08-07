@@ -30,7 +30,7 @@ Namens het hele CallvoipTeam wensen wij u alvast fijne feestdagen!
 
 Maak de telefooncentrale eenvoudig en snel klaar voor de feestdagen. Met onze nieuwe korte handleiding voor het instellen van tijdscondities stelt u dit in no-time in. Naast het instellen van de tijdsconditie dient u natuurlijk nog wel een meldtekst in te spreken.
 
-<a class="button" href="http://www.simmpl.nl/downloads/Simmpl_handleiding_tijdscondities.pdf" target="_blank">Handleiding Tijdscondities</a>
+<a class="button" href="https://www.simmpl.nl/downloads/Simmpl_handleiding_tijdscondities.pdf" target="_blank">Handleiding Tijdscondities</a>
 
 **Feestdagen actie**
 

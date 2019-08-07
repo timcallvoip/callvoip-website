@@ -26,7 +26,7 @@ In het extra toegevoegde tabblad **Contacten** (zie afbeelding hierboven) kunt u
 Met onze handleiding heeft u de plugin in een handomdraai geïnstalleerd.
 
 <a href="https://chrome.google.com/webstore/detail/simmpl-click-to-dial/hnjepanannlajhppemgdmcjjpimlhkgm?hl=nl" target="_blank" class="button hollow">Download plugin</a>
-<a href="http://www.simmpl.nl/downloads/Simmpl_handleiding_ClicktoDial.pdf" target="_blank" class="button hollow">Handleiding</a>
+<a href="https://www.simmpl.nl/downloads/Simmpl_handleiding_ClicktoDial.pdf" target="_blank" class="button hollow">Handleiding</a>
 
 
 Met Click-to-Dial maakt u in een handomdraai alle telefoonnummers in uw Chrome webbrowser klikbaar: u klikt en het nummer wordt gebeld vanaf uw eigen IP-toestel. <br /> Het intoetsen van telefoonnummers is daarmee dus verleden tijd. De extensie wordt gemiddeld met vier (van de max vijf) sterren beoordeeld en is gratis te downloaden in de Chrome App-store voor abonnees van CallvoipTelefonie!

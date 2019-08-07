@@ -36,7 +36,7 @@ In de meeste telefoons kunt u instellen dat er alleen verkeer vanaf de Callvoip 
 
 Met deze eenvoudige wijziging heeft u de spookbelletjes geblokkeerd.
 
-<a href="http://www.simmpl.nl/downloads/Simmpl_technote_voorkomen_spookbelletjes.pdf" target="_blank">In ons document over spookbelletjes leest u hier meer over.</a>
+<a href="https://www.simmpl.nl/downloads/Simmpl_technote_voorkomen_spookbelletjes.pdf" target="_blank">In ons document over spookbelletjes leest u hier meer over.</a>
 
 <u>Aanpassingen in uw firewall</u>
 
@@ -44,4 +44,4 @@ Met de aanpassingen in uw telefoon heeft u de oorzaak van het probleem nog niet 
 
 U kunt het beste uw firewall beter instellen voor VoIP telefonie. Ons advies is om alleen het verkeer van en naar onze servers toe te laten.
 
-<a href="http://www.simmpl.nl/downloads/Simmpl_Router-en-Firewall-Issues.pdf" target="_blank">In ons document over firewalls leest u hier meer over.</a>
+<a href="https://www.simmpl.nl/downloads/Simmpl_Router-en-Firewall-Issues.pdf" target="_blank">In ons document over firewalls leest u hier meer over.</a>

@@ -21,7 +21,7 @@ Met trots introduceert CallvoipTelefonie de Click-to-dial functionaliteit.<br />
 Met onze handleiding heeft u de plugin in een handomdraai geïnstalleerd.
 
 <a href="https://chrome.google.com/webstore/detail/simmpl-click-to-dial/hnjepanannlajhppemgdmcjjpimlhkgm?hl=nl" target="_blank" class="button hollow">Download plugin</a>
-<a href="http://www.simmpl.nl/downloads/Simmpl_handleiding_ClicktoDial.pdf" target="_blank" class="button hollow">Handleiding</a>
+<a href="https://www.simmpl.nl/downloads/Simmpl_handleiding_ClicktoDial.pdf" target="_blank" class="button hollow">Handleiding</a>
 
 ### Wat doet de Click-to-Dial functie?
 
@@ -30,7 +30,7 @@ De App zorgt dat telefoonnummers in uw <a href="https://chrome.google.com/websto
 *   Snelheid: u hoeft geen nummer meer in te toetsen
 *   Gemak: telefoonnummers worden automatisch herkend
 *   Breed inzetbaar: of: selecteer en klik rechts om een nummer alsnog te bellen!
-*   Eenvoudig: in een paar minuten in te stellen met onze [handleiding](http://www.simmpl.nl/downloads/Simmpl_snelstart_handleiding.pdf)
+*   Eenvoudig: in een paar minuten in te stellen met onze [handleiding](https://www.simmpl.nl/downloads/Simmpl_snelstart_handleiding.pdf)
 *   De Chrome app is gratis voor abonnees van CallvoipTelefonie!
 
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1556647042/schermprint_clicktodial_schaduw.png" alt="Click to Dial" class="aligncenter size-full" />
@@ -50,7 +50,7 @@ Met de Click-to-Dial functie kunt u nog efficienter werken. Voortaan hoeft u gee
 
 ### Hoe stel ik de Click-to-Dial in?
 
-Wij hebben een uitgebreide handleiding gemaakt waar stapsgewijs in wordt vermeld hoe u de extensie in Google Chrome kunt downloaden en instellen. De handleiding voor het instellen van de Click-to-Dial vindt u <a href="http://www.simmpl.nl/downloads/Simmpl_handleiding_ClicktoDial.pdf" target="_blank"><u><strong>hier</strong></u></a>.
+Wij hebben een uitgebreide handleiding gemaakt waar stapsgewijs in wordt vermeld hoe u de extensie in Google Chrome kunt downloaden en instellen. De handleiding voor het instellen van de Click-to-Dial vindt u <a href="https://www.simmpl.nl/downloads/Simmpl_handleiding_ClicktoDial.pdf" target="_blank"><u><strong>hier</strong></u></a>.
 
 
 Zodra de Chrome extensie geïnstalleerd is, dan komt er achter een telefoonnummer het Click-to-Dial icoon (groen hoorntje) te staan:

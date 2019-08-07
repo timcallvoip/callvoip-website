@@ -42,7 +42,7 @@ prijzen:
   content: De eenmalige kosten verschillen per situatie. Wij informeren u graag!
   button:
     title: Direct bestellen
-    link: http://www.simmpl.nl/downloads/callvoip_ftth_aanvraagformulier.pdf
+    link: https://www.simmpl.nl/downloads/callvoip_ftth_aanvraagformulier.pdf
   tarieven:
     footer: Prijzen zijn excl. BTW
     items:
@@ -53,7 +53,7 @@ prijzen:
   content: De eenmalige kosten verschillen per situatie. Wij informeren u graag!
   button:
     title: Direct bestellen
-    link: http://www.simmpl.nl/downloads/callvoip_ftth_aanvraagformulier.pdf
+    link: https://www.simmpl.nl/downloads/callvoip_ftth_aanvraagformulier.pdf
   tarieven:
     footer: Prijzen zijn excl. BTW
     items:
@@ -64,7 +64,7 @@ prijzen:
   content: De eenmalige kosten verschillen per situatie. Wij informeren u graag!
   button:
     title: Direct bestellen
-    link: http://www.simmpl.nl/downloads/callvoip_ftth_aanvraagformulier.pdf
+    link: https://www.simmpl.nl/downloads/callvoip_ftth_aanvraagformulier.pdf
   tarieven:
     items:
     - title: Maandelijks

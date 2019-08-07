@@ -46,4 +46,4 @@ Voor diverse soorten adhoc gelegenheden die invloed hebben op inkomend telefoonv
 
 <img class="alignright size-full wp-image-834" src="https://res.cloudinary.com/callvoip/image/upload/v1556647042/highlight_flow-control-app-3_150215MT.gif" alt="Flow control app"  />
 
-<a title="Simmpl handleiding faxberichten versturen" href="http://www.simmpl.nl/downloads/Simmpl_omleidingsapp.pdf" target="_blank">Klik hier voor de uitgebreide handleiding van de omleidings-app!</a>
+<a title="Simmpl handleiding faxberichten versturen" href="https://www.simmpl.nl/downloads/Simmpl_omleidingsapp.pdf" target="_blank">Klik hier voor de uitgebreide handleiding van de omleidings-app!</a>

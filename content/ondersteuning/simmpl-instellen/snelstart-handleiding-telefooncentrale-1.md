@@ -5,16 +5,16 @@ description: ''
 images: []
 
 ---
-**Gefeliciteerd**!  
+**Gefeliciteerd**!
 U maakt gebruik van Simmpl: de intuïtieve cloudbased telefooncentrale voor de zakelijke gebruiksomgeving. In deze handleiding vindt u een korte instructie bij het inloggen en gebruiken van de telefooncentrale. Simmpl biedt een duidelijke en intuïtieve internet-bediening: via drag-and-drop en keuze uit de vele acties creëert u in no-time en met een minimum aan ervaring de gewenste belroutes.
 
 ### Simmpl: opbouw en werkwijze
 
 #### Opbouw
 
-De Simmpl telefooncentrale is opgebouwd uit de volgende onderdelen:  
-1\. **Gebruikers**: uw medewerkers en hun rol, die u koppelt aan een toestel  
-2\. **Toestellen**: uw telefoons en hun functies, die gekoppeld worden aan een gebruiker  
+De Simmpl telefooncentrale is opgebouwd uit de volgende onderdelen:
+1\. **Gebruikers**: uw medewerkers en hun rol, die u koppelt aan een toestel
+2\. **Toestellen**: uw telefoons en hun functies, die gekoppeld worden aan een gebruiker
 3\. **Belplan**: belroutes per nummer waar u aangeeft wat er gebeurt als er gebeld wordt
 
 #### Werkwijze
@@ -23,19 +23,19 @@ Om de Simmpl centrale in te richten start u met inloggen (zie punt 2). Vervolgen
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1564481303/Support-snelstart-apps_axysrx.png)
 
-{{< layout/columns >}}  
+{{< layout/columns >}}
 {{< layout/column2 >}}
 
 ### Inloggen op Simmpl
 
-Inloggen op Simmpl doet u op het volgende adres: [http://panel.callvoip.nl](http://panel.callvoip.nl). Gebruik de username (gebruikersnaam) en het password (wachtwoord) van het klantgegevensformulier dat u van CallvoipTelefonie heeft ontvangen, en klik op \[log in\]. U komt nu op het Simmpl Dashboard terecht: het startpunt van uw verdere activiteiten. Op de volgende pagina vindt u een nadere toelichting van de onderdelen van het dashboard.  
-{{</ layout/column2 >}}  
-{{< layout/column2 >}}  
-![](https://res.cloudinary.com/callvoip/image/upload/v1564481506/support-snelstart-inlog_hpakcp.png)  
-{{</ layout/column2 >}}  
+Inloggen op Simmpl doet u op het volgende adres: [https://panel.callvoip.nl](https://panel.callvoip.nl). Gebruik de username (gebruikersnaam) en het password (wachtwoord) van het klantgegevensformulier dat u van CallvoipTelefonie heeft ontvangen, en klik op \[log in\]. U komt nu op het Simmpl Dashboard terecht: het startpunt van uw verdere activiteiten. Op de volgende pagina vindt u een nadere toelichting van de onderdelen van het dashboard.
+{{</ layout/column2 >}}
+{{< layout/column2 >}}
+![](https://res.cloudinary.com/callvoip/image/upload/v1564481506/support-snelstart-inlog_hpakcp.png)
+{{</ layout/column2 >}}
 {{</ layout/columns >}}
 
-**Uw telefoonnummers voorzien van een belroute**  
+**Uw telefoonnummers voorzien van een belroute**
 Om uw telefoonnummer te laten rinkelen op één of meer toestellen heeft u nodig:
 
 * een **belplan**: hierin wordt het nummer gekoppeld aan een of meer acties
@@ -55,17 +55,17 @@ Als u een nummer aanvraagt zorgt CallvoipTelefonie dat er een belplan wordt gema
 * Ga naar menu \[gebruiker\] en klik op \[toevoegen\]
 * Vul de gebruikersgegevens in:
 
-  – pasfoto / avatar (optioneel)  
-  – deze wordt getoond in de apps, lijst en bij de login  
-  – voor- en achternaam  
-  – e-mailadres, dit wordt gebruikt voor o.a. password recovery en voicemail/faxen  
-  – wachtwoord, hiermee kan de gebruiker zelf inloggen  
-  – intern nummer: het verkorte nummer waarmee men naar elkaar kan doorverbinden  
-  – inlognaam: deze wordt gegenereerd uit intern nummer en bedrijfsloginnaam  
-  – selecteer mee te sturen nummer: dit nummer stuurt de beller mee bij uitbellen  
-  – koppelen met toestel: dit kan zodra u het toestelaccount heeft aangemaakt  
-  – kies een rol: geef deze gebruiker een user  
-  – of administrator-profiel  
+  – pasfoto / avatar (optioneel)
+  – deze wordt getoond in de apps, lijst en bij de login
+  – voor- en achternaam
+  – e-mailadres, dit wordt gebruikt voor o.a. password recovery en voicemail/faxen
+  – wachtwoord, hiermee kan de gebruiker zelf inloggen
+  – intern nummer: het verkorte nummer waarmee men naar elkaar kan doorverbinden
+  – inlognaam: deze wordt gegenereerd uit intern nummer en bedrijfsloginnaam
+  – selecteer mee te sturen nummer: dit nummer stuurt de beller mee bij uitbellen
+  – koppelen met toestel: dit kan zodra u het toestelaccount heeft aangemaakt
+  – kies een rol: geef deze gebruiker een user
+  – of administrator-profiel
   – persoonlijke voicemail (default uit): deze kunt u op deze pagina inschakelen
 * Sla de gebruiker op, u ziet de gebruiker nu terug in het gebruikersoverzicht
 
@@ -76,10 +76,10 @@ Als u een nummer aanvraagt zorgt CallvoipTelefonie dat er een belplan wordt gema
 * Ga naar menu \[toestellen\] en klik op \[toevoegen\]
 * Vul de toestelgegevens in:
 
-  – merk: kies het merk of kies \[other\]  
-  – selecteer type: indien beschikbaar, kies het type toestel  
-  (– bij bepaalde merken is provisioning mogelijk– zie hiervoor de aparte handleiding)  
-  – naam: geef het toestel een naam (bv. toestel receptie, toestel werkplaats)  
+  – merk: kies het merk of kies \[other\]
+  – selecteer type: indien beschikbaar, kies het type toestel
+  (– bij bepaalde merken is provisioning mogelijk– zie hiervoor de aparte handleiding)
+  – naam: geef het toestel een naam (bv. toestel receptie, toestel werkplaats)
   – koppel aan gebruiker: selecteer hier de zojuist aangemaakte gebruiker
 * Klik op volgende stap voor de SIP-gegevens die nodig zijn om uw toestel in te stellen
 * Sla het toestel op, u ziet het toestel nu terug in het toesteloverzicht.
@@ -106,7 +106,7 @@ Om te zorgen dat een inkomend gesprek op uw telefoonnummer overgaat op één toe
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1564482535/Support-snelstart-doorverbinden_ga1d5a.png)
 
-**Interne doorschakelingen** - als u wilt dat inkomende gesprekken doorschakelen naar toestel 001, klik dan in het veld \[**Transfer to**\] en vul hier in: 001.  
+**Interne doorschakelingen** - als u wilt dat inkomende gesprekken doorschakelen naar toestel 001, klik dan in het veld \[**Transfer to**\] en vul hier in: 001.
 **_Belangrijk_**: u dient dan al een gebruiker 001 en toestel te hebben aangemaakt, en deze gebruiker aan het toestel gekoppeld! Zie hiervoor punt 1.
 
 De bijbehorende gebruiker-toestel-combinatie wordt geselecteerd (of kies zelf een **gebruiker-toestel-combinatie** in de dropdown-lijst). Selecteer de gebruiker en klik buiten het \[transfer to\] kader.

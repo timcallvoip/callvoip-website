@@ -36,7 +36,7 @@ Gesprekken ontvangen op uw smartphone was reeds mogelijk met een doorschakeling 
 
 <a href="https://www.callvoiptelefonie.nl/qaller/"><img src="https://res.cloudinary.com/callvoip/image/upload/v1556647042/Manual_Qaller_screenprint_2_250x445.png" alt="Qaller Plus Smartphone App" class="alignright size-full" /></a>
 
-<b>Neem Qaller Plus in enkele minuten in gebruik: </b><br /> 1. Download de Qaller App (<a href="http://www.qallerapp.com" target="_blank">www.qallerapp.com</a>)<br /> 2. Login op de centrale onder met uw eigen gebruikers-login<br /> 3. Activeer de app (QR-code of nummercode)<br /> 4. Schakel Qaller Plus in bij uw gebruikersdetails op de centrale (beheerder)<br /> 5. Start gelijk met bedienen en uitbellen!
+<b>Neem Qaller Plus in enkele minuten in gebruik: </b><br /> 1. Download de Qaller App (<a href="https://www.qallerapp.com" target="_blank">www.qallerapp.com</a>)<br /> 2. Login op de centrale onder met uw eigen gebruikers-login<br /> 3. Activeer de app (QR-code of nummercode)<br /> 4. Schakel Qaller Plus in bij uw gebruikersdetails op de centrale (beheerder)<br /> 5. Start gelijk met bedienen en uitbellen!
 
 <b>Toelichting uitbellen met Qaller Plus </b><br /> Wilt u uitbellen vanaf uw smartphone? Toets het nummer in.<br /> U ontvangt een inkomend gesprek op uw smartphone, neem deze aan.<br /> Gelijk wordt er een uitgaand gesprek opgezet naar het nummer dat u wilt bellen.
 
@@ -44,7 +44,7 @@ Qaller Plus belt uit via het mobiele netwerk, niet via 3G/4G internet. Het GSM-n
 
 ### Download Qaller gelijk!
 
-Download de Qaller Smartphone App en ga gelijk aan de slag!<br /> &raquo; <a href="http://www.simmpl.nl/downloads/Simmpl_handleiding_qaller_mobile_app.pdf" target="_blank">Klik hier voor de Qaller / Qaller Plus handleiding</a>.
+Download de Qaller Smartphone App en ga gelijk aan de slag!<br /> &raquo; <a href="https://www.simmpl.nl/downloads/Simmpl_handleiding_qaller_mobile_app.pdf" target="_blank">Klik hier voor de Qaller / Qaller Plus handleiding</a>.
 
 
 <a href="https://itunes.apple.com/us/app/qaller/id1140548146?mt=8" target="_blank">

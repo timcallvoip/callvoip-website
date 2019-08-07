@@ -27,5 +27,5 @@ Met Qaller bedient u Simmpl met uw mobiele telefoon. Zo kunt u heel snel en eenv
 <strong>✓</strong> voicemail aan- & uitzetten</p>
 
 Downloads:<br />
-&bull; <a href="http://www.qallerapp.com" target="_blank">Klik hier om Qaller te downloaden (Android, iPhone)</a><br />
-&bull; <a href="http://www.simmpl.nl/downloads/Simmpl_handleiding_qaller_mobile_app.pdf" target="_blank">Klik hier voor de Qaller handleiding</a>
+&bull; <a href="https://www.qallerapp.com" target="_blank">Klik hier om Qaller te downloaden (Android, iPhone)</a><br />
+&bull; <a href="https://www.simmpl.nl/downloads/Simmpl_handleiding_qaller_mobile_app.pdf" target="_blank">Klik hier voor de Qaller handleiding</a>

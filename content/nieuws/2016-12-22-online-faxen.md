@@ -26,7 +26,7 @@ De faxmodule van Simmpl is bedoeld voor inkomend en uitgaand faxen, is betrouwba
 
 Hieronder leest u meer over de Simmpl faxoplossing.
 
-&raquo; <a href="http://www.simmpl.nl/downloads/Simmpl_handleiding_faxbox_instellen_ontvangen_versturen.pdf" target="_blank">Klik hier voor onze handleiding bij de Simmpl faxoplossing.</a>
+&raquo; <a href="https://www.simmpl.nl/downloads/Simmpl_handleiding_faxbox_instellen_ontvangen_versturen.pdf" target="_blank">Klik hier voor onze handleiding bij de Simmpl faxoplossing.</a>
 
 ### Ontvang uw faxen via email
 
@@ -36,9 +36,9 @@ Met de Simmpl digitale faxbox **ontvangt u faxen als PDF in uw e-mail** (één o
 
 Via de Simmpl online telefooncentrale kunt u snel een simpel faxen versturen zónder faxapparaat. U uploadt eenvoudigweg een PDF-bestand en voert het faxnummer van de ontvanger in. Vervolgens zal de telefooncentrale uw bestand als fax versturen. Wij hebben ons systeem technisch geoptimaliseerd voor een optimale (en grote) kans dat de transactie slaag. De status **&#8216;verzonden&#8217;** wordt ook getoond in de telefooncentrale.
 
-&raquo; <a href="http://www.simmpl.nl/downloads/Simmpl_technote_faxen_versturen.pdf" target="_blank">Klik hier voor onze tips om succesvol te faxen.</a>
+&raquo; <a href="https://www.simmpl.nl/downloads/Simmpl_technote_faxen_versturen.pdf" target="_blank">Klik hier voor onze tips om succesvol te faxen.</a>
 
-<a href="http://www.simmpl.nl/downloads/Simmpl_handleiding_faxbox_instellen_ontvangen_versturen.pdf" target="_blank">
+<a href="https://www.simmpl.nl/downloads/Simmpl_handleiding_faxbox_instellen_ontvangen_versturen.pdf" target="_blank">
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1556647042/fax_versturen_400x304.png" class="aligncenter size-full" />
 </a>
 
@@ -49,7 +49,7 @@ Als u via de online telefooncentrale voortaan een fax verzendt, dan ontvangt u e
 
 Als uw fax NIET goed verzonden is, dan weet u dat dus ook.
 
-<a href="http://www.simmpl.nl/downloads/Simmpl_handleiding_faxbox_instellen_ontvangen_versturen.pdf" target="_blank"><img src="https://res.cloudinary.com/callvoip/image/upload/v1556647042/faxbevestiging_300x354.png" class="aligncenter size-full" /></a>
+<a href="https://www.simmpl.nl/downloads/Simmpl_handleiding_faxbox_instellen_ontvangen_versturen.pdf" target="_blank"><img src="https://res.cloudinary.com/callvoip/image/upload/v1556647042/faxbevestiging_300x354.png" class="aligncenter size-full" /></a>
 
 ### Faxt u nog met een écht faxapparaat?
 

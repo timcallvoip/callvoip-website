@@ -7,4 +7,4 @@ images: []
 ---
 De Simmpl telefooncentrale is uitgebreid met vele features en functionaliteiten. De uitgebreide handleiding is beschikbaar in .pdf.
 
-<a href="[http://www.simmpl.nl/downloads/Welkom_op_de_Simmpl_telefooncentrale.pdf](http://www.simmpl.nl/downloads/Welkom_op_de_Simmpl_telefooncentrale.pdf)" _target="_blank" class="button">_Download de uitgebreide handleiding</a>
+<a href="[https://www.simmpl.nl/downloads/Welkom_op_de_Simmpl_telefooncentrale.pdf](https://www.simmpl.nl/downloads/Welkom_op_de_Simmpl_telefooncentrale.pdf)" _target="_blank" class="button">_Download de uitgebreide handleiding</a>

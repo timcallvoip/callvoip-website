@@ -35,4 +35,4 @@ Neem telefoontjes over van een groep (bv team of afdeling).
 3. universeel: *8
 Neem elk inkomend telefoontje op uw toestel aan.
 
-<a class="button" href="http://www.simmpl.nl/downloads/Simmpl_handleiding_CallPickup.pdf" target="_blank">Handleiding Call Pickup</a>
+<a class="button" href="https://www.simmpl.nl/downloads/Simmpl_handleiding_CallPickup.pdf" target="_blank">Handleiding Call Pickup</a>

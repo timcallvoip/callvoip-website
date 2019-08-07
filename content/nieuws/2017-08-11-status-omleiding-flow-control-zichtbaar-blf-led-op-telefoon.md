@@ -14,7 +14,7 @@ Kent u de omleidings-app? Hiermee maakt u moeiteloos <strong>schakelaars </stron
 
 <b>NIEUW:</b><br /> Maak een omleiding en programmeer deze op een snelkeuzetoets van uw telefoon. Voortaan ziet u aan de <strong>BLF-LED</strong> zien of de omleiding aan/uitstaat:<br /> * <font color="green">BLF-LED groen</font>: de omleiding staat aan<br /> * <font color="red">BLF-LED rood</font>: de omleiding staat uit
 
- <a href="http://www.simmpl.nl/downloads/Simmpl_omleidingsapp.pdf"><img src="https://res.cloudinary.com/callvoip/image/upload/v1556647042/flowcontrol_blf-2.png" class="alignright size-full" /></a>
+ <a href="https://www.simmpl.nl/downloads/Simmpl_omleidingsapp.pdf"><img src="https://res.cloudinary.com/callvoip/image/upload/v1556647042/flowcontrol_blf-2.png" class="alignright size-full" /></a>
 
 **Wat is een omleiding?**
 
@@ -36,4 +36,4 @@ Een omleiding zet u aan/uit in het beheerpanel, met de Qaller Smartphone app of 
 
 &raquo; [Klik hier voor de handleiding bij de omleidings-app][1]
 
- [1]: http://www.simmpl.nl/downloads/Simmpl_omleidingsapp.pdf
+ [1]: https://www.simmpl.nl/downloads/Simmpl_omleidingsapp.pdf
