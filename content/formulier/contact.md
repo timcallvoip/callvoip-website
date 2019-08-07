@@ -33,7 +33,7 @@ Wilt u meer informatie over onze diensten ontvangen, wilt u feedback geven of he
 
 {{< form "Contact formulier" "/contact/verzonden" >}}
 {{< form/template "d-bb5785f73c154508a7d4125575855140">}}
-{{< form/to "dev">}}
+{{< form/to "aanvraag">}}
 
 {{< layout/split >}}
 

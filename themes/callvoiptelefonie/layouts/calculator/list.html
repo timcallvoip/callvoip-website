@@ -22,6 +22,11 @@
               <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
             </p>
 
+            <input type="hidden" name="form-name" value="offerte-formulier">
+            <input type="hidden" id="formlayout" name="formlayout" value="d-bb5785f73c154508a7d4125575855140" class="hidden">
+            <input type="hidden" id="formto" name="formto" value="offerte" class="hidden">
+
+
             <div id="basic-fields">
               {{ range $index, $item := .Params.basic }}
               <div class="mb-4 xl:flex xl:items-center xl:-mx-4">
