@@ -5,8 +5,7 @@ url: "/wijzigen/gidsvermelding/"
 ---
 Wilt u een vermelding in de telefoongids? Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akkoord per mail, naar ons ter bevestiging van uw opdracht. Wij nemen dan z.s.m. met u contact op!
 
-{{< form "wijzigen-gidsvermelding" "/wijzigen/verzonden" >}}
-
+{{< form "wijzigen-gidsvermelding" "/wijzigen/verzonden" >}}  
 {{< form/template "d-fe851c4499b54b7e9378f4732769ab58">}}  
 {{< form/to "aanvragen">}}
 
@@ -34,33 +33,33 @@ Wilt u een vermelding in de telefoongids? Vul het formulier in, controleer de be
 
 {{< form/fieldset "Oude gegevens gidsvermelding" >}}
 
-{{< form/input "(Bedrijfs-)Naam" >}}
+{{< form/input "Bedrijfsnaam (oud)" >}}
 
-{{< form/input "Straat" >}}
+{{< form/input "Straat (oud)" >}}
 
-{{< form/input "Huisnummer" >}}
+{{< form/input "Huisnummer (oud)" >}}
 
-{{< form/input "Postcode" >}}
+{{< form/input "Postcode (oud)" >}}
 
-{{< form/input "Telefoonnummer" >}}
+{{< form/input "Telefoonnummer (oud)" >}}
 
-{{< form/input "Faxnummer" >}}
+{{< form/input "Faxnummer (oud)" >}}
 
 {{</ form/fieldset >}}
 
 {{< form/fieldset "Nieuwe gegevens gidsvermelding" >}}
 
-{{< form/input "(Bedrijfs-)Naam" >}}
+{{< form/input "Bedrijfsnaam (nieuw)" >}}
 
-{{< form/input "Straat" >}}
+{{< form/input "Straat (nieuw)" >}}
 
-{{< form/input "Huisnummer" >}}
+{{< form/input "Huisnummer (nieuw)" >}}
 
-{{< form/input "Postcode" >}}
+{{< form/input "Postcode (nieuw)" >}}
 
-{{< form/input "Telefoonnummer" >}}
+{{< form/input "Telefoonnummer (nieuw)" >}}
 
-{{< form/input "Faxnummer" >}}
+{{< form/input "Faxnummer (nieuw)" >}}
 
 _Kruis aan welke vermelding/weergave van uw nummers u wenst_:
 

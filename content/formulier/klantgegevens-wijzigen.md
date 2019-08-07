@@ -7,8 +7,7 @@ Hieronder kunt u uw klantgegevens wijzigen. Vult u onderstaand formulier in en w
 
 Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akkoord per mail, naar ons ter bevestiging van uw opdracht. Wij nemen dan z.s.m. met u contact op!
 
-{{< form "wijzigen-klantgegevens" "/wijzigen/verzonden" >}}
-
+{{< form "wijzigen-klantgegevens" "/wijzigen/verzonden" >}}  
 {{< form/template "d-fe851c4499b54b7e9378f4732769ab58">}}  
 {{< form/to "aanvragen">}}
 
@@ -38,11 +37,11 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 _Indien u uw factuurgegevens wilt wijzigen kunt u hieronder uw nieuwe factuurgegevens invullen._
 
-{{< form/input "Bedrijfsnaam" >}}
+{{< form/input "Bedrijfsnaam (facturatie)" >}}
 
-{{< form/input "Contactpersoon" >}}
+{{< form/input "Contactpersoon (facturatie)" >}}
 
-{{< form/select "Aanhef" >}}
+{{< form/select "Aanhef (facturatie)" >}}
 
 {{< form/option "Heer" >}}
 
@@ -50,15 +49,15 @@ _Indien u uw factuurgegevens wilt wijzigen kunt u hieronder uw nieuwe factuurgeg
 
 {{</ form/select >}}
 
-{{< form/input "Factuuradres" >}}
+{{< form/input "Adres (facturatie)" >}}
 
-{{< form/input "Postcode" >}}
+{{< form/input "Postcode (facturatie)" >}}
 
-{{< form/input "Woonplaats" >}}
+{{< form/input "Woonplaats (facturatie)" >}}
 
-{{< form/input "Telefoonnummer" >}}
+{{< form/input "Telefoonnummer (facturatie)" >}}
 
-{{< form/email "E-mailadres facturering" >}}
+{{< form/email "E-mailadres (facturatie)" >}}
 
 {{< form/input "IBAN-nummer" >}}
 
@@ -78,9 +77,9 @@ _Indien u uw factuurgegevens wilt wijzigen kunt u hieronder uw nieuwe factuurgeg
 
 _Indien u uw bedrijfsgegevens wilt wijzigen, kunt u hieronder uw nieuwe klantgegevens invullen._
 
-{{< form/input "Bedrijfsnaam" >}}
+{{< form/input "Bedrijfsnaam (wijziging)" >}}
 
-{{< form/select "Aanhef" >}}
+{{< form/select "Aanhef (wijziging)" >}}
 
 {{< form/option "Heer" >}}
 
@@ -88,15 +87,15 @@ _Indien u uw bedrijfsgegevens wilt wijzigen, kunt u hieronder uw nieuwe klantgeg
 
 {{</ form/select >}}
 
-{{< form/input "Contactpersoon" >}}
+{{< form/input "Contactpersoon (wijziging)" >}}
 
-{{< form/input "Telefoonnummer" >}}
+{{< form/input "Telefoonnummer (wijziging)" >}}
 
-{{< form/email "E-mailadres (login telefooncentrale)" >}}
+{{< form/email "E-mailadres (login telefooncentrale) (wijziging)" >}}
 
-{{< form/input "KvK-nummer" >}}
+{{< form/input "KvK-nummer (wijziging)" >}}
 
-{{< form/input "BTW-nummer" >}}
+{{< form/input "BTW-nummer (wijziging)" >}}
 
 {{</ form/fieldset >}}
 

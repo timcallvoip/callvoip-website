@@ -5,8 +5,7 @@ url: "/aanvragen/portering/"
 ---
 Heeft u een telefoonnummer bij een andere provider en wilt u deze ook naar Callvoip verhuizen? Dan kunt u dit aanvragen via onderstaand formulier. Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akkoord per mail, naar ons ter bevestiging van uw opdracht.
 
-{{< form "aanvragen-portering" "/aanvragen/verzonden" >}}
-
+{{< form "aanvragen-portering" "/aanvragen/verzonden" >}}  
 {{< form/template "d-bb5785f73c154508a7d4125575855140">}}  
 {{< form/to "aanvragen">}}
 

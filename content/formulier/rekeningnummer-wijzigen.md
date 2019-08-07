@@ -7,8 +7,7 @@ Wilt u uw rekeningnummer wijzigen voor de automatische incasso? Geef dan hierond
 
 Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akkoord per mail, naar ons ter bevestiging van uw opdracht. Wij nemen dan z.s.m. met u contact op!
 
-{{< form "wijzigen-rekeningnummer" "/wijzigen/verzonden" >}}
-
+{{< form "wijzigen-rekeningnummer" "/wijzigen/verzonden" >}}  
 {{< form/template "d-fe851c4499b54b7e9378f4732769ab58">}}  
 {{< form/to "aanvragen">}}
 

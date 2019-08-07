@@ -3,7 +3,7 @@ title: Nummer opzeggen
 url: "/opzeggen/nummer/"
 
 ---
-Wilt u een of meer nummers opzeggen? Vult u dan onderstaand formulier in zodat wij dit administratief kunnen verwerken.
+Wilt u een of meer nummers opzeggen? Vult u dan onderstaand formulier in zodat wij dit administratief kunnen verwerken. 
 
 Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akkoord per mail, naar ons ter bevestiging van uw opdracht. Wij nemen dan z.s.m. met u contact op!
 

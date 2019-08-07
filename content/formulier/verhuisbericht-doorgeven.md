@@ -33,20 +33,20 @@ Gaat u verhuizen? Vul het formulier in, controleer de bevestigingsmail en stuur 
 
 {{< form/fieldset "Oude adres" >}}
 
-{{< form/input "Adres" >}}
+{{< form/input "Adres (oud)" >}}
 
-{{< form/input "Postcode" >}}
+{{< form/input "Postcode (oud)" >}}
 
-{{< form/input "Woonplaats" >}}
+{{< form/input "Woonplaats (oud)" >}}
 {{</ form/fieldset >}}
 
 {{< form/fieldset "Nieuwe adres" >}}
 
-{{< form/input "Adres" >}}
+{{< form/input "Adres (nieuw)" >}}
 
-{{< form/input "Postcode" >}}
+{{< form/input "Postcode (nieuw)" >}}
 
-{{< form/input "Woonplaats" >}}
+{{< form/input "Woonplaats (nieuw)" >}}
 
 {{< form/input "Datum verhuizing" >}}
 

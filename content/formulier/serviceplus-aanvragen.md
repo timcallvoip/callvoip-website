@@ -7,8 +7,7 @@ ServicePlus is een Managed PBX Service: u betaalt een vast bedrag per maand en w
 
 Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akkoord per mail, naar ons ter bevestiging van uw opdracht.
 
-{{< form "aanvragen-serviceplus" "/aanvragen/verzonden" >}}
-
+{{< form "aanvragen-serviceplus" "/aanvragen/verzonden" >}}  
 {{< form/template "d-bb5785f73c154508a7d4125575855140">}}  
 {{< form/to "aanvragen">}}
 
