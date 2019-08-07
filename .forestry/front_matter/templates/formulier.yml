@@ -13,6 +13,11 @@ fields:
     required: false
   label: URL
 pages:
+- content/formulier/gidsvermelding-aanvragen.md
+- content/formulier/srtp-vesleutelde-gesprekken-aanvragen.md
+- content/formulier/0800-servicenummer-aanvragen.md
+- content/formulier/belbundel-aanvragen.md
+- content/formulier/vast-mobiel-vamos-aanvragen.md
 - content/formulier/serviceplus-aanvragen.md
 - content/formulier/voip-cti-koppeling-met-uw-crm-pakket-aanvragen.md
 - content/formulier/internationaal-nummer-aanvragen.md
@@ -31,8 +36,6 @@ pages:
 - content/formulier/0900-servicenummer-aanvragen.md
 - content/formulier/verhuisbericht-doorgeven.md
 - content/formulier/rekeningnummer-wijzigen.md
-- content/formulier/srtp-vesleutelde-gesprekken-aanvragen.md
-- content/formulier/belbundel-aanvragen.md
 - content/formulier/wijziging-verzonden.md
 - content/formulier/opzegging-verzonden.md
 - content/formulier/vast-mobiel-vamos-opzeggen.md
@@ -41,12 +44,9 @@ pages:
 - content/formulier/abonnement-opzeggen.md
 - content/formulier/opzeggen-overzicht.md
 - content/formulier/wijzigen-overzicht.md
-- content/formulier/0800-servicenummer-aanvragen.md
 - content/formulier/aanvragen-overzicht.md
-- content/formulier/vast-mobiel-vamos-aanvragen.md
 - content/formulier/splitsing-10-blok-aanvragen.md
 - content/formulier/klantgegevens-wijzigen.md
 - content/formulier/gidsvermelding-wijzigen.md
-- content/formulier/gidsvermelding-aanvragen.md
 - content/formulier/conference-service-aanvragen.md
 - content/formulier/managed-4g-verbinding-aanvragen.md

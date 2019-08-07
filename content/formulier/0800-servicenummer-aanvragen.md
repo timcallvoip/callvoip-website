@@ -7,8 +7,7 @@ Een 0800-servicenummer is een servicenummer waar mensen u kosteloos op kunnen be
 
 Vul het formulier in en stuur deze met uw ACM beschikking. Controleer de bevestigingsmail en stuur een reply, met akkoord per mail, naar ons ter bevestiging van uw opdracht.
 
-{{< form "aanvragen-0800" "/aanvragen/verzonden" >}}
-
+{{< form "aanvragen-0800" "/aanvragen/verzonden" >}}  
 {{< form/template "d-bb5785f73c154508a7d4125575855140">}}  
 {{< form/to "aanvragen">}}
 
