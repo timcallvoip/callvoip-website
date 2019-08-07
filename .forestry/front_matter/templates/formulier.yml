@@ -13,6 +13,8 @@ fields:
     required: false
   label: URL
 pages:
+- content/formulier/nummerportering-aanvragen.md
+- content/formulier/aanvragen-nummer.md
 - content/formulier/contact.md
 - content/formulier/mijn-callvoip.md
 - content/formulier/aanvraag-verzonden.md
@@ -24,7 +26,6 @@ pages:
 - content/formulier/importeren-telefoonboek-click-to-dial-aanvragen.md
 - content/formulier/088-nummerblok-activatie-aanvragen.md
 - content/formulier/0900-servicenummer-aanvragen.md
-- content/formulier/nummerportering-aanvragen.md
 - content/formulier/verhuisbericht-doorgeven.md
 - content/formulier/rekeningnummer-wijzigen.md
 - content/formulier/voip-cti-koppeling-met-uw-crm-pakket-aanvragen.md
@@ -47,6 +48,5 @@ pages:
 - content/formulier/klantgegevens-wijzigen.md
 - content/formulier/gidsvermelding-wijzigen.md
 - content/formulier/gidsvermelding-aanvragen.md
-- content/formulier/aanvragen-nummer.md
 - content/formulier/conference-service-aanvragen.md
 - content/formulier/managed-4g-verbinding-aanvragen.md
