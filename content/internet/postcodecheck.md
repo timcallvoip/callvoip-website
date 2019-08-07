@@ -24,7 +24,7 @@ Heeft u eerst advies nodig of heeft u nog vragen, bel ons gerust op [**050 820 0
 
 {{< layout/split >}}
 
-{{< form/email "Postcode" required >}}
+{{< form/input "Postcode" required >}}
 
 {{< form/input "Huisnummer + aanvulling" required >}}
 
