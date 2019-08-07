@@ -32,6 +32,8 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{< form/button "Verstuur formulier" >}}
 
+{{</ form >}}
+
 <br><br>
 
 **Welke toestellen zijn geschikt?**
@@ -40,5 +42,3 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 Niet alle toestellen zijn geschikt om gebruik te maken van de versleutelde gesprekken.
 Veel recente modellen van de merken Yealink en Gigaset zijn geschikt voor SRTP. Na uw aanvraag nemen wij contact met u op om te kijken of uw huidige toestellen geschikt zijn en assisteren u bij de selectie van geschikte modellen.
-
-{{</ form >}}

@@ -53,6 +53,8 @@ _De toeslag is € 50,00 excl. BTW._
 
 {{< form/button "Verstuur formulier"  >}}
 
+{{</ form >}}
+
 <br><br>
 
 {{< layout/columns >}}
@@ -120,4 +122,3 @@ n.v.t.
 {{</ layout/column3 >}}
 
 {{</ layout/columns >}}
-{{</ form >}}

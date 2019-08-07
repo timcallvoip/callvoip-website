@@ -13,11 +13,12 @@ fields:
     required: false
   label: URL
 pages:
+- content/formulier/srtp-vesleutelde-gesprekken-aanvragen.md
 - content/formulier/aanvragen-nummer.md
+- content/formulier/conference-service-aanvragen.md
 - content/formulier/mijn-callvoip.md
 - content/formulier/aanvragen-overzicht.md
 - content/formulier/gidsvermelding-aanvragen.md
-- content/formulier/conference-service-aanvragen.md
 - content/formulier/contact.md
 - content/formulier/abonnement-opzeggen.md
 - content/formulier/conference-service-opzeggen.md
@@ -37,7 +38,6 @@ pages:
 - content/formulier/importeren-telefoonboek-click-to-dial-aanvragen.md
 - content/formulier/splitsing-10-blok-aanvragen.md
 - content/formulier/088-nummerblok-activatie-aanvragen.md
-- content/formulier/srtp-vesleutelde-gesprekken-aanvragen.md
 - content/formulier/0800-servicenummer-aanvragen.md
 - content/formulier/belbundel-aanvragen.md
 - content/formulier/vast-mobiel-vamos-aanvragen.md

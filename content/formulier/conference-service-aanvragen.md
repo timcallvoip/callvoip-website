@@ -7,8 +7,10 @@ Snel, simpel en tegen lage tarieven telefonisch vergaderen met 2 of meer persone
 
 Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akkoord per mail, naar ons ter bevestiging van uw opdracht.
 
-{{< form "aanvragen-conference" "/aanvragen/verzonden" >}}  
-{{< form/template "d-bb5785f73c154508a7d4125575855140">}}  
+{{< form "aanvragen-conference" "/aanvragen/verzonden" >}}
+
+{{< form/template "d-bb5785f73c154508a7d4125575855140">}}
+
 {{< form/to "aanvragen">}}
 
 {{< form/fieldset "Bedrijfsgegevens" >}}
@@ -28,11 +30,13 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 _Voor de Conference Service heeft u een apart telefoonnummer nodig dat u alleen voor deze dienst reserveert. Indien u reeds een vrij nummer heeft die u kunt gebruiken voor de Conference Service, vul deze dan hieronder in. Heeft u nog geen apart telefoonnummer, dan kunt u <a href="https://callvoip.nl/aanvragen/nummer" target="blank">hier</a> een nummer aanvragen.<br>_
 
 {{< form/input "Landingsnummer" >}}  
-{{< form/input "Aantal deelnemers" >}}   
-{{< form/textarea "Opmerkingen" >}}   
+{{< form/input "Aantal deelnemers" >}}  
+{{< form/textarea "Opmerkingen" >}}  
 {{</ form/fieldset >}}
 
 {{< form/button "Verstuur formulier" >}}
+
+{{</ form >}}
 
 <br><br>
 
@@ -78,5 +82,3 @@ Conference
 {{</ layout/column3 >}}
 
 {{</ layout/columns >}}
-
-{{</ form >}}
