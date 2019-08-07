@@ -13,6 +13,8 @@ fields:
     required: false
   label: URL
 pages:
+- content/formulier/serviceplus-aanvragen.md
+- content/formulier/voip-cti-koppeling-met-uw-crm-pakket-aanvragen.md
 - content/formulier/internationaal-nummer-aanvragen.md
 - content/formulier/nummerportering-aanvragen.md
 - content/formulier/aanvragen-nummer.md
@@ -29,8 +31,6 @@ pages:
 - content/formulier/0900-servicenummer-aanvragen.md
 - content/formulier/verhuisbericht-doorgeven.md
 - content/formulier/rekeningnummer-wijzigen.md
-- content/formulier/voip-cti-koppeling-met-uw-crm-pakket-aanvragen.md
-- content/formulier/serviceplus-aanvragen.md
 - content/formulier/srtp-vesleutelde-gesprekken-aanvragen.md
 - content/formulier/belbundel-aanvragen.md
 - content/formulier/wijziging-verzonden.md
