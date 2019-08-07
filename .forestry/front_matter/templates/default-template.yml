@@ -155,10 +155,10 @@ fields:
         name: price
         label: Price
 pages:
+- content/telefonie/bereikbaarheidsmonitor.md
 - content/internet/glasvezel.md
 - content/telefonie/clicktodial.md
 - content/telefonie/qaller.md
-- content/telefonie/bereikbaarheidsmonitor.md
 - content/telefonie/vastmobielintegratie.md
 - content/telefonie/integratiemetcrm.md
 - content/internet/managed-4g-oplossing.md

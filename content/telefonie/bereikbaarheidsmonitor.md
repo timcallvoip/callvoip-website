@@ -13,7 +13,7 @@ hero:
   button:
     content: Bereken zelf uw kosten
     link: "/calculator/"
-  image: "/v1563354561/callvoip-website-bereikbaarheidsmonitor.png"
+  image: "/v1565183026/callvoip-website-bereikbaarheidsmonitor2_qyrsxy.png"
 blocks:
 - title: Wat toont de bereikbaarheidsmonitor?
   image: "/v1563354632/callvoip-website-bereikbaarheidsmonitor-stats.png"
