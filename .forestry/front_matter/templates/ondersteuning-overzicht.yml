@@ -69,6 +69,4 @@ fields:
   label: Hero
 pages:
 - content/ondersteuning/_index.md
-- content/ondersteuning/Juridisch/_index.md
-- content/ondersteuning/belplan/_index.md
 - content/ondersteuning/algemeen/_index.md

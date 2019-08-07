@@ -41,9 +41,9 @@ Wilt u een vermelding in de telefoongids? Vul het formulier in, controleer de be
 
 {{< form/input "Postcode" >}}
 
-{{< form/input "Telefoonnummer" >}}
+{{< form/input "Telefoonnummer gidsvermelding" >}}
 
-{{< form/input "Faxnummer" >}}
+{{< form/input "Faxnummer gidsvermelding" >}}
 
 _Kruis aan welke vermelding/weergave van uw nummers u wenst_:
 
@@ -53,7 +53,7 @@ _Kruis aan welke vermelding/weergave van uw nummers u wenst_:
 
 {{< form/radio "Vermelding bij informatiediensten" "Soort vermelding" >}}
 
-{{< form/radio "Geheim nummer;      géén vermelding" "Soort vermelding" >}}
+{{< form/radio "Geheim nummer; geen vermelding" "Soort vermelding" >}}
 
 {{</ form/radiogroup >}}
 
