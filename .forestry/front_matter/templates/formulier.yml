@@ -13,6 +13,7 @@ fields:
     required: false
   label: URL
 pages:
+- content/formulier/internationaal-nummer-aanvragen.md
 - content/formulier/nummerportering-aanvragen.md
 - content/formulier/aanvragen-nummer.md
 - content/formulier/contact.md
@@ -32,7 +33,6 @@ pages:
 - content/formulier/serviceplus-aanvragen.md
 - content/formulier/srtp-vesleutelde-gesprekken-aanvragen.md
 - content/formulier/belbundel-aanvragen.md
-- content/formulier/internationaal-nummer-aanvragen.md
 - content/formulier/wijziging-verzonden.md
 - content/formulier/opzegging-verzonden.md
 - content/formulier/vast-mobiel-vamos-opzeggen.md
