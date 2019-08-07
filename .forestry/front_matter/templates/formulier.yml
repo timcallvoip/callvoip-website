@@ -13,6 +13,8 @@ fields:
     required: false
   label: URL
 pages:
+- content/formulier/mijn-callvoip.md
+- content/formulier/aanvragen-overzicht.md
 - content/formulier/gidsvermelding-aanvragen.md
 - content/formulier/conference-service-aanvragen.md
 - content/formulier/contact.md
@@ -43,10 +45,8 @@ pages:
 - content/formulier/internationaal-nummer-aanvragen.md
 - content/formulier/nummerportering-aanvragen.md
 - content/formulier/aanvragen-nummer.md
-- content/formulier/mijn-callvoip.md
 - content/formulier/aanvraag-verzonden.md
 - content/formulier/wijziging-verzonden.md
 - content/formulier/opzegging-verzonden.md
 - content/formulier/opzeggen-overzicht.md
 - content/formulier/wijzigen-overzicht.md
-- content/formulier/aanvragen-overzicht.md
