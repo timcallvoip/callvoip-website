@@ -217,3 +217,21 @@ function stickyNavigation() {
 }
 
 window.addEventListener('scroll', stickyNavigation);
+
+
+// const index = document.querySelector('.stickyindex');
+// const indexTop = index.offsetTop + 400;
+
+// function stickyindexigation() {
+
+//   if (window.scrollY >= indexTop) {
+//     // index offsetHeight = height of index
+//     //document.body.style.paddingTop = index.offsetHeight + 'px';
+//     index.classList.add('pt-32');
+//   } else {
+//     document.body.style.paddingTop = 0;
+//     index.classList.remove('pt-32');
+//   }
+// }
+
+// window.addEventListener('scroll', stickyindexigation);

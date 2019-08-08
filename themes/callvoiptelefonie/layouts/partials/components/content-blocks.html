@@ -15,8 +15,8 @@
     </div>
     <div class="md:w-1/2 md:px-8 mb-6">
       {{ with .image}}
-      <img data-src="{{ $.Site.Params.cloudinary_base_url }}/w_auto,dpr_auto,c_scale,f_auto,q_auto/{{.}}" class="w-full cld-responsive"
-        style="object-fit: cover;" alt="{{ $title }}" />
+        <img src="{{ $.Site.Params.cloudinary_base_url }}/c_scale,f_auto,q_auto/{{.}}"
+          class="cld-responsive" alt="{{ $title }}" />
       {{ end }}
     </div>
   </div>
