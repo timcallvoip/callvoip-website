@@ -10,16 +10,18 @@ pdf: ''
 
 De Simmpl telefooncentrale maakt onderscheid tussen twee soorten voicemailboxen:
 
-**A. Persoonlijke voicemailbox**:  
-> **voor wie**? elke gebruiker kan beschikken over een eigen voicemailbox, deze kan niet door andere gebruikers worden afgeluisterd. Een persoonlijke voicemailbox is handig als u een persoonlijk telefoonnummer heeft.  
-> **begroeting**: de persoonlijke voicemailbox is standaard voorzien van een Nederlandstalige begroeting. Deze is nog niet gepersonaliseerd u kunt zelf een persoonlijke begroeting plaatsen.  
-> **beluisteren**: de persoonlijke voicemail kunt u beluisteren door te bellen naar 1233 of naar uw eigen verkorte nummer.  
+**A. Persoonlijke voicemailbox**:
+
+\- **voor wie**? elke gebruiker kan beschikken over een eigen voicemailbox, deze kan niet door andere gebruikers worden afgeluisterd. Een persoonlijke voicemailbox is handig als u een persoonlijk telefoonnummer heeft.  
+\- **begroeting**: de persoonlijke voicemailbox is standaard voorzien van een Nederlandstalige begroeting. Deze is nog niet gepersonaliseerd u kunt zelf een persoonlijke begroeting plaatsen.  
+\- **beluisteren**: de persoonlijke voicemail kunt u beluisteren door te bellen naar 1233 of naar uw eigen verkorte nummer.  
 ![](https://res.cloudinary.com/callvoip/image/upload/v1565336860/voicemail-1_rzggql.png)
 
-**B. Bedrijfsvoicemailbox**:  
-> **voor wie**? één of meer bedrijfsvoicemailboxen maken (bv. voor verschillende nummers of tijden) en integreren in uw belroutes. U kunt per bedrijfsvoicemailbox één of meer medewerkers machtigen om de voicemailbox te beheren, voicemailberichten te ontvangen en de voicemailberichten op Simmpl te bekijken. U kunt dezelfde medewerkers voor meerdere boxen machtigen zodat zij voicemail uit meerdere boxen ontvangen.  
-> **begroeting**: elke bedrijfsvoicemailbox is standaard voorzien van een Nederlandstalige begroeting. Deze is nog niet gepersonaliseerd u kunt zelf een persoonlijke begroeting plaatsen.  
-> **beluisteren**: de bedrijfsvoicemailbox kan worden beluisterd door te bellen naar 1233 gevolgd door het nummer van de voicemailbox. Als default geven wij uw voicemailbox de laatste 4 cijfers van uw telefoonnummer. U kunt de voicemailbox dan beluisteren door te bellen naar 1233 gevolgd door de laatste 4 cijfers van uw telefoonnummer. U kunt meerdere voicemailboxen maken maar dit hoeft niet. Deze flexibiliteit kan erg handig zijn!
+**B. Bedrijfsvoicemailbox**:
+
+\- **voor wie**? één of meer bedrijfsvoicemailboxen maken (bv. voor verschillende nummers of tijden) en integreren in uw belroutes. U kunt per bedrijfsvoicemailbox één of meer medewerkers machtigen om de voicemailbox te beheren, voicemailberichten te ontvangen en de voicemailberichten op Simmpl te bekijken. U kunt dezelfde medewerkers voor meerdere boxen machtigen zodat zij voicemail uit meerdere boxen ontvangen.  
+\- **begroeting**: elke bedrijfsvoicemailbox is standaard voorzien van een Nederlandstalige begroeting. Deze is nog niet gepersonaliseerd u kunt zelf een persoonlijke begroeting plaatsen.  
+\- **beluisteren**: de bedrijfsvoicemailbox kan worden beluisterd door te bellen naar 1233 gevolgd door het nummer van de voicemailbox. Als default geven wij uw voicemailbox de laatste 4 cijfers van uw telefoonnummer. U kunt de voicemailbox dan beluisteren door te bellen naar 1233 gevolgd door de laatste 4 cijfers van uw telefoonnummer. U kunt meerdere voicemailboxen maken maar dit hoeft niet. Deze flexibiliteit kan erg handig zijn!
 
 <h3>Nieuwe bedrijfsvoicemailbox aanmaken</h3>
 
@@ -59,8 +61,8 @@ Standaard is een Nederlandstalige begroeting actief. U kunt deze vervangen door 
    **Let op**: alle welkomstboodschappen die u heeft geupload worden bij al uw bedrijfsvoicemailboxen getoond; als u een nieuw bericht upload, zorg dus dat u aan de naam kunt zien welke boodschap het is.  
    ![](https://res.cloudinary.com/callvoip/image/upload/v1565337759/voicemail-6_cwakca.png)  
    Na het uploaden krijgt u een bevestiging en komt het nieuwe bericht in de bibliotheek te staan.
-4. **Controleer het geluidsbestand  
-   **Klik op de afspeelbutton en beluister de welkomstboodschap.  
+4. **Controleer het geluidsbestand**  
+   Klik op de afspeelbutton en beluister de welkomstboodschap.  
    ![](https://res.cloudinary.com/callvoip/image/upload/v1565337860/voicemail-7_egpxsd.png)  
    Om het bericht te activeren als nieuwe boodschap, selecteer het in de lijst en klik op \[**Save**\]. Het bericht wordt nu getoond in het voicemail-instellingenscherm.  
    ![](https://res.cloudinary.com/callvoip/image/upload/v1565337922/voicemail-8_wxiief.png)  
@@ -76,7 +78,7 @@ Standaard is een Nederlandstalige begroeting actief. U kunt deze vervangen door 
 
 **A. Voicemailberichten per email ontvangen en beluisteren**:
 
-Voicemailberichten op uw bedrijfsvoicemail kunnen worden gemaild naar één of meer emailadressen – zie voorgaande instructies hoe u dit kunt instellen.   
+Voicemailberichten op uw bedrijfsvoicemail kunnen worden gemaild naar één of meer emailadressen – zie voorgaande instructies hoe u dit kunt instellen.  
 Inkomende emailnotificaties van voicemailberichten zien er als volgt uit:  
 ![](https://res.cloudinary.com/callvoip/image/upload/v1565338159/voicemail-9_iuaira.png)  
 Als bijlage ontvangt u een geluidsbestand met het voicemailbericht.
@@ -87,7 +89,7 @@ Voicemailberichten worden ook door de Simmpl telefooncentrale ontvangen. Alle ge
 
 Om te zien welke medewerkers voor een bedrijfsvoicemailbox zijn gemachtigd, klikt u op de voicemailbox zodat de instellingen verschijnen. Onderaan ziet u wie er gemachtigd is.  
 ![](https://res.cloudinary.com/callvoip/image/upload/v1565338275/voicemail-10_zwsrbp.png)  
-Deze medewerkers kunnen in hun userpanel de voicemailberichten zien en beluisteren.   
+Deze medewerkers kunnen in hun userpanel de voicemailberichten zien en beluisteren.  
 U als administrator kunt vanuit het gebruikersoverzicht ook doorklikken naar deze userpanels. Klik op het omrande icoon achter de gemachtigde medewerker:  
 ![](https://res.cloudinary.com/callvoip/image/upload/v1565338341/voicemail-11_ex6fhd.png)  
 Als u op het userpanel van de medewerker aankomt, ziet u gelijk in het dashboard alle boven (persoonlijke voicemail, bedrijfsvoicemailboxen en faxboxen waarop u gemachtiged bent); hoeveel berichten er zijn en hoeveel daarvan gelezen (rood) en ongelezen (grijs) zijn. Klik op de button \[show more\] om gelijk door te klikken naar de box.  
@@ -108,13 +110,13 @@ In de lijst eronder ziet u de voicemailberichten met daarbij de volgende informa
 
 Met de drie iconen achter de regels kunt u berichten afspelen, downloaden, verwijderen. Klik op de afspeelbutton om het voicemaiblericht over de boxen van uw computer af te late spelen. Er wordt een gele voortgangsindicator getoond.
 
-U kunt alle berichten selecteren door op het selectierondje boven de tabel te klikken.   
+U kunt alle berichten selecteren door op het selectierondje boven de tabel te klikken.  
 U kunt ook individuele berichten selecteren met het selectierondje voor de regel. Met de knoppen \[Markeer als gelezen\] en \[Markeer als ongelezen\] kunt u de berichten de juiste status geven.
 
 **C. Voicemailberichten telefonisch ontvangen en beluisteren**:
 
-Een gemachtigde medewerker kan naar de bedrijfsvoicemailbox bellen en de berichten telefonisch beluisteren en verwijderen:   
-Bel 1233 gevolgd door de voicemailboxcode en toets de pincode in (optioneel).   
+Een gemachtigde medewerker kan naar de bedrijfsvoicemailbox bellen en de berichten telefonisch beluisteren en verwijderen:  
+Bel 1233 gevolgd door de voicemailboxcode en toets de pincode in (optioneel).  
 Via het volgende menu kunt u de gewenste actie uitvoeren.
 
 Kort voicemailmenu:
