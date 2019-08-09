@@ -27,6 +27,7 @@ fields:
     required: false
   label: PDF
 pages:
+- content/ondersteuning/fax-voicemail/fax-versturen.md
 - content/ondersteuning/fax-voicemail/tips-voor-slagend-faxverkeer.md
 - content/ondersteuning/fax-voicemail/voicemail-instellen-afluisteren.md
 - content/ondersteuning/Integraties/realtime-api.md
@@ -61,5 +62,4 @@ pages:
 - content/ondersteuning/algemeen/sip-trunk-handleiding.md
 - content/ondersteuning/Integraties/voip-cti-handleiding.md
 - content/ondersteuning/algemeen/overzicht-shortcodes-simmpl.md
-- content/ondersteuning/fax-voicemail/fax-versturen.md
 - content/ondersteuning/algemeen/storing.md
