@@ -108,7 +108,7 @@ In de lijst eronder ziet u de voicemailberichten met daarbij de volgende informa
 * de duur van het ingekomen telefoongesprek
 * of het bericht nog niet/al wel beluisterd is; onbeluisterde berichten zijn donkere regels
 
-Met de drie iconen achter de regels kunt u berichten afspelen, downloaden, verwijderen. Klik op de afspeelbutton om het voicemaiblericht over de boxen van uw computer af te late spelen. Er wordt een gele voortgangsindicator getoond.
+Met de drie iconen achter de regels kunt u berichten afspelen, downloaden, verwijderen. Klik op de afspeelbutton om het voicemailbericht over de boxen van uw computer af te late spelen. Er wordt een gele voortgangsindicator getoond.
 
 U kunt alle berichten selecteren door op het selectierondje boven de tabel te klikken.  
 U kunt ook individuele berichten selecteren met het selectierondje voor de regel. Met de knoppen \[Markeer als gelezen\] en \[Markeer als ongelezen\] kunt u de berichten de juiste status geven.
