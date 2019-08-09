@@ -28,16 +28,16 @@ Bel dit nummer om het als uitgaand nummer te activeren.
 3. De Multiple Caller ID settings staan onderaan
 4. Schakel Multiple Caller ID aan
 5. Kies een nummer
-6. Zet na code __*4*__ de laatste 2 getallen vh nummer
+6. Zet na code \[sterretje\]4\[sterretje\]... de laatste 2 getallen vh nummer
 7. Doe dit voor alle nummers en kies **opslaan**.
 
-Tip: Vul de activatiecode __*4* __aan met de laatste 2 getallen van uw nummer, gemakkelijk te onthouden!
+Tip: Vul de activatiecode \[sterretje\]4\[sterretje\]... aan met de laatste 2 getallen van uw nummer, gemakkelijk te onthouden!
 
 <h3>Hoe gebruikt u Multiple Caller ID?</h3>
 
-Elk nummer heeft een eigen __*4*__ activatiecode.
+Elk nummer heeft een eigen \[sterretje\]4\[sterretje\]... activatiecode.
 
-1. **Bel** de activatiecode __*4*__ en wacht de toon af.
+1. **Bel** de activatiecode \[sterretje\]4\[sterretje\]... en wacht de toon af.
 2. Het nummer is nu geactiveerd als uitgaand nummer.
 3. U kunt nu uitbellen met het geactiveerde nummer.
 
