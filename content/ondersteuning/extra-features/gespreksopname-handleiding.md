@@ -46,7 +46,8 @@ Voor **bestaande** **gebruikers** kunt u de opname-functie ook in het gebruikers
 ![](https://res.cloudinary.com/callvoip/image/upload/v1565353149/features-10_hpv3yd.png)
 
 <h3>Shortcode voor het in-/uitschakelen van gespreksopname tijdens een lopend gesprek</h3>  
-In het veld snelcode kunt u een code opgeven om tijdens een lopend gesprek de gespreksopname aan en uit te zetten. De code moet bestaan uit Sterretje + 1 cijfer, bijvoorbeeld:
+In het veld snelcode kunt u een code opgeven om tijdens een lopend gesprek de gespreksopname aan en uit te zetten. De code moet bestaan uit Sterretje + 1 cijfer, bijvoorbeeld:  
+![](https://res.cloudinary.com/callvoip/image/upload/v1565353256/features-11_op02cb.png)
 
 <h3>Archivering van uw gespreksopnamen</h3>
 
