@@ -51,7 +51,7 @@ In het veld \[**snelcode**\] kunt u een code opgeven om tijdens een lopend gespr
 
 <h3>Archivering van uw gespreksopnamen</h3>
 
-Bij deze schuifbalk kunt u instellen hoelang u de gesprekken wilt bewaren. Dit kan vanaf 7 tot 180 dagen. De default bewaartijd-instelling is 7 dagen; u kunt dit zelf aanpassen.   
+Bij deze schuifbalk kunt u instellen hoelang u de gesprekken wilt bewaren. Dit kan vanaf 7 tot 180 dagen. De default bewaartijd-instelling is 7 dagen; u kunt dit zelf aanpassen.  
 Het is mogelijk om de bewaartermijn te wijzigen; deze geldt voor alle opgenomen gesprekken, ook gesprekken die u eerder al heeft opgenomen en waarvoor u toentertijd een andere bewaartermijn actief had. Als u de slider wijzigt, start de nieuwe bewaartermijn (bv. 30 dagen) met ingang van de dag van wijziging.
 
 **NB**: de bewaartermijn heeft betrekking op de hoeveelheid dagen dat u de files op Simmpl kunt terugvinden en kunt downloaden. Gedurende de bewaartermijn kunt u de gesprekken (.mp3 audioberichten) downloaden en uiteraard kunt u ze op uw eigen netwerk onbeperkt bewaren.  
@@ -72,7 +72,7 @@ Dit kan per stuk, niet per batch.
 
 <h3>Juridische aspecten bij het opnemen van gesprekken</h3>
 
-Bij het gebruik van de gespreksopname-feature zijn juridische aspecten van kracht.   
-Zo dient u te allen tijde aan de beller aan te geven dat u gespreken opneemt.   
+Bij het gebruik van de gespreksopname-feature zijn juridische aspecten van kracht.  
+Zo dient u te allen tijde aan de beller aan te geven dat u gespreken opneemt.  
 Ook als u deze enkel gebruikt voor eigen (trainings-)doeleinden.  
 <a href="http://www.auditio.nl/auditio-paul-harts-juridische-aspecten-van-kwaliteitsmonitoring2007.html" target="_blank">Meer informatie</a>
