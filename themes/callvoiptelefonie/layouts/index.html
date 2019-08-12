@@ -101,7 +101,7 @@
   {{ with .Params.options}}
   <div class="container px-4 mb-24">
     {{ with .image }}
-    <img data-src="{{ $.Site.Params.cloudinary_base_url }}/c_scale,f_auto,q_auto{{.}}" class="mb-12 mx-auto block md:mb-20 cld-responsive" alt="Callvoip - Bellen en Internet" />
+    <img data-src="{{ $.Site.Params.cloudinary_base_url }}/c_scale,f_auto,q_auto{{.}}" class="mb-12 mx-auto block md:mb-20 cld-responsive max-w-2xl" alt="Callvoip - Bellen en Internet" />
     {{ end }}
     <div class="text-center mb-12 xl:mb-16">
       {{ with .title }}
