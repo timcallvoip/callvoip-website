@@ -1,6 +1,7 @@
 ---
 title: Test
 url: "/formulier/test"
+draft: true
 
 ---
 Vraag hieronder eenvoudig een nieuw telefoonnummer aan. Uw nieuwe telefoonnummer is binnen 24 uur beschikbaar en actief. Wilt u een extra mooi telefoonnummer? Kies dan voor een Premium nummer. U ontvangt een lijst met telefoonnummers waar u uit kunt kiezen.
