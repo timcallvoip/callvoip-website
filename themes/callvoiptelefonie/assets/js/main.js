@@ -235,3 +235,54 @@ window.addEventListener('scroll', stickyNavigation);
 // }
 
 // window.addEventListener('scroll', stickyindexigation);
+
+
+function pageSummary() {
+
+  if(!document.getElementById('page-content')) return;
+  if(!document.getElementById('page-summary')) return;
+
+  const pageContent = document.getElementById('page-content');
+  const pageSummary = document.getElementById('page-summary');
+
+  const elements = pageContent.querySelectorAll('h2, h3');
+  const summaryElements = [];
+
+  console.log('elements', elements)
+
+  elements.forEach( function(element) {
+    const id = element.outerText.replace(/\s+/g, '-').toLowerCase();
+    element.setAttribute('id', id );
+
+    const summaryElement = {}
+
+    summaryElement.text = element.outerText;
+    summaryElement.id = id;
+
+    summaryElements.push(summaryElement)
+
+  })
+
+  console.log('summeryelements', summaryElements)
+
+  if(!summaryElements) return;
+
+  summaryElements.forEach( function(element) {
+
+    const pageElement = document.createElement('a');
+
+    pageElement.innerHTML = element.text;
+    pageElement.classList.add('block', 'mb-2', 'font-medium');
+    pageElement.setAttribute('href', "#" + element.id)
+
+    pageSummary.appendChild(pageElement)
+
+  })
+
+
+
+
+
+}
+
+pageSummary();
