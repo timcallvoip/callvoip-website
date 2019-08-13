@@ -6,7 +6,6 @@ images: []
 pdf: ''
 
 ---
-### Wat is het?
 
 Heeft u hulp nodig bij het instellen van uw telefoons of andere apparatuur? Laat de Callvoip medewerker dan met u meekijken via onze remote software. Wij nemen dan uw scherm en muis over.
 
@@ -18,7 +17,7 @@ Stap 1: Ga naar onze ['Hulp op Afstand'-pagina](http://support.callvoip.nl:8040/
 
 Stap 2: Vul de **code** in die de Callvoip-medewerker u geeft.
 
-Stap 3: Download de software en voer deze uit.
+Stap 3: **Download** de software en voer deze uit.
 
 Stap 4: De medewerker van Callvoip gaat aan de slag!
 
