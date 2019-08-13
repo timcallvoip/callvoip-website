@@ -119,7 +119,7 @@ usps:
       tijd bij het bellen naar klanten, en als de klant u belt verschijnt een pop-up
       met klantinformatie op uw scherm.
 options:
-  image: "/v1564584913/callvoip-website-beeldscherm-belplan_b1n5o9.png"
+  image: "/v1565688351/test-home_dqk3mk.png"
   title: Lekker gemakkelijk, alles onder één dak!
   content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent, dat
     gaat verder dan alleen maar telefonie. Betrouwbaar internet en goede apparatuur
