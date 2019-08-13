@@ -2,7 +2,7 @@
 title: Hosted VoIP - modernste online telefooncentrale
 type: page
 layout: default
-logos: false
+logos: true
 hero:
   title: Hosted VoIP
   content: Met Hosted VoIP bent u overal en altijd bereikbaar en bespaart u op uw
