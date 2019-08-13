@@ -55,6 +55,12 @@ team:
   function: Commercieel Medewerker
   name: Ralph Elshot
   image: "/v1557495164/Portretfoto.jpg"
+- name: Tim van der Horst
+  image: ''
+  content: 'De grafische man. Maakt mooie plaatjes of het niets is en weet daarbij
+    de juiste boodschap over te brengen. Doet ie met zo’n raar klinkend toetenbord.
+    Vermoedelijk een gamer. Typt in vreemde talen. '
+  function: Marketingmedewerker
 description: 'Maak kennis met het team van Callvoip: Tim, Ralph, Dion, Remco, Lynn,
   Herman, Marieke & Robert.'
 images: []
