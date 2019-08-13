@@ -11,7 +11,7 @@ hero:
   button:
     content: Bereken je kosten
     link: "/calculator"
-  image: "/v1564654719/meerdere-paginas-graph-sideways_jzsixx.png"
+  image: "/v1565690920/MKB_eq5yv1.png"
 blocks:
 - content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent, dat
     gaat verder dan alleen maar telefonie. Betrouwbaar internet en goede apparatuur
