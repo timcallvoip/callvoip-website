@@ -29,27 +29,29 @@ team:
   name: Herman Willems
 - content: Is hier al een tijdje en heeft zichzelf getransformeerd tot online marketing
     man. Stelt dus o.a. pakkende mails op en is verantwoordelijk voor de website.
-    Is Fries maar wel één van de leukere.
+    Is een Noord-Hollandse Fries, maar wel één van de leukere.
   function: Marketing
   image: "/v1557495164/Portretfoto.jpg"
   name: Milan Littooy
 - function: Administratie
   name: Lynn de Goede
   image: "/v1557495164/Portretfoto.jpg"
-  content: Houdt zich voornamelijk bezig met het verwerken van aanvragen, wijzigingen
-    en opzeggingen. Daarnaast bewaakt ze de administratieve processen.
-- content: Zoekt samen met u naar de beste telefonieoplossing. Geen situatie is te
-    gek voor hem. Lennart begeleidt u van lead naar blije klant.
+  content: Porteert je waar je bij staat, na grondige check. Draagt zorg voor alle
+    processen zodra je klant wordt. Maakt meer lawaai dan je denkt. Heeft iets met
+    Griekenland. Vindt het leuk om op een paard te zitten.
+- content: Maakt graag klanten van leads. Denkt en veert mee maar geeft ook advies.
+    Eet vermoedelijk een doos eieren per dag. ’t Is een raadsel hoe, maar kijkt zowel
+    golf als Formule 1.
   function: Commercieel Medewerker
   name: Lennart Swennenhuis
   image: "/v1557495164/Portretfoto.jpg"
-- content: Met de opgedane ervaring geeft Dion u een gerichte service, benadert hij
-    vraagstukken met een analytische blik én biedt een hierbij passende oplossing.
+- content: Vindt het leuk om jouw probleem op te lossen. Zeer behulpzaam te noemen.
+    Was al Formule 1 fan, maar rijdt zelf liever op twee wielen.
   function: Commercieel Medewerker
   name: Dion Steen
   image: "/v1557495164/Portretfoto.jpg"
-- content: 'Deskundig en altijd op de hoogte. Creatief met oplossingen. Analytisch
-    en zorgvuldig. Meedenker. '
+- content: Goed gevoel voor zakelijk. Straalt rust en kunde uit. Rijdt graag op twee
+    wielen. Traint voetbaldames in zijn vrije tijd. Doet suiker in de koffie.
   function: Commercieel Medewerker
   name: Ralph Elshot
   image: "/v1557495164/Portretfoto.jpg"
