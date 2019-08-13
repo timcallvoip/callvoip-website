@@ -27,3 +27,7 @@ Stap 4: De medewerker van Callvoip gaat aan de slag!
 ### Wat kost het?
 
 Dit verschilt per situatie. U wordt altijd vooraf geïnformeerd als deze actie kosten met zich meebrengt. De kosten van 'Hulp op Afstand €25,- excl. BTW per kwartier.
+
+<br>
+
+<a href="[http://support.callvoip.nl:8040/](http://support.callvoip.nl:8040/)" class="button">Remote software</a>
