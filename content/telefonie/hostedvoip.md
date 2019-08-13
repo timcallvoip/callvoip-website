@@ -11,7 +11,7 @@ hero:
   button:
     content: Bereken je kosten
     link: "/calculator"
-  image: "/v1564643171/callvoip-website-hostedvoip-beeldscherm_gnjoib.png"
+  image: "/v1565689314/simmpl_sideways_pqsf8q.png"
 blocks:
 - content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent, dat
     gaat verder dan alleen maar telefonie via vaste toestellen. Ook op uw mobiele
