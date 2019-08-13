@@ -1,8 +1,9 @@
 ---
 title: FRITZ!Box
-weight:
+weight: 
 description: ''
 images: []
+pdf: ''
 
 ---
 In deze handleiding kunt u lezen hoe u uw FRITZ!Box instelt voor een VoIP-account van de Simmpl telefooncentrale.
@@ -47,7 +48,7 @@ Onderin beeld kunt u zien of u als Standard of Advanced gebruiker bent ingelogd.
    Vul in het volgende scherm de SIP-Username en het SIP-password in van uw Simmpl VoIP-account. U kunt deze vinden op de Simmpl telefooncentrale en kunt uiteraard contact met ons opnemen voor assistentie.
    Bij Registrar en Proxy server vult u in: **pbx.callvoip.nl
    ![](https://res.cloudinary.com/callvoip/image/upload/v1564736972/fritzbox-6_kzvtwg.png)
-   **De accountgegevens worden samengevat:
+   \**De accountgegevens worden samengevat:
    ![](https://res.cloudinary.com/callvoip/image/upload/v1564737042/fritzbox-7_iqq1dj.png)
    De wizard wordt beëindigd en u keert terug in het overzichtsscherm met alle telefoonnummers:
    ![](https://res.cloudinary.com/callvoip/image/upload/v1564737107/fritzbox-8_s3ceny.png)
@@ -127,10 +128,10 @@ U heeft uw toestel nu gekoppeld met het nummer en kunt starten met bellen en geb
 
 * Kunt u nog inloggen? Reset uw FRITZ!Box dan via menu \[System\] > \[Backup\] > tabblad \[Factory Settings\]
 * Kunt u niet meer inloggen? Sluit een telefoontoestel op de FRITZ!Box aan
-* Bel met het toestel de volgende code: #991*15901590*
+* Bel met het toestel de volgende code: #991_15901590_
 * U hoort een pieptoon; wacht tot u alles LED’s aan en uit ziet gaan
 * Hang nu pas op. Uw FRITZBox is nu gereset naar factory defaults
 
 <h3>FRITZ!Box kopen en/of support nodig?</h3>
 
-CallvoipTelefonie werkt al jaren met FRITZ!Boxen en kan u het gebruik hiervan van harte aanbevelen. Bezoek <a href="[https://fritzshop.nl/](https://fritzshop.nl/ "https://fritzshop.nl/")" target="_blank>FRITZ!Shop</a> voor een ruim assortiment en veel tips. Voor uw supportvragen kunt u ook bij de <a href="[https://nl.avm.de/service/fritzbox/fritzbox-7490/knowledge-base/](https://nl.avm.de/service/fritzbox/fritzbox-7490/knowledge-base/ "https://nl.avm.de/service/fritzbox/fritzbox-7490/knowledge-base/")" target="_blank">officiële website van AVM</a> terecht.
+CallvoipTelefonie werkt al jaren met FRITZ!Boxen en kan u het gebruik hiervan van harte aanbevelen. Bezoek <a href="[https://fritzshop.nl/](https://fritzshop.nl/ "https://fritzshop.nl/")" target="_blank>FRITZ!Shop</a> voor een ruim assortiment en veel tips. Voor uw supportvragen kunt u ook bij de <a href="[https://nl.avm.de/service/fritzbox/fritzbox-7490/knowledge-base/](https://nl.avm.de/service/fritzbox/fritzbox-7490/knowledge-base/)" target="_blank">officiële website van AVM</a> terecht.

@@ -27,6 +27,7 @@ fields:
     required: false
   label: PDF
 pages:
+- content/ondersteuning/Apparatuurhandleidingen/fritz-box.md
 - content/ondersteuning/hulp-op-afstand.md
 - content/ondersteuning/fax-voicemail/fax-versturen-zonder-faxapparaat.md
 - content/ondersteuning/fax-voicemail/fax-versturen.md
@@ -37,7 +38,6 @@ pages:
 - content/ondersteuning/call-pickup.md
 - content/ondersteuning/algemeen/overzicht-sip-statuscodes.md
 - content/ondersteuning/algemeen/nieuwsbrieven-overzicht.md
-- content/ondersteuning/Apparatuurhandleidingen/fritz-box.md
 - content/ondersteuning/Integraties/click-to-dial-uitgebreide-handleiding.md
 - content/ondersteuning/simmpl-functionaliteiten/omleidings-app.md
 - content/ondersteuning/Integraties/click-to-dial.md
