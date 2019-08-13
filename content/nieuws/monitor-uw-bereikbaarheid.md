@@ -8,7 +8,7 @@ hero:
   image: ''
 author: ''
 date: 2019-08-12T22:00:00+00:00
-url: monitor-bereikbaarheid
+url: "/monitor-bereikbaarheid/"
 contactpersoon: []
 categories: []
 tags: []
