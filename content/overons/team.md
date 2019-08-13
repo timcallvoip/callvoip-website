@@ -8,24 +8,28 @@ intro:
     staat. Maak daarom kennis met ons team en weet wie u aan de lijn heeft.
   title: Het team van Callvoip
 team:
-- content: 'Passie voor ondernermerschap en grote affiniteit met ICT & database-applicaties.
-    Resultaat? Tijdhof Consulting in 1997 en Callvoip in 2007! '
+- content: Heeft veel kennis in huis. Ziet overal oplossingen met handige apparatuur.
+    Altijd op de hoogte van nieuwe ontwikkelingen. Rijdt in een witte auto en drinkt
+    de koffie zwart. Heeft niets met favoriete FC te maken, al komt Twente uit dezelfde
+    buurt.
   function: Algemeen Directeur
   image: "/v1552398058/Team/team-robert.jpg"
   name: Robert Tijdhof
-- content: Kent u graag persoonlijk, weet wat u belangrijk vindt, adviseert en begeleidt
-    u naar het eindpunt. Vertaalt technische taal daarnaast naar begrijpelijke termen.
+- content: Orakel van Callvoip. Maakt ambassadeurs van klanten. Maar nog liever fans.
+    Zelf fan van planten en mooie vergezichten. Mag graag uit eten. Schijnt een zak
+    koffiebonen per dag weg te drinken.
   function: Business Operations
   image: "/v1552398057/Team/team-marieke.jpg"
   name: Marieke Timmer
-- content: Is zeer toegewijd en voelt zich persoonlijk verantwoordelijk dat uw order
-    100% goed werkend de deur uitgaat. Door zijn grote technische kennis is hij voor
-    veel collega’s een waardevolle vraagbaak
+- content: Heeft de nauwkeurigheid van een precisie-instrument. Is dit misschien ook
+    wel, hoewel we betwijfelen of die wel anekdotes kunnen vertellen. Deelt graag
+    de koffie uit. Passie voor techniek.
   function: Technisch logistiek medewerker
   image: "/v1552398058/Team/team-herman.jpg"
   name: Herman Willems
-- content: Speelt een belangrijke rol bij de vormgeving van de website en daarbij
-    behorende tools. Verstuurt ook de maandelijkse mailing.
+- content: Is hier al een tijdje en heeft zichzelf getransformeerd tot online marketing
+    man. Stelt dus o.a. pakkende mails op en is verantwoordelijk voor de website.
+    Is Fries maar wel één van de leukere.
   function: Marketing
   image: "/v1557495164/Portretfoto.jpg"
   name: Milan Littooy
