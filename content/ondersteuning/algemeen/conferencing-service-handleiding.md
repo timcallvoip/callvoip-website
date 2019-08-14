@@ -126,63 +126,63 @@ Zet het volume harder
 
 {{< layout/columns >}}  
  {{< layout/column2 >}}  
- links  
+\*8 + tel.nr.  
  {{</ layout/column2 >}}  
  {{< layout/column2 >}}  
- rechts  
- {{</ layout/column2 >}}  
-{{</ layout/columns >}}
-
-{{< layout/columns >}}  
- {{< layout/column2 >}}  
- links  
- {{</ layout/column2 >}}  
- {{< layout/column2 >}}  
- rechts  
+Nodig een nieuwe deelnemer bij de vergadering uit  
  {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
 {{< layout/columns >}}  
  {{< layout/column2 >}}  
- links  
+\*30  
  {{</ layout/column2 >}}  
  {{< layout/column2 >}}  
- rechts  
- {{</ layout/column2 >}}  
-{{</ layout/columns >}}
-
-{{< layout/columns >}}  
- {{< layout/column2 >}}  
- links  
- {{</ layout/column2 >}}  
- {{< layout/column2 >}}  
- rechts  
+Beëindig de vergadering voor alle deelnemers  
  {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
 {{< layout/columns >}}  
  {{< layout/column2 >}}  
- links  
+\*31  
  {{</ layout/column2 >}}  
  {{< layout/column2 >}}  
- rechts  
- {{</ layout/column2 >}}  
-{{</ layout/columns >}}
-
-{{< layout/columns >}}  
- {{< layout/column2 >}}  
- links  
- {{</ layout/column2 >}}  
- {{< layout/column2 >}}  
- rechts  
+Beëindig de vergadering voor de laatst gekomen deelnemer  
  {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
 {{< layout/columns >}}  
  {{< layout/column2 >}}  
- links  
+\*21  
  {{</ layout/column2 >}}  
  {{< layout/column2 >}}  
- rechts  
+Blokkeer de vergadering voor nieuwe deelnemers  
+ {{</ layout/column2 >}}  
+{{</ layout/columns >}}
+
+{{< layout/columns >}}  
+ {{< layout/column2 >}}  
+\*20  
+ {{</ layout/column2 >}}  
+ {{< layout/column2 >}}  
+Deblokkeer de vergadering en laat nieuwe deelnemers tot de vergadering toe  
+ {{</ layout/column2 >}}  
+{{</ layout/columns >}}
+
+{{< layout/columns >}}  
+ {{< layout/column2 >}}  
+\*11  
+ {{</ layout/column2 >}}  
+ {{< layout/column2 >}}  
+Schakel de microfoon van alle deelnemers uit  
+ {{</ layout/column2 >}}  
+{{</ layout/columns >}}
+
+{{< layout/columns >}}  
+ {{< layout/column2 >}}  
+\*10  
+ {{</ layout/column2 >}}  
+ {{< layout/column2 >}}  
+Schakel de microfoon van alle deelnemers weer in  
  {{</ layout/column2 >}}  
 {{</ layout/columns >}}
