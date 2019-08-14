@@ -1,5 +1,6 @@
 ---
 title: Yealink T4x- & T5x-serie (provisioning)
+pdf: http://www.simmpl.nl/downloads/Simmpl_Provisioninghandleiding_Tiptel_Yealink.pdf
 
 ---
 Voor de meeste Yealink toestellen is provisioning mogelijk. Dit betekent dat u slechts één link in het toestel hoeft te plaatsen en dat het toestel dan door de telefooncentrale wordt geconfigureerd. U hoeft niets meer te doen, behalve het verder aanpassen van de instellingen aan uw wensen.

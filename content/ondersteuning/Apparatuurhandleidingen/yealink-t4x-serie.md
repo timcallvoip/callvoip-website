@@ -3,6 +3,7 @@ title: Yealink T4x- & T5x-serie (handmatig)
 weight: 
 description: ''
 images: []
+pdf: http://www.simmpl.nl/downloads/Simmpl_configuratiehandleiding_Yealink_T4x.pdf
 
 ---
 In deze handleiding kunt u lezen hoe u uw Yealink T4x of T5x IP telefoon configureert met een VoIP-account van de Simmpl telefooncentrale.

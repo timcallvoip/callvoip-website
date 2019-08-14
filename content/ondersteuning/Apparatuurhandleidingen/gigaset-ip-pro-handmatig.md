@@ -3,6 +3,7 @@ title: Gigaset IP Pro (handmatig)
 weight: 
 description: ''
 images: []
+pdf: http://www.simmpl.nl/downloads/Simmpl_configuratiehandleiding_Gigaset_IP_DECT.pdf
 
 ---
 In deze handleiding kunt u lezen hoe u uw Gigaset IP DECT instelt voor een VoIP-account van de Simmpl telefooncentrale.

@@ -3,6 +3,7 @@ title: Gigaset IP Pro (provisioning)
 weight: 
 description: ''
 images: []
+pdf: http://www.simmpl.nl/downloads/Simmpl_provisioning_handleiding_Gigaset-Pro_Maxwell.pdf
 
 ---
 Wij adviseren om de Maxwell via **AUTO PROVISIONING** automatisch door de telefooncentrale te laten instellen: dit gaat snel en de resultaten zijn goed. Bij het aanmaken van een toestelaccount vindt u deze optie.  

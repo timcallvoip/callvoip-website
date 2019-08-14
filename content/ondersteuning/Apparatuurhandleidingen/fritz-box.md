@@ -3,7 +3,7 @@ title: FRITZ!Box
 weight: 
 description: ''
 images: []
-pdf: ''
+pdf: http://www.simmpl.nl/downloads/Simmpl_configuratiehandleiding_FRITZBox.pdf
 
 ---
 In deze handleiding kunt u lezen hoe u uw FRITZ!Box instelt voor een VoIP-account van de Simmpl telefooncentrale.

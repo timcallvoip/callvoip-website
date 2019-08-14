@@ -27,6 +27,10 @@ fields:
     required: false
   label: PDF
 pages:
+- content/ondersteuning/Apparatuurhandleidingen/fritz-box.md
+- content/ondersteuning/Apparatuurhandleidingen/gigaset-ip-pro-provisioning.md
+- content/ondersteuning/Apparatuurhandleidingen/gigaset-ip-pro-handmatig.md
+- content/ondersteuning/Apparatuurhandleidingen/yealink-t4x-serie.md
 - content/ondersteuning/vast-mobiel/vast-mobiel-vamos-informatie.md
 - content/ondersteuning/vast-mobiel/vast-mobiel-handleiding.md
 - content/ondersteuning/fax-voicemail/tips-voor-slagend-faxverkeer.md
@@ -43,7 +47,6 @@ pages:
 - content/ondersteuning/simmpl-functionaliteiten/omleidings-app.md
 - content/ondersteuning/call-pickup.md
 - content/ondersteuning/hulp-op-afstand.md
-- content/ondersteuning/Apparatuurhandleidingen/fritz-box.md
 - content/ondersteuning/Integraties/realtime-api.md
 - content/ondersteuning/Integraties/voip-cti.md
 - content/ondersteuning/algemeen/overzicht-sip-statuscodes.md
@@ -52,9 +55,6 @@ pages:
 - content/ondersteuning/Integraties/click-to-dial.md
 - content/ondersteuning/Integraties/click-to-dial-yealink-adresboek.md
 - content/ondersteuning/meldteksten-wachtmuziek/wachtmuziek.md
-- content/ondersteuning/Apparatuurhandleidingen/yealink-t4x-serie.md
-- content/ondersteuning/Apparatuurhandleidingen/gigaset-ip-pro-provisioning.md
-- content/ondersteuning/Apparatuurhandleidingen/gigaset-ip-pro-handmatig.md
 - content/ondersteuning/internet/callvoip-business-ftth-instellen.md
 - content/ondersteuning/internet/callvoip-business-vdsl-instellen.md
 - content/ondersteuning/internet/callvoip-business-adsl-instellen.md
