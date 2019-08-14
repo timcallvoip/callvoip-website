@@ -498,4 +498,88 @@ Undecipherable
 
 ### 5xx - Server Failure
 
+{{< layout/columns >}}  
+ {{< layout/column3 >}}  
+**500**  
+ {{</ layout/column3 >}}  
+ {{< layout/column3 >}}  
+Server Internal Error (fout bij opzeggen gesprek, probeer het nogmaals)  
+ {{</ layout/column3 >}}  
+ {{< layout/column3 >}}  
+  
+ {{</ layout/column3 >}}  
+{{</ layout/columns >}
+
+{{< layout/columns >}}  
+ {{< layout/column3 >}}  
+**501**  
+ {{</ layout/column3 >}}  
+ {{< layout/column3 >}}  
+Not Implemented  
+ {{</ layout/column3 >}}  
+ {{< layout/column3 >}}  
+  
+ {{</ layout/column3 >}}  
+{{</ layout/columns >}
+
+{{< layout/columns >}}  
+ {{< layout/column3 >}}  
+**502**  
+ {{</ layout/column3 >}}  
+ {{< layout/column3 >}}  
+Bad Gateway  
+ {{</ layout/column3 >}}  
+ {{< layout/column3 >}}  
+  
+ {{</ layout/column3 >}}  
+{{</ layout/columns >}
+
+{{< layout/columns >}}  
+ {{< layout/column3 >}}  
+**503**  
+ {{</ layout/column3 >}}  
+ {{< layout/column3 >}}  
+Service Unavailable (provider/gebelde partij niet beschikbaar, probeer het nogmaals)  
+ {{</ layout/column3 >}}  
+ {{< layout/column3 >}}  
+  
+ {{</ layout/column3 >}}  
+{{</ layout/columns >}
+
+{{< layout/columns >}}  
+ {{< layout/column3 >}}  
+**504**  
+ {{</ layout/column3 >}}  
+ {{< layout/column3 >}}  
+Server Time Out  
+ {{</ layout/column3 >}}  
+ {{< layout/column3 >}}  
+  
+ {{</ layout/column3 >}}  
+{{</ layout/columns >}
+
+{{< layout/columns >}}  
+ {{< layout/column3 >}}  
+**505**  
+ {{</ layout/column3 >}}  
+ {{< layout/column3 >}}  
+Version Not Supported  
+ {{</ layout/column3 >}}  
+ {{< layout/column3 >}}  
+  
+ {{</ layout/column3 >}}  
+{{</ layout/columns >}
+
+{{< layout/columns >}}  
+ {{< layout/column3 >}}  
+**513**  
+ {{</ layout/column3 >}}  
+ {{< layout/column3 >}}  
+Message Too Large  
+ {{</ layout/column3 >}}  
+ {{< layout/column3 >}}  
+  
+ {{</ layout/column3 >}}  
+{{</ layout/columns >}
+
 ### 6xx - Global Failure
