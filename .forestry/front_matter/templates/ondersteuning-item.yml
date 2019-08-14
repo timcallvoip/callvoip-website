@@ -27,6 +27,7 @@ fields:
     required: false
   label: PDF
 pages:
+- content/ondersteuning/call-pickup.md
 - content/ondersteuning/hulp-op-afstand.md
 - content/ondersteuning/Apparatuurhandleidingen/fritz-box.md
 - content/ondersteuning/fax-voicemail/fax-versturen-zonder-faxapparaat.md
@@ -35,7 +36,6 @@ pages:
 - content/ondersteuning/fax-voicemail/voicemail-instellen-afluisteren.md
 - content/ondersteuning/Integraties/realtime-api.md
 - content/ondersteuning/Integraties/voip-cti.md
-- content/ondersteuning/call-pickup.md
 - content/ondersteuning/algemeen/overzicht-sip-statuscodes.md
 - content/ondersteuning/algemeen/nieuwsbrieven-overzicht.md
 - content/ondersteuning/Integraties/click-to-dial-uitgebreide-handleiding.md
