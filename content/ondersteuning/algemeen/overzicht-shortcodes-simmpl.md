@@ -46,7 +46,7 @@ Togglecode: hiermee schakelt u omleiding xx aan of uit (aankondiging)
 ***100/#100**  
  {{</ layout/column2 >}}  
  {{< layout/column2 >}}  
-Togglecode: hiermee schakelt u omleiding xx aan of uit (aankondiging)  
+Togglecode: u logt hiermee in of uit de wachtrij(en) al naar gelang uw vorige status  
  {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
@@ -55,7 +55,7 @@ Togglecode: hiermee schakelt u omleiding xx aan of uit (aankondiging)
 ***101/#101**  
  {{</ layout/column2 >}}  
  {{< layout/column2 >}}  
-Togglecode: hiermee schakelt u omleiding xx aan of uit (aankondiging)  
+Hiermee logt u in alle wachtrijen in  
  {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
@@ -64,7 +64,7 @@ Togglecode: hiermee schakelt u omleiding xx aan of uit (aankondiging)
 ***102/#102**  
  {{</ layout/column2 >}}  
  {{< layout/column2 >}}  
-Togglecode: hiermee schakelt u omleiding xx aan of uit (aankondiging)  
+Hiermee zet u uw status in alle wachtrijen op pauze  
  {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
@@ -73,14 +73,104 @@ Togglecode: hiermee schakelt u omleiding xx aan of uit (aankondiging)
 ***103/#103**  
  {{</ layout/column2 >}}  
  {{< layout/column2 >}}  
-Togglecode: hiermee schakelt u omleiding xx aan of uit (aankondiging)  
+Hiermee logt u uit alle wachtrijn uit  
  {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
 ### Persoonlijke voicemailbox
 
+{{< layout/columns >}}  
+ {{< layout/column2 >}}  
+**1233**  
+ {{</ layout/column2 >}}  
+ {{< layout/column2 >}}  
+Hiermee luistert u de persoonlijke voicemail af ( = voicemail van de gebruiker)  
+ {{</ layout/column2 >}}  
+{{</ layout/columns >}}
+
+{{< layout/columns >}}  
+ {{< layout/column2 >}}  
+***96/#96**  
+ {{</ layout/column2 >}}  
+ {{< layout/column2 >}}  
+Hiermee luistert u de persoonlijke voicemail af ( = voicemail van de gebruiker)  
+ {{</ layout/column2 >}}  
+{{</ layout/columns >}}
+
 ### Company voicemailboxen
+
+{{< layout/columns >}}  
+ {{< layout/column2 >}}  
+**1233(vmbox-nr)**  
+ {{</ layout/column2 >}}  
+ {{< layout/column2 >}}  
+Kies het voicemailbox-nummer en u luistert de voicemail van de betreffende box af  
+ {{</ layout/column2 >}}  
+{{</ layout/columns >}}
+
+{{< layout/columns >}}  
+ {{< layout/column2 >}}  
+***96/#96(vmbox-nr)**  
+ {{</ layout/column2 >}}  
+ {{< layout/column2 >}}  
+Kies het voicemailbox-nummer en u luistert de voicemail van de betreffende box af  
+ {{</ layout/column2 >}}  
+{{</ layout/columns >}}
 
 ### Met / zonder nummer naar buiten bellen
 
+{{< layout/columns >}}  
+ {{< layout/column2 >}}  
+*** 31 * \[nr\]**  
+ {{</ layout/column2 >}}  
+ {{< layout/column2 >}}  
+Togglecode: HotDesking voor het in-/uitloggen op een toestel  
+ {{</ layout/column2 >}}  
+{{</ layout/columns >}}
+
+{{< layout/columns >}}  
+ {{< layout/column2 >}}  
+*** 32 * \[nr\]**  
+ {{</ layout/column2 >}}  
+ {{< layout/column2 >}}  
+Togglecode: HotDesking voor het in-/uitloggen op een toestel  
+ {{</ layout/column2 >}}  
+{{</ layout/columns >}}
+
+{{< layout/columns >}}  
+ {{< layout/column2 >}}  
+*** 32 / # 32**  
+ {{</ layout/column2 >}}  
+ {{< layout/column2 >}}  
+Togglecode: HotDesking voor het in-/uitloggen op een toestel  
+ {{</ layout/column2 >}}  
+{{</ layout/columns >}}
+
 ### HotDesking
+
+{{< layout/columns >}}  
+ {{< layout/column2 >}}  
+*** 35**  
+ {{</ layout/column2 >}}  
+ {{< layout/column2 >}}  
+Togglecode: HotDesking voor het in-/uitloggen op een toestel  
+ {{</ layout/column2 >}}  
+{{</ layout/columns >}}
+
+{{< layout/columns >}}  
+ {{< layout/column2 >}}  
+*** 35 * \[int\]**  
+ {{</ layout/column2 >}}  
+ {{< layout/column2 >}}  
+Togglecode: HotDesking voor het in-/uitloggen op een toestel  
+ {{</ layout/column2 >}}  
+{{</ layout/columns >}}
+
+{{< layout/columns >}}  
+ {{< layout/column2 >}}  
+*** 35 * \[int\] * \[pin\]**  
+ {{</ layout/column2 >}}  
+ {{< layout/column2 >}}  
+Togglecode: HotDesking voor het in-/uitloggen op een toestel  
+ {{</ layout/column2 >}}  
+{{</ layout/columns >}}
