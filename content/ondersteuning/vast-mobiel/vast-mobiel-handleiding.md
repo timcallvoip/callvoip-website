@@ -3,6 +3,7 @@ title: Vast Mobiel (Vamos) handleiding
 weight: 
 description: ''
 images: []
+pdf: http://www.simmpl.nl/downloads/Simmpl_handleiding_ingebruikname_Vamos.pdf
 
 ---
 Hieronder vindt u een stapsgewijze instructie bij de ingebruikname van Vamos.
