@@ -3,6 +3,7 @@ title: Prefix-app
 weight: 
 description: ''
 images: []
+pdf: http://www.simmpl.nl/downloads/Simmpl_technote_prefix-app.pdf
 
 ---
 Heeft u meerdere nummers die op één of meer toestellen binnenkomen?   

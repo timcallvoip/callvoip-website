@@ -27,6 +27,10 @@ fields:
     required: false
   label: PDF
 pages:
+- content/ondersteuning/simmpl-functionaliteiten/prefix.md
+- content/ondersteuning/simmpl-functionaliteiten/wachtrij-app.md
+- content/ondersteuning/simmpl-functionaliteiten/email-app.md
+- content/ondersteuning/simmpl-functionaliteiten/omleidings-app.md
 - content/ondersteuning/call-pickup.md
 - content/ondersteuning/hulp-op-afstand.md
 - content/ondersteuning/Apparatuurhandleidingen/fritz-box.md
@@ -39,14 +43,10 @@ pages:
 - content/ondersteuning/algemeen/overzicht-sip-statuscodes.md
 - content/ondersteuning/algemeen/nieuwsbrieven-overzicht.md
 - content/ondersteuning/Integraties/click-to-dial-uitgebreide-handleiding.md
-- content/ondersteuning/simmpl-functionaliteiten/omleidings-app.md
 - content/ondersteuning/Integraties/click-to-dial.md
 - content/ondersteuning/Integraties/click-to-dial-yealink-adresboek.md
 - content/ondersteuning/meldteksten-wachtmuziek/wachtmuziek.md
-- content/ondersteuning/simmpl-functionaliteiten/email-app.md
-- content/ondersteuning/simmpl-functionaliteiten/wachtrij-app.md
 - content/ondersteuning/Apparatuurhandleidingen/yealink-t4x-serie.md
-- content/ondersteuning/simmpl-functionaliteiten/prefix.md
 - content/ondersteuning/Apparatuurhandleidingen/gigaset-ip-pro-provisioning.md
 - content/ondersteuning/Apparatuurhandleidingen/gigaset-ip-pro-handmatig.md
 - content/ondersteuning/simmpl-functionaliteiten/tijdsconditie-app.md

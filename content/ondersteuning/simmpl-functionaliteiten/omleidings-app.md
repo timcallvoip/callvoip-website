@@ -3,6 +3,7 @@ title: Omleidings-app
 weight: 
 description: ''
 images: []
+pdf: http://www.simmpl.nl/downloads/Simmpl_omleidingsapp.pdf
 
 ---
 De Simmpl telefooncentrale kent drie soorten condities waarbinnen u één of meer acties kunt laten uitvoeren:

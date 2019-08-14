@@ -1,5 +1,6 @@
 ---
 title: Voorwaarde-app
+pdf: http://www.simmpl.nl/downloads/Simmpl_handleiding_voorwaarde-app.pdf
 
 ---
 **Filter gesprekken op basis van een (deel van het) telefoonnummer** 
