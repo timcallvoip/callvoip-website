@@ -70,55 +70,55 @@ Tijdens de vergadering beschikken moderator en deelnemer over een aantal instrum
 
 {{< layout/columns >}}  
  {{< layout/column2 >}}  
- links  
+\#  
  {{</ layout/column2 >}}  
  {{< layout/column2 >}}  
- rechts  
- {{</ layout/column2 >}}  
-{{</ layout/columns >}}
-
-{{< layout/columns >}}  
- {{< layout/column2 >}}  
- links  
- {{</ layout/column2 >}}  
- {{< layout/column2 >}}  
- rechts  
+Laat een overzicht van de beschikbare ‘controls’ horen  
  {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
 {{< layout/columns >}}  
  {{< layout/column2 >}}  
- links  
+\*1  
  {{</ layout/column2 >}}  
  {{< layout/column2 >}}  
- rechts  
- {{</ layout/column2 >}}  
-{{</ layout/columns >}}
-
-{{< layout/columns >}}  
- {{< layout/column2 >}}  
- links  
- {{</ layout/column2 >}}  
- {{< layout/column2 >}}  
- rechts  
+Mute / cancel mute (schakel uw microfoon uit resp. aan)  
  {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
 {{< layout/columns >}}  
  {{< layout/column2 >}}  
- links  
+\*2  
  {{</ layout/column2 >}}  
  {{< layout/column2 >}}  
- rechts  
+Schakel vermelding van nieuwe deelnemers aan resp. uit  
  {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
 {{< layout/columns >}}  
  {{< layout/column2 >}}  
- links  
+\*3  
  {{</ layout/column2 >}}  
  {{< layout/column2 >}}  
- rechts  
+Laat horen welke deelnemers op de vergadering zijn ingelogd  
+ {{</ layout/column2 >}}  
+{{</ layout/columns >}}
+
+{{< layout/columns >}}  
+ {{< layout/column2 >}}  
+\*7  
+ {{</ layout/column2 >}}  
+ {{< layout/column2 >}}  
+Zet het volume zachter  
+ {{</ layout/column2 >}}  
+{{</ layout/columns >}}
+
+{{< layout/columns >}}  
+ {{< layout/column2 >}}  
+\*9  
+ {{</ layout/column2 >}}  
+ {{< layout/column2 >}}  
+Zet het volume harder  
  {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
