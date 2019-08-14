@@ -27,6 +27,9 @@ fields:
     required: false
   label: PDF
 pages:
+- content/ondersteuning/Integraties/voip-cti.md
+- content/ondersteuning/Integraties/voip-cti-handleiding.md
+- content/ondersteuning/Integraties/realtime-api.md
 - content/ondersteuning/Apparatuurhandleidingen/fritz-box.md
 - content/ondersteuning/Apparatuurhandleidingen/gigaset-ip-pro-provisioning.md
 - content/ondersteuning/Apparatuurhandleidingen/gigaset-ip-pro-handmatig.md
@@ -47,8 +50,6 @@ pages:
 - content/ondersteuning/simmpl-functionaliteiten/omleidings-app.md
 - content/ondersteuning/call-pickup.md
 - content/ondersteuning/hulp-op-afstand.md
-- content/ondersteuning/Integraties/realtime-api.md
-- content/ondersteuning/Integraties/voip-cti.md
 - content/ondersteuning/algemeen/overzicht-sip-statuscodes.md
 - content/ondersteuning/algemeen/nieuwsbrieven-overzicht.md
 - content/ondersteuning/Integraties/click-to-dial-uitgebreide-handleiding.md
@@ -61,6 +62,5 @@ pages:
 - content/ondersteuning/algemeen/contact.md
 - content/ondersteuning/algemeen/conferencing-service-handleiding.md
 - content/ondersteuning/algemeen/sip-trunk-handleiding.md
-- content/ondersteuning/Integraties/voip-cti-handleiding.md
 - content/ondersteuning/algemeen/overzicht-shortcodes-simmpl.md
 - content/ondersteuning/algemeen/storing.md
