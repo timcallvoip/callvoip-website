@@ -27,6 +27,10 @@ fields:
     required: false
   label: PDF
 pages:
+- content/ondersteuning/netwerk-ondersteuning/tips-bij-router-firewall-problemen.md
+- content/ondersteuning/netwerk-ondersteuning/eerste-hulp-bij-voip-problemen.md
+- content/ondersteuning/simmpl-functionaliteiten/qaller-plus-app.md
+- content/ondersteuning/simmpl-functionaliteiten/tijdsconditie-app.md
 - content/ondersteuning/simmpl-functionaliteiten/prefix.md
 - content/ondersteuning/simmpl-functionaliteiten/wachtrij-app.md
 - content/ondersteuning/simmpl-functionaliteiten/email-app.md
@@ -49,14 +53,10 @@ pages:
 - content/ondersteuning/Apparatuurhandleidingen/yealink-t4x-serie.md
 - content/ondersteuning/Apparatuurhandleidingen/gigaset-ip-pro-provisioning.md
 - content/ondersteuning/Apparatuurhandleidingen/gigaset-ip-pro-handmatig.md
-- content/ondersteuning/simmpl-functionaliteiten/tijdsconditie-app.md
-- content/ondersteuning/simmpl-functionaliteiten/qaller-plus-app.md
 - content/ondersteuning/internet/callvoip-business-ftth-instellen.md
 - content/ondersteuning/internet/callvoip-business-vdsl-instellen.md
 - content/ondersteuning/internet/callvoip-business-adsl-instellen.md
-- content/ondersteuning/netwerk-ondersteuning/eerste-hulp-bij-voip-problemen.md
 - content/ondersteuning/algemeen/contact.md
-- content/ondersteuning/netwerk-ondersteuning/tips-bij-router-firewall-problemen.md
 - content/ondersteuning/vast-mobiel/vast-mobiel-handleiding.md
 - content/ondersteuning/vast-mobiel/vast-mobiel-vamos-informatie.md
 - content/ondersteuning/algemeen/conferencing-service-handleiding.md

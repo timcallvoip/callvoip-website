@@ -3,6 +3,7 @@ title: Tips bij router-/firewall problemen
 weight: 
 description: ''
 images: []
+pdf: http://www.simmpl.nl/downloads/Simmpl_Router-en-Firewall-Issues.pdf
 
 ---
 U maakt gebruik van internettelefonie van Callvoip via de Simmpl telefooncentrale en u ervaart problemen met uw telefoons. Vervelend! Met deze ondersteuningspagina hopen wij u te kunnen assisteren bij het vinden van de oorzaak en het wegnemen ervan.

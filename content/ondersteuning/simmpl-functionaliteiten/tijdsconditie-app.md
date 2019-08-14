@@ -3,6 +3,7 @@ title: Tijdsconditie-app
 weight: 
 description: ''
 images: []
+pdf: http://www.simmpl.nl/downloads/Simmpl_handleiding_tijdscondities.pdf
 
 ---
 De Simmpl telefooncentrale biedt u de mogelijkheid om tijdvlakken te definieren. Op de telefooncentrale kunt u dan instellen dat er binnen deze tijdvlakken een bepaalde (set van) actie(s) plaatsvindt. U kunt meerdere tijdsdefinities gebruiken.
