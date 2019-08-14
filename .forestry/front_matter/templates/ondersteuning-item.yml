@@ -27,10 +27,10 @@ fields:
     required: false
   label: PDF
 pages:
+- content/ondersteuning/algemeen/overzicht-sip-statuscodes.md
 - content/ondersteuning/algemeen/overzicht-shortcodes-simmpl.md
 - content/ondersteuning/algemeen/conferencing-service-handleiding.md
 - content/ondersteuning/algemeen/sip-trunk-handleiding.md
-- content/ondersteuning/algemeen/overzicht-sip-statuscodes.md
 - content/ondersteuning/Integraties/click-to-dial-uitgebreide-handleiding.md
 - content/ondersteuning/Integraties/click-to-dial-yealink-adresboek.md
 - content/ondersteuning/Integraties/click-to-dial.md
