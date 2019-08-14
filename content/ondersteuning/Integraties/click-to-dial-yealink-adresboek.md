@@ -3,6 +3,7 @@ title: Click-to-Dial - Yealink adresboek
 weight: 
 description: ''
 images: []
+pdf: http://www.simmpl.nl/downloads/Simmpl_snelstarthandleiding_Yealink-C2D-adresboek.pdf
 
 ---
 Installeer de gratis Simmpl Click-to-Dial chrome-app en laat uw Yealink toestellen het Click to Dial adresboek uitlezen:

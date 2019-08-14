@@ -27,6 +27,13 @@ fields:
     required: false
   label: PDF
 pages:
+- content/ondersteuning/algemeen/sip-trunk-handleiding.md
+- content/ondersteuning/algemeen/conferencing-service-handleiding.md
+- content/ondersteuning/algemeen/overzicht-shortcodes-simmpl.md
+- content/ondersteuning/algemeen/overzicht-sip-statuscodes.md
+- content/ondersteuning/Integraties/click-to-dial-uitgebreide-handleiding.md
+- content/ondersteuning/Integraties/click-to-dial-yealink-adresboek.md
+- content/ondersteuning/Integraties/click-to-dial.md
 - content/ondersteuning/Integraties/voip-cti.md
 - content/ondersteuning/Integraties/voip-cti-handleiding.md
 - content/ondersteuning/Integraties/realtime-api.md
@@ -50,17 +57,10 @@ pages:
 - content/ondersteuning/simmpl-functionaliteiten/omleidings-app.md
 - content/ondersteuning/call-pickup.md
 - content/ondersteuning/hulp-op-afstand.md
-- content/ondersteuning/algemeen/overzicht-sip-statuscodes.md
 - content/ondersteuning/algemeen/nieuwsbrieven-overzicht.md
-- content/ondersteuning/Integraties/click-to-dial-uitgebreide-handleiding.md
-- content/ondersteuning/Integraties/click-to-dial.md
-- content/ondersteuning/Integraties/click-to-dial-yealink-adresboek.md
 - content/ondersteuning/meldteksten-wachtmuziek/wachtmuziek.md
 - content/ondersteuning/internet/callvoip-business-ftth-instellen.md
 - content/ondersteuning/internet/callvoip-business-vdsl-instellen.md
 - content/ondersteuning/internet/callvoip-business-adsl-instellen.md
 - content/ondersteuning/algemeen/contact.md
-- content/ondersteuning/algemeen/conferencing-service-handleiding.md
-- content/ondersteuning/algemeen/sip-trunk-handleiding.md
-- content/ondersteuning/algemeen/overzicht-shortcodes-simmpl.md
 - content/ondersteuning/algemeen/storing.md
