@@ -3,7 +3,7 @@ title: Voicemail instellen & afluisteren
 weight: 
 description: ''
 images: []
-pdf: ''
+pdf: http://www.simmpl.nl/downloads/Simmpl_handleiding_bedrijfsvoicemail_instellen_en_beluisteren.pdf
 
 ---
 <h3>Voicemail: onderscheid persoonlijke voicemail en bedrijfsvoicemail</h3>

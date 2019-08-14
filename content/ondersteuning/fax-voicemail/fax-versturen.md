@@ -3,7 +3,7 @@ title: Snelstarthandleiding fax versturen
 weight: 
 description: ''
 images: []
-pdf: ''
+pdf: http://www.simmpl.nl/downloads/Simmpl_Snelstarthandleiding_Fax-versturen.pdf
 
 ---
 Zonder faxapparaat een fax versturen, dat kan toch niet? Jawel, en dat is super Simmpl met onze telefooncentrale! Volg deze handleiding en uw eerste fax zal binnen een mum van tijd verstuurd zijn!

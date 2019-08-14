@@ -3,7 +3,7 @@ title: Fax versturen zonder faxapparaat
 weight: 
 description: ''
 images: []
-pdf: ''
+pdf: http://www.simmpl.nl/downloads/Simmpl_handleiding_faxbox_instellen_ontvangen_versturen.pdf
 
 ---
 <h3>De Simmpl-telefooncentrale en faxverkeer</h3>
