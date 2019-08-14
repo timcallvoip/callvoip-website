@@ -27,8 +27,8 @@ fields:
     required: false
   label: PDF
 pages:
-- content/ondersteuning/Apparatuurhandleidingen/fritz-box.md
 - content/ondersteuning/hulp-op-afstand.md
+- content/ondersteuning/Apparatuurhandleidingen/fritz-box.md
 - content/ondersteuning/fax-voicemail/fax-versturen-zonder-faxapparaat.md
 - content/ondersteuning/fax-voicemail/fax-versturen.md
 - content/ondersteuning/fax-voicemail/tips-voor-slagend-faxverkeer.md
