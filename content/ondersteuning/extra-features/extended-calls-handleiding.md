@@ -3,6 +3,7 @@ title: Extended Calls handleiding
 weight: 
 description: ''
 images: []
+pdf: http://www.simmpl.nl/downloads/Simmpl_handleiding_ExtendedCalls.pdf
 
 ---
 Nieuw van Simmpl is de mogelijkheid om intern te kunnen bellen tussen twee ondernemingen die qua bedrijf min of meer bij elkaar horen maar administratief gescheiden zijn en een eigen nota willen krijgen. Vaak is sprake van een situatie met nevenvestigingen, filialen, en dergelijke.

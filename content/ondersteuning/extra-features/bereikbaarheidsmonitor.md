@@ -3,6 +3,7 @@ title: Bereikbaarheidsmonitor handleiding
 weight: 
 description: ''
 images: []
+pdf: http://www.simmpl.nl/downloads/Simmpl_Snelstart_Bereikbaarheidsmonitor.pdf
 
 ---
 Hoe bereikbaar is uw organisatie?   

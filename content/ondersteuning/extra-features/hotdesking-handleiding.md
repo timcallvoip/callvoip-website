@@ -3,6 +3,7 @@ title: Hotdesking handleiding
 weight: 
 description: ''
 images: []
+pdf: http://www.simmpl.nl/downloads/Simmpl_hotdesking.pdf
 
 ---
 Goed nieuws voor situaties met flexibele werkplekken, bedrijven met (regio-)kantoren waar medewerkers dan weer hier, dan weer daar actief zijn, of bij kantoor- en thuiswerkplek: Simmpl biedt HotDesking!  
