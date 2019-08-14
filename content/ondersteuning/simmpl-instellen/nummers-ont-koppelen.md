@@ -3,6 +3,7 @@ title: Nummers (ont)koppelen
 weight: 
 description: ''
 images: []
+pdf: http://www.simmpl.nl/downloads/Simmpl_handleiding_nummers_koppelen_aan_belplannen_en_trunks.pdf
 
 ---
 **Gefeliciteerd! Uw 100 nummers zijn actief en klaar voor gebruik!** 

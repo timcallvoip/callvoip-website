@@ -3,6 +3,7 @@ title: Feestdagen instellen
 weight: 
 description: ''
 images: []
+pdf: https://www.simmpl.nl/downloads/Simmpl_handleiding_feestdagen-instelling-telefooncentrale.pdf
 
 ---
 **Feestdagen voor de deur! Hoe trekt u met een gerust hart de deur dicht?** 

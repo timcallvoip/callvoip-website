@@ -3,6 +3,7 @@ title: Gespreksrapportages aanvragen
 weight: 
 description: ''
 images: []
+pdf: http://www.simmpl.nl/downloads/Simmpl_gespreksrapportages.pdf
 
 ---
 De Simmpl telefooncentrale biedt een geavanceerde rapportage module waarmee u specificaties en gespreksrapportages kunt opvragen. U heeft een basisfilter, een geavanceerd filter en u kunt de gespreksselectie downloaden om deze in excel verder te filteren.
