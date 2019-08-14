@@ -24,4 +24,4 @@ Dit verschilt per situatie. U wordt altijd vooraf geïnformeerd als deze actie k
 
 <br>
 
-<a href="[http://support.callvoip.nl:8040/](http://support.callvoip.nl:8040/)" target=_blank class="button">Remote software</a>
+<a href="[http://support.callvoip.nl:8040/](http://support.callvoip.nl:8040/)" target=_blank class="button">Remote software</a> 
