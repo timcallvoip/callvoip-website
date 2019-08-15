@@ -13,7 +13,7 @@ hero:
   image: "/v1557757556/hero-home-2x.png"
 blocks:
 - title: Advocatuur
-  image: "/v1565856371/advocatuur_pximg5.png"
+  image: "/v1565855183/advocatuur_yju56e.png"
   content: <a href="/oplossingen/branches/advocatuur/" class="button">Bekijk hier
     de brancheoplossing</a>
   position: image_left
