@@ -10,7 +10,7 @@ blocks:
     basis voor uw telefonie.
   image: "/v1565853092/DSL_h04cun.png"
   position: image_left
-  title: DSL-verbinding waar je op kan vertrouwen
+  title: DSL-verbinding waar je op kunt vertrouwen
 logos: false
 hero:
   title: CallvoipDSL
