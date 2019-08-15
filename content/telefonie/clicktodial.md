@@ -19,7 +19,7 @@ hero:
   image: "/v1565856182/clicktodial1_tkx8h8.png"
 blocks:
 - title: 'Click-to-Dial plugin: Welke functies heeft het?'
-  image: "/v1557822664/C2D-update-feb19.png"
+  image: "/v1565856543/clicktodial2_xvsnfd.png"
   content: |2-
 
     <br>
