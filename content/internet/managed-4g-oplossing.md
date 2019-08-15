@@ -24,7 +24,7 @@ blocks:
     Voor ons 4G internet-aanbod werken wij samen met Geuzenet, specialist in aanleg en beheer van 4G verbindingen. Veel bedrijven in heel Nederland werden reeds door hen van 4G internet voorzien.
   position: image_left
 - title: 'Uw 4G draadloze internetoplossing in 4 stappen:'
-  image: "/v1565861722/antenne5_zlajfg.png"
+  image: "/v1565861884/antenne5_bexvmy.png"
   content: |-
     1. <a href="/aanvragen/managed-4g/">Klik hier</a> en vraag Managed 4G internet aan
     2. Er volgt een locatie-scan om wensen en mogelijkheden te bespreken
