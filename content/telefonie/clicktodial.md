@@ -34,7 +34,7 @@ blocks:
     -<b>Yealink-adresboek:</b> koppel uw Yealink toestel met uw Click to Dial adresboek!
   position: image_left
 - title: Hoe werkt het?
-  image: "/v1565856634/clicktodial3_hw8dvz.png"
+  image: "/v1565859295/clicktodial3_fzxr1n.png"
   content: |-
     Alle telefoonnummers in uw Chrome browser worden belbaar. Nummers worden getoond met een groen hoorntje of u kunt ze rechts-klikken of kopiëren en plakken in de Click to Dial app.
     Zodra u klikt, rechts klikt of het nummer plakt in de app, zal uw eigen telefoon direct overgaan. Zodra u de hoorn opneemt zal uw telefoon starten met bellen naar het nummer waarop u klikte. Hierdoor hoeft u zelf geen telefoonnummers meer in te toetsen: geen fouten, geen bril opzetten, geen tijdverlies: gewoon snel en Simmpl bellen!
