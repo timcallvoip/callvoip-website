@@ -5,7 +5,7 @@ description: ''
 images: []
 slug: conference
 hero:
-  image: "/v1565863284/yealink_coferencecall.jpg_altowq.png"
+  image: "/v1565863487/yealink_coferencecall_zgwtbd.png"
 layout: ''
 
 ---
