@@ -31,6 +31,7 @@ fields:
   label: layout
   hidden: true
 pages:
+- content/telefonie/telefoonnummers.md
 - content/telefonie/conference-service.md
 - content/telefonie/bedrijfstelefoonboek.md
 - content/oplossingen/Branches/autodealer.md
@@ -50,7 +51,6 @@ pages:
 - content/telefonie/Functionaliteiten/meldtekst.md
 - content/telefonie/Functionaliteiten/e-mail.md
 - content/telefonie/Functionaliteiten/voorwaarde-filter.md
-- content/telefonie/telefoonnummers.md
 - content/telefonie/realtime-api.md
 - content/telefonie/functionaliteiten.md
 - content/telefonie/Functionaliteiten/gespreksopname.md
