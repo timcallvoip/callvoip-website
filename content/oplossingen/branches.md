@@ -23,7 +23,7 @@ blocks:
     de brancheoplossing</a>
   position: image_right
 - title: Recruitment
-  image: "/v1561638617/callvoip-website-branches-recruitment.png"
+  image: "/v1565857793/recruiter_swtpbu.png"
   content: <a href="/oplossingen/branches/recruitment/" class="button">Bekijk hier
     de brancheoplossing</a>
   position: image_left
