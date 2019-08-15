@@ -8,7 +8,7 @@ blocks:
     wensen verschillen – wij zijn u daarom graag van dienst bij het vinden van de
     juiste mix aan diensten en producten. Alles zodat u verzekerd bent van de beste
     basis voor uw telefonie.
-  image: "/v1552466820/phones.png"
+  image: "/v1565853092/DSL_h04cun.png"
   position: image_left
   title: DSL-verbinding waar je op kan vertrouwen
 logos: false
