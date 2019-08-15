@@ -14,7 +14,7 @@ hero:
   image: "/v1565000133/callvoip-website-internet-glasvezel2_mvvorj.png"
 blocks:
 - title: Callvoip FTTH Glasvezel – dé beste basis voor VoIP!
-  image: ''
+  image: "/v1565858744/glasvezel_xgeang.png"
   content: Voor een goede kwaliteit VoIP is een stabiele internetverbinding een noodzakelijk
     ingrediënt. Callvoip biedt naast de standaard DSL-verbindingen ook glasvezel (Fiber
     to the Home). Situaties en wensen verschillen – wij zijn u daarom graag van dienst
