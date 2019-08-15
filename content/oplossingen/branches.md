@@ -28,7 +28,7 @@ blocks:
     de brancheoplossing</a>
   position: image_left
 - title: Fysiotherapie
-  image: "/v1561542873/callvoip-website-branches-fysiotherapier.png"
+  image: "/v1565858000/fysio_ec1wak.png"
   content: <a href="/oplossingen/branches/fysiotherapie/" class="button">Bekijk hier
     de brancheoplossing</a>
   position: image_right
