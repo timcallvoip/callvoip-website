@@ -17,7 +17,7 @@ hero:
   image: "/v1565000291/Callvoip-website-internet-4g_mpec8y.png"
 blocks:
 - title: Hoe werkt het?
-  image: "/v1559644006/geuzenet_logo.png"
+  image: "/v1565859629/4g_vxvpvt.png"
   content: |-
     Helaas is nog niet overal is (snel en stabiel) internet mogelijk. Mobiel internet via 4G is dan dé perfecte oplossing. 4G staat voor de vierde generatie mobiele telecommunicatie en maakt snel internet door de lucht mogelijk. De Managed 4G-oplossing van Callvoip biedt een gebruiksklare verbinding: apparatuur, installatie, en de gewenste hoeveelheid data. Ook wordt uw verbinding 24/7 beheerd om storingen snel op te lossen.
 
