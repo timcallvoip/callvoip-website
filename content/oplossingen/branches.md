@@ -18,7 +18,7 @@ blocks:
     de brancheoplossing</a>
   position: image_left
 - title: Makelaardij
-  image: "/v1561542250/callvoip-website-branches-makelaardij.png"
+  image: "/v1565857411/makelaardij_h9bdwk.png"
   content: <a href="/oplossingen/branches/makelaardij/" class="button">Bekijk hier
     de brancheoplossing</a>
   position: image_right
