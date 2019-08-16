@@ -98,7 +98,7 @@ prijzen:
       price: '4.00'
     - title: Koppeling CRM-pakket (4x)
       price: '16.00'
-description: 'Benieuwd naar het aanbod van Callvoip? Totaalleverancier: de modernste
+description: 'Benieuwd -naar het aanbod van Callvoip? Totaalleverancier: de modernste
   telefonie, het snelste internet en de beste apparatuur. Alles onder één dak.'
 images: []
 
