@@ -118,11 +118,11 @@ U dient het SIP-serveradres, de SIP-username en het SIP-password in de door u ge
 
 Registreer uw Simmpl-account in uw 3CX centrale – wij adviseren het gebruik van 3CX versie 12.5 met de volgende instellingen:
 
-VoIP Providers > overview
+**VoIP Providers > overview**
 
 (afbeelding siptrunk-10)
 
-VoIP Providers > \[callvoip\] > tab General:
+**VoIP Providers > \[callvoip\] > tab General:**
 
 Kies bij het toevoegen van de trunk de volgende settings:
 
@@ -133,7 +133,7 @@ Voeg het provider-profiel toe en sla op:
 
 (afbeelding siptrunk-11)
 
-VoIP Providers > \[callvoip\] > tab Advanced:  
+**VoIP Providers > \[callvoip\] > tab Advanced:**  
 Mocht registratie van uw trunk niet succesvol zijn, let dan op de volgende zaken:
 
 * **Require registration for**: in and outgoing calls
@@ -141,7 +141,8 @@ Mocht registratie van uw trunk niet succesvol zijn, let dan op de volgende zaken
 
 (afbeelding siptrunk-12)
 
-VoIP Providers > \[callvoip\] > tab Outbound Parameters:  
+**VoIP Providers > \[callvoip\] > tab Outbound Parameters:**  
+  
 Pas hier de volgende regels aan:
 
 From: User Part: “OutboundCallerId outbound caller id taken from extension”  
@@ -151,4 +152,164 @@ P-asserted Identity: “Host Part Part: GWHostPort gateway/provider host/port”
 
 (afbeelding siptrunk-13)
 
-VoIP Providers > \[callvoip\] > tab Inbound Parameters:
+**VoIP Providers > \[callvoip\] > tab Inbound Parameters:**
+
+Hier zijn geen wijzigingen nodig.
+
+(afbeelding siptrunk-14)
+
+**VoIP Providers > \[callvoip\] > tab Source ID:**
+
+Zet een vinkje bij "Source Identification by DID"  
+Voeg het inkomende nummer (één of meer) toe als DID in de lijst
+
+(afbeelding siptrunk-15)
+
+**VoIP Providers > \[callvoip\] > tab DID:**
+
+Hier kunt u meerdere nummer toevoegen die via dezelfde trunk lopen.
+
+(afbeelding siptrunk-16)
+
+**Inbound routes:**  
+  
+Hier kunt per telefoonnummer aangeven wat er per telefoonnummer moet gebeuren.  
+Bij DID/DDI number/mask vult u het telefoonnummer als 31 formaat in.
+
+(afbeelding siptrunk-17)
+
+**Outbound Rules > overview:**
+
+Zorg dat u outbound rules aanmaakt voor regionaal en uitgaande gesprekken.  
+Hier geeft u aan dat de gesprekken als 3150820000 of bv 0044 voor Engelse nummers worden verstuurd.
+
+(afbeelding siptrunk-18)
+
+**Outbound Rules > Nationale nummers**
+
+(afbeelding siptrunk-19)
+
+**Outbound Rules > Regionale nummers**
+
+U kunt zelf bepalen dat u binnen uw eigen netnummerregio kunt uitbellen zonder dat u het netnummer hoeft te draaien.
+
+(afbeelding siptrunk-20)
+
+**Outbound Rules > Uitgaande gesprekken**
+
+U kunt zelf instellen dat uitgaande gesprekken worden voorafgegaan door 31 of 00 zonder aanpassingen worden gebeld.
+
+(afbeelding siptrunk-21)
+
+<h3>Bijlage 2: configuratie-voorbeelden Asterisk voor SIP TRUNK</h3>
+
+Hieronder een voorbeeld voor een Asterisk configuratie voor de Simmpl SIP Trunk. Configuratievoorbeelden voor FreePBX, Elastix, Trixbox en vergelijkbare systemen zijn in de maak.   
+Op basis van het Asterisk voorbeeld (met name de sip.conf) kunt u vermoedelijk al een eind komen in de configuratie van de FreePBX gebaseerde systemen.
+
+_Asterisk versie 1.8 of hoger:_
+
+(afbeelding siptrunk-22)
+
+(afbeelding siptrunk-23)
+
+<h3>Bijlage 3a: configuratie-voorbeeld Elastix FreePBX met toestelaccount</h3>
+
+Voor diverse IP PBX’en is het mogelijk om met SIP-toestelaccounts (extensies) te werken. Een trunk is één groot kanaal met daarin al uw nummers, de PBX ziet op welk nummer gebeld wordt en kan kiezen met welk nummer u wilt uitbellen.
+
+Hierbij de instructie voor registratie van een FreePBX centrale op basis van toestelaccount (extensie).
+
+(afbeelding siptrunk-24)
+
+<h3>Bijlage 3b: configuratie-voorbeelden Elastix / FreePBX met SIP TRUNK</h3>
+
+(afbeelding siptrunk-25)
+
+Elastix / FreePBX Outbound Route:
+
+(afbeelding siptrunk-26)
+
+Elastix / FreePBX Incoming Route:
+
+(afbeelding siptrunk-27)
+
+<h3>Bijlage 4a: MyPBX Yeastar telefooncentrale met toestelaccount</h3>
+
+Voeg een nieuwe registratie als volgt toe, en gebruik de sip username en password van een toestealccount:
+
+(afbeelding siptrunk-28)
+
+(afbeelding siptrunk-29)
+
+In de outbound rules hoeven geen aanpassingen te worden gedaan:
+
+(afbeelding siptrunk-30)
+
+<h3>Bijlage 4b: MyPBX Yeastar telefooncentrale met SIP Trunk</h3>
+
+(afbeelding siptrunk-31)
+
+(afbeelding siptrunk-32)
+
+Nog een paar voorbeelden van outbound route instellingen:
+
+(afbeelding siptrunk-33)
+
+Voor het inbound verkeer kunt u de volgende gegevens gebruiken:
+
+(afbeelding siptrunk-34)
+
+<h3>Bijlage 5a: AVAYA centrale met toestelaccount</h3>
+
+IP Office IPO500 IP telefooncentrale
+
+(afbeelding siptrunk-35)
+
+LAN1 wordt (meestal) gebruikt voor de aansluiting van Avaya IP-telefoons (via b.v. een PoE switch).
+
+(afbeelding siptrunk-36)
+
+LAN2 wordt (meestal) gebruikt als WAN aansluiting (internet).
+
+(afbeelding siptrunk-37)
+
+(afbeelding siptrunk-38)
+
+(afbeelding siptrunk-39)
+
+(afbeelding siptrunk-40)
+
+(afbeelding siptrunk-41)
+
+<h3>Bijlage 6: FAQ</h3>
+
+**Problemen met inkomende gesprekken**
+
+* Check wat er precies misgaat; hoort u niets, krijgt u een ingesprektoon, een melding van een niet bestaand nummer, krijgt u een foutmelding, krijgt u wel een overgangstoon maar gaat er niets rinkelen, of komt er geen gesprek tot stand als er wordt aangenomen? Hou ook in de gaten wat er verandert aan dit gedrag als u instellingen wijzigt.
+* Check dan of de firewall en de PBX zelf de IP-adressen waar de gesprekken vandaan komen accepteren. Dat zijn de volgende IP-adressen:   
+  185\.19.236.0/22 ( > dat is 185.19.236.0 tot en met 185.19.239.255)
+* Check de gesprekslogs van uw PBX tijdens een inkomend gesprek.   
+  De logs vind u (afhankelijk van uw type centrale) bijvoorbeeld hier:  
+  tail -f /var/log/kamailio.log   
+  tail -f /var/log/messages   
+  tail -f /var/log/syslog
+
+NB: voer deze commando’s uit vanaf de command shell en niet vanaf in de webinterface of via de asterisk console
+
+**Is er een probleem met uitgaande gesprekken?**
+
+Maak een trace van het gesprek en kijk welke informatie er bij uw PBX terugkomt.  
+Indien gewenst: mail de sip trace naar Simmpl voor assistentie en advies.
+
+<h3>Bijlage 7: default destination whitelist</h3>
+
+Voor alle klanten geldt een default destination whitelist waaronder o.a. alle Europese landen en alle grote handelspartners. Van deze landen kunnen vaste, mobiele en freephone nummers worden gebeld. Verkeer naar bestemmingen die fraudegevoelig zijn, is geblokkeerd.
+
+(afbeelding siptrunk-42)
+
+Op uw verzoek kunnen wij ook één van de overige destination whitelists instellen:
+
+* Nederland vast + mobiel
+* Benelux
+* West-Europa
+* heel Europa
+* wereldwijd
