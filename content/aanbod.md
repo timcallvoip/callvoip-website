@@ -7,7 +7,7 @@ logos: true
 hero:
   title: Klaar voor de toekomst
   image: "/v1565693015/aanbod_kbuyqh.png"
-  link: "http://files.callvoip.nl"
+  link: http://files.callvoip.nl
   button:
     content: Ontdek het aanbod van Callvoip
     link: "#onsproductaanbod"
@@ -72,10 +72,10 @@ aanbod:
         link: "/offerte/"
 intro:
   title: Zakelijke bereikbaarheid, wat gaat mij dat kosten?
-  content: 'Callvoip weet dat bij elke onderneming de telefoniesituatie anders is
-    en dus een andere oplossing verwacht. Doordat wij al meer dan 10 jaar ervaring
-    hebben met alle branches, kunnen wij u die oplossing bieden. Uw zakelijke bereikbaarheid
-    staat bij ons bovenaan! '
+  content: Callvoip weet dat bij elke onderneming de telefoniesituatie anders is en
+    dus een andere oplossing verwacht. Doordat wij al meer dan 10 jaar ervaring hebben
+    met alle branches, kunnen wij u die oplossing bieden. Uw zakelijke bereikbaarheid
+    staat bij ons bovenaan!
 prijzen:
 - title: 'Een voorbeeld:'
   content: De online telefooncentrale is enorm schaalbaar en bouwt u zelf op naar
