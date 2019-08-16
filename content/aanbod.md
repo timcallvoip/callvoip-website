@@ -5,9 +5,9 @@ type: page
 layout: aanbod
 logos: true
 hero:
-  title: Klaar voor de toekomst test
+  title: Klaar voor de toekomst
   image: "/v1565693015/aanbod_kbuyqh.png"
-  link: http://files.callvoip.nl
+  link: "http://files.callvoip.nl"
   button:
     content: Ontdek het aanbod van Callvoip
     link: "#onsproductaanbod"
