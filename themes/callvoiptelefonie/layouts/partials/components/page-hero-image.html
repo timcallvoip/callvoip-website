@@ -1,5 +1,6 @@
 {{ with .Params.hero }}
 {{ $title := .Title }}
+{{ $link := .link }}
 <div class="bg-grey-lightest clearfix">
   <header class="clearfix ">
 
@@ -17,10 +18,10 @@
         </div>
       </div>
       {{ with .image }}
-
+        <a href="{{ $link }} " target="_blank">
         <img data-src="{{ $.Site.Params.cloudinary_base_url }}/w_auto,dpr_auto,c_scale,f_auto,q_auto/{{.}}"
           class="w-full cld-responsive max-h-screen" style="object-fit: cover;" alt="{{ $title }}" />
-
+        </a>
       {{ end }}
 
   </header>
