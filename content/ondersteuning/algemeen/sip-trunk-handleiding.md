@@ -69,7 +69,7 @@ Voor diverse IP PBX’en is het mogelijk om met SIP-toestelaccounts (extensies) 
 
 Hierbij de instructie voor registratie van een FreePBX centrale op basis van toestelaccount (extensie).
 
-(afbeelding siptrunk-1)
+![](https://res.cloudinary.com/callvoip/image/upload/v1565961973/siptrunk-1_wmmdcc.png)
 
 <h3>Een SIP-trunk instellen</h3>
 
@@ -84,35 +84,35 @@ Controleer of een nummer aan een belplan is gekoppeld op de volgende manier:
 * voorbeeld: het LINKER belplan (fax) heeft GEEN extern nummer, rechts WEL
 * Om het nummer los te koppelen: klik op het belplan en klik bovenin beeld op \[Instellingen\]
 * Klik in veld \[Extern nummer\] en haal het nummer hier weg (met backspace of delete) zodat het veld leeg is en klik dan op \[opslaan\]
-* Het nummer is nu ontkoppeld en kan worden gekoppeld aan uw trunk.   
+* Het nummer is nu ontkoppeld en kan worden gekoppeld aan uw trunk.  
   Herhaal dit voor alle nummers die u aan de trunk wilt koppelen.
 
-(afbeelding siptrunk-2)
+![](https://res.cloudinary.com/callvoip/image/upload/v1565961990/siptrunk-2_qsutmj.png)
 
-(afbeelding siptrunk-3)
+![](https://res.cloudinary.com/callvoip/image/upload/v1565962007/siptrunk-3_zoimze.png)
 
-(afbeelding siptrunk-4)
+![](https://res.cloudinary.com/callvoip/image/upload/v1565962024/siptrunk-4_ivnpup.png)
 
 _Stap 2: de Trunk instellen_
 
 De SIP trunks vindt u bij de \[toestellen\], tabblad \[Trunks\]:
 
-(afbeelding siptrunk-5)
+![](https://res.cloudinary.com/callvoip/image/upload/v1565962040/siptrunk-5_aiwdwg.png)
 
 Klik op \[**+Toevoegen**\] om een nieuwe trunk in gebruik te nemen en door loop de wizard:
 
-(afbeelding siptrunk-6)
+![](https://res.cloudinary.com/callvoip/image/upload/v1565962054/siptrunk-6_yujq7j.png)
 
-(afbeelding siptrunk-7)
+![](https://res.cloudinary.com/callvoip/image/upload/v1565962070/siptrunk-7_rjnrad.png)
 
 Klik op \[Finish\] om uw Trunk-account op te slaan.  
 De Trunk, en alle bijbehorende informatie, wordt vervolgens weergegeven onder het kopje \[Trunks\]:
 
-(afbeelding siptrunk-8)
+![](https://res.cloudinary.com/callvoip/image/upload/v1565962089/siptrunk-8_s6skds.png)
 
 U dient het SIP-serveradres, de SIP-username en het SIP-password in de door u geselecteerde PBX in te geven. Daarnaast is het noodzakelijk om de nummers die u als Caller-ID geselecteerd heeft in de Simmpl centrale ook in te geven in de eigen PBX op locatie middels internationale weergave \[31\].
 
-(afbeelding siptrunk-9)
+![](https://res.cloudinary.com/callvoip/image/upload/v1565962104/siptrunk-9_bqo4ly.png)
 
 <h3>Bijlage 1: 3CX telefooncentrale instellen voor SIP TRUNK</h3>
 
@@ -120,7 +120,7 @@ Registreer uw Simmpl-account in uw 3CX centrale – wij adviseren het gebruik va
 
 **VoIP Providers > overview**
 
-(afbeelding siptrunk-10)
+![](https://res.cloudinary.com/callvoip/image/upload/v1565962118/siptrunk-10_httqjn.png)
 
 **VoIP Providers > \[callvoip\] > tab General:**
 
@@ -131,7 +131,7 @@ Kies bij het toevoegen van de trunk de volgende settings:
 
 Voeg het provider-profiel toe en sla op:
 
-(afbeelding siptrunk-11)
+![](https://res.cloudinary.com/callvoip/image/upload/v1565962137/siptrunk-11_gwxswk.png)
 
 **VoIP Providers > \[callvoip\] > tab Advanced:**  
 Mocht registratie van uw trunk niet succesvol zijn, let dan op de volgende zaken:
@@ -139,10 +139,10 @@ Mocht registratie van uw trunk niet succesvol zijn, let dan op de volgende zaken
 * **Require registration for**: in and outgoing calls
 * **Which IP to use in contact field**: Local IP Address
 
-(afbeelding siptrunk-12)
+![](https://res.cloudinary.com/callvoip/image/upload/v1565962150/siptrunk-12_ypkqch.png)
 
-**VoIP Providers > \[callvoip\] > tab Outbound Parameters:**  
-  
+**VoIP Providers > \[callvoip\] > tab Outbound Parameters:**
+
 Pas hier de volgende regels aan:
 
 From: User Part: “OutboundCallerId outbound caller id taken from extension”  
@@ -150,67 +150,67 @@ Alle Remote Party ID opties naar : “leave default value”
 P-asserted Identity: User Part: “Outboundcallerid outbound caller id taken from extension”  
 P-asserted Identity: “Host Part Part: GWHostPort gateway/provider host/port”
 
-(afbeelding siptrunk-13)
+![](https://res.cloudinary.com/callvoip/image/upload/v1565962171/siptrunk-13_ppl2pd.png)
 
 **VoIP Providers > \[callvoip\] > tab Inbound Parameters:**
 
 Hier zijn geen wijzigingen nodig.
 
-(afbeelding siptrunk-14)
+![](https://res.cloudinary.com/callvoip/image/upload/v1565962186/siptrunk-14_ewlvw1.png)
 
 **VoIP Providers > \[callvoip\] > tab Source ID:**
 
 Zet een vinkje bij "Source Identification by DID"  
 Voeg het inkomende nummer (één of meer) toe als DID in de lijst
 
-(afbeelding siptrunk-15)
+![](https://res.cloudinary.com/callvoip/image/upload/v1565962202/siptrunk-15_jjwhpa.png)
 
 **VoIP Providers > \[callvoip\] > tab DID:**
 
 Hier kunt u meerdere nummer toevoegen die via dezelfde trunk lopen.
 
-(afbeelding siptrunk-16)
+![](https://res.cloudinary.com/callvoip/image/upload/v1565962217/siptrunk-16_s3hhob.png)
 
-**Inbound routes:**  
-  
+**Inbound routes:**
+
 Hier kunt per telefoonnummer aangeven wat er per telefoonnummer moet gebeuren.  
 Bij DID/DDI number/mask vult u het telefoonnummer als 31 formaat in.
 
-(afbeelding siptrunk-17)
+![](https://res.cloudinary.com/callvoip/image/upload/v1565962234/siptrunk-17_fljze6.png)
 
 **Outbound Rules > overview:**
 
 Zorg dat u outbound rules aanmaakt voor regionaal en uitgaande gesprekken.  
 Hier geeft u aan dat de gesprekken als 3150820000 of bv 0044 voor Engelse nummers worden verstuurd.
 
-(afbeelding siptrunk-18)
+![](https://res.cloudinary.com/callvoip/image/upload/v1565962250/siptrunk-18_skpizt.png)
 
 **Outbound Rules > Nationale nummers**
 
-(afbeelding siptrunk-19)
+![](https://res.cloudinary.com/callvoip/image/upload/v1565962265/siptrunk-19_utx9ag.png)
 
 **Outbound Rules > Regionale nummers**
 
 U kunt zelf bepalen dat u binnen uw eigen netnummerregio kunt uitbellen zonder dat u het netnummer hoeft te draaien.
 
-(afbeelding siptrunk-20)
+![](https://res.cloudinary.com/callvoip/image/upload/v1565962281/siptrunk-20_hnawvq.png)
 
 **Outbound Rules > Uitgaande gesprekken**
 
 U kunt zelf instellen dat uitgaande gesprekken worden voorafgegaan door 31 of 00 zonder aanpassingen worden gebeld.
 
-(afbeelding siptrunk-21)
+![](https://res.cloudinary.com/callvoip/image/upload/v1565962297/siptrunk-21_q4r9gm.png)
 
 <h3>Bijlage 2: configuratie-voorbeelden Asterisk voor SIP TRUNK</h3>
 
-Hieronder een voorbeeld voor een Asterisk configuratie voor de Simmpl SIP Trunk. Configuratievoorbeelden voor FreePBX, Elastix, Trixbox en vergelijkbare systemen zijn in de maak.   
+Hieronder een voorbeeld voor een Asterisk configuratie voor de Simmpl SIP Trunk. Configuratievoorbeelden voor FreePBX, Elastix, Trixbox en vergelijkbare systemen zijn in de maak.  
 Op basis van het Asterisk voorbeeld (met name de sip.conf) kunt u vermoedelijk al een eind komen in de configuratie van de FreePBX gebaseerde systemen.
 
 _Asterisk versie 1.8 of hoger:_
 
-(afbeelding siptrunk-22)
+![](https://res.cloudinary.com/callvoip/image/upload/v1565962322/siptrunk-22_xoqfhi.png)
 
-(afbeelding siptrunk-23)
+![](https://res.cloudinary.com/callvoip/image/upload/v1565962338/siptrunk-23_wcpemt.png)
 
 <h3>Bijlage 3a: configuratie-voorbeeld Elastix FreePBX met toestelaccount</h3>
 
@@ -218,79 +218,79 @@ Voor diverse IP PBX’en is het mogelijk om met SIP-toestelaccounts (extensies) 
 
 Hierbij de instructie voor registratie van een FreePBX centrale op basis van toestelaccount (extensie).
 
-(afbeelding siptrunk-24)
+![](https://res.cloudinary.com/callvoip/image/upload/v1565962353/siptrunk-24_ndpqft.png)
 
 <h3>Bijlage 3b: configuratie-voorbeelden Elastix / FreePBX met SIP TRUNK</h3>
 
-(afbeelding siptrunk-25)
+![](https://res.cloudinary.com/callvoip/image/upload/v1565962373/siptrunk-25_oyrjgp.png)
 
 Elastix / FreePBX Outbound Route:
 
-(afbeelding siptrunk-26)
+![](https://res.cloudinary.com/callvoip/image/upload/v1565962391/siptrunk-26_aak9pr.png)
 
 Elastix / FreePBX Incoming Route:
 
-(afbeelding siptrunk-27)
+![](https://res.cloudinary.com/callvoip/image/upload/v1565962405/siptrunk-27_lyv7d0.png)
 
 <h3>Bijlage 4a: MyPBX Yeastar telefooncentrale met toestelaccount</h3>
 
 Voeg een nieuwe registratie als volgt toe, en gebruik de sip username en password van een toestealccount:
 
-(afbeelding siptrunk-28)
+![](https://res.cloudinary.com/callvoip/image/upload/v1565962422/siptrunk-28_ohs3zn.png)
 
-(afbeelding siptrunk-29)
+![](https://res.cloudinary.com/callvoip/image/upload/v1565962439/siptrunk-29_nvvum6.png)
 
 In de outbound rules hoeven geen aanpassingen te worden gedaan:
 
-(afbeelding siptrunk-30)
+![](https://res.cloudinary.com/callvoip/image/upload/v1565962457/siptrunk-30_hwo3zh.png)
 
 <h3>Bijlage 4b: MyPBX Yeastar telefooncentrale met SIP Trunk</h3>
 
-(afbeelding siptrunk-31)
+![](https://res.cloudinary.com/callvoip/image/upload/v1565962470/siptrunk-31_ekdfsx.png)
 
-(afbeelding siptrunk-32)
+![](https://res.cloudinary.com/callvoip/image/upload/v1565962484/siptrunk-32_lygaac.png)
 
 Nog een paar voorbeelden van outbound route instellingen:
 
-(afbeelding siptrunk-33)
+![](https://res.cloudinary.com/callvoip/image/upload/v1565962498/siptrunk-33_a0veeh.png)
 
 Voor het inbound verkeer kunt u de volgende gegevens gebruiken:
 
-(afbeelding siptrunk-34)
+![](https://res.cloudinary.com/callvoip/image/upload/v1565962513/siptrunk-34_dhdrzf.png)
 
 <h3>Bijlage 5a: AVAYA centrale met toestelaccount</h3>
 
 IP Office IPO500 IP telefooncentrale
 
-(afbeelding siptrunk-35)
+![](https://res.cloudinary.com/callvoip/image/upload/v1565962528/siptrunk-35_i0v1xz.png)
 
 LAN1 wordt (meestal) gebruikt voor de aansluiting van Avaya IP-telefoons (via b.v. een PoE switch).
 
-(afbeelding siptrunk-36)
+![](https://res.cloudinary.com/callvoip/image/upload/v1565962545/siptrunk-36_lrlchr.png)
 
 LAN2 wordt (meestal) gebruikt als WAN aansluiting (internet).
 
-(afbeelding siptrunk-37)
+![](https://res.cloudinary.com/callvoip/image/upload/v1565962559/siptrunk-37_v8a3jy.png)
 
-(afbeelding siptrunk-38)
+![](https://res.cloudinary.com/callvoip/image/upload/v1565962574/siptrunk-38_dkrhey.png)
 
-(afbeelding siptrunk-39)
+![](https://res.cloudinary.com/callvoip/image/upload/v1565962590/siptrunk-39_kfwcj5.png)
 
-(afbeelding siptrunk-40)
+![](https://res.cloudinary.com/callvoip/image/upload/v1565962604/siptrunk-40_gvpclk.png)
 
-(afbeelding siptrunk-41)
+![](https://res.cloudinary.com/callvoip/image/upload/v1565962617/siptrunk-41_okmotd.png)
 
 <h3>Bijlage 6: FAQ</h3>
 
 **Problemen met inkomende gesprekken**
 
 * Check wat er precies misgaat; hoort u niets, krijgt u een ingesprektoon, een melding van een niet bestaand nummer, krijgt u een foutmelding, krijgt u wel een overgangstoon maar gaat er niets rinkelen, of komt er geen gesprek tot stand als er wordt aangenomen? Hou ook in de gaten wat er verandert aan dit gedrag als u instellingen wijzigt.
-* Check dan of de firewall en de PBX zelf de IP-adressen waar de gesprekken vandaan komen accepteren. Dat zijn de volgende IP-adressen:   
+* Check dan of de firewall en de PBX zelf de IP-adressen waar de gesprekken vandaan komen accepteren. Dat zijn de volgende IP-adressen:  
   185\.19.236.0/22 ( > dat is 185.19.236.0 tot en met 185.19.239.255)
-* Check de gesprekslogs van uw PBX tijdens een inkomend gesprek.   
+* Check de gesprekslogs van uw PBX tijdens een inkomend gesprek.  
   De logs vind u (afhankelijk van uw type centrale) bijvoorbeeld hier:  
-  tail -f /var/log/kamailio.log   
-  tail -f /var/log/messages   
+  tail -f /var/log/kamailio.log  
+  tail -f /var/log/messages  
   tail -f /var/log/syslog
 
 NB: voer deze commando’s uit vanaf de command shell en niet vanaf in de webinterface of via de asterisk console
@@ -304,7 +304,7 @@ Indien gewenst: mail de sip trace naar Simmpl voor assistentie en advies.
 
 Voor alle klanten geldt een default destination whitelist waaronder o.a. alle Europese landen en alle grote handelspartners. Van deze landen kunnen vaste, mobiele en freephone nummers worden gebeld. Verkeer naar bestemmingen die fraudegevoelig zijn, is geblokkeerd.
 
-(afbeelding siptrunk-42)
+![](https://res.cloudinary.com/callvoip/image/upload/v1565962631/siptrunk-42_z56xnl.png)
 
 Op uw verzoek kunnen wij ook één van de overige destination whitelists instellen:
 
