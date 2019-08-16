@@ -7,6 +7,7 @@ logos: true
 hero:
   title: Klaar voor de toekomst
   image: "/v1565693015/aanbod_kbuyqh.png"
+    link: "http://www.files.callvoip.nl"
   button:
     content: Ontdek het aanbod van Callvoip
     link: "#onsproductaanbod"
