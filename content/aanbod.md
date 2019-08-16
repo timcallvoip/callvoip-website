@@ -5,7 +5,7 @@ type: page
 layout: aanbod
 logos: true
 hero:
-  title: Klaar voor de toekomst
+  title: Klaar voor de toekomst test
   image: "/v1565693015/aanbod_kbuyqh.png"
   button:
     content: Ontdek het aanbod van Callvoip
@@ -98,7 +98,7 @@ prijzen:
       price: '4.00'
     - title: Koppeling CRM-pakket (4x)
       price: '16.00'
-description: 'Benieuwd -naar het aanbod van Callvoip? Totaalleverancier: de modernste
+description: 'Benieuwd naar het aanbod van Callvoip? Totaalleverancier: de modernste
   telefonie, het snelste internet en de beste apparatuur. Alles onder één dak.'
 images: []
 
