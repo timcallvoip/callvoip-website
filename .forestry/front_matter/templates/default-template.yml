@@ -158,6 +158,7 @@ fields:
         name: price
         label: Price
 pages:
+- content/oplossingen/branches.md
 - content/telefonie/operator-console.md
 - content/oplossingen/zelfstandigen.md
 - content/telefonie/integratiemetcrm.md
@@ -167,7 +168,6 @@ pages:
 - content/oplossingen/mkb.md
 - content/oplossingen/trunk.md
 - content/telefonie/hostedvoip.md
-- content/oplossingen/branches.md
 - content/internet/dsl.md
 - content/internet/glasvezel.md
 - content/internet/kabel.md

@@ -10,7 +10,7 @@ hero:
   button:
     content: Bereken je kosten
     link: "/calculator"
-  image: "/v1557757556/hero-home-2x.png"
+  image: "/v1566215446/home_nieuwe_site_wope1k.png"
 blocks:
 - title: Advocatuur
   image: "/v1565855183/advocatuur_yju56e.png"
@@ -71,6 +71,7 @@ headless: true
 link: ''
 logo: ''
 name: ''
+Hide in Search: false
 menu:
   main:
     weight: 4
