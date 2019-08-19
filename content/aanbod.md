@@ -7,7 +7,7 @@ logos: true
 hero:
   title: Klaar voor de toekomst
   image: "/v1565693015/aanbod_kbuyqh.png"
-  link: "http://files.callvoip.nl"
+  link: http://files.callvoip.nl
   button:
     content: Ontdek het aanbod van Callvoip
     link: "#onsproductaanbod"
@@ -38,7 +38,7 @@ aanbod:
       content: Wij weten als geen ander hoe belangrijk bereikbaarheid is voor ondernemers.
         Met de modernste online telefooncentrale van Callvoip is dat voor iedereen
         mogelijk, zowel op uw vaste telefoons als op de mobiel. Benieuwd wat u krijgt?
-      image: "/v1557757556/hero-home-2x.png"
+      image: "/v1566215446/home_nieuwe_site_wope1k.png"
       button:
         content: Meer over Hosted VoIP
         link: "/hostedvoip/"
@@ -102,5 +102,6 @@ prijzen:
 description: 'Benieuwd naar het aanbod van Callvoip? Totaalleverancier: de modernste
   telefonie, het snelste internet en de beste apparatuur. Alles onder één dak.'
 images: []
+Hide in Search: false
 
 ---
