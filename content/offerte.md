@@ -3,7 +3,7 @@ title: Offerte aanvragen
 slug: offerte
 type: page
 hero:
-  image: "/v1566218140/offerte_hmiyoy.png"
+  image: "/v1566218576/offerte_pdals3.png"
 description: Bent u op zoek naar de beste zakelijke telefonie? Wilt u een offerte
   op maat? Vraag dan een offerte aan bij Callvoip en ontvang deze binnen 1 dag.
 images: []
