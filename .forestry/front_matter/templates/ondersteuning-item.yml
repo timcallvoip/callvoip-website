@@ -12,9 +12,9 @@ fields:
   default: 0
   required: false
   config:
-    min:
-    max:
-    step:
+    min: 
+    max: 
+    step: 
 - name: seo
   type: include
   config: {}

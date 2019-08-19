@@ -16,11 +16,12 @@ fields:
     required: false
   label: URL
 pages:
+- content/formulier/wijziging-verzonden.md
+- content/formulier/opzegging-verzonden.md
+- content/formulier/aanvraag-verzonden.md
+- content/formulier/aanvragen-nummer.md
 - content/formulier/wijzigen-overzicht.md
 - content/formulier/opzeggen-overzicht.md
-- content/formulier/opzegging-verzonden.md
-- content/formulier/wijziging-verzonden.md
-- content/formulier/aanvraag-verzonden.md
 - content/formulier/nummerportering-aanvragen.md
 - content/formulier/internationaal-nummer-aanvragen.md
 - content/formulier/voip-cti-koppeling-met-uw-crm-pakket-aanvragen.md
@@ -49,7 +50,6 @@ pages:
 - content/formulier/aanvragen-overzicht.md
 - content/formulier/mijn-callvoip.md
 - content/formulier/conference-service-aanvragen.md
-- content/formulier/aanvragen-nummer.md
 - content/formulier/srtp-vesleutelde-gesprekken-aanvragen.md
 - content/formulier/managed-4g-verbinding-aanvragen.md
 - content/formulier/srtp-vesleutelde-gesprekken-opzeggen.md

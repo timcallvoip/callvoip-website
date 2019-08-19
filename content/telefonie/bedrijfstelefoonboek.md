@@ -5,8 +5,9 @@ description: ''
 images: []
 slug: "/bedrijfstelefoonboek/"
 hero:
-  image: ''
+  image: "/v1566209719/telefoonboek_nuksdm.png"
 layout: ''
+Hide in Search: false
 
 ---
 Maakt u gebruik van onze [Click-to-Dial](https://www.callvoiptelefonie.nl/clicktodial/)? Dan kunt u ook gebruik van het bedrijfstelefoonboek! U voegt eenvoudig nummers toe aan het adresboek en deze contacten zijn meteen voor het gehele bedrijf zichtbaar.

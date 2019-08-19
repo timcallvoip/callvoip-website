@@ -5,8 +5,9 @@ description: ''
 images: []
 slug: "/call-pickup/"
 hero:
-  image: ''
+  image: "/v1566209854/240_F_226416327_RRlcOddJI0Ys5uGhothVorPxcjk89qpR_zhcquq.jpg"
 layout: ''
+Hide in Search: false
 
 ---
 De telefoon van een collega rinkelt en u wilt dit gesprek op uw toestel aannemen. Hoe kunt u dit gesprek aannemen?

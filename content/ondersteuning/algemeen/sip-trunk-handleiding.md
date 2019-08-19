@@ -4,6 +4,9 @@ weight:
 description: ''
 images: []
 pdf: http://www.simmpl.nl/downloads/Simmpl_SIP-Trunk-manual.pdf
+Hide in Search: false
+Nieuw: false
+Update: false
 
 ---
 De Simmpl telefooncentrale is zelf een centrale met veel mogelijkheden. Een eigen telefooncentrale heeft u dus in principe niet nodig. Toch kunt u redenen hebben om deze wel te gebruiken, bv bij gebruik van specifieke integraties / koppelingen of uit oogpunt van kosten, beheer of (on-)afhankelijkheid.  
