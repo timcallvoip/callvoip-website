@@ -38,7 +38,7 @@ aanbod:
       content: Wij weten als geen ander hoe belangrijk bereikbaarheid is voor ondernemers.
         Met de modernste online telefooncentrale van Callvoip is dat voor iedereen
         mogelijk, zowel op uw vaste telefoons als op de mobiel. Benieuwd wat u krijgt?
-      image: "/v1566215446/home_nieuwe_site_wope1k.png"
+      image: "/v1566216229/aanbod_she4at.png"
       button:
         content: Meer over Hosted VoIP
         link: "/hostedvoip/"
