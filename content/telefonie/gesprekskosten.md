@@ -6,7 +6,7 @@ description: Bij Callvoip betaalt u een vast laag tarief voor uw belminuten. Ben
 images: []
 slug: gesprekskosten
 hero:
-  image: "/v1566210064/240_F_124108432_80X4GIkQs0VWoyXL5UfAn2tMBtqqbwkZ_gxvjl8.jpg"
+  image: "/v1566210416/240_F_237079460_3ISPpoxlNNocONLAKIdrOuG77kik35Ww_kpm3xs.jpg"
 layout: ''
 Hide in Search: false
 
