@@ -7,7 +7,7 @@ slug: "/opzeggen/verzonden/"
 hero:
   image: ''
 layout: ''
-
+hideinsearch: true
 ---
 U ontvangt een e-mail met uw opzeggegevens. Controleert u deze gegevens goed en bij **akkoord ontvangen wij graag een reply.**
 

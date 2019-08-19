@@ -16,6 +16,9 @@ fields:
   template: seo
   label: SEO
   description: SEO
+- type: boolean
+  name: Hide in Search
+  label: hideinsearch
 - type: text
   name: type
   label: type
@@ -75,9 +78,9 @@ fields:
       - image_right
       source:
         type: simple
-        section: 
-        file: 
-        path: 
+        section:
+        file:
+        path:
     label: Position
   config:
     labelField: title

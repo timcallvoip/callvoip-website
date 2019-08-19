@@ -11,6 +11,9 @@ fields:
   template: seo
   label: SEO
   description: SEO
+- type: boolean
+  name: Hide in Search
+  label: hideinsearch
 - type: text
   name: slug
   label: Slug

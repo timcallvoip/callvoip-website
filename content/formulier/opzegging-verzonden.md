@@ -1,7 +1,7 @@
 ---
 title: Opzegging verzonden
 url: "/opzeggen/verzonden"
-
+hideinsearch: true
 ---
 U ontvangt een e-mail met uw opzeggegevens. Controleert u deze gegevens goed en bij **akkoord ontvangen wij graag een reply.**
 

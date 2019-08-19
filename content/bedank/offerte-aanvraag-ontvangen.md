@@ -7,7 +7,7 @@ slug: "/calculator/verzonden/"
 hero:
   image: ''
 layout: ''
-
+hideinsearch: true
 ---
 Je aanvraag is succesvol verzonden. We nemen zo snel mogelijk contact met je op.
 

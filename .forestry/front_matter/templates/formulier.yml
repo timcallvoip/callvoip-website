@@ -7,6 +7,9 @@ fields:
   config:
     required: false
   label: Title
+- type: boolean
+  name: Hide in Search
+  label: hideinsearch
 - name: url
   type: text
   config:

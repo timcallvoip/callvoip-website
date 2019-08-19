@@ -24,6 +24,9 @@ fields:
   label: layout
   hidden: true
 - type: boolean
+  name: Hide in Search
+  label: hideinsearch
+- type: boolean
   name: logos
   label: logos
 - type: field_group
