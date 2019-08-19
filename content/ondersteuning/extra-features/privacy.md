@@ -93,3 +93,113 @@ Het selecteren van de entiteiten gaat op eenvoudige manier:
 ![](https://res.cloudinary.com/callvoip/image/upload/v1566212343/operatorconsole-11_h8eqjg.png)
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1566212353/operatorconsole-12_qjvd2g.png)
+
+<h3>Call List Widget</h3>
+
+De Call List is een lijst met real-time actieve gesprekken (call flow).  
+U kunt zelf selecteren welke gesprekken (gebruiker, groepen, belplannen, wachtrijen) u in de call list wilt opnemen.
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1566218370/operatorconsole-13_zko3xd.png)
+
+De Call List ziet er als volgt uit:
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1566218424/operatorconsole-14_jeoj3q.png)
+
+Om een Call List toe te voegen, ga naar ADD WIDGET en kies CALL LIST uit de lijst met beschikbare widgets. U kunt zelf kiezen welke gebruikers, groepen en belplannen er moeten worden opgenomen. U kunt er ook voor kiezen om alle gebruiker en belplannen toe te voegen.
+
+Als u klaar bent, klik op PROCEED rechtsboven om het widget op het console te plaatsen. Sleep de widget op de gewenste plek op het raster; wijzig de grootte van de widget met de handlebar in de rechter onderhoek van de widget.
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1566218544/operatorconsole-15_bqpsmz.png)
+
+<h3>Phonebook Widget</h3>
+
+Het Phonebook is een lijst van gebruikers die u zelf samenstelt. Van deze gebruikers kunt u de realtime belstatus zien: **idle** (inactief), **ringing** (rinkelt), **busy** (bellend).   
+U kunt deze gebruikers bellen, gesprekken overnemen en naar hen doorverbinden.
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1566218657/operatorconsole-16_kjjejs.png)
+
+Het Phonebook ziet er als volgt uit:
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1566218806/operatorconsole-17_epdkao.png)
+
+Om een Phonebook toe te voegen, klik op **ADD WIDGET** en kies **PHONEBOOK** uit de lijst van beschikbare widgets. U kunt nu kiezen welke gebruikers, groepen en belplannen u in dit **PHONEBOOK** wilt opnemen. U kunt er ook voor kiezen om ALLE gebruikers en belplannen op te nemen.
+
+Als u klaar bent, klik op PROCEED rechtsboven om het widget op het console te plaatsen. Sleep de widget op de gewenste plek op het raster; wijzig de grootte van de widget met de handlebar in de rechter onderhoek van de widget.
+
+**Een collega bellen via het Operator Panel**:
+
+* klik op een gebruiker
+* om zelf (u) naar een collega te bellen: klik op de gebruiker en dan op: \[CALL\]
+* uw eigen toestel rinkelt
+* neem aan en u belt uit naar de collega
+* dit werkt voor interne en externe nummers
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1566218973/operatorconsole-18_boscly.png)
+
+**Een inkomend gesprek doorverbinden via het Operator Panel**:
+
+* een inkomend gesprek in het panel wordt in het Phonebook weergegeven als RINGING
+* Klik op de persoon met status RINGING
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1566219130/operatorconsole-19_hpufxu.png)
+
+* In het dropdown scherm ziet u staan TRANSFER > klik daarop
+* Kies of u ATTENDED of UNATTENDED (met of zonder ruggespraak) wilt doorverbinden
+* U krijgt nu een scherm waarin u kunt kiezen naar wie u wilt doorverbinden.   
+  Selecteer met de muis en klik op het groene pijltje
+* Het inkomende gesprek dat rinkelt bij persoon X wordt nu door uw actie doorverbonden met collega Y
+* NB: deze actie komt er ook voor active calls (lopende gesprekken)
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1566219357/operatorconsole-20_jmxifi.png)
+
+<h3>Queue Widget</h3>
+
+De Queue is een geavanceerd wachtrij-dashboard met daarin een real-time presentatie van het aantal bellers in de wachtrij, de wachtrij agents hun status en een aantal belangrijke wachtrij-statistieken.  
+Ook biedt de Queue Widget de mogelijkheid tot meeluisteren, influisteren en inbreken op een wachtrij-gesprek.
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1566219510/operatorconsole-21_njtz8c.png)
+
+De Queue Widget wordt in de Operator Console getoond met een statistiek.
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1566219585/operatorconsole-22_oykoba.png)
+
+Klik op de statistiek en u krijgt in een apart venster een close up van de wachtrij:
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1566219647/operatorconsole-23_fijzkd.png)
+
+<h3>Wachtrij Widet / Queue Widget</h3>
+
+De Queue Widget is een bijzonder waardevol instrument voor elke callcenter Supervisor. Door op de Wachtrij Widget te klikken wordt een pagina met detailinformatie over de wachtrij geopend. Hier kunt u agents in-/uitloggen, precies zien welke bellers momenteel in de wachtrij wachten en welke bellers momenteel met uw agents zijn verbonden.
+
+Deze Console Widget biedt het volgende:
+
+* **Uitgebreide wachtrijstatistieken** waaronder:  
+  Aantal bellers in de wacht  
+  Aantal calls per uur  
+  Aantal aangenomen calls per uur  
+  Aantal actieve gesprekken  
+  Gemiddelde wachttijd  
+  Langste gesprek
+* **Real-time agents overzicht**  
+  Agents uit-/ingelogd of gepauseerd  
+  Status: idle, ringing, busy
+* Overzicht van wachtende calls
+* Overzicht van aangenomen calls
+* Real-time overzicht van de agents
+* Agent acties uitvoeren
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1566220012/operatorconsole-24_z9fk0j.png)
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1566220068/operatorconsole-25_wp9aap.png)
+
+<h3>Geavanceerde wachtrij features: meeluisteren, influisteren, inbreken, overnemen</h3>
+
+Als u als Superviser agent aan een wachtrij bent verbonden beschikt u over extra mogelijkheden.  
+De Supervisor-switch vindt u in de wachtrij bij de agents:
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1566220152/operatorconsole-26_xknttf.png)
+
+Log als Supervisor in op de Operator Panel en klik door naar de wachtrij.
+
+Rechtsonder ziet u de ANSWERED CALLS FROM QUEUE.   
+Als Supervisor kunt u op gesprekken klikken en heeft u de mogelijkheid tot:
