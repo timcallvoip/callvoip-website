@@ -5,7 +5,7 @@ description: ''
 images: []
 slug: "/bedrijfstelefoonboek/"
 hero:
-  image: "/v1566208635/telefoonboek_vtlf5k.png"
+  image: "/v1566209719/telefoonboek_nuksdm.png"
 layout: ''
 Hide in Search: false
 
