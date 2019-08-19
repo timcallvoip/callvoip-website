@@ -215,3 +215,12 @@ Als Supervisor kunt u op gesprekken klikken en heeft u de mogelijkheid tot:
 De My Calls Widget toont een overzicht van uw eigen actieve gesprekken en biedt u de mogelijkheid om uw gesprekken door te verbinden, in de wacht te zetten, opname te starten/eindigen en het gesprek te beëindigen:
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1566223463/operatorconsole-28_nbtjpj.png)
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1566223537/operatorconsole-29_mv2byd.png)
+
+<h3>Operator Panel in beeld:</h3>
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1566223617/operatorconsole-30_omvegu.png)
+
+Wij hopen dat deze updates meerwaarde bieden voor uw gebruikssituatie!  
+Uw ervaringen, suggesties voor uitbreidingen, meldingen van onvolkomenheden of storingen zijn zeer welkom. Mail het ons op: callvoip@callvoip.nl
