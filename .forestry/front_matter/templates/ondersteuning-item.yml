@@ -36,8 +36,8 @@ fields:
     required: false
   label: PDF
 pages:
-- content/ondersteuning/algemeen/storing.md
 - content/ondersteuning/algemeen/sip-trunk-handleiding.md
+- content/ondersteuning/algemeen/storing.md
 - content/ondersteuning/algemeen/contact.md
 - content/ondersteuning/internet/callvoip-business-adsl-instellen.md
 - content/ondersteuning/internet/callvoip-business-vdsl-instellen.md
