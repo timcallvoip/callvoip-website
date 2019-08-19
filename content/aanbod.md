@@ -66,7 +66,7 @@ aanbod:
         de Click-to-Dial, bouw zelf een koppeling via onze Realtime API of integreer
         uw mobiele telefoons met de Vast Mobiel Integratie (Vamos). Benieuwd naar
         de mogelijkheden?
-      image: "/v1557906588/Vamos.png"
+      image: "/v1566216290/incoming-call-routing_doubld.png"
       button:
         content: Vraag een offerte aan!
         link: "/offerte/"

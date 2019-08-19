@@ -16,7 +16,7 @@ blocks:
 - content: |-
     Klanten van Callvoip gebruiken de Simmpl online telefooncentrale.
     Simmpl, omdat de telefooncentrale u voorziet van zeer veel professionele functionaliteiten en uitblinkt in bedieningseenvoud.
-  image: "/v1557757556/hero-home-2x.png"
+  image: "/v1566216361/3_laptops_transparant_pkw6ry.png"
   position: image_left
   title: Callvoip = Simmpl!
 usps:
@@ -106,6 +106,7 @@ prijzen:
 description: Op zoek naar telefonie voor ZZP? Callvoip biedt u de oplossing. Ontdek
   de voordelen en mogelijkheden van onze modernste online telefooncentrale.
 images: []
+Hide in Search: false
 menu:
   main:
     weight: 1
