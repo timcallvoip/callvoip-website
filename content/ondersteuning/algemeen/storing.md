@@ -5,7 +5,8 @@ onderdelen:
 - Algemeen
 description: ''
 images: []
-
+update: true
+nieuw: true
 ---
 Voor actuele storingen en meldingen moet u op onze status-pagina zijn:
 

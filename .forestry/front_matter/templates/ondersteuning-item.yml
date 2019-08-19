@@ -24,6 +24,12 @@ fields:
 - type: boolean
   name: Hide in Search
   label: hideinsearch
+- type: boolean
+  name: Nieuw
+  label: nieuw
+- type: boolean
+  name: Update
+  label: update
 - name: pdf
   type: text
   config:

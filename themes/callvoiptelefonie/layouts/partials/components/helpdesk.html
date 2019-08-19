@@ -52,7 +52,14 @@
           <a href="{{ .Permalink }}"
             class="font-medium text-grey-medium leading-large lg:text-lg border-b border-grey-lightest block pb-2 mb-2 hover:text-blue">
             <i class="fal fa-file mr-2"></i>
-            {{ .Title }}</a>
+            {{ .Title }}
+            {{ if .Params.update }}
+              <span class="text-xs bg-orange text-white px-1 py-1 rounded-lg uppercase">Update</span>
+            {{ end }}
+            {{ if .Params.nieuw }}
+              <span class="text-xs bg-green text-white px-1 py-1 rounded-lg uppercase">Nieuw</span>
+            {{ end }}
+          </a>
         </li>
         {{ end }}
       </ul>
