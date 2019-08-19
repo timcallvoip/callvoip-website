@@ -22,7 +22,7 @@
               <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
             </p>
 
-            <input type="hidden" name="form-name" value="offerte-formulier">
+            <input type="hidden" name="form-name" value="calculator-formulier">
             <input type="hidden" id="formlayout" name="formlayout" value="d-bb5785f73c154508a7d4125575855140" class="hidden">
             <input type="hidden" id="formto" name="formto" value="offerte" class="hidden">
 
@@ -60,12 +60,12 @@
                   {{ end }}
                 </div>
                 <div class="xl:w-1/2 xl:px-4">
-                  <select value="callminutes"
+                  <select name="callminutes" id="callminutes"
                     class="w-full border border-grey-light bg-grey-lightest px-4 py-2 rounded">
                     {{ range $index, $item := .items }}
                     <option data-name={{$item.name}} data-price_monthly="{{$item.price_monthly}}"
                       data-price_onetime="{{$item.price_onetime}}" value="{{ $item.value}}"
-                      name="{{ $item.name | urlize }}" id="{{ $item.name | urlize }}">{{$item.name}}</option>
+                       id="{{ $item.name | urlize }}">{{$item.name}}</option>
                     {{ end }}
                   </select>
                 </div>
@@ -146,11 +146,11 @@
                   {{ end }}
                 </div>
                 <div class="xl:w-1/2 xl:px-4">
-                  <select value="security" class="w-full border border-grey-light bg-grey-lightest px-4 py-2 rounded">
+                  <select name="security" id="security" class="w-full border border-grey-light bg-grey-lightest px-4 py-2 rounded">
                     {{ range $index, $item := .items }}
                     <option data-name={{$item.name}} data-price_monthly="{{$item.price_monthly}}"
                       data-price_onetime="{{$item.price_onetime}}" value="{{ $item.value}}"
-                      name="{{ $item.name | urlize }}" id="{{ $item.name | urlize }}">{{$item.name}}</option>
+                       id="{{ $item.name | urlize }}">{{$item.name}}</option>
                     {{ end }}
                   </select>
                 </div>
