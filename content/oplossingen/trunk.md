@@ -21,7 +21,7 @@ blocks:
   title: VoIP Trunk van Callvoip
 - content: 'De trunkoplossing van Callvoip is te gebruiken bij bijna alle IP-centrales,
     waaronder de volgende populaire systemen:'
-  image: "/v1560861389/callvoip-website-trunk-centrales.png"
+  image: "/v1566218614/trunk_logos_qexe54.png"
   position: image_right
   title: Welke VoIP-trunks zijn geschikt?
 usps:
@@ -95,6 +95,7 @@ prijzen:
 description: De veiligste VoIP trunk voor uw eigen telefooncentrale. Met een VoIP
   trunk belt u met uw eigen VoIP centrale via de lijnen van Callvoip.
 images: []
+Hide in Search: false
 menu:
   main:
     weight: 3
