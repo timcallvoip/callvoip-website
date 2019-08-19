@@ -52,7 +52,7 @@ aanbod:
         u ook nog eens belt via het internet. Naast telefonie bieden wij verschillende
         internetverbindingen aan. Bent u opzoek naar betere verbinding? Wij bekijken
         graag de mogelijkheden voor u!
-      image: "/v1552466820/hostedvoip.svg"
+      image: "/v1566216767/Glasvezel_snelheid_tidxfm.png"
       button:
         content: Ik wil een postcodecheck!
         link: "/internet/postcodecheck/"
