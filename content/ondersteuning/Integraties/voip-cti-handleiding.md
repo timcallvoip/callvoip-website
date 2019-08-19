@@ -54,3 +54,44 @@ Bewaar de Secret goed. Mocht u naderhand een nieuwe gebruiker willen toevoegen e
 ![](https://res.cloudinary.com/callvoip/image/upload/v1566225169/voipcti-2_dbqrro.png)
 
 <h3>Stap 2: Installeer en configureer de Client Software (per gebruiker)</h3>
+
+Voor elke gebruiker die de koppeling gaat gebruiken is er de client software die je downloadt, installeert, koppelt met de aangemaakte API (zie stap 1) en waarop je je als Simmpl gebruiker aanmeldt met je Simmpl gebruikersnaam en wachtwoord.
+
+Download <a href="http://www.simmpl.nl/downloads/VoipCTIClientSetup.exe" target="_blank">hier</a> de VoIP CTI Client software en installeer deze.
+
+Open de client software en log in met de door CallvoipTelefonie verstrekte **authenticatiegegevens** behorend bij uw licentie.  
+Formaat: xxx@yyy en wachtwoord
+
+Klik op \[**Telefonie verbinding**\] en vervolgens op \[**Instellingen**\].   
+Voer nu de Client ID en Client Secret in die u heeft verkregen bij het aanmaken van de API.
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1566225429/voipcti-3_sgykr4.png)
+
+<h3>Stap 3: Gebruiker koppelen (per gebruiker)</h3>
+
+Als u de API-gegevens heeft ingevoerd, klik op \[**TOEPASSEN**\].
+
+U krijgt u een pop-up te zien: hier vult u de gebruikersnaam en wachtwoord in van de Simmpl gebruiker. De telefoon van deze gebruiker zal worden gekoppeld met de click to dial en CRM koppeling.   
+Deze gebruikersnaam en wachtwoord treft u in de telefooncentrale onder \[**Gebruikers**\] en vervolgens klikt u op \[**Bewerk gebruiker**\].
+
+Vul de gegevens in en klik op **INLOGGEN**:
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1566225603/voipcti-4_xbx9l6.png)
+
+<h3>Stap 4: Koppel uw CRM-systeem (éénmalig per organisatie/CRM pakket)</h3>
+
+U kunt nu voor alle gebruikers in één keer een CRM systeem koppelen.   
+Hiertoe download en installeert u de <a href="http://www.simmpl.nl/downloads/VoipCTIRecognitionConfigToolSetup.exe" target="_blank">VoIP CTI configurator</a> \[**Recognition Configuration Tool**\].
+
+Log in met de door CallvoipTelefonie verstrekte **authenticatiegegevens** behorend bij uw licentie.   
+Formaat: xxx@yyy en wachtwoord (zie ook stap 2)
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1566225842/voipcti-5_wp4zfl.png)
+
+Klik links in het menu op \[**Applicatie Toevoegen**\] en selecteer in de lijst met iconen uw CRM systeem. Volg de verdere instructies.  
+**TIP**: klik op het PDF document bovenaan voor gedetailleerde instructies.
+
+Na het selecteren kunt u de API gegevens uit uw CRM systeem invoeren om deze te koppelen.   
+Na het succesvol koppelen van het systeem is deze automatisch beschikbaar voor alle gebruikers.
+
+<h3>Gebruikerstips en veelgestelde vragen</h3>
