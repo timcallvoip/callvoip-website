@@ -34,6 +34,7 @@ fields:
   label: layout
   hidden: true
 pages:
+- content/telefonie/Functionaliteiten/call-pickup.md
 - content/telefonie/bedrijfstelefoonboek.md
 - content/bedank/offerte-aanvraag-ontvangen.md
 - content/bedank/wijziging-verzonden.md
@@ -64,7 +65,6 @@ pages:
 - content/telefonie/Functionaliteiten/keuzemenu-ivr.md
 - content/telefonie/versleutelde-telefoongesprekken-met-srtp.md
 - content/offerte.md
-- content/telefonie/Functionaliteiten/call-pickup.md
 - content/oplossingen/Branches/assurantie.md
 - content/oplossingen/Branches/webshop.md
 - content/telefonie/Functionaliteiten/belgroep-huntgroup.md
