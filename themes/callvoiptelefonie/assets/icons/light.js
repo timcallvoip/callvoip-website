@@ -67,8 +67,9 @@ import { faAbacus } from "@fortawesome/pro-light-svg-icons/faAbacus";
 import { faShoppingCart } from "@fortawesome/pro-light-svg-icons/faShoppingCart";
 import { faNetworkWired } from "@fortawesome/pro-light-svg-icons/faNetworkWired";
 import { faCommentAltDots } from "@fortawesome/pro-light-svg-icons/faCommentAltDots";
+import { faDesktopAlt } from "@fortawesome/pro-light-svg-icons/faDesktopAlt";
 
-library.add(faCloud, faClock, faHeartbeat, faLaptop, faTty, faIdCard, faCheckCircle, faNetworkWired, faCommentAltDots, faCut, faAd, faTooth, faAbacus, faShoppingCart, faTimesCircle, faServer, faMobileAndroid,faMobileAndroidAlt, faAngleDown, faWindowRestore, faMousePointer, faHandPointer,  faRandom, faDeaf, faSortNumericDown, faArrowsH, faUsers, faFilePdf, faBell, faUnlock, faFileAudio, faCog, faSpinner, faMoneyBill, faExclamationCircle, faFax, faCalculator, faTrophy, faRocket, faSearch, faEnvelope, faFile, faMobile, faGlobe, faWifi, faBars, faUser, faMegaphone, faBoxOpen, faCommentAlt, faUserLock, faMobileAlt, faPhoneVolume, faCodeBranch, faCommentAltSmile, faFileSignature, faPiggyBank, faFileContract, faBoxesAlt, faAngleRight, faHome, faBuilding, faComments, faPhone, faDesktop, faTabletAlt,faHeadset);
+library.add(faCloud, faClock, faHeartbeat, faLaptop, faTty, faIdCard, faCheckCircle, faNetworkWired, faCommentAltDots, faDesktopAlt, faCut, faAd, faTooth, faAbacus, faShoppingCart, faTimesCircle, faServer, faMobileAndroid,faMobileAndroidAlt, faAngleDown, faWindowRestore, faMousePointer, faHandPointer,  faRandom, faDeaf, faSortNumericDown, faArrowsH, faUsers, faFilePdf, faBell, faUnlock, faFileAudio, faCog, faSpinner, faMoneyBill, faExclamationCircle, faFax, faCalculator, faTrophy, faRocket, faSearch, faEnvelope, faFile, faMobile, faGlobe, faWifi, faBars, faUser, faMegaphone, faBoxOpen, faCommentAlt, faUserLock, faMobileAlt, faPhoneVolume, faCodeBranch, faCommentAltSmile, faFileSignature, faPiggyBank, faFileContract, faBoxesAlt, faAngleRight, faHome, faBuilding, faComments, faPhone, faDesktop, faTabletAlt,faHeadset);
 
 
 dom.watch();

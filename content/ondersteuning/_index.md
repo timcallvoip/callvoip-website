@@ -8,11 +8,11 @@ hero:
   image: "/v1564997580/Callvoip-website-3laptops_t7bfir.png"
   button:
     content: 'Hulp op afstand '
-    link: http://support.callvoip.nl:8040/
+    link: /ondersteuning/hulp-op-afstand/
 outputs:
 - HTML
 - JSON
-weight: 
+weight:
 description: ''
 images: []
 layout: ''

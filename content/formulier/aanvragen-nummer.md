@@ -22,7 +22,7 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply met akko
 {{</ form/select >}}
 {{< form/input "Contactpersoon"   >}}
 {{< form/input "Telefoonnummer"   >}}
-{{< form/email "E-mailadres" required   >}}
+{{< form/email "Email" required   >}}
 {{</ form/fieldset >}}
 
 {{< form/fieldset "Aanvraag nieuwe telefoonnummers" >}}
@@ -42,13 +42,13 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply met akko
 {{< form/option "8" >}}
 {{< form/option "9" >}}
 {{< form/option "10-blok" >}}
-{{</ form/select >}}  
-{{< form/radiogroup "Wilt u een premium (mooi) nummer?" "inline" >}}  
-{{< form/radio "Nee" "Wilt u een premium (mooi) nummer?" >}}  
-{{< form/radio "Ja" "Wilt u een premium (mooi) nummer?" >}}  
-_De toeslag is € 50,00 excl. BTW._  
-{{</ form/radiogroup >}}  
-{{< form/textarea "Opmerkingen"  >}}  
+{{</ form/select >}}
+{{< form/radiogroup "Wilt u een premium (mooi) nummer?" "inline" >}}
+{{< form/radio "Nee" "Wilt u een premium (mooi) nummer?" >}}
+{{< form/radio "Ja" "Wilt u een premium (mooi) nummer?" >}}
+_De toeslag is € 50,00 excl. BTW._
+{{</ form/radiogroup >}}
+{{< form/textarea "Opmerkingen"  >}}
 {{</ form/fieldset >}}
 
 {{< form/button "Verstuur formulier"  >}}
