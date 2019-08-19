@@ -203,3 +203,15 @@ Log als Supervisor in op de Operator Panel en klik door naar de wachtrij.
 
 Rechtsonder ziet u de ANSWERED CALLS FROM QUEUE.   
 Als Supervisor kunt u op gesprekken klikken en heeft u de mogelijkheid tot:
+
+* **Listen**: klik en luister mee zonder dat de agent en de beller u horen
+* **Whisper**: klik en luister mee; de agent hoort u, de beller niet
+* **Barge in**: klik (geluidssignaal) en luister mee; de agent en de beller horen u
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1566223315/operatorconsole-27_ydvh8c.png)
+
+<h3>My Calls Widget</h3>
+
+De My Calls Widget toont een overzicht van uw eigen actieve gesprekken en biedt u de mogelijkheid om uw gesprekken door te verbinden, in de wacht te zetten, opname te starten/eindigen en het gesprek te beëindigen:
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1566223463/operatorconsole-28_nbtjpj.png)
