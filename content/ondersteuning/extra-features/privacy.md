@@ -66,3 +66,30 @@ a) **WIJZIG** een console door erop te klikken en klik dan op button EDIT … of
 b) Er verschijnt een leeg raster; geef het console een **kleur** en een **naam**:
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1566211465/operatorconsole-7_ztkaot.png)
+
+c) klik op button **ADD WIDGET** en kies uit 3 widgets (zie ook hoofdstuk 3):
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1566211732/operatorconsole-8_oti11y.png)
+
+d) Navigeer gemakkelijk: klik bovenin beeld op het niveau of gebruik het menu links om terug te gaan naar het dashboard met alle consoles.
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1566211826/operatorconsole-9_cubygl.png)
+
+e) Positioneer de widgets op het raster; als u klaar bent: sla de Operator Console op. U ziet het terug op uw dashboard.
+
+<h3>De widgets toegelicht</h3>
+
+Bij alle drie widgets (Call List, Phonebook en Queues) kunt u een eigen selectie maken. Alleen de geselecteerde entiteiten (gebruikers, groepen, etc.) worden in het betreffende console meegenomen. Op deze wijze kunt u aparte consoles maken voor vestigingen, call ceneters, afdelingen, disciplines, teams, balies, business units, en dergelijke.
+
+Het selecteren van de entiteiten gaat op eenvoudige manier:
+
+* U kunt ALLES selecteren
+* U kunt SELECTIES maken op type (user, groups, dialplans, queues)
+* U kunt van een selectie zelf bepalen wat u selecteert (klik op icoon rechts)
+* Als u de gewenste selectie heeft gemaakt kiest u PROCEED om verder te gaan
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1566212088/operatorconsole-10_rbbekp.png)
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1566212343/operatorconsole-11_h8eqjg.png)
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1566212353/operatorconsole-12_qjvd2g.png)
