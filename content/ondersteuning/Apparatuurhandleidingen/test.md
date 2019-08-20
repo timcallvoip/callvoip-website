@@ -55,7 +55,9 @@ Controleer of provisioning geslaagd is:
 
 1\. **Sluit uw Yealink IP-telefoon aan en maak deze klaar voor gebruik**
 
-Sluit uw Yealink IP-telefoon aan. Zorg dat het toestel met een netwerkkabel is verbonden met uw internetverbinding. Let erop dat u de kabel aan de toestel-zijde aansluit op de INTERNET-poort (en niet op de PC-poort, daar kan evt. uw computer op aangesloten worden). Deze netwerkkabel wordt op uw netwerk/router aangesloten zodat de telefoon met internet is verbonden. Als u de telefoon start, dan zal deze doorgaans eerst kijken of er nieuwe firmware beschikbaar is. Wacht totdat het toestel hiermee klaar is en ga pas dan verder. Als het een nieuw toestel is, dan staan er nog geen instellingen in. Als het een toestel is dat eerder reeds in gebruik was, dan is het aan te raden om het toestel te resetten. Dat doet u door de OK toets (ronde knop) 10 seconden ingedrukt te houden totdat het toestel vraagt of het moet worden gereset. Bevestig dit en wacht tot het toestel weer terug is.
+Sluit uw Yealink IP-telefoon aan. Zorg dat het toestel met een netwerkkabel is verbonden met uw internetverbinding. Let erop dat u de kabel aan de toestel-zijde aansluit op de INTERNET-poort (en niet op de PC-poort, daar kan evt. uw computer op aangesloten worden). Deze netwerkkabel wordt op uw netwerk/router aangesloten zodat de telefoon met internet is verbonden. Als u de telefoon start, dan zal deze doorgaans eerst kijken of er nieuwe firmware beschikbaar is. Wacht totdat het toestel hiermee klaar is en ga pas dan verder.
+
+Als het een nieuw toestel is, dan staan er nog geen instellingen in. Als het een toestel is dat eerder reeds in gebruik was, dan is het aan te raden om het toestel te resetten. Dat doet u door de OK toets (ronde knop) 10 seconden ingedrukt te houden totdat het toestel vraagt of het moet worden gereset. Bevestig dit en wacht tot het toestel weer terug is.
 
 2\. **Vraag het IP-adres van uw IP-toestel op en log op uw toestel in**
 
@@ -74,7 +76,9 @@ Provisioning werkt vanaf firmwareversie x.70. Heeft uw toestel een oudere firmwa
 
 4\. **Log in op de Simmpl centrale om een gebruiker en toestel aan te maken**
 
-U heeft de configuratiepagina van uw IP-telefoon nog geopend. Open nu een tweede internetvenster (bv. nieuw tabblad in uw browser) en ga in dat tabblad naar de Simmpl telefooncentrale. U kunt dan gemakkelijk het toestel aanmaken en de provisioning link op de telefooncentrale opvragen, en deze daarna op de juiste plaats in uw toestel plaatsen zonder dat u opnieuw hoeft in te loggen. Ga naar de <a href="https://panel.callvoip.nl/login/panel" target="_blank">Simmpl telefooncentrale</a> en log in. Kies links in het menu optie \[Toestellen\]. ![](https://res.cloudinary.com/callvoip/image/upload/v1565083314/yealink-provisioning-4_cw9ojl.png)
+U heeft de configuratiepagina van uw IP-telefoon nog geopend. Open nu een tweede internetvenster (bv. nieuw tabblad in uw browser) en ga in dat tabblad naar de Simmpl telefooncentrale. U kunt dan gemakkelijk het toestel aanmaken en de provisioning link op de telefooncentrale opvragen, en deze daarna op de juiste plaats in uw toestel plaatsen zonder dat u opnieuw hoeft in te loggen.
+
+Ga naar de <a href="https://panel.callvoip.nl/login/panel" target="_blank">Simmpl telefooncentrale</a> en log in. Kies links in het menu optie \[Toestellen\]. ![](https://res.cloudinary.com/callvoip/image/upload/v1565083314/yealink-provisioning-4_cw9ojl.png)
 Als het toestel dat u wilt gaan gebruiken nog niet is aangemaakt, voeg dan een toestel toe door op button \[Toevoegen\] te klikken en doorloop de wizard.
 
 **Let op**: selecteer het juiste merk en type toestel. U kunt het type toestel vinden op de doos en in het menu van uw toestel
