@@ -1,5 +1,5 @@
 ---
-title: DSL
+title: DSL | Callvoip biedt een ruim scala aan eigen verbindingen
 type: page
 layout: default
 blocks:
@@ -93,6 +93,7 @@ prijzen:
 description: 'DSL internetverbindingen van Callvoip komen er in vele soorten en maten:
   ADSL, ADSL2+, VDSL en VVDSL. Doe de postcodecheck.'
 images: []
+Hide in Search: false
 menu:
   main:
     weight: 1
