@@ -94,6 +94,11 @@ sections:
   templates:
   - status-overzicht
   - status-melding
+- type: directory
+  path: content/pages
+  label: Pages
+  create: documents
+  match: "**/*"
 - type: heading
   label: Settings
 - type: document
