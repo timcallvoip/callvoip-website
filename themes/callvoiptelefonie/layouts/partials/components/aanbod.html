@@ -1,9 +1,9 @@
 {{ with .Params.aanbod }}
 
-<div class="container px-4 mb-12 md:mb-16 pt-8">
+
   <div class="container px-4 mb-12 md:mb-16" id="onsproductaanbod">
     {{ with .title }}
-    <div class="text-center sm:mb-6 md:mb-24 pt-12 md:pt-24">
+    <div class="text-center sm:mb-6 md:mb-12 pt-12 md:pt-24">
       <h2 class="text-3xl lg:text-4xl font-medium mb-4 leading-tight">{{ . }}</h2>
     </div>
     {{ end }}
@@ -13,17 +13,17 @@
         {{ range $index, $element := . }}
         {{ with .tab}}
         <a href="#tab{{$index}}"
-          class="px-4 md:w-1/3 mb-6 tab-link pb-6 border-b-2 border-grey-lightest flex md:block xxl:flex {{if eq $index 0 }}  border-blue {{ end }}">
+          class="px-4 md:w-1/3 mb-6 tab-link pb-6 border-b-2 border-grey-lightest flex md:block xxl:flex text-grey-medium {{if eq $index 0 }}  border-blue {{ end }}">
           <div
             class="rounded-full bg-grey-lightest h-16 w-16 lg:h-20 lg:w-20 flex justify-center items-center mb-2 xl:mb-4  mr-8">
             <i class="fal text-3xl lg:fa-2x {{ .icon }} text-blue"></i>
           </div>
           <div class="flex-1 pt-2">
             {{ with .title }}
-            <h4 class="text-lg lg:text-2xl font-medium mb-2">{{ . }}</h4>
+            <h4 class="text-lg lg:text-2xl font-medium mb-2 text-grey-dark">{{ . }}</h4>
             {{ end }}
             {{ with .content }}
-            <p class="font-medium opacity-75 leading-large lg:text-lg">{{ . }} </p>
+            <p class="font-medium  leading-large lg:text-lg">{{ . }} </p>
             {{ end }}
           </div>
         </a>
@@ -38,10 +38,10 @@
           <div class="md:w-1/2 lg:w-1/3  md:px-8">
             {{ $title := .title }}
             {{ with $title }}
-            <h2 class="text-3xl  font-medium mb-2 xxl:mb-6 leading-tight">{{ . }}</h2>
+            <h2 class="text-3xl  font-medium mb-2 xxl:mb-6 leading-tight text-grey-dark">{{ . }}</h2>
             {{ end }}
             {{ with .content }}
-            <div class="opacity-75 lg:text-lg xl:text-xl mb-4 font-medium leading-loose">
+            <div class=" lg:text-lg xl:text-xl mb-4 font-medium leading-loose text-grey-medium">
               {{ . | markdownify }}
             </div>
             {{ end }}
@@ -63,6 +63,5 @@
     </div>
     {{ end }}
   </div>
-</div>
 
 {{ end }}

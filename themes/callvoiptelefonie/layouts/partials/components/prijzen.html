@@ -17,10 +17,10 @@
               {{ range . }}
                 <div class="flex justify-between mb-3 clearfix">
                   {{ with .title }}
-                  <span class="text-lg font-medium opacity-50 flex-1"> {{ . }}</span>
+                  <span class="text-base md:text-lg font-medium opacity-50 flex-1"> {{ . }}</span>
                   {{ end }}
                   {{ with .price }}
-                  <span class="text-2xl font-medium opacity-75">&euro;{{ . }}</span>
+                  <span class="text-lg md:text-2xl font-medium opacity-75">&euro;{{ . }}</span>
                   {{ end }}
                 </div>
               {{ end }}

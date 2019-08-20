@@ -1,6 +1,6 @@
 {{ with .Params.kiezen }}
 
-<div class="bg-grey-dark  relative clearfix  pt-24 ">
+<div class="bg-grey-dark  relative clearfix  pt-8 md:pt-24 ">
   <div class="container px-4 pt-8 lg:pt-16">
     <div class="text-center mb-16 text-white md:mb-24 lg:mb-32">
       {{ with .title }}
@@ -9,7 +9,7 @@
       <p class="mx-auto max-w-xl lg:text-lg xl:text-xl font-medium opacity-75 mb-10">{{ .content }}</p>
       {{ with .button }}
       <p>
-        <button type="button" class="button-icon chat-button xl:text-lg" data-api="smartsupp" data-operation="open"><i class="fal fa-comments fa-2x mr-4"></i>{{ .content }}</button>
+        <a href="{{.link}}" target="_external" class="button-icon chat-button xl:text-lg hover:no-underline"><i class="fal fa-desktop-alt fa-2x mr-4"></i>{{ .content }}</a>
       </p>
       {{ end }}
     </div>

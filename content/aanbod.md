@@ -15,7 +15,8 @@ kiezen:
     één en hetzelfde nummer, wel zo handig voor uw klanten. Benieuwd naar de mogelijkheden
     voor uw organisatie?
   button:
-    content: Start chat met onze specialisten
+    content: Interactive demo telefooncentrale
+    link: http://files.callvoip.nl
   items:
   - icon: fa-file-contract
     content: Elke maand opzegbaar geen lange moeilijke contracten.

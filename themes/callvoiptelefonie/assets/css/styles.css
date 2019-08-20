@@ -142,6 +142,10 @@ p a:hover {
   }
 }
 
+p .button + .button {
+  @apply mt-2;
+}
+
 /* Pagination */
 
 .pagination {

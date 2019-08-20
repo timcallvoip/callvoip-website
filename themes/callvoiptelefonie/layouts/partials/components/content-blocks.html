@@ -1,14 +1,14 @@
 {{ with .Params.blocks }}
 <div class="container px-4">
   {{ range . }}
-  <div class="flex flex-col-reverse md:flex-row items-center {{ if eq .position "image_left"}} md:flex-row-reverse {{ end }} md:-mx-8 user-content mb-8 md:mb-24">
+  <div class="flex flex-col-reverse md:flex-row items-center {{ if eq .position "image_left"}} md:flex-row-reverse {{ end }} md:-mx-8 mb-8 md:mb-24">
     <div class="md:w-1/2 md:px-8">
       {{ $title := .title }}
       {{ with $title }}
-      <h2 class="text-3xl lg:text-4xl font-medium mb-2 xxl:mb-6 leading-tight">{{ . }}</h2>
+      <h2 class="text-3xl xl:text-4xl font-medium mb-2 xxl:mb-6 leading-tight">{{ . }}</h2>
       {{ end }}
       {{ with .content }}
-      <div class="lg:text-lg xl:text-xl mb-4 font-medium leading-loose">
+      <div class="lg:text-lg xl:text-xl mb-4 font-medium leading-loose user-content ">
         {{ . | markdownify }}
       </div>
       {{ end }}
