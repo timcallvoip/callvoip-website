@@ -74,7 +74,7 @@ Provisioning werkt vanaf firmwareversie x.70. Heeft uw toestel een oudere firmwa
 
 4\. **Log in op de Simmpl centrale om een gebruiker en toestel aan te maken**
 
-U heeft de configuratiepagina van uw IP-telefoon nog geopend. Open nu een tweede internetvenster (bv. nieuw tabblad in uw browser) en ga in dat tabblad naar de Simmpl telefooncentrale. U kunt dan gemakkelijk het toestel aanmaken en de provisioning link op de telefooncentrale opvragen, en deze daarna op de juiste plaats in uw toestel plaatsen zonder dat u opnieuw hoeft in te loggen. Ga naar <a href="https://panel.callvoip.nl/login/panel" target="_blank">https://panel.callvoip.nl/login/panel</a> en log in op uw Simmpl telefooncentrale. Kies links in het menu optie \[Toestellen\]. ![](https://res.cloudinary.com/callvoip/image/upload/v1565083314/yealink-provisioning-4_cw9ojl.png)
+U heeft de configuratiepagina van uw IP-telefoon nog geopend. Open nu een tweede internetvenster (bv. nieuw tabblad in uw browser) en ga in dat tabblad naar de Simmpl telefooncentrale. U kunt dan gemakkelijk het toestel aanmaken en de provisioning link op de telefooncentrale opvragen, en deze daarna op de juiste plaats in uw toestel plaatsen zonder dat u opnieuw hoeft in te loggen. Ga naar de <a href="https://panel.callvoip.nl/login/panel" target="_blank">Simmpl telefooncentrale</a> en log in. Kies links in het menu optie \[Toestellen\]. ![](https://res.cloudinary.com/callvoip/image/upload/v1565083314/yealink-provisioning-4_cw9ojl.png)
 Als het toestel dat u wilt gaan gebruiken nog niet is aangemaakt, voeg dan een toestel toe door op button \[Toevoegen\] te klikken en doorloop de wizard.
 
 **Let op**: selecteer het juiste merk en type toestel. U kunt het type toestel vinden op de doos en in het menu van uw toestel
@@ -83,7 +83,7 @@ Als het toestel dat u wilt gaan gebruiken nog niet is aangemaakt, voeg dan een t
 ![](https://res.cloudinary.com/callvoip/image/upload/v1565083831/yealink-provisioning-7_z2yzlm.png)
 In stap 3 krijgt u de provisioning link die in de IP-telefoon kan worden ingevuld zodat de Simmpl centrale het werk kan gaan doen.
 
-\- kopieer de provisioning link met uw muis of met button \[**Kopieer**\]
+\- kopieer de provisioning link met uw muis of met button \[**Kopieer**\]  
 \- **BELANGRIJK**: klik op \[**Afronden**\] om het toestel definitief aan te maken. Als u dit vergeet is het toestel niet aangemaakt en zal provisioning niet werken.
 ![](https://res.cloudinary.com/callvoip/image/upload/v1565083927/yealink-provisioning-8_ta5ud4.png)
 
@@ -92,7 +92,11 @@ In stap 3 krijgt u de provisioning link die in de IP-telefoon kan worden ingevul
 Ga terug naar het andere internet-tabblad waar u was ingelogd op uw toestel, of log opnieuw op uw toestel in. Ga naar tabblad \[Settings\] > submenu \[Auto Provision\].
 
 \- vervang de waarde van veld \[Provisioning Server\] met de provisioning link   
-\- Controleer of deze begint met https://provisioning.callvoip.nl/....![](https://res.cloudinary.com/callvoip/image/upload/v1565084058/yealink-provisioning-9_mhvp39.png)
+\- Controleer of deze begint met https://provisioning.callvoip.nl/....
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1565084058/yealink-provisioning-9_mhvp39.png)
+
+
 klik nu op \[Confirm\] om de link op te slaan
 klik tenslotte op \[Auto Provision\] om de provisioning te starten.
 ![](https://res.cloudinary.com/callvoip/image/upload/v1565084128/yealink-provisioning-10_s3cidy.png)
