@@ -8,9 +8,7 @@ hero:
   title: Doe het lekker zelf! Met onze drag en drop demo
   image: "/v1566293713/aanbod_header3_ckanme.png"
   link: http://files.callvoip.nl
-  button:
-    content: ''
-    link: f
+
 kiezen:
   title: Waarom kiezen voor Callvoip?
   content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent. Op kantoor
