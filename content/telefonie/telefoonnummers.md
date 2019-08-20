@@ -1,6 +1,6 @@
 ---
 type: page
-title: Telefoonnummers | Landelijk, regionaal of internationaal
+title: Telefoonnummers | Landelijk, regionaal, internationaal of servicenummers
 description: Callvoip levert alle telefoonnummers; regionaal-, landelijk-, internationaal-
   en servicenummers. Zowel nieuw als via nummerbehoud.
 images: []
@@ -8,6 +8,7 @@ slug: telefoonnummers
 hero:
   image: "/v1565871131/telefoonnummer_ld7kl6.png"
 layout: ''
+Hide in Search: false
 
 ---
 Neem uw huidige telefoonnummers mee of vraag nieuwe telefoonnummers aan; landelijke-, regionale-, internationale- of servicenummers. Het kan allemaal bij Callvoip.

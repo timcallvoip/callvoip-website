@@ -34,6 +34,7 @@ fields:
   label: layout
   hidden: true
 pages:
+- content/telefonie/telefoonnummers.md
 - content/telefonie/gesprekskosten.md
 - content/offerte.md
 - content/telefonie/Functionaliteiten/call-pickup.md
@@ -72,4 +73,3 @@ pages:
 - content/telefonie/Functionaliteiten/voicemail.md
 - content/oplossingen/Branches/autodealer.md
 - content/telefonie/conference-service.md
-- content/telefonie/telefoonnummers.md
