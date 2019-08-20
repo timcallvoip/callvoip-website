@@ -36,6 +36,7 @@ fields:
     required: false
   label: PDF
 pages:
+- content/ondersteuning/Integraties/voip-cti.md
 - content/ondersteuning/Integraties/voip-cti-handleiding.md
 - content/ondersteuning/algemeen/sip-trunk-handleiding.md
 - content/ondersteuning/algemeen/storing.md
@@ -66,7 +67,6 @@ pages:
 - content/ondersteuning/Apparatuurhandleidingen/gigaset-ip-pro-provisioning.md
 - content/ondersteuning/Apparatuurhandleidingen/fritz-box.md
 - content/ondersteuning/Integraties/realtime-api.md
-- content/ondersteuning/Integraties/voip-cti.md
 - content/ondersteuning/Integraties/click-to-dial.md
 - content/ondersteuning/Integraties/click-to-dial-yealink-adresboek.md
 - content/ondersteuning/Integraties/click-to-dial-uitgebreide-handleiding.md
