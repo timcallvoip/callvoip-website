@@ -74,11 +74,5 @@ prijzen:
 description: Met een glasvezel verbinding zijn de download- als uploadsnelheid aan
   elkaar gelijk. U beschikt over een eigen verbinding als perfecte basis voor uw VoIP.
 images: []
-menu:
-  main:
-    weight: 3
-    parent: Internet
-    pre: Supersnelle download- en uploadsnelheid met glasvezel.
-    post: fa-wifi
 
 ---
