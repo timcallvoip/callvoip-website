@@ -11,7 +11,7 @@
             {{ end }}
             {{ with .phonenumber }}
             <p class="mb-8">
-              <a href="tel:{{ .number }}" class="text-white no-underline text-2xl xl:text-3xl flex items-center justify-center hover:text-blue "><i
+              <a href="tel:{{ .number }}" class="text-white no-underline text-2xl xl:text-3xl flex items-center justify-center hover:text-blue hover:no-underline"><i
                   class="fal fa-phone mr-2 fa-flip-horizontal relative" style="font-size: 32px; top: .2rem; transform: rotate(97deg); "></i>
                 {{ .pretty }}</a></p>
             {{ end }}
@@ -19,7 +19,7 @@
             <p class="opacity-75 mb-2 lg:text-lg">{{ . }}</p>
             {{ end }}
             {{ with .emailaddress }}
-            <p class="text-xl"><a href="mailto:{{ .email }}" class="text-white no-underline hover:text-blue">{{ .pretty }}</a></p>
+            <p class="text-xl"><a href="mailto:{{ .email }}" class="text-white hover:no-underline hover:text-blue">{{ .pretty }}</a></p>
             {{ end }}
           </div>
           {{ end }}
@@ -29,7 +29,7 @@
             <p class="lg:text-lg xl:text-xl opacity-75 mb-4  lg:mb-6">{{ . | markdownify }}</p>
             {{ end }}
             {{ with .content }}
-            <a href="/zoeken" class="button-icon chat-button xl:text-lg"><i class="fal fa-search text-3xl mr-4"></i>{{ . }}</a>
+            <a href="/zoeken" class="button-icon chat-button xl:text-lg hover:no-underline"><i class="fal fa-search text-3xl mr-4"></i>{{ . }}</a>
             {{ end }}
           </div>
           {{ end }}
@@ -51,15 +51,15 @@
           {{ end }}
 
         </div>
-        <div class="flex items-center justify-center">
-          <p class="mb-2 lg:text-lg block"><span class="opacity-75 ">Niet gevonden wat u zocht?</span> <button type="button"  class="text-blue font-medium" data-api="smartsupp" data-operation="open">Stel een vraag via de chat</button></p>
+        <div class="flex items-center justify-center px-4 pb-8 md:pb-0">
+          <p class="mb-2 lg:text-lg block text-center"><span class="opacity-75 ">Niet gevonden wat u zocht?</span> <button type="button"  class="text-blue font-medium" data-api="smartsupp" data-operation="open">Stel een vraag via de chat</button></p>
         </div>
       </div>
     </div>
   </div>
   <div class="container py-8 md:py-20 px-4 mt-16 ">
-    <div class="mb-2 md:mb-4">
-      <img src="/images/logo.svg" alt="">
+    <div class="mb-2 sm:mb-4">
+      <img class="w-48" src="/images/callvoip-logo.svg" alt="">
     </div>
     <div class="md:flex md:justify-between md:items-start font-medium text-grey-medium">
       <p class="mb-6 md:mb-0">Copyright {{$.Site.Title}} 2019 - Alle rechten voorbehouden</p>

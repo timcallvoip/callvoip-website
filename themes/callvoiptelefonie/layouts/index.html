@@ -3,8 +3,8 @@
 
   {{ with .Params.hero }}
   <header class="container px-4 clearfix">
-    <div class="md:flex md:-mx-8 lg:-mx-12 md:items-center pt-6 sm:pt-8 md:pt-12 md:pt-16 mb-12">
-      <div class="mb-12 md:w-1/2 md:px-8 lg:px-12">
+    <div class="md:flex md:-mx- lg:-mx-12 md:items-center pt-6 sm:pt-8 md:pt-12 md:pt-16 mb-12">
+      <div class="mb-12 md:w-1/2 md:px-4 lg:px-12">
         {{ with .title }}
         <h1 class="text-3xl lg:text-4xl xxl:text-5xl font-medium leading-tight mb-4 md:mb-6">{{ . }}</h1>
         {{ end }}
@@ -16,7 +16,7 @@
         {{ end }}
       </div>
       {{ with .items }}
-      <div class="md:w-1/2 md:px-8 lg:px-12">
+      <div class="md:w-1/2 md:px-4 lg:px-12">
         {{ range . }}
           {{- partial "components/card.html" . -}}
         {{ end }}
@@ -65,7 +65,7 @@
 
   <div class="container px-4">
     {{ range .Params.usps }}
-    <div class="xl:flex xl:-mx-8 mb-12 md:mb-16 xxl:mb-32">
+    <div class="xl:flex xl:-mx-8 mb-12 md:mb-16 xxl:mb-32 bg-grey-lightest pt-12  md:pt-20 pb-4 md:pb-8 px-4 sm:px-8 rounded-lg">
       <div class="xl:w-1/3 xl:px-8 ">
         {{ with .title }}
         <h3 class="text-3xl font-medium mb-2 xxl:mb-6 leading-tight">{{ . }}</h3>
@@ -78,7 +78,7 @@
         <div class="flex flex-wrap md:-mx-8 xl:-mx-4">
           {{ range .items }}
           <div class="md:w-1/2 md:px-8 xl:px-4 xxl:flex mb-8 lg:mb-12">
-            <div class="rounded-full bg-grey-lightest h-16 w-16 lg:h-20 lg:w-20 flex justify-center items-center mb-2 xl:mb-4  mr-8">
+            <div class="rounded-full bg-white h-16 w-16 lg:h-20 lg:w-20 flex justify-center items-center mb-2 xl:mb-4  mr-8">
               <i class="fal text-3xl lg:fa-2x {{ .icon }} text-blue"></i>
             </div>
             <div class="flex-1 pt-2">
@@ -99,9 +99,9 @@
 
 
   {{ with .Params.options}}
-  <div class="container px-4 mb-24">
+  <div class="container px-4 mb-24 lg:pb-12">
     {{ with .image }}
-    <img data-src="{{ $.Site.Params.cloudinary_base_url }}/c_scale,f_auto,q_auto{{.}}" class="mb-12 mx-auto block md:mb-20 cld-responsive max-w-2xl" alt="Callvoip - Bellen en Internet" />
+    <img data-src="{{ $.Site.Params.cloudinary_base_url }}/c_scale,f_auto,q_auto{{.}}" class="mb-12 mx-auto block md:mb-20 cld-responsive max-w-full lg:max-w-2xl" alt="Callvoip - Bellen en Internet" />
     {{ end }}
     <div class="text-center mb-12 xl:mb-16">
       {{ with .title }}
@@ -124,7 +124,7 @@
   {{ end }}
 
 
-  <div class="bg-grey-lightest clearfix pt-12 md:pt-20 xl:pt-32">
+  <div class="bg-grey-lightest clearfix pt-12 md:pt-20">
     <div class="container px-4 pt-8">
       {{ with .Params.prefooter }}
       <div class="text-center mb-16">

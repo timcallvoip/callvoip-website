@@ -11,14 +11,27 @@ a {
   @apply text-blue;
 }
 
+p a:hover {
+  @apply underline;
+}
+
 .button-outline {
   @apply border-blue border-2 text-blue no-underline font-medium rounded-full py-4 px-8 inline-flex items-center leading-none;
 }
 
+.button-outline:hover {
+  @apply bg-blue text-white no-underline;
+}
+
 .button {
-  @apply bg-blue text-white no-underline rounded-full py-5 px-8 inline-flex items-center leading-none text-lg;
+  @apply bg-blue text-white no-underline rounded-full py-5 px-8 inline-flex items-center leading-none text-lg font-medium;
   box-shadow: 0 4px 6px rgba(50,50,93,.11), 0 1px 3px rgba(0,0,0,.08);
   transition: all .15s ease;
+}
+
+.button::after {
+  content: "\02192";
+  @apply ml-2;
 }
 
 .button-small {
@@ -32,6 +45,7 @@ a {
 .button:hover {
   box-shadow: 0 7px 14px rgba(50,50,93,.1), 0 3px 6px rgba(0,0,0,.08);
   transform: translateY(-1px);
+  @apply no-underline;
 }
 
 .button-icon {
@@ -39,6 +53,7 @@ a {
   box-shadow: 0 4px 6px rgba(50,50,93,.11), 0 1px 3px rgba(0,0,0,.08);
   transition: all .15s ease;
 }
+
 .button-icon:hover {
   box-shadow: 0 7px 14px rgba(50,50,93,.1), 0 3px 6px rgba(0,0,0,.08);
   transform: translateY(-1px);
