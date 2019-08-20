@@ -28,9 +28,9 @@ usps:
   items: []
 intro:
   title: Webshop
-  content: Bezoek onze webwinkel voor een breed assortiment aan netwerk-, WiFi en
+  content: 'Bezoek onze webwinkel voor een breed assortiment aan netwerk-, WiFi en
     VoIP-apparatuur. Kies voor onze configuratieservice en ontvang de apparatuur Plug
-    and Play.
+    and Play. '
 prijzen: []
 menu:
   top:
