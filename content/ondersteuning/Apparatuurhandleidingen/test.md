@@ -61,7 +61,7 @@ Sluit uw Yealink IP-telefoon aan. Zorg dat het toestel met een netwerkkabel is v
 
 Om op het IP-toestel in te loggen heeft u het IP-adres nodig.
 
-\- druk op de OK toets om het IP-adres op te vragen
+\- druk op de OK toets om het IP-adres op te vragen  
 \- Een IP-adres ziet er bijvoorbeeld als volgt uit: 192.168.1.105
 
 Ga nu naar internet en vul het IP-adres met puntjes in de adresbalk van uw internetprogramma (browser) in. Het inlogscherm verschijnt: ![](https://res.cloudinary.com/callvoip/image/upload/v1565083035/yealink-provisioning-1_jo6zdb.png)
