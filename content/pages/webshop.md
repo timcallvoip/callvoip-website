@@ -11,7 +11,7 @@ hero:
   button:
     content: Benieuwd naar de mogelijkheden?
     link: "/internet/postcodecheck/"
-  image: "/v1566295059/callvoipshop_3_laptops_wuqbcm.pn"
+  image: "/v1566295059/callvoipshop_3_laptops_wuqbcm.png"
   position: " image_right"
 blocks:
 - title: Callvoip.shop
