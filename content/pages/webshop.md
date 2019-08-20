@@ -32,5 +32,9 @@ intro:
     VoIP-apparatuur. Kies voor onze configuratieservice en ontvang de apparatuur Plug
     and Play.
 prijzen: []
+menu:
+  top:
+    pre: external
+    weight: 3
 
 ---

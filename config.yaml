@@ -13,28 +13,24 @@ taxonomies:
   tag: tags
 menu:
   top:
-  - url: /status
-    name: Status
-    weight: 2
-  - pre: external
-    url: https://callvoip.shop/
-    name: Webshop
-    weight: 3
+  - url: "/ondersteuning"
+    name: Support
+    weight: 4
   - pre: external
     url: https://panel.callvoip.nl/login/panel
     name: Login
-    weight: 7
-  - url: "/ondersteuning"
-    name: Support
     weight: 5
+  - url: "/status"
+    name: Status
+    weight: 1
   footer:
+  - pre: external
+    url: http://support.callvoip.nl:8040/
+    name: Hulp
+    weight: 1
   - url: https://www.callvoip.nl/download/callvoip/CallVoip_telefonie_aanvraagformulier.pdf
     name: Direct klant worden?
     weight: 6
-  - url: "http://support.callvoip.nl:8040/"
-    name: Hulp
-    weight: 0
-    pre: external
 outputs:
   home:
   - HTML
