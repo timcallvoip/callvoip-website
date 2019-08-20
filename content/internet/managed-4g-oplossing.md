@@ -30,7 +30,7 @@ blocks:
     2. Er volgt een locatie-scan om wensen en mogelijkheden te bespreken
     3. Een monteur komt de 4G-apparatuur en antennes installeren
     4. Terwijl u geniet van snel en goed internet wordt de verbinding 24/7 gemonitord
-  position: image_left
+  position: image_right
 usps:
   title: Voordelen van een managed 4G-oplossing
   content: 'Het fijne van een 4G-oplossing is dat het direct overal leverbaar is.
@@ -76,6 +76,7 @@ prijzen:
     - title: Eenmalig (ongeveer)
       price: '350.00'
     footer: Prijzen zijn excl. BTW
+Hide in Search: false
 menu:
   main:
     name: 4G Oplossingen
