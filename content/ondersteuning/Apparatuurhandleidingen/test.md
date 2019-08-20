@@ -135,9 +135,7 @@ Bij tabblad \[Upgrade\] > \[Basic\] ziet u de firmwareversie en heeft u de mogel
 <h3>De firmware van uw Yealink toestel upgraden</h3>
 
 Controleer welke firmwareversie u nu heeft door op het toestel in te loggen > u ziet de firmwareversie staan op tabblad \[Status\]. U kunt op het toestel zelf ook klikken op \[Menu\] > \[Status\] > \[Firmware\] om de firmwareversie op te vragen.
-![](https://res.cloudinary.com/callvoip/image/upload/v1565084681/yealink-provisioning-16_ug20sl.png)
-Af-fabriek worden de toestellen van Yealink voorzien van een provisioninglink naar de firmware-server. Dit betekent in de meeste gevallen dat een toestel dat wordt aangesloten op internet en wordt geherstart automatisch gaat zoeken naar de laatste firmware versie.
-\- sluit het toestel aan op internet en herstart; kijk of het toestel gaat zoeken naar firmware.
+![](https://res.cloudinary.com/callvoip/image/upload/v1565084681/yealink-provisioning-16_ug20sl.png) Af-fabriek worden de toestellen van Yealink voorzien van een provisioninglink naar de firmware-server. Dit betekent in de meeste gevallen dat een toestel dat wordt aangesloten op internet en wordt geherstart automatisch gaat zoeken naar de laatste firmware versie. Sluit het toestel aan op internet en herstart; kijk of het toestel gaat zoeken naar firmware.
 
 Als uw toestel niet automatisch de firmware upgrade uitvoert, log dan in op uw toestel en ga naar tabblad \[Upgrade\], submenu \[Advanced\]. Controleer hier twee dingen:
 
