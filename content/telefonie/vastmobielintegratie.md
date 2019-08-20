@@ -1,5 +1,5 @@
 ---
-title: Vast Mobiel Integratie (Vamos) - altijd & overal bereikbaar
+title: Vast Mobiel Integratie (Vamos) | altijd & overal bereikbaar
 type: page
 layout: default
 blocks:
@@ -104,6 +104,7 @@ prijzen:
       price: '49.00'
     - title: Eenmalig
       price: '25.00'
+Hide in Search: false
 menu:
   main:
     weight: 2
