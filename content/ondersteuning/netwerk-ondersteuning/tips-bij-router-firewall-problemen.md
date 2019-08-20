@@ -4,6 +4,9 @@ weight:
 description: ''
 images: []
 pdf: http://www.simmpl.nl/downloads/Simmpl_Router-en-Firewall-Issues.pdf
+Hide in Search: false
+Nieuw: false
+Update: false
 
 ---
 U maakt gebruik van internettelefonie van Callvoip via de Simmpl telefooncentrale en u ervaart problemen met uw telefoons. Vervelend! Met deze ondersteuningspagina hopen wij u te kunnen assisteren bij het vinden van de oorzaak en het wegnemen ervan.
@@ -26,7 +29,7 @@ Ook na succesvolle registratie (= groen bolletje zichtbaar op de Simmpl centrale
 * u heeft een bijzonder slechte verbinding (missende stukken, haperende verbinding) terwijl uw gesprekspartner geen probleem ervaart
 * degene die u belt hoort een echo van zichzelf
 
-<h3>Suggesties voor oplossing van dit probleem:</h3>
+<h3>Suggesties voor oplossing van dit probleem</h3>
 
 Een goede router weet wat VoIP is en zal de bijbehorende signalen op de juiste wijze routeren binnen het netwerk zodat alles verloopt zoals bedoeld. U hoeft hieraan in principe niets meer in te stellen.
 
