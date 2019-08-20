@@ -1,7 +1,8 @@
 ---
 type: page
-title: Conference Service
-description: ''
+title: Conference Service | Met meerdere mensen op afstand telefonisch vergaderen
+description: Met de Callvoip Conference Service bespaart u tijd en geld voor vergaderen
+  op afstand.
 images: []
 slug: conference
 hero:
