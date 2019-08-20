@@ -74,7 +74,9 @@ In de vorige stap heeft u uw Simmpl VoIP-account succesvol geregistreerd. Uw FRI
 
 Op de diverse soorten FRITZ!Boxen kunt u verschillende soorten apparaten aansluiten:
 ![](https://res.cloudinary.com/callvoip/image/upload/v1564737484/fritzbox-12_cwc6pe.png)
-Uw analoge toestellen kunt aansluiten op de analoge FON-poorten (2 of 3). Uw ISDN-apparatuur (ISDN-centrale of ISDN-toestel) kunt u aansluiten op de S0-bus. Uw DECT toestellen kunt op op de FRITZ!Box-DECT basis aanmelden via de aanmeldprocedure die u start via de configuratie-pagina.
+Uw analoge toestellen kunt aansluiten op de analoge FON-poorten (2 of 3).   
+Uw ISDN-apparatuur (ISDN-centrale of ISDN-toestel) kunt u aansluiten op de S0-bus.   
+Uw DECT toestellen kunt op op de FRITZ!Box-DECT basis aanmelden via de aanmeldprocedure die u start via de configuratie-pagina.
 ![](https://res.cloudinary.com/callvoip/image/upload/v1564737573/fritzbox-13_kyznvb.png)
 Om toestellen aan te melden gaat u naar menu \[Telephony Devices\]. Klik vervolgens op \[Configure New Device\]:
 ![](https://res.cloudinary.com/callvoip/image/upload/v1564737638/fritzbox-14_u2dmul.png)
