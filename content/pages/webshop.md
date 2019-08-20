@@ -21,4 +21,9 @@ blocks:
     bij het vinden van de juiste mix aan diensten en producten. Alles zodat u verzekerd
     bent van de beste basis voor VoIP telefonie.
   position: image_left
+menu:
+  top:
+    name: Webshop
+    weight: 3
+
 ---
