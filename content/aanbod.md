@@ -5,9 +5,12 @@ type: page
 layout: aanbod
 logos: true
 hero:
-  title: Klaar voor de toekomst
+  title: Doe het lekker zelf! Met onze drag en drop demo
   image: "/v1566222369/aanbod_header_nk0ah1.png"
   link: http://files.callvoip.nl
+  button:
+    content: ''
+    link: ''
 kiezen:
   title: Waarom kiezen voor Callvoip?
   content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent. Op kantoor
