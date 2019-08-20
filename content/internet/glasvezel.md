@@ -1,5 +1,5 @@
 ---
-title: Glasvezel
+title: Glasvezel | U heeft uw eigen lijn en een stabiele snelheid
 type: page
 layout: default
 logos: false
@@ -74,6 +74,7 @@ prijzen:
 description: Met een glasvezel verbinding zijn de download- als uploadsnelheid aan
   elkaar gelijk. U beschikt over een eigen verbinding als perfecte basis voor uw VoIP.
 images: []
+Hide in Search: false
 menu:
   main:
     weight: 3

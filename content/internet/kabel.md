@@ -1,5 +1,5 @@
 ---
-title: Kabel
+title: Kabel | Supersnel internet van een betrouwbare leverancier
 type: page
 layout: default
 logos: false
@@ -80,6 +80,7 @@ prijzen:
 description: Met kabelinternet (Coax) van Ziggo heeft u een perfect basis voor VoIP-telefonie.
   Geen groene kabel? Wij bekijken graag of dit alsnog mogelijk is.
 images: []
+Hide in Search: false
 menu:
   main:
     name: Kabel internet

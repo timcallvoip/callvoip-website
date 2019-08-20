@@ -158,6 +158,8 @@ fields:
         name: price
         label: Price
 pages:
+- content/internet/glasvezel.md
+- content/internet/kabel.md
 - content/internet/managed-4g-oplossing.md
 - content/telefonie/vastmobielintegratie.md
 - content/telefonie/bereikbaarheidsmonitor.md
@@ -170,6 +172,4 @@ pages:
 - content/oplossingen/mkb.md
 - content/telefonie/hostedvoip.md
 - content/internet/dsl.md
-- content/internet/glasvezel.md
-- content/internet/kabel.md
 - content/telefonie/clicktodial.md
