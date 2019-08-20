@@ -1,6 +1,7 @@
 ---
 type: page
-title: Versleutelde telefoongesprekken (SRTP)
+title: Versleutelde telefoongesprekken (SRTP) | Veiligheid staat bij ons hoog in het
+  vaandel
 description: Bescherm uw privacy en zorg dat uw gesprekken niet zomaar worden afgeluisterd,
   dankzij versleutelde telefoongesprekken met SRTP en TLS.
 images: []
@@ -8,6 +9,7 @@ slug: versleutelde-telefoongesprekken/
 hero:
   image: ''
 layout: ''
+Hide in Search: false
 
 ---
 Als eerste provider in Nederland levert Callvoip versleutelde telefoongesprekken. Veiligheid staat bij ons hoog in het vaandel en daarom bieden wij de mogelijkheid om uw telefonie te versleutelen en zo uw privacy te waarborgen. Dit doen we door middel van SRTP en TLS.
