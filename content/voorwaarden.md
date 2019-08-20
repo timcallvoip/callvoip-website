@@ -2,7 +2,7 @@
 title: Voorwaarden
 menu:
   footer:
-    weight: 4
+    weight: 3
 
 ---
 ### Artikel 1 – toepasselijkheid van deze algemene voorwaarden

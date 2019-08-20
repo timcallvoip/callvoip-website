@@ -2,7 +2,7 @@
 title: Privacy
 menu:
   footer:
-    weight: 3
+    weight: 2
 
 ---
 #### Groningen, 24 mei 2018

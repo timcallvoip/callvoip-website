@@ -2,7 +2,7 @@
 title: Disclaimer
 menu:
   footer:
-    weight: 2
+    weight: 1
 
 ---
 #### Algemeen
