@@ -1,5 +1,5 @@
 ---
-title: Managed 4G-oplossing
+title: Managed 4G-oplossing | Goed internet op elke locatie
 description: Met de managed 4G-oplossing van Callvoip bent u altijd en overal bereikbaar.
   Bekijk hier snel de mogelijkheden en de bijbehorende tarieven.
 images: []
