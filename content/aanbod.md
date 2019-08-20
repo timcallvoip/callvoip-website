@@ -10,7 +10,7 @@ hero:
   link: http://files.callvoip.nl
   button:
     content: ''
-    link: ''
+    link: f
 kiezen:
   title: Waarom kiezen voor Callvoip?
   content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent. Op kantoor
