@@ -12,8 +12,8 @@ hero:
     VoIP-apparatuur. Kies voor onze configuratieservice en ontvang de apparatuur Plug
     and Play.
   button:
-    content: ''
-    link: ''
+    content: Ga naar de webshop
+    link: https://callvoip.shop/
   image: ''
 blocks:
 - title: Webshop
