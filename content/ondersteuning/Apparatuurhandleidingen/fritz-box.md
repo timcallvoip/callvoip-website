@@ -46,7 +46,8 @@ Log in op uw FRITZ!Box. Uw Overview verschijnt met daarin een overzicht van de s
 
 In het middenscherm kunt u zien of er telefoonnummers zijn ingesteld. In het voorbeeld is dat niet het geval.
 
-Onderin beeld kunt u zien of u als Standard of Advanced gebruiker bent ingelogd. Als u hier Standard ziet staan, klik er dan op zodat het in Advanced wijzigt.  
+Onderin beeld kunt u zien of u als Standard of Advanced gebruiker bent ingelogd. Als u hier Standard ziet staan, klik er dan op zodat het in Advanced wijzigt.
+
 **NB**: bij oudere modellen vindt u deze instelling in menu \[System\] > \[Expert Mode\]
 
 1. **Uw Simmpl VoIP-account instellen**
