@@ -9,8 +9,8 @@ hero:
   image: "/v1566222369/aanbod_header_nk0ah1.png"
   link: http://files.callvoip.nl
   button:
-    content: Ontdek het aanbod van Callvoip
-    link: "#onsproductaanbod"
+    content: ''
+    link: ''
 kiezen:
   title: Waarom kiezen voor Callvoip?
   content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent. Op kantoor
