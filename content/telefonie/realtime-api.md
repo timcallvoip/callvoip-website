@@ -17,7 +17,7 @@ Met de Realtime API (application programming interface) van Callvoip koppelt u u
 
 <br>
 
-## Mogelijkheden Realtime API
+### Mogelijkheden Realtime API
 
 De Realtime API van Callvoip is universeel en zeer breed in te zetten. Het biedt u de mogelijkheid om de telefooncentrale intelligent te koppelen met andere systemen en software.
 
@@ -42,17 +42,13 @@ Denkt u bijvoorbeeld aan de volgende toepassingen:
 
 {{</ layout/columns >}}
 
-## Hoe realiseer ik dit?
+### Hoe realiseer ik dit?
 
 Als u klant bent van Callvoip kunt u beginnen. Neem contact met ons op en wij kunnen u voorzien van de juiste documentatie.
 
-<br>
-
-## Doen jullie dit ook?
+### Doen jullie dit ook?
 
 Nee. Lukt u dit niet zelf, dan kunt u hiervoor een externe partij inhuren. Wij brengen u graag in contact met één. Wel hebben wij één functionaliteit voor onze klanten ontwikkeld: [Click-to-Dial](/telefonie/clicktodial/).
-
-<br>
 
 ### Benieuwd naar de mogelijkheden voor uw situatie?
 
