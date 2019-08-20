@@ -65,14 +65,14 @@ Wenst u een professionele klantenservice op te zetten, kies dan voor een **servi
 
 {{< layout/column2 >}}
 
-<u>**0800-nummer**</u>
+<u>**0800-nummer:**</u>
 Met een 0800-nummer bent u kosteloos bereikbaar voor uw klanten. Dit verlaagt de drempel voor uw klanten om contact op te nemen. Uw 0800-nummer is in heel Nederland actief en bereikbaar.
 
 {{</ layout/column2 >}}
 
 {{< layout/column2 >}}
 
-<u>**0900-nummer**</u>
+<u>**0900-nummer:**</u>
 Bied uw klanten een betaald 0900-servicenummer voor support of sales. Klanten betalen een minuut- of gesprekstarief en dit genereert inkomsten. Het tarief stelt u zelf vast. De kostendrempel maakt dat uw klant weloverwogen en doelgericht belt. Dit verhoogt de doeltreffendheid van uw helpdesktijd.
 
 {{</ layout/column2 >}}
