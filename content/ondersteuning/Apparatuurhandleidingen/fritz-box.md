@@ -81,10 +81,11 @@ Uw DECT toestellen kunt op op de FRITZ!Box-DECT basis aanmelden via de aanmeldpr
 Om toestellen aan te melden gaat u naar menu \[Telephony Devices\]. Klik vervolgens op \[Configure New Device\]:
 ![](https://res.cloudinary.com/callvoip/image/upload/v1564737638/fritzbox-14_u2dmul.png)
 Doorloop de wizard:
-Als u een analoog toestel wilt toevoegen, kies dan \[Telephone\]
-Als u een DECT draadloos toestel wilt aanmelden, kies dan \[Telephone\]
-Als u een ISDN telefooncentrale wilt aansluiten, kies dan \[ISDN PBX\]
-Als u een faxapparaat wilt aansluiten, kies Fax Machine (fax via VoIP wordt afgeraden)
+
+* Als u een analoog toestel wilt toevoegen, kies dan \[Telephone\] 
+* Als u een DECT draadloos toestel wilt aanmelden, kies dan \[Telephone\] 
+* Als u een ISDN telefooncentrale wilt aansluiten, kies dan \[ISDN PBX\] 
+* Als u een faxapparaat wilt aansluiten, kies Fax Machine (fax via VoIP wordt afgeraden)
 
 **NB**: met de onderste twee opties kunt u ook een FRITZ antwoordapparaat of faxbox aanmaken.
 ![](https://res.cloudinary.com/callvoip/image/upload/v1564737774/fritzbox-15_u2stcx.png)
@@ -142,7 +143,7 @@ U heeft uw toestel nu gekoppeld met het nummer en kunt starten met bellen en geb
 
 * Kunt u nog inloggen? Reset uw FRITZ!Box dan via menu \[System\] > \[Backup\] > tabblad \[Factory Settings\]
 * Kunt u niet meer inloggen? Sluit een telefoontoestel op de FRITZ!Box aan
-* Bel met het toestel de volgende code: #991_15901590_
+* Bel met het toestel de volgende code: \[Hekje\]991\[Sterretje\]15901590\[Sterretje\]
 * U hoort een pieptoon; wacht tot u alles LED’s aan en uit ziet gaan
 * Hang nu pas op. Uw FRITZBox is nu gereset naar factory defaults
 

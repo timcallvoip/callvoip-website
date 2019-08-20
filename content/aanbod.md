@@ -6,7 +6,7 @@ layout: aanbod
 logos: true
 hero:
   title: Doe het lekker zelf! Met onze drag en drop demo
-  image: "/v1566222369/aanbod_header_nk0ah1.png"
+  image: "/v1566293713/aanbod_header3_ckanme.png"
   link: http://files.callvoip.nl
   button:
     content: ''
