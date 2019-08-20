@@ -31,12 +31,6 @@ blocks:
     • Welk nummer wordt het meest gebeld?<br>
 
     Belangrijke vragen om de telefonische performance van uw organisatie in kaart te brengen.
-
-    Management-analyse-indicatoren:<br>
-    1. alle gesprekken per uur, dag, week; totaal en per nummer<br>
-    2. aandeel beantwoorde gesprekken, totaal en als percentage<br>
-    3. totale gesprekstijd en gemiddelde gesprekstijd per uur, dag, week<br>
-    4. uw piekuur en piekdag: het drukste uur per dag, en piekdag per week
   position: image_left
 usps:
   title: Wat zijn de voordelen?
@@ -55,6 +49,7 @@ intro:
   title: ''
   content: ''
 prijzen: []
+Hide in Search: false
 
 ---
 ## Wat kost het?
