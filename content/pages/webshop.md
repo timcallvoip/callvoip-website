@@ -13,14 +13,18 @@ hero:
     link: "/internet/postcodecheck/"
   image: "/v1565000133/callvoip-website-internet-glasvezel2_mvvorj.png"
 blocks:
-- title: Callvoip FTTH Glasvezel – dé beste basis voor VoIP!
-  image: "/v1565858744/glasvezel_xgeang.png"
-  content: Voor een goede kwaliteit VoIP is een stabiele internetverbinding een noodzakelijk
-    ingrediënt. Callvoip biedt naast de standaard DSL-verbindingen ook glasvezel (Fiber
-    to the Home). Situaties en wensen verschillen – wij zijn u daarom graag van dienst
-    bij het vinden van de juiste mix aan diensten en producten. Alles zodat u verzekerd
-    bent van de beste basis voor VoIP telefonie.
-  position: image_left
+- title: Callvoip.shop
+  image: "/v1566295059/callvoipshop_3_laptops_wuqbcm.png"
+  content: Bezoek onze webwinkel voor een breed assortiment aan netwerk-, WiFi en
+    VoIP-apparatuur. Kies voor onze configuratieservice en ontvang de apparatuur Plug
+    and Play.
+  position: " image_right"
+intro:
+  title: ''
+  content: ''
+description: ''
+images: []
+Hide in Search: false
 menu:
   top:
     name: Webshop
