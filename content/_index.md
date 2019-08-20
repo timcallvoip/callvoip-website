@@ -18,7 +18,7 @@ hero:
     content: Gebruik de Vast Mobiel Integratie (Vamos)
     link: telefonie/vastmobielintegratie/
 intro:
-  image: "/v1566225122/home_nieuwe_site_versie2_v3yjlh.png"
+  image: "/v1566310536/home_nieuwe_site_versie3_r4kjvf.png"
   title: Voordelig bellen vanuit de cloud
   content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent op één
     en hetzelfde nummer. Op kantoor via een vast toestel of onderweg via uw eigen
