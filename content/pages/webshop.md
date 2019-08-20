@@ -21,13 +21,13 @@ blocks:
   content: Bezoek onze webwinkel voor een breed assortiment aan netwerk-, WiFi en
     VoIP-apparatuur. Kies voor onze configuratieservice en ontvang de apparatuur Plug
     and Play.
-  position: ''
+  position: image_right
 usps:
   title: ''
   content: ''
   items: []
 intro:
-  title: Websho
+  title: Webshop
   content: Bezoek onze webwinkel voor een breed assortiment aan netwerk-, WiFi en
     VoIP-apparatuur. Kies voor onze configuratieservice en ontvang de apparatuur Plug
     and Play.
