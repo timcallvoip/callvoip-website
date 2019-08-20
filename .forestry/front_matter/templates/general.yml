@@ -26,5 +26,4 @@ fields:
       name: image
       label: image
 pages:
-- content/pages/webshop.md
 - data/general.yaml
