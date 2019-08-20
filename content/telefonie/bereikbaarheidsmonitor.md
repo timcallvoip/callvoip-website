@@ -1,5 +1,6 @@
 ---
-title: Bereikbaarheidsmonitor
+title: Bereikbaarheidsmonitor | Beantwoord belangrijke vragen om de telefonische performance
+  in kaart te brengen.
 description: De Bereikbaarheidsmonitor toont u in één oogopslag alles wat u wilt weten
   om uw bereikbaarheid te beoordelen én dus te verbeteren.
 images: []
