@@ -110,11 +110,12 @@ Als de telefooncentrale klaar is met provisioning volgt melding:
 
 Uw toestel is nu geprovisioned. Dat betekent dat de Simmpl telefooncentrale het toestel heeft ingeregeld en dat u ermee moet kunnen bellen*.   
   
-U kunt dit op de volgende manier testen:   
-  
+U kunt dit op de volgende manier testen:
+
 \- Controleer of u met het toestel kunt uitbellen   
-  
-\- Ga naar tabblad \[Account 1\] van de webinterface en controleer de gegevens: ![](https://res.cloudinary.com/callvoip/image/upload/v1565084337/yealink-provisioning-13_wgivj9.png)
+\- Ga naar tabblad \[Account 1\] van de webinterface en controleer de gegevens:
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1565084337/yealink-provisioning-13_wgivj9.png)
 \- Op de Simmpl telefooncentrale of het account geregistreerd is.
 Log in, ga naar het toesteloverzicht en controleer de succesvolle registratie.
 ![](https://res.cloudinary.com/callvoip/image/upload/v1565084404/yealink-provisioning-14_qynrdk.png)
