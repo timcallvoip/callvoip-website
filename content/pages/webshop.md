@@ -1,41 +1,84 @@
 ---
-title: Webshop
-description: Informatie over de webshop van Callvoip
-images: []
-Hide in Search: false
-type: ''
-layout: hetbedrijf
+title: Webshop Callvoip
+type: page
+layout: default
 logos: false
 hero:
-  title: Webshop
-  content: Bezoek onze webwinkel voor een breed assortiment aan netwerk-, WiFi en
-    VoIP-apparatuur. Kies voor onze configuratieservice en ontvang de apparatuur Plug
-    and Play.
+  title: Webshop Callvoip
+  content: Met een glasvezel verbinding heeft u uw eigen lijn en een stabiele snelheid.
+    Zowel de upload- als de download- snelheid zijn gelijk. Zo heeft u 1 aanspreekpunt
+    en ontvangt u korting op de maandelijkse abonnementsprijs.
   button:
-    content: Ga naar de webshop
-    link: https://callvoip.shop/
-  image: "/v1566295059/callvoipshop_3_laptops_wuqbcm.png"
+    content: Benieuwd naar de mogelijkheden?
+    link: "/internet/postcodecheck/"
+  image: "/v1565000133/callvoip-website-internet-glasvezel2_mvvorj.png"
 blocks:
-- title: Callvoip.shop
-  image: "/v1566295059/callvoipshop_3_laptops_wuqbcm.png"
-  content: Bezoek onze webwinkel voor een breed assortiment aan netwerk-, WiFi en
-    VoIP-apparatuur. Kies voor onze configuratieservice en ontvang de apparatuur Plug
-    and Play.
-  position: " image_right"
+- title: Callvoip FTTH Glasvezel – dé beste basis voor VoIP!
+  image: "/v1565858744/glasvezel_xgeang.png"
+  content: Voor een goede kwaliteit VoIP is een stabiele internetverbinding een noodzakelijk
+    ingrediënt. Callvoip biedt naast de standaard DSL-verbindingen ook glasvezel (Fiber
+    to the Home). Situaties en wensen verschillen – wij zijn u daarom graag van dienst
+    bij het vinden van de juiste mix aan diensten en producten. Alles zodat u verzekerd
+    bent van de beste basis voor VoIP telefonie.
+  position: image_left
 usps:
-  title: ''
+  title: Waarom kiezen voor glasvezel van Callvoip (FTTH)?
   content: ''
-  items: []
+  items:
+  - icon: fa-hand-pointer
+    title: Eén aanspreekpunt
+    content: Eén aanspreekpunt voor internet, telefonie, apparatuur en installatie.
+  - icon: fa-piggy-bank
+    title: Korting
+    content: Callvoip-klanten krijgen korting op de Callvoip internet abonnementen.
+  - icon: fa-trophy
+    title: Perfecte basis
+    content: Callvoip internet biedt de beste basis voor uw telefoniesituatie.
 intro:
-  title: Webshop
-  content: 'Bezoek onze webwinkel voor een breed assortiment aan netwerk-, WiFi en
-    VoIP-apparatuur. Kies voor onze configuratieservice en ontvang de apparatuur Plug
-    and Play. '
-prijzen: []
+  title: Abonnementen
+  content: Callvoip biedt drie verschillende FTTH-abonnementen.
+prijzen:
+- title: 60-om-60 Mbit/s
+  content: De eenmalige kosten verschillen per situatie. Wij informeren u graag!
+  button:
+    title: Direct bestellen
+    link: https://www.simmpl.nl/downloads/callvoip_ftth_aanvraagformulier.pdf
+  tarieven:
+    footer: Prijzen zijn excl. BTW
+    items:
+    - title: Maandelijks
+      price: '45.00'
+    title: 'U bent klant van Callvoip:'
+- title: 100-om-100 Mbit/s
+  content: De eenmalige kosten verschillen per situatie. Wij informeren u graag!
+  button:
+    title: Direct bestellen
+    link: https://www.simmpl.nl/downloads/callvoip_ftth_aanvraagformulier.pdf
+  tarieven:
+    footer: Prijzen zijn excl. BTW
+    items:
+    - title: Maandelijks
+      price: '55.00'
+    title: 'U bent klant van Callvoip:'
+- title: 500-om-500 Mbit/s
+  content: De eenmalige kosten verschillen per situatie. Wij informeren u graag!
+  button:
+    title: Direct bestellen
+    link: https://www.simmpl.nl/downloads/callvoip_ftth_aanvraagformulier.pdf
+  tarieven:
+    items:
+    - title: Maandelijks
+      price: '75.00'
+    footer: Prijzen zijn excl. BTW
+    title: 'U bent klant van Callvoip:'
+description: Met een glasvezel verbinding zijn de download- als uploadsnelheid aan
+  elkaar gelijk. U beschikt over een eigen verbinding als perfecte basis voor uw VoIP.
+images: []
 menu:
-  top:
-    pre: external
+  main:
     weight: 3
+    parent: Internet
+    pre: Supersnelle download- en uploadsnelheid met glasvezel.
+    post: fa-wifi
 
 ---
-##### Bezoek onze webwinkel voor een breed assortiment aan netwerk-, WiFi en VoIP-apparatuur. Kies voor onze configuratieservice en ontvang de apparatuur Plug and Play.
