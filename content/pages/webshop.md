@@ -4,7 +4,7 @@ description: Webshop
 images: []
 Hide in Search: false
 type: ''
-layout: ''
+layout: hetbedrijf
 logos: false
 hero:
   title: Webshop
@@ -21,7 +21,7 @@ blocks:
   content: Bezoek onze webwinkel voor een breed assortiment aan netwerk-, WiFi en
     VoIP-apparatuur. Kies voor onze configuratieservice en ontvang de apparatuur Plug
     and Play.
-  position: image_right
+  position: " image_right"
 usps:
   title: ''
   content: ''
