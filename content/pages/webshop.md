@@ -9,8 +9,8 @@ hero:
     VoIP-apparatuur. Kies voor onze configuratieservice en ontvang de apparatuur Plug
     and Play.
   button:
-    content: Benieuwd naar de mogelijkheden?
-    link: "/internet/postcodecheck/"
+    content: Ga naar de webshop
+    link: "https://callvoip.shop/"
   image: "/v1566295059/callvoipshop_3_laptops_wuqbcm.png"
   position: " image_right"
 blocks: []
