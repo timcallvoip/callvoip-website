@@ -1,6 +1,6 @@
 ---
 type: page
-title: Gesprekskosten
+title: Gesprekskosten | Bespaar op uw gesprekskosten bij Callvoip
 description: Bij Callvoip betaalt u een vast laag tarief voor uw belminuten. Benieuwd?
   Bekijk hier een overzicht van de gesprekskosten & belbundels.
 images: []

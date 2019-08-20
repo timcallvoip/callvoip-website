@@ -34,8 +34,8 @@ fields:
   label: layout
   hidden: true
 pages:
-- content/offerte.md
 - content/telefonie/gesprekskosten.md
+- content/offerte.md
 - content/telefonie/Functionaliteiten/call-pickup.md
 - content/telefonie/bedrijfstelefoonboek.md
 - content/bedank/offerte-aanvraag-ontvangen.md
