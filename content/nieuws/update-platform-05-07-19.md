@@ -3,15 +3,16 @@ type: post
 title: Update platform (05-07-19)
 description: ''
 images: []
-featured: true
+featured: false
 hero:
   image: "/v1562745346/printscreenMultipleCallerID.png"
 author: ''
-date: 2019-07-09T22:00:00+00:00
+date: 2019-07-09T22:00:00.000+00:00
 url: "/update-platform-050719/"
 contactpersoon: []
 categories: []
 tags: []
+Hide in Search: false
 
 ---
 Afgelopen weekend (in de nacht van 5 juli 2019) heeft er een update plaatsgevonden op Simmpl. <!--more-->

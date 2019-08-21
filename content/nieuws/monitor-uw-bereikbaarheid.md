@@ -5,7 +5,7 @@ description: ''
 images: []
 featured: true
 hero:
-  image: ''
+  image: "/v1563355159/callvoip-website-bereikbaarheidsmonitor2.png"
 author: ''
 date: 2019-08-12T22:00:00.000+00:00
 url: "/monitor-bereikbaarheid/"
