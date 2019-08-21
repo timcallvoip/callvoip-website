@@ -8,13 +8,15 @@ hero:
   image: "/v1564997580/Callvoip-website-3laptops_t7bfir.png"
   button:
     content: 'Hulp op afstand '
-    link: /ondersteuning/hulp-op-afstand/
+    link: "/ondersteuning/hulp-op-afstand/"
 outputs:
 - HTML
 - JSON
-weight:
-description: ''
+weight: 
+description: 'Oplossingen en ondersteuning voor veel voorkomende VoIP problemen. Handige
+  artikelen en software downloads. '
 images: []
 layout: ''
+Hide in Search: false
 
 ---
