@@ -8,7 +8,7 @@ card:
   content: Ben jij geïnteresseerd in telecom en ken je de weg in de wereld van webshops
     en social media? Dan zijn wij op zoek naar jou!
   link:
-    url: 
+    url: mailto:callvoip@callvoip.nl
     content: Soliciteer nu
 
 ---
