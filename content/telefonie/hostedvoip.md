@@ -121,9 +121,10 @@ prijzen:
       price: '2.00'
     - title: Extra kanalen (6x)
       price: '15.00'
-description: Welkom in de wereld van Voice over IP. Bekijk alle mogelijkheden en ontdek
-  onze interessante abonnementskosten. Start direct met besparen!
+description: Welkom in de wereld van Voice over IP (VoIP). Bekijk alle mogelijkheden
+  en ontdek onze interessante abonnementskosten.
 images: []
+Hide in Search: false
 menu:
   main:
     weight: 1
