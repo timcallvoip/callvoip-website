@@ -16,6 +16,7 @@ fields:
     required: false
   label: URL
 pages:
+- content/formulier/srtp-vesleutelde-gesprekken-aanvragen.md
 - content/formulier/belbundel-aanvragen.md
 - content/formulier/wijziging-verzonden.md
 - content/formulier/opzegging-verzonden.md
@@ -50,6 +51,5 @@ pages:
 - content/formulier/aanvragen-overzicht.md
 - content/formulier/mijn-callvoip.md
 - content/formulier/conference-service-aanvragen.md
-- content/formulier/srtp-vesleutelde-gesprekken-aanvragen.md
 - content/formulier/managed-4g-verbinding-aanvragen.md
 - content/formulier/srtp-vesleutelde-gesprekken-opzeggen.md
