@@ -5,19 +5,19 @@ hero:
 items:
 - title: Online telefooncentrale
   status: true
+- title: Trunk
+  status: true
 - title: Inkomende gesprekken
   status: true
 - title: Uitgaande gesprekken
   status: true
-- title: Doorverbinden
+- title: "(Extern) Doorschakelen"
   status: true
 - title: Toestelregistraties
   status: true
 - title: Qaller
   status: true
 - title: Vamos
-  status: true
-- title: Trunk
   status: true
 
 ---
