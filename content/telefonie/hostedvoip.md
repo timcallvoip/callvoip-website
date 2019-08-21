@@ -1,5 +1,5 @@
 ---
-title: Hosted VoIP - modernste online telefooncentrale
+title: Hosted VoIP | modernste online telefooncentrale
 type: page
 layout: default
 logos: true

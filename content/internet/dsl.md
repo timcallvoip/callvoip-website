@@ -96,6 +96,7 @@ images: []
 Hide in Search: false
 menu:
   main:
+    name: DSL
     weight: 1
     parent: Internet
     pre: De beste DSL verbinding als basis van uw telefonie.

@@ -77,6 +77,7 @@ images: []
 Hide in Search: false
 menu:
   main:
+    name: Glasvezel
     weight: 3
     parent: Internet
     pre: Supersnelle download- en uploadsnelheid met glasvezel.
