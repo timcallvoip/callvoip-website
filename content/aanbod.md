@@ -8,7 +8,9 @@ hero:
   title: Doe het lekker zelf! Met onze demo
   image: "/v1566293713/aanbod_header3_ckanme.png"
   link: http://files.callvoip.nl
-
+  button:
+    content: ''
+    link: ''
 kiezen:
   title: Waarom kiezen voor Callvoip?
   content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent. Op kantoor
@@ -40,7 +42,7 @@ aanbod:
       image: "/v1566216468/aanbod_srojiv.png"
       button:
         content: Meer over Hosted VoIP
-        link: "/hostedvoip/"
+        link: "/telefonie/hostedvoip/"
   - tab:
       title: Het beste internet
       content: Zakelijk internet is een belangrijke basis voor uw organisatie.
