@@ -8,10 +8,11 @@ slug: keuzemenu
 hero:
   image: "/v1560261248/callvoip-website-keuzemenu2.png"
 layout: ''
+Hide in Search: false
 
 ---
 Met een keuzemenu begeleidt u de bellers direct naar de juiste medewerker of afdeling.  
-Professioneel, plezierig voor uw klant, efficiënt (door minder doorverbinden) en kortere gesprekken. Ook straalt u met een keuzemenu professionaliteit uit. Uw telefooncentrale voegt waarde toe!
+Professioneel, plezierig voor uw klant, efficiënt (door minder doorverbinden) en kortere gesprekken. Ook straalt u met een keuzemenu professionaliteit uit. 
 
 <a href="/calculator/" class="button">Bereken uw kosten</a>
 

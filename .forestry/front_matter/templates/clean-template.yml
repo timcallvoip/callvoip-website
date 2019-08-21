@@ -34,13 +34,14 @@ fields:
   label: layout
   hidden: true
 pages:
+- content/telefonie/Functionaliteiten/call-pickup.md
+- content/telefonie/Functionaliteiten/keuzemenu-ivr.md
 - content/telefonie/conference-service.md
 - content/telefonie/realtime-api.md
 - content/telefonie/versleutelde-telefoongesprekken-met-srtp.md
 - content/telefonie/telefoonnummers.md
 - content/telefonie/gesprekskosten.md
 - content/offerte.md
-- content/telefonie/Functionaliteiten/call-pickup.md
 - content/telefonie/bedrijfstelefoonboek.md
 - content/bedank/offerte-aanvraag-ontvangen.md
 - content/bedank/wijziging-verzonden.md
@@ -66,7 +67,6 @@ pages:
 - content/telefonie/Functionaliteiten/omleiding-flow-control.md
 - content/telefonie/Functionaliteiten/doorverbinden.md
 - content/telefonie/Functionaliteiten/fax.md
-- content/telefonie/Functionaliteiten/keuzemenu-ivr.md
 - content/oplossingen/Branches/assurantie.md
 - content/oplossingen/Branches/webshop.md
 - content/telefonie/Functionaliteiten/belgroep-huntgroup.md
