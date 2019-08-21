@@ -1,6 +1,7 @@
 ---
 title: Belbundel aanvragen
 url: "/aanvragen/belbundel/"
+Hide in Search: false
 
 ---
 Wilt u zekerheid over uw maandelijkse telefoniekosten? Kies dan voor onze belbundels voor bellen naar vaste en mobiele nummers binnen Nederland. Kies de bundel die bij uw belgedrag past; de bundel is een uitbreiding van uw telefonieabonnement.
@@ -130,15 +131,11 @@ Eenmalig
 
 **Fair Use policy voor belbundels**
 
-<br>
-
 Per belbundelgebruiker (= per toestelaccount) mag er max. 30% van de totaal uitgaande belminuten per maand voor een vast bedrag worden gebeld naar mobiele bestemmingen. Als het aantal mobiele belminuten per gebruiker in één bepaalde maand meer dan 30% van de totaal aantal uitgaande belminuten bedraagt, worden voor de verdere belminuten de reguliere gesprekstarieven in rekening gebracht. De volgende maand kan de gebruiker weer maximaal 30% naar mobiele bestemmingen bellen voor een vast bedrag per maand.
 
 <br><br>
 
 **Loyale klanten**
-
-<br>
 
 Ook voor loyale klanten zijn de belbundels bestelbaar.
 
