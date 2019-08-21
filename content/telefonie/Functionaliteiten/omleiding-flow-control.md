@@ -8,6 +8,7 @@ slug: omleiding
 hero:
   image: "/v1560261248/callvoip-website-omleiding.png"
 layout: ''
+Hide in Search: false
 
 ---
 Een omleiding is een schakelaar waarmee u eenvoudig acties aan- of uitzet. U kunt voor elk nummer omleidingen aanmaken. Daarnaast kunt u in één nummer meerdere omleidingen plaatsen.
@@ -18,7 +19,7 @@ Een omleiding is een schakelaar waarmee u eenvoudig acties aan- of uitzet. U kun
 
 * **_Snel & efficiënt_**: Met een druk op de knop verandert u de huidige belroute
 * **_Meerdere schakelmogelijkheden_**: Via uw telefoon, [Qaller](/telefonie/qaller/ "Qaller") of online bedieningspaneel
-* **_Groepen_**: Definieer groepen. Wanneer u één omleiding aanzet, schakelt u de rest automatisch uit
+* **_Groepen_**: Definieer groepen. Wanneer u één omleiding aanzet, schakelt de rest automatisch uit
 
 ## Waarom een omleiding?
 
