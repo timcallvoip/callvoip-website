@@ -21,6 +21,7 @@ hero:
     content: Benieuwd naar de mogelijkheden?
     link: "/internet/postcodecheck/"
   image: "/v1565000079/callvoip-website-internet-dsl2_n3dfgo.png"
+  position: image_center
 usps:
   title: Waarom kiezen voor CallvoipDSL
   content: ''
