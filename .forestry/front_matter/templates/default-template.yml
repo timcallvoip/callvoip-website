@@ -78,9 +78,9 @@ fields:
       - image_right
       source:
         type: simple
-        section: 
-        file: 
-        path: 
+        section:
+        file:
+        path:
     label: Position
   config:
     labelField: title
