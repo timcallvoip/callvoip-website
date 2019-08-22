@@ -1,6 +1,7 @@
 {{ define "main" }}
 <article class="mb-8 md:mb-24">
   {{ with .Params.hero }}
+  {{ $imagePosition := .image_position}}
   {{ $title := .Title }}
   <div class="bg-grey-lightest clearfix">
     <header class="container px-4 clearfix">
@@ -19,7 +20,7 @@
           {{ end }}
         </div>
         {{ with .image }}
-        <div class="md:w-1/2 md:px-2 mb-12">
+        <div class="md:w-1/2 md:px-2 mb-12 {{ if $imagePosition }} flex justify-{{$imagePosition}} {{ end }}">
           <img data-src="{{ $.Site.Params.cloudinary_base_url }}/c_scale,f_auto,q_auto/{{.}}"
             class="cld-responsive" style="object-fit: cover;" alt="{{ $title }}" />
         </div>
