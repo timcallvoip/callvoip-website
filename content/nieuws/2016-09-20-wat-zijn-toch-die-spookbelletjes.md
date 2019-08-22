@@ -2,12 +2,13 @@
 title: Wat zijn toch die spookbelletjes?
 author: Ralf Gerrits
 type: post
-date: 2016-09-20T10:13:11+00:00
-url: /wat-zijn-toch-die-spookbelletjes/
+date: 2016-09-20T10:13:11.000+00:00
+url: "/wat-zijn-toch-die-spookbelletjes/"
 contactpersoon:
-  - 1994
+- 1994
 categories:
-  - Meldingen
+- Meldingen
+Hide in Search: true
 
 ---
 De laatste tijd horen wij van klanten dat zij gebeld worden door vreemde nummers.

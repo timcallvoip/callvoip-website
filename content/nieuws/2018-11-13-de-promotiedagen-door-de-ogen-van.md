@@ -2,12 +2,13 @@
 title: De Promotiedagen door de ogen van…
 author: Milan Littooy
 type: post
-date: 2018-11-13T09:52:49+00:00
-url: /de-promotiedagen-door-de-ogen-van/
+date: 2018-11-13T09:52:49.000+00:00
+url: "/de-promotiedagen-door-de-ogen-van/"
 contactpersoon:
-  - 9358
+- 9358
 categories:
-  - Evenement
+- Evenement
+Hide in Search: true
 
 ---
 Zoals u misschien wel hebt gezien of gehoord waren wij als CallvoipTelefonie aanwezig op de Promotiedagen in de MartiniPlaza, deze vonden plaats op 6 en 7 november. <!--more-->

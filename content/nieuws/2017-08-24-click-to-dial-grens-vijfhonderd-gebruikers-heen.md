@@ -2,12 +2,13 @@
 title: Click-to-Dial over grens vijfhonderd gebruikers heen
 author: Milan Littooy
 type: post
-date: 2017-08-24T10:38:45+00:00
-url: /click-to-dial-grens-vijfhonderd-gebruikers-heen/
+date: 2017-08-24T10:38:45.000+00:00
+url: "/click-to-dial-grens-vijfhonderd-gebruikers-heen/"
 contactpersoon:
-  - 1991
+- 1991
 categories:
-  - Nieuwsbrieven
+- Nieuwsbrieven
+Hide in Search: true
 
 ---
 De Simmpl Click to Dial-plugin van CallvoipTelefonie heeft recentelijk zijn vijfhonderdste gebruiker mogen begroeten. Om deze mijlpaal te vieren krijgt de applicaties binnenkort een update met enkele nieuwe features waardoor deze nóg gebruiksvriendelijker wordt.

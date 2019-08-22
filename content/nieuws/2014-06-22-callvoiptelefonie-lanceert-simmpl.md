@@ -2,12 +2,13 @@
 title: CallvoipTelefonie lanceert Simmpl
 author: Milan Littooy
 type: post
-date: 2014-06-22T08:53:36+00:00
-url: /callvoiptelefonie-lanceert-simmpl/
+date: 2014-06-22T08:53:36.000+00:00
+url: "/callvoiptelefonie-lanceert-simmpl/"
 contactpersoon:
-  - 1987
+- 1987
 categories:
-  - Updates
+- Updates
+Hide in Search: true
 
 ---
 _Groningen, 19 juni 2014_ – CallvoipTelefonie lanceert onder de naam Simmpl een nieuwe innovatieve online telefooncentrale voor de zakelijke markt.

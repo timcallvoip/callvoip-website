@@ -12,7 +12,7 @@ url: "/update-platform-050719/"
 contactpersoon: []
 categories: []
 tags: []
-Hide in Search: false
+Hide in Search: true
 
 ---
 Afgelopen weekend (in de nacht van 5 juli 2019) heeft er een update plaatsgevonden op Simmpl. <!--more-->

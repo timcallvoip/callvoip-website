@@ -7,11 +7,12 @@ featured: false
 hero:
   image: ''
 author: ''
-date: 2019-02-26T23:00:00+00:00
-url: /beta-testers-gezocht/
+date: 2019-02-26T23:00:00.000+00:00
+url: "/beta-testers-gezocht/"
 contactpersoon: []
 categories: []
 tags: []
+Hide in Search: true
 
 ---
 Voor de Click-to-Dial zijn wij opzoek naar bèta testers! Een grote update van de Click-to-Dial is aanstaande. Na deze update kunt u de beschikbaarheid van uw collega’s zien én kunt u gesprekken doorverbinden naar uw collega’s!<!--more-->

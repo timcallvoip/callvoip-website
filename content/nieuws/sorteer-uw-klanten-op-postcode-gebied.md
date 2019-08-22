@@ -3,7 +3,7 @@ type: post
 title: Sorteer uw klanten op Postcode(gebied)
 description: ''
 images: []
-featured: true
+featured: false
 hero:
   image: ''
 author: ''
@@ -12,6 +12,7 @@ url: "/sorteer-uw-klanten-op-postcodegebied/"
 contactpersoon: []
 categories: []
 tags: []
+Hide in Search: true
 
 ---
 Als klant van Callvoip maakt u natuurlijk gebruik van de revolutionaire Simmpl telefooncentrale met zijn vele (power)features en ongekend gebruiksgemak. Een veel gebruikte feature onder onze klanten is het keuzemenu, waarmee u de klanten heel eenvoudig door middel van één of twee keuzes direct bij de juiste persoon / afdeling kan laten uitkomen.<!--more-->

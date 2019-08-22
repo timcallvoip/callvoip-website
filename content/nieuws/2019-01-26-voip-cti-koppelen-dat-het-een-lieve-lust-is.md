@@ -10,9 +10,10 @@ categories:
 - Nieuwsbrieven
 tags:
 - featured
-featured: true
+featured: false
 hero:
   image: "/v1552991205/Team/logo-bord-breed.jpg"
+Hide in Search: true
 
 ---
 De telefoon gaat. U ziet het nummer, hoort de naam en in de eerste zinnen van het gesprek opent u uw CRM en navigeert naar de relatie. He nee, “wat was uw naam ook alweer? Met dubbel s?” en ja, u heeft het contact gevonden. Zo gaat het, en dit werkt prima.
