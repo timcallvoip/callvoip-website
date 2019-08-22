@@ -25,10 +25,12 @@ menu:
     weight: 1
   footer:
   - pre: external
+    post: fa-desktop-alt
     url: http://support.callvoip.nl:8040/
     name: Hulp
     weight: 6
   - url: https://www.callvoip.nl/download/callvoip/CallVoip_telefonie_aanvraagformulier.pdf
+    pre: external
     name: Direct klant worden
     weight: 5
 outputs:
