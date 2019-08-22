@@ -2,12 +2,13 @@
 title: Met een gerust gevoel op vakantie
 author: Milan Littooy
 type: post
-date: 2017-07-20T07:38:42+00:00
-url: /zomervakantie-belroute/
+date: 2017-07-20T07:38:42.000+00:00
+url: "/zomervakantie-belroute/"
 contactpersoon:
-  - 1994
+- 1994
 categories:
-  - Handleidingen
+- Handleidingen
+Hide in Search: true
 
 ---
 De zomervakantie komt er weer aan. Voor veel van onze klanten betekent dit een wijziging in de bereikbaarheid. We helpen u graag mee om uw telefooncentrale zo in te richten dat u optimaal bereikbaar blijft.

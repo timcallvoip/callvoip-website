@@ -2,13 +2,13 @@
 title: Nieuw! Email-App
 author: Marieke Timmer
 type: post
-date: 2017-07-30T12:06:40+00:00
-url: /nieuw-email-app/
+date: 2017-07-30T12:06:40.000+00:00
+url: "/nieuw-email-app/"
 categories:
-  - Nieuwsbrieven
+- Nieuwsbrieven
+Hide in Search: true
 
 ---
-
 Ontvang emailnotificaties van inkomende telefoongesprekken met het nummer van de beller en de datum en tijd van het gesprek.</p>
 
 Zo hoeft u geen gesprek meer te missen en kunt u waarborgen dat elk belangrijk gesprek wordt opgemerkt.
