@@ -1,5 +1,5 @@
 ---
-title: Branches
+title: Branches  - Zakelijke telefonie voor alle branches
 type: page
 layout: default
 logos: true
@@ -11,27 +11,32 @@ hero:
     content: Bereken je kosten
     link: "/calculator"
   image: "/v1566215446/home_nieuwe_site_wope1k.png"
+  image_position: center
 blocks:
 - title: Advocatuur
   image: "/v1565855183/advocatuur_yju56e.png"
   content: <a href="/oplossingen/branches/advocatuur/" class="button">Bekijk hier
     de brancheoplossing</a>
   position: image_left
+  image_position: ''
 - title: Makelaardij
   image: "/v1565857411/makelaardij_h9bdwk.png"
   content: <a href="/oplossingen/branches/makelaardij/" class="button">Bekijk hier
     de brancheoplossing</a>
   position: image_right
+  image_position: ''
 - title: Recruitment
   image: "/v1565857793/recruiter_swtpbu.png"
   content: <a href="/oplossingen/branches/recruitment/" class="button">Bekijk hier
     de brancheoplossing</a>
   position: image_left
+  image_position: ''
 - title: Fysiotherapie
   image: "/v1565858000/fysio_ec1wak.png"
   content: <a href="/oplossingen/branches/fysiotherapie/" class="button">Bekijk hier
     de brancheoplossing</a>
   position: image_right
+  image_position: ''
 usps:
   title: Zit u in een andere branche?
   content: Wij hebben kennis in alle branches, staat uw branche hieronder er niet
