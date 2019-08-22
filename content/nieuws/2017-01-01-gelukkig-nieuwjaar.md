@@ -2,12 +2,13 @@
 title: Gelukkig nieuwjaar!
 author: Marieke Timmer
 type: post
-date: 2017-01-01T14:59:56+00:00
-url: /gelukkig-nieuwjaar/
+date: 2017-01-01T14:59:56.000+00:00
+url: "/gelukkig-nieuwjaar/"
 contactpersoon:
-  - 1987
+- 1987
 categories:
-  - Nieuwsbrieven
+- Nieuwsbrieven
+Hide in Search: true
 
 ---
 Namens ons gehele team: een heel gelukkig 2017 toegewenst!

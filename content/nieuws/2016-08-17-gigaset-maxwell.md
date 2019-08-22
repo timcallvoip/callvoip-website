@@ -2,12 +2,13 @@
 title: Gigaset Maxwell-portfolio gecertificeerd voor Simmpl
 author: Marieke Timmer
 type: post
-date: 2016-08-17T04:41:15+00:00
-url: /gigaset-maxwell/
+date: 2016-08-17T04:41:15.000+00:00
+url: "/gigaset-maxwell/"
 contactpersoon:
-  - 1988
+- 1988
 categories:
-  - Updates
+- Updates
+Hide in Search: true
 
 ---
 De Simmpl telefooncentrale van CallvoipTelefonie heeft de Gigaset Maxwell Basic en Maxwell 3 IP-toestellen officieel gecertificeerd.
