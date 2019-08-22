@@ -36,6 +36,7 @@ fields:
     required: false
   label: PDF
 pages:
+- content/ondersteuning/algemeen/conferencing-service-handleiding.md
 - content/ondersteuning/hulp-op-afstand.md
 - content/ondersteuning/netwerk-ondersteuning/tips-bij-router-firewall-problemen.md
 - content/ondersteuning/Apparatuurhandleidingen/fritz-box.md
@@ -70,6 +71,5 @@ pages:
 - content/ondersteuning/Integraties/click-to-dial.md
 - content/ondersteuning/Integraties/click-to-dial-yealink-adresboek.md
 - content/ondersteuning/Integraties/click-to-dial-uitgebreide-handleiding.md
-- content/ondersteuning/algemeen/conferencing-service-handleiding.md
 - content/ondersteuning/algemeen/overzicht-shortcodes-simmpl.md
 - content/ondersteuning/algemeen/overzicht-sip-statuscodes.md
