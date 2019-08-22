@@ -4,9 +4,12 @@ weight:
 description: ''
 images: []
 pdf: http://www.simmpl.nl/downloads/Simmpl_overzicht_sip-statuscodes.pdf
+Hide in Search: false
+Nieuw: false
+Update: false
 
 ---
-Hieronder vindt u een overzicht van de SIP Statuscodes die zich kunne voordoen in Voice over IP telefoonverkeer volgens de SIP standaards. Een statuscode geeft informatie over de oorzaak van het feit dat een gesprek niet tot stand kan komen. Soms kan een probleem aan uw kant (uw netwerk / router / toestel) worden gevonden en opgelost, de oorzaak kan ook in de telefoondienst of de ‘buitenwereld’ liggen.
+Hieronder vindt u een overzicht van de SIP Statuscodes die zich kunnen voordoen in Voice over IP telefoonverkeer volgens de SIP standaards. Een statuscode geeft informatie over de oorzaak van het feit dat een gesprek niet tot stand kan komen. Soms kan een probleem aan uw kant (uw netwerk / router / toestel) worden gevonden en opgelost, de oorzaak kan ook in de telefoondienst of de ‘buitenwereld’ liggen.
 
 ### 1xx - Informatief
 
