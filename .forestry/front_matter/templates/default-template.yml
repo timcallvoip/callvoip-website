@@ -183,8 +183,8 @@ fields:
         name: price
         label: Price
 pages:
-- content/oplossingen/mkb.md
 - content/oplossingen/trunk.md
+- content/oplossingen/mkb.md
 - content/oplossingen/branches.md
 - content/oplossingen/zelfstandigen.md
 - content/internet/dsl.md
