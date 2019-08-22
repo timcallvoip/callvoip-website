@@ -23,6 +23,14 @@ p a:hover {
   @apply bg-blue text-white no-underline;
 }
 
+.button-outline-secondary {
+  @apply border-bronze text-bronze;
+}
+
+.button-outline-secondary:hover {
+  @apply bg-bronze;
+}
+
 .button {
   @apply bg-blue text-white no-underline rounded-full py-5 px-8 inline-flex items-center leading-none text-lg font-medium;
   box-shadow: 0 4px 6px rgba(50,50,93,.11), 0 1px 3px rgba(0,0,0,.08);
@@ -39,7 +47,7 @@ p a:hover {
 }
 
 .button-secondary {
-  @apply bg-orange;
+  @apply bg-bronze;
 }
 
 .button:hover {
