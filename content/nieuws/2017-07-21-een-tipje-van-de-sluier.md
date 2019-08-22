@@ -2,13 +2,13 @@
 title: Een tipje van de sluier….
 author: Marieke Timmer
 type: post
-date: 2017-07-21T17:43:14+00:00
-url: /een-tipje-van-de-sluier/
+date: 2017-07-21T17:43:14.000+00:00
+url: "/een-tipje-van-de-sluier/"
 categories:
-  - Nieuwsbrieven
+- Nieuwsbrieven
+Hide in Search: true
 
 ---
-
 De komende weken krijgt onze <b>smartphone-app Qaller</b> een revolutionaire update. <br /> Ook de wachtrij (queue) in de Simmpl telefooncentrale krijgt er enkele mooie nieuwe features bij.
 
 <!--more-->

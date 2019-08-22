@@ -2,12 +2,13 @@
 title: Encrypted Calls (beveiligde gesprekken)
 author: Milan Littooy
 type: post
-date: 2016-10-24T09:51:47+00:00
-url: /encrypted-calls/
+date: 2016-10-24T09:51:47.000+00:00
+url: "/encrypted-calls/"
 contactpersoon:
-  - 1995
+- 1995
 categories:
-  - Updates
+- Updates
+Hide in Search: true
 
 ---
 CallvoipTelefonie is erg trots om te melden dat wij als eerste provider in Nederland in staat zijn om versleutelde gesprekken (encrypted calls) te leveren! De gesprekken zijn beveiligd dankzij de technieken **SRTP** en **TLS**.

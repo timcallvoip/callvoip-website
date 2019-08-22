@@ -2,16 +2,17 @@
 title: Digitaal faxen
 author: Ralf Gerrits
 type: post
-date: 2016-12-22T08:41:09+00:00
-url: /online-faxen/
+date: 2016-12-22T08:41:09.000+00:00
+url: "/online-faxen/"
 contactpersoon:
-  - 1997
+- 1997
 sidebar_block_1:
-  - 4096
+- 4096
 footer_block_1:
-  - 4096
+- 4096
 categories:
-  - Updates
+- Updates
+Hide in Search: true
 
 ---
 &#8220;Faxen? Dat is toch iets van vroeger?&#8221;
