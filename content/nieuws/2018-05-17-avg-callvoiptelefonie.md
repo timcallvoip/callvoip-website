@@ -1,13 +1,14 @@
 ---
-title: 'AVG & CallvoipTelefonie'
+title: AVG & CallvoipTelefonie
 author: Milan Littooy
 type: post
-date: 2018-05-17T09:41:52+00:00
-url: /avg-callvoiptelefonie/
+date: 2018-05-17T09:41:52.000+00:00
+url: "/avg-callvoiptelefonie/"
 contactpersoon:
-  - 1991
+- 1991
 categories:
-  - Nieuwsbrieven
+- Nieuwsbrieven
+Hide in Search: true
 
 ---
 Als klant van CallvoipTelefonie brengen wij u graag onder de aandacht dat wij wijzigingen hebben aangebracht in de <a href="https://www.callvoiptelefonie.nl/algemene-voorwaarden/" rel="noopener" target="_blank">Algemene Voorwaarden</a> en de <a href="https://www.callvoiptelefonie.nl/privacy/" rel="noopener" target="_blank">Privacyverklaring</a>. Dit in verband met de Algemene verordening gegevensbescherming (AVG) die per 25 mei geldt.
