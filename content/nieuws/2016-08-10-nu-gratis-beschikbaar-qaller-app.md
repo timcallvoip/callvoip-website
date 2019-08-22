@@ -2,12 +2,13 @@
 title: 'Nu gratis beschikbaar: Qaller App!'
 author: Ralf Gerrits
 type: post
-date: 2016-08-10T08:58:21+00:00
-url: /nu-gratis-beschikbaar-qaller-app/
+date: 2016-08-10T08:58:21.000+00:00
+url: "/nu-gratis-beschikbaar-qaller-app/"
 contactpersoon:
-  - 1994
+- 1994
 categories:
-  - Updates
+- Updates
+Hide in Search: true
 
 ---
 Met trots presenteren wij onze langverwachte nieuwe app: Qaller!

@@ -2,12 +2,13 @@
 title: Nieuwsbrief januari 2016 – CallPickup
 author: Ralf Gerrits
 type: post
-date: 2016-01-05T09:55:13+00:00
-url: /nieuwsbrief-januari-2016-callpickup/
+date: 2016-01-05T09:55:13.000+00:00
+url: "/nieuwsbrief-januari-2016-callpickup/"
 contactpersoon:
-  - 1988
+- 1988
 categories:
-  - Nieuwsbrieven
+- Nieuwsbrieven
+Hide in Search: true
 
 ---
 De telefoon van een collega rinkelt en u wilt dit gesprek op uw toestel aannemen. Hoe kunt u dit gesprek aannemen?

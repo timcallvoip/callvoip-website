@@ -2,12 +2,13 @@
 title: Simmpl telefooncentrale geen uitval door stroomstoring
 author: Marieke Timmer
 type: post
-date: 2017-01-17T08:53:48+00:00
-url: /simmpl-telefooncentrale-geen-uitval-stroomstoring/
+date: 2017-01-17T08:53:48.000+00:00
+url: "/simmpl-telefooncentrale-geen-uitval-stroomstoring/"
 contactpersoon:
-  - 1987
+- 1987
 categories:
-  - Nieuwsbrieven
+- Nieuwsbrieven
+Hide in Search: true
 
 ---
 Zoals u zult hebben vernomen heeft er vannacht (17 januari 2017) een zeer grote stroomstoring plaatsgevonden in Amsterdam. De Simmpl telefooncentrales bevinden zich o.a. in datacenters in Amsterdam. 

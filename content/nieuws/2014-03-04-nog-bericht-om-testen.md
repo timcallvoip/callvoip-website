@@ -2,12 +2,13 @@
 title: Service (met een) Plus
 author: oN0rp-q9oY@DEh
 type: post
-date: 2014-03-04T11:36:57+00:00
-url: /nog-bericht-om-testen/
+date: 2014-03-04T11:36:57.000+00:00
+url: "/nog-bericht-om-testen/"
 contactpersoon:
-  - 1997
+- 1997
 categories:
-  - Nieuwsbrieven
+- Nieuwsbrieven
+Hide in Search: true
 
 ---
 <!--more-->CallvoipTelefonie is de full-service aanbieder van Voice-over-IP diensten en met onze centrale kunt u al uw telefoniewensen uitvoeren. Maar het configureren van onze centrale kan een flinke klus zijn. We nemen deze klus vanaf nu graag van u over voor een geringe vergoeding.

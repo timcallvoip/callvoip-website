@@ -2,12 +2,13 @@
 title: Nieuwsbrief februari 2016 – Carnaval
 author: Ralf Gerrits
 type: post
-date: 2016-02-03T09:32:27+00:00
-url: /nieuwsbrief-januari-2016-carnaval/
+date: 2016-02-03T09:32:27.000+00:00
+url: "/nieuwsbrief-januari-2016-carnaval/"
 contactpersoon:
-  - 1995
+- 1995
 categories:
-  - Nieuwsbrieven
+- Nieuwsbrieven
+Hide in Search: true
 
 ---
 De carnavalstijd breekt weer aan! Voor veel van onze klanten betekent dat: een wijziging in de bereikbaarheid. Geldt dat ook voor u? Hoe stelt u de wijzigingen dan op de telefooncentrale in?

@@ -2,12 +2,13 @@
 title: Nieuwsbrief mei 2016 – Gespreksopname
 author: Marieke Timmer
 type: post
-date: 2016-05-14T21:54:52+00:00
-url: /nieuwsbrief-mei-2016-gespreksopname/
+date: 2016-05-14T21:54:52.000+00:00
+url: "/nieuwsbrief-mei-2016-gespreksopname/"
 contactpersoon:
-  - 1988
+- 1988
 categories:
-  - Nieuwsbrieven
+- Nieuwsbrieven
+Hide in Search: true
 
 ---
 Stel: u heeft net een telefoongesprek gehad en u wilt terugluisteren wat er allemaal besproken of afgesproken is. Hoe kunt u dit instellen?

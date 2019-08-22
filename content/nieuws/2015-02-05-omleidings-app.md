@@ -8,9 +8,9 @@ contactpersoon:
 - 1995
 categories:
 - Updates
-images:
-- "/v1552991205/Team/logo-bord-breed.jpg"
+images: []
 description: Wilt u met één druk op de knop uw belverkeer aanpassen?
+Hide in Search: true
 
 ---
 **Nieuw: one-touch omleidings-app!**

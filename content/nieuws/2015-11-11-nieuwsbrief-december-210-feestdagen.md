@@ -2,12 +2,13 @@
 title: Nieuwsbrief december 2015 – Feestdagen
 author: Ralf Gerrits
 type: post
-date: 2015-11-11T10:05:26+00:00
-url: /nieuwsbrief-december-210-feestdagen/
+date: 2015-11-11T10:05:26.000+00:00
+url: "/nieuwsbrief-december-210-feestdagen/"
 contactpersoon:
-  - 1997
+- 1997
 categories:
-  - Nieuwsbrieven
+- Nieuwsbrieven
+Hide in Search: true
 
 ---
 De feestdagen staan weer voor de deur en dat betekent: wijzigingen van uw normale weekschema&#8217;s.En voor veel bedrijven ook een aangepaste instelling van de telefooncentrale. De dag voor kerst iets eerder sluiten, een feestdagenbandje, een doorschakeling naar mobiel, &#8230;
