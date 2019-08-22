@@ -4,6 +4,7 @@ weight:
 description: ''
 images: []
 pdf: http://www.simmpl.nl/downloads/Simmpl_Snelstart_Multiple-Caller-ID.pdf
+Nieuw: true
 
 ---
 Wilt u kunnen uitbellen met verschillende nummers, bv bedrijven of projecten? Stel het gemakkelijk in met de nieuwe Simmpl feature **Multiple Caller ID**.

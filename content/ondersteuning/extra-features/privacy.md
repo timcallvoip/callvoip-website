@@ -4,6 +4,7 @@ weight: 1
 description: ''
 images: []
 pdf: http://www.simmpl.nl/downloads/Simmpl_handleiding_Operator-Console.pdf
+Update: true
 
 ---
 In de afgelopen maanden werd de start gemaakt met de ontwikkeling van het UC Panel, en de Operator Console is daarvan de eerste functionaliteit.  
