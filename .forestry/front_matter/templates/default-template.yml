@@ -5,11 +5,6 @@ fields:
 - type: text
   name: title
   label: Title
-- name: menu
-  type: include
-  config: {}
-  template: menu
-  label: Menu
 - name: seo
   type: include
   config: {}
@@ -55,6 +50,21 @@ fields:
   - type: file
     name: image
     label: Image
+  - name: image_position
+    type: select
+    default: start
+    config:
+      required: true
+      options:
+      - start
+      - center
+      - end
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
+    label: Image position
 - type: field_group_list
   name: blocks
   label: Blocks
@@ -65,6 +75,21 @@ fields:
   - type: file
     name: image
     label: Image
+  - name: image_position
+    type: select
+    default: []
+    config:
+      required: false
+      options:
+      - start
+      - center
+      - end
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
+    label: Image position
   - type: textarea
     name: content
     label: Content

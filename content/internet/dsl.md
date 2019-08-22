@@ -11,6 +11,7 @@ blocks:
   image: "/v1565858232/DSL2_n4hzbr.png"
   position: image_left
   title: DSL-verbinding waar je op kunt vertrouwen
+  image_position: center
 logos: false
 hero:
   title: CallvoipDSL
@@ -22,6 +23,7 @@ hero:
     link: "/internet/postcodecheck/"
   image: "/v1565000079/callvoip-website-internet-dsl2_n3dfgo.png"
   position: image_center
+  image_position: start
 usps:
   title: Waarom kiezen voor CallvoipDSL
   content: ''
