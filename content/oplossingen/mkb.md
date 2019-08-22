@@ -90,7 +90,7 @@ prijzen:
     is minder van belang. Gemiste oproepen worden gemaild en opgevangen in de voicemail.
   button:
     title: Bekijk alle cases hier
-    link: oplossingen/branches/
+    link: "/oplossingen/branches/"
   tarieven:
     title: Maandelijkse kosten
     footer: Prijzen zijn vanaf en per maand
