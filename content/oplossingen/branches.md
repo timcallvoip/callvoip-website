@@ -79,6 +79,7 @@ name: ''
 Hide in Search: false
 menu:
   main:
+    name: Branches
     weight: 4
     parent: Oplossingen
     pre: Bekijk onze oplossingen, uitgewerkt voor verschillende branche

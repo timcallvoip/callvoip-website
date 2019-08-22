@@ -101,6 +101,7 @@ images: []
 Hide in Search: false
 menu:
   main:
+    name: Trunk
     weight: 3
     parent: Oplossingen
     pre: Professionele telefonieoplossing voor grootzakelijk.

@@ -111,6 +111,7 @@ images: []
 Hide in Search: false
 menu:
   main:
+    name: Zelfstandigen
     weight: 1
     parent: Oplossingen
     pre: Professionele telefonieoplossing voor u als zelfstandige.

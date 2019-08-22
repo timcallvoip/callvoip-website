@@ -121,6 +121,7 @@ images: []
 Hide in Search: false
 menu:
   main:
+    name: MKB
     weight: 2
     parent: Oplossingen
     pre: Professionele telefonieoplossing voor het midden- en kleinbedrijf.
