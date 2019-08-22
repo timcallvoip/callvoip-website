@@ -1,5 +1,5 @@
 ---
-title: Is er een storing?
+title: 'Is er een storing? '
 weight: 1
 onderdelen:
 - Algemeen
@@ -7,6 +7,11 @@ description: ''
 images: []
 update: true
 nieuw: true
+Hide in Search: false
+Nieuw: false
+Update: false
+pdf: ''
+
 ---
 Voor actuele storingen en meldingen moet u op onze status-pagina zijn:
 

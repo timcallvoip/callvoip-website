@@ -4,6 +4,9 @@ weight:
 description: ''
 images: []
 pdf: http://www.simmpl.nl/downloads/Simmpl_snelstarthandleiding_ClicktoDial.pdf
+Hide in Search: false
+Nieuw: false
+Update: true
 
 ---
 Click-to-Dial is een gratis extensie voor Google Chrome waarmee weergegeven telefoonnummers op websites klikbaar worden zodat u sneller kunt bellen.
