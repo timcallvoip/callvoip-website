@@ -1,5 +1,5 @@
 ---
-title: Trunk (mkb & grootzakelijk)
+title: Trunk | Trunkoplossing voor mkb & grootzakelijk
 type: page
 layout: default
 logos: true
@@ -11,6 +11,7 @@ hero:
     content: Vraag nu een offerte aan!
     link: "/offerte"
   image: "/v1565691186/trunk_x1n06k.png"
+  image_position: center
 blocks:
 - content: 'Een VoIP-trunk is een verbinding tussen het Callvoip-platform en uw eigen
     centrale. Door deze trunk lopen alle gesprekken van al uw nummers: inkomend en
@@ -19,11 +20,13 @@ blocks:
   image: "/v1552466820/phones.png"
   position: image_left
   title: VoIP Trunk van Callvoip
+  image_position: ''
 - content: 'De trunkoplossing van Callvoip is te gebruiken bij bijna alle IP-centrales,
     waaronder de volgende populaire systemen:'
   image: "/v1566218614/trunk_logos_qexe54.png"
   position: image_right
   title: Welke VoIP-trunks zijn geschikt?
+  image_position: ''
 usps:
   title: De voordelen van een trunkoplossing
   content: ''
