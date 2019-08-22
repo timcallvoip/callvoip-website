@@ -1,5 +1,5 @@
 ---
-title: Zelfstandigen
+title: Zelfstandigen | Zakelijke telefonieoplossing voor de ZZP-er
 type: page
 layout: default
 logos: true
@@ -12,6 +12,7 @@ hero:
     content: Bereken je kosten
     link: "/calculator"
   image: "/v1557759324/gesprekken.png"
+  image_position: center
 blocks:
 - content: |-
     Klanten van Callvoip gebruiken de Simmpl online telefooncentrale.
@@ -19,6 +20,7 @@ blocks:
   image: "/v1566216361/3_laptops_transparant_pkw6ry.png"
   position: image_left
   title: Callvoip = Simmpl!
+  image_position: ''
 usps:
   title: Geniet als ZZP-er van optimale bereikbaarheid
   content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent, dat

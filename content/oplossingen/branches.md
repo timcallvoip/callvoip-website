@@ -1,5 +1,5 @@
 ---
-title: Branches  - Zakelijke telefonie voor alle branches
+title: Branches | Zakelijke telefonie voor alle branches
 type: page
 layout: default
 logos: true

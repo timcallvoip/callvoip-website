@@ -1,5 +1,5 @@
 ---
-title: MKB
+title: MKB | Zakelijke telefonieoplossing voor de MKB-er
 type: page
 layout: default
 logos: true
@@ -12,6 +12,7 @@ hero:
     content: Bereken je kosten
     link: "/calculator"
   image: "/v1565690920/MKB_eq5yv1.png"
+  image_position: center
 blocks:
 - content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent, dat
     gaat verder dan alleen maar telefonie. Betrouwbaar internet en goede apparatuur
@@ -20,6 +21,7 @@ blocks:
   image: "/v1552466820/phones.png"
   position: image_left
   title: De beste telefonie voor het MKB!
+  image_position: ''
 - content: "Uw organisatie is uniek en heeft eigen telefonie-wensen en -eisen.\nDankzij
     de uitgebreide en zeer flexibele Simmpl telefooncentrale biedt Callvoip wat u
     zoekt: een complete hosted VoIP-oplossing met telefoonnummers en als u wenst hardware
@@ -28,6 +30,7 @@ blocks:
   image: "/v1557757556/callplan-2x.png"
   position: ''
   title: Iedere organisatie is uniek
+  image_position: ''
 usps:
   title: Geniet van een beter telefoongesprek
   content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent, dat
@@ -115,6 +118,7 @@ prijzen:
 description: 'Zakelijke telefonie voor het MKB: dé professionele telefonie-oplossing
   voor uw situatie. Vraag een vrijblijvende offerte aan bij Callvoip. '
 images: []
+Hide in Search: false
 menu:
   main:
     weight: 2

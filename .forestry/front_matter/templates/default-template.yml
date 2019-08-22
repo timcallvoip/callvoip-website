@@ -183,7 +183,9 @@ fields:
         name: price
         label: Price
 pages:
+- content/oplossingen/mkb.md
 - content/oplossingen/branches.md
+- content/oplossingen/zelfstandigen.md
 - content/internet/dsl.md
 - content/telefonie/hostedvoip.md
 - content/internet/glasvezel.md
@@ -192,9 +194,7 @@ pages:
 - content/telefonie/vastmobielintegratie.md
 - content/telefonie/bereikbaarheidsmonitor.md
 - content/oplossingen/trunk.md
-- content/oplossingen/zelfstandigen.md
 - content/telefonie/operator-console.md
 - content/telefonie/integratiemetcrm.md
 - content/telefonie/qaller.md
-- content/oplossingen/mkb.md
 - content/telefonie/clicktodial.md
