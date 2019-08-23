@@ -6,7 +6,7 @@ description: Callvoip levert alle telefoonnummers; regionaal-, landelijk-, inter
 images: []
 slug: telefoonnummers
 hero:
-  image: "/v1566564310/telefoonnummer_tmvjse.png"
+  image: "/v1566564525/telefoonnummer.png_ng1asx.jpg"
   title: Telefoonnummers
 layout: ''
 Hide in Search: false

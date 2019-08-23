@@ -2,6 +2,8 @@
 title: Wijziging verzonden
 url: "/wijzigen/verzonden/"
 hideinsearch: true
+Hide in Search: true
+
 ---
 U ontvangt een e-mail met uw wijziging. Controleert u deze gegevens goed en bij **akkoord ontvangen wij graag een reply.**
 

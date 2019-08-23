@@ -1,6 +1,7 @@
 ---
 title: Wijzigen (overzicht)
 url: "/wijzigen/"
+Hide in Search: true
 
 ---
 <br>
