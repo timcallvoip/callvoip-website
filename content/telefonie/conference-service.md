@@ -6,7 +6,8 @@ description: Met de Callvoip Conference Service bespaart u tijd en geld voor ver
 images: []
 slug: conference
 hero:
-  image: "/v1565864224/yealink_coferencecall_go3dbf.png"
+  image: "/v1566553083/yealink_conferencecall_mvrwpe.png"
+  title: ''
 layout: ''
 Hide in Search: false
 
