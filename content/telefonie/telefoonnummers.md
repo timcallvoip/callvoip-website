@@ -7,6 +7,7 @@ images: []
 slug: telefoonnummers
 hero:
   image: "/v1565871131/telefoonnummer_ld7kl6.png"
+  title: Telefoonnummers
 layout: ''
 Hide in Search: false
 

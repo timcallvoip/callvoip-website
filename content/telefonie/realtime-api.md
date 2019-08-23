@@ -7,6 +7,7 @@ images: []
 slug: realtime-api
 hero:
   image: ''
+  title: Realtime API (webhooks)
 layout: ''
 Hide in Search: false
 

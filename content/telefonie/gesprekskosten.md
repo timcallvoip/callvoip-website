@@ -7,6 +7,7 @@ images: []
 slug: gesprekskosten
 hero:
   image: "/v1566210416/240_F_237079460_3ISPpoxlNNocONLAKIdrOuG77kik35Ww_kpm3xs.jpg"
+  title: Gesprekskosten
 layout: ''
 Hide in Search: false
 
