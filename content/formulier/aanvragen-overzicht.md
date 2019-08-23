@@ -1,6 +1,7 @@
 ---
 title: Aanvragen (overzicht)
 url: "/aanvragen/"
+Hide in Search: true
 
 ---
 {{< layout/columns >}}
