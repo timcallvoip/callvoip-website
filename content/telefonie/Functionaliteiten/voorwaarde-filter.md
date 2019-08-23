@@ -7,7 +7,7 @@ images: []
 slug: voorwaarde
 hero:
   image: "/v1560261249/callvoip-website-voorwaarde.png"
-  title: ''
+  title: Voorwaarde (Filter)
 layout: ''
 Hide in Search: false
 

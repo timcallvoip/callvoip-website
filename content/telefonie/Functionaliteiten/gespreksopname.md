@@ -7,7 +7,7 @@ images: []
 slug: gespreksopname
 hero:
   image: "/v1561534316/callvoip-website-gespreksopname.jpg"
-  title: ''
+  title: Gespreksopname (Call Recording)
 layout: ''
 Hide in Search: false
 

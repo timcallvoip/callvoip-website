@@ -7,7 +7,7 @@ images: []
 slug: meldtekst
 hero:
   image: "/v1560261248/callvoip-website-meldtekst.png"
-  title: ''
+  title: Meldtekst (Sound)
 layout: ''
 Hide in Search: false
 

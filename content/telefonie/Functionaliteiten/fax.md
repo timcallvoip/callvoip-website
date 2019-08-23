@@ -7,7 +7,7 @@ images: []
 slug: fax
 hero:
   image: "/v1560261248/callvoip-website-fax.png"
-  title: ''
+  title: Fax
 layout: ''
 Hide in Search: false
 

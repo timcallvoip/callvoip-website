@@ -7,7 +7,7 @@ images: []
 slug: email
 hero:
   image: "/v1560261248/callvoip-website-email.png"
-  title: ''
+  title: E-mail
 layout: ''
 Hide in Search: false
 

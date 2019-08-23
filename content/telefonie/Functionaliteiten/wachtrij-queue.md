@@ -7,7 +7,7 @@ images: []
 slug: wachtrij
 hero:
   image: "/v1560261248/callvoip-website-wachtrij.png"
-  title: ''
+  title: Wachtrij (Queue)
 layout: ''
 Hide in Search: false
 

@@ -7,7 +7,7 @@ images: []
 slug: keuzemenu
 hero:
   image: "/v1560261248/callvoip-website-keuzemenu2.png"
-  title: ''
+  title: Keuzemenu (IVR)
 layout: ''
 Hide in Search: false
 
