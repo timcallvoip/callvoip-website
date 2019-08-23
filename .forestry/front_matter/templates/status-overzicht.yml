@@ -23,9 +23,13 @@ fields:
     name: status
     label: status
 - name: content
-  type: text
+  type: textarea
+  default: ''
   config:
     required: false
-  label: Text onder status
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Content
 pages:
 - content/status/_index.md
