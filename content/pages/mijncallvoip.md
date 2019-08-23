@@ -39,14 +39,18 @@ usps:
       link: "/wijzigen/klantgegevens/"
     - title: Verhuisbericht
       link: "/wijzigen/verhuisbericht/"
-    - title: Nieuw nummer
-      link: http://localhost:1313/aanvragen/nummer/
-    - title: Nieuw nummer
-      link: http://localhost:1313/aanvragen/nummer/
+    - title: Rekeningnummer
+      link: "/wijzigen/rekeningnummer/"
+    - title: Gidsvermelding
+      link: "/wijzigen/gidsvermelding/"
 - title: Opzeggen
   content: Als bestaande klant van Callvoip kunt u altijd diensten opzeggen. Kies
     hieronder wat u wilt opzeggen en wij zullen uw wijzigingen maandelijks doorvoeren.
-  items: []
+  items:
+  - title: Nummers
+    items:
+    - title: Gehele abonnement
+      link: https://callvoip-website.netlify.com/opzeggen/abonnement/
 
 ---
 Als bestaande klant van Callvoip kunt altijd uw abonnement wijzigen. Ook kunt u extra diensten aanvragen of opzeggen. Bent u nog geen klant?
