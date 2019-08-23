@@ -18,7 +18,7 @@ blocks:
     gaat verder dan alleen maar telefonie. Betrouwbaar internet en goede apparatuur
     mogen daarbij niet ontbreken. Callvoip begeleidt u daar graag bij en zo heeft
     u alles onder één dak.
-  image: "/v1552466820/phones.png"
+  image: "/v1566548339/qaller_en_vamos_ezc5p6.png"
   position: image_left
   title: De beste telefonie voor het MKB!
   image_position: ''
