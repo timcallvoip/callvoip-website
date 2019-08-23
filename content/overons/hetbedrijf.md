@@ -2,7 +2,7 @@
 layout: hetbedrijf
 title: Het bedrijf
 hero:
-  image: "/v1552398058/Team/logo-bord-breed.jpg"
+  image: "/v1566565717/banner_formaat_t4hrhi.jpg"
 intro:
   content: "<strong>Even voorstellen:</strong> Wij zijn Callvoip, VoIP-provider voor
     de zakelijke markt. "
@@ -25,6 +25,7 @@ blocks:
 description: Callvoip is de telefonieprovider voor de zakelijke markt. De beste telefonieoplossing
   en persoonlijk contact staan bij ons centraal.
 images: []
+Hide in Search: false
 menu:
   main:
     parent: Over ons
