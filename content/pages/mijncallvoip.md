@@ -67,10 +67,12 @@ usps:
       link: "/wijzigen/klantgegevens/"
     - title: Verhuisbericht
       link: "/wijzigen/verhuisbericht/"
-    - title: Rekeningnummer
-      link: "/wijzigen/rekeningnummer/"
+  - title: Overig
+    items:
     - title: Gidsvermelding
       link: "/wijzigen/gidsvermelding/"
+    - title: Rekeningnummer
+      link: "/wijzigen/rekeningnummer/"
 - title: Opzeggen
   content: Als bestaande klant van Callvoip kunt u altijd diensten opzeggen. Kies
     hieronder wat u wilt opzeggen en wij zullen uw wijzigingen maandelijks doorvoeren.
