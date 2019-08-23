@@ -68,6 +68,7 @@ aanbod:
         uw mobiele telefoons met de Vast Mobiel Integratie (Vamos). Benieuwd naar
         de mogelijkheden?
       image: "/v1566217124/qaller_3_mobiels_macng3.png"
+      image_position: center
       button:
         content: Vraag een offerte aan!
         link: "/offerte/"
