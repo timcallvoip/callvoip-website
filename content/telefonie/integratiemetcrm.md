@@ -30,7 +30,7 @@ blocks:
   title: Wat is er nodig én welke applicaties kunt u koppelen?
   image_position: ''
 - title: Vergelijking met andere integratie
-  image: "/v1566548695/Callvoip-website-integratie-tabel_vcvyoa.png"
+  image: "/v1566549792/Callvoip-website-integratie-tabel2_wn98rg.png"
   content: "De Simmpl telefooncentrale van Callvoip is klaar om te koppelen!\nU weet
     het: we houden het graag Simmpl! En daarom ontwikkelden we een koppeling die een
     basisintegratie biedt: een app voor de Chrome Browser met een <a href=\"/telefonie/clicktodial/\">Click-to-Dial</a>,
