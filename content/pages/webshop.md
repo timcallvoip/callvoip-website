@@ -13,13 +13,6 @@ hero:
     link: https://callvoip.shop/
   image: "/v1566295059/callvoipshop_3_laptops_wuqbcm.png"
   position: " image_right"
-blocks: []
-intro:
-  title: ''
-  content: ''
-description: ''
-images: []
-Hide in Search: false
 menu:
   top:
     name: Webshop
