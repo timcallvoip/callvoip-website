@@ -17,7 +17,7 @@ blocks:
 - content: Met de <b>gratis</b> variant van Qaller kunt u uw telefooncentrale beheren
     en bedienen via uw smartphone. Wanneer dan ook, waar dan ook. Snel en gemakkelijk.
     Dat biedt vrijheid en onafhankelijkheid.
-  image: "/v1565183745/callvoip-website-qaller-dialplan_lniops.png"
+  image: "/v1566556821/mock_up_phone_oneplus2_crftun.png"
   position: image_left
   title: Bedien de telefooncentrale (Qaller)
   image_position: ''
@@ -28,7 +28,7 @@ blocks:
     …zien relaties uw mobiele telefoonnummer niet.<br>
     …loopt zakelijk belverkeer via de telefooncentrale.<br>
     …bent u inkomend bereikbaar, zowel intern als extern.<br>
-  image: "/v1565183772/callvoip-website-qaller-bellen_caeolh.png"
+  image: "/v1566556835/mock_up_phone_oneplus3_i8lww0.png"
   position: ''
   title: Bel met uw zakelijke telefoonnummer (Qaller Plus)
   image_position: ''
