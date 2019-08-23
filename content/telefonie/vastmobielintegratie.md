@@ -15,6 +15,7 @@ blocks:
   image: "/v1557906507/matrix_vast-mobiel-integratie_060519MT.png"
   position: image_left
   title: Overzicht vast-mobiel integratie
+  image_position: ''
 - content: |-
     - Telefoonboek met statusindicatie (BLF): zie of collega's vrij of in gesprek zijn
     - Een mobiel gesprek doorverbinden vanaf uw smartphone naar collega's
@@ -24,6 +25,7 @@ blocks:
   image: "/v1557906588/Vamos.png"
   position: image_right
   title: 'Vamos update april 2019:'
+  image_position: ''
 usps:
   title: Geniet van een beter telefoongesprek
   content: 'Enkele voordelen van Vast-Mobiel (Vamos) op een rijtje:'
@@ -60,6 +62,7 @@ hero:
     content: Vraag nu een offerte aan
     link: "/offerte"
   image: "/v1565690795/Vamos_mobiel_smsovp.png"
+  image_position: start
 intro:
   title: Wat zijn de kosten?
   content: 'De Vast Mobiel integratie (Vamos) van Callvoip komt in drie verschillende
