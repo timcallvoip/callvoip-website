@@ -7,7 +7,7 @@ images: []
 slug: "/call-pickup/"
 hero:
   image: "/v1566209854/240_F_226416327_RRlcOddJI0Ys5uGhothVorPxcjk89qpR_zhcquq.jpg"
-  title: ''
+  title: Call Pickup
 layout: ''
 Hide in Search: false
 

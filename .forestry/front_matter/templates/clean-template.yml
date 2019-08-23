@@ -39,8 +39,9 @@ fields:
   label: layout
   hidden: true
 pages:
-- content/telefonie/Functionaliteiten/call-pickup.md
+- content/telefonie/Functionaliteiten/doorverbinden.md
 - content/telefonie/Functionaliteiten/busy-lamp-field-blf.md
+- content/telefonie/Functionaliteiten/call-pickup.md
 - content/telefonie/Functionaliteiten/belgroep-huntgroup.md
 - content/telefonie/Functionaliteiten/omleiding-flow-control.md
 - content/telefonie/Functionaliteiten/keuzemenu-ivr.md
@@ -71,7 +72,6 @@ pages:
 - content/telefonie/Functionaliteiten/e-mail.md
 - content/telefonie/Functionaliteiten/meldtekst.md
 - content/telefonie/Functionaliteiten/tijdsconditie.md
-- content/telefonie/Functionaliteiten/doorverbinden.md
 - content/telefonie/Functionaliteiten/fax.md
 - content/oplossingen/Branches/assurantie.md
 - content/oplossingen/Branches/webshop.md
