@@ -29,6 +29,26 @@ usps:
       link: http://localhost:1313/aanvragen/nummer/
     - title: Nieuw nummer
       link: http://localhost:1313/aanvragen/nummer/
+  - title: Integratie
+    items:
+    - title: Vast Mobiel (Vamos)
+      link: "/aanvragen/vamos/"
+    - title: VoIP CTI (Koppeling met uw CRM-pakket)
+      link: "/aanvragen/voip-cti/"
+    - title: Conference Service
+      link: "/aanvragen/conference/"
+    - title: Importeren telefoonboek Click-to-Dial
+      link: "/aanvragen/importeren-telefoonboek-c2d/"
+  - title: Overig
+    items:
+    - title: Belbundel
+      link: "/aanvragen/belbundel/"
+    - title: ServicePlus
+      link: "/aanvragen/serviceplus/"
+    - title: SRTP (versleutelde gesprekken)
+      link: "/aanvragen/srtp/"
+    - title: Gidsvermelding
+      link: "/aanvragen/gidsvermelding/"
 - title: Wijzigen
   content: Als bestaande klant van Callvoip kunt altijd uw abonnement wijzigen. Zo
     kunt u uw gidsvermelding en uw klantgegevens wijzigen.
