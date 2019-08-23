@@ -6,7 +6,7 @@ description: Met de Realtime API (application programming interface) van Callvoi
 images: []
 slug: realtime-api
 hero:
-  image: "/v1566562457/240_F_277556805_XniH6U1Rn2hGJWJ761glNZO9l8sHBznY_pixm1i.png"
+  image: "/v1566562865/240_F_277556805_XniH6U1Rn2hGJWJ761glNZO9l8sHBznY_zuyhuo.png"
   title: Realtime API (webhooks)
 layout: ''
 Hide in Search: false
