@@ -17,6 +17,7 @@ hero:
     content: Offerte aanvragen
     link: "/offerte/"
   image: "/v1565856182/clicktodial1_tkx8h8.png"
+  image_position: start
 blocks:
 - title: 'Click-to-Dial plugin: Welke functies heeft het?'
   image: "/v1565856543/clicktodial2_xvsnfd.png"
@@ -33,12 +34,14 @@ blocks:
     -<b>Nummer-kopie-functie:</b> kopieer een nummer en vind bellers nog sneller in uw CRM!<br>
     -<b>Yealink-adresboek:</b> koppel uw Yealink toestel met uw Click to Dial adresboek!
   position: image_left
+  image_position: center
 - title: Hoe werkt het?
   image: "/v1565859295/clicktodial3_fzxr1n.png"
   content: |-
     Alle telefoonnummers in uw Chrome browser worden belbaar. Nummers worden getoond met een groen hoorntje of u kunt ze rechts-klikken of kopiëren en plakken in de Click to Dial app.
     Zodra u klikt, rechts klikt of het nummer plakt in de app, zal uw eigen telefoon direct overgaan. Zodra u de hoorn opneemt zal uw telefoon starten met bellen naar het nummer waarop u klikte. Hierdoor hoeft u zelf geen telefoonnummers meer in te toetsen: geen fouten, geen bril opzetten, geen tijdverlies: gewoon snel en Simmpl bellen!
   position: image_right
+  image_position: ''
 usps:
   title: Voordelen Click-to-Dial
   content: ''
@@ -65,6 +68,7 @@ intro:
   title: ''
   content: ''
 prijzen: []
+Hide in Search: false
 menu:
   main:
     weight: 4
