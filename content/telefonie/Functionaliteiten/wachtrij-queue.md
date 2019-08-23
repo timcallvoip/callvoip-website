@@ -1,13 +1,15 @@
 ---
 type: page
-title: Wachtrij (Queue)
+title: Wachtrij (Queue) | VoIP-Functionaliteit | Handig bij veel inkomend verkeer
 description: Straal professionaliteit uit en vang inkomende gesprekken op met een
   wachtrij (queue). Maak u telefooncentrale compleet met een wachtrij van Callvoip.
 images: []
 slug: wachtrij
 hero:
   image: "/v1560261248/callvoip-website-wachtrij.png"
+  title: ''
 layout: ''
+Hide in Search: false
 
 ---
 Heeft u veel inkomend verkeer of wenst u een professionele uitstraling? Met een wachtrij kunt alle bellers beantwoorden en te woord staan. De beller wordt bijvoorbeeld begroet met een meldtekst en vervolgens in de wacht gezet. Tijdens deze wachtperiode hoort de beller een toon of wachtmuziek totdat hij/zij zelf aan de beurt is.
