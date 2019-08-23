@@ -30,7 +30,7 @@ blocks:
   title: Wat is er nodig én welke applicaties kunt u koppelen?
   image_position: ''
 - title: Vergelijking met andere integratie
-  image: "/v1566549792/Callvoip-website-integratie-tabel2_wn98rg.png"
+  image: "/v1566552826/Callvoip-website-integratie-tabel2_zc7opr.png"
   content: "De Simmpl telefooncentrale van Callvoip is klaar om te koppelen!\nU weet
     het: we houden het graag Simmpl! En daarom ontwikkelden we een koppeling die een
     basisintegratie biedt: een app voor de Chrome Browser met een <a href=\"/telefonie/clicktodial/\">Click-to-Dial</a>,
@@ -42,7 +42,7 @@ blocks:
     te laten ontwikkelen. Desgewenst brengen wij u in contact met deskundige programmeurs
     die de kunst van programmeren verstaan én de Simmpl API kennen. "
   position: image_right
-  image_position: ''
+  image_position: center
 usps:
   title: De voordelen op een rij
   content: 'Naast dat VoIP CTI een uitgebreide koppeling biedt, biedt het ook de volgende

@@ -6,7 +6,7 @@ description: Call Pickup biedt de mogelijkheid om een gesprek, dat op een ander 
 images: []
 slug: "/call-pickup/"
 hero:
-  image: "/v1566209854/240_F_226416327_RRlcOddJI0Ys5uGhothVorPxcjk89qpR_zhcquq.jpg"
+  image: "/v1566552868/240_F_184272839_2kDHohpk4i4NorSI1DsnzEepXMwuV5PO_aphzul.jpg"
   title: Call Pickup
 layout: ''
 Hide in Search: false

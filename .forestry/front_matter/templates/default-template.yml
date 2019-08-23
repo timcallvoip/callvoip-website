@@ -183,8 +183,8 @@ fields:
         name: price
         label: Price
 pages:
-- content/telefonie/vastmobielintegratie.md
 - content/telefonie/integratiemetcrm.md
+- content/telefonie/vastmobielintegratie.md
 - content/telefonie/hostedvoip.md
 - content/oplossingen/trunk.md
 - content/oplossingen/mkb.md

@@ -39,6 +39,7 @@ fields:
   label: layout
   hidden: true
 pages:
+- content/telefonie/Functionaliteiten/call-pickup.md
 - content/telefonie/Functionaliteiten/e-mail.md
 - content/telefonie/Functionaliteiten/fax.md
 - content/telefonie/Functionaliteiten/gespreksopname.md
@@ -52,7 +53,6 @@ pages:
 - content/telefonie/Functionaliteiten/wachtrij-queue.md
 - content/telefonie/Functionaliteiten/doorverbinden.md
 - content/telefonie/Functionaliteiten/busy-lamp-field-blf.md
-- content/telefonie/Functionaliteiten/call-pickup.md
 - content/telefonie/Functionaliteiten/belgroep-huntgroup.md
 - content/telefonie/conference-service.md
 - content/telefonie/realtime-api.md
