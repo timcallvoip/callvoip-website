@@ -39,9 +39,10 @@ fields:
   label: layout
   hidden: true
 pages:
+- content/telefonie/Functionaliteiten/call-pickup.md
+- content/telefonie/Functionaliteiten/busy-lamp-field-blf.md
 - content/telefonie/Functionaliteiten/belgroep-huntgroup.md
 - content/telefonie/Functionaliteiten/omleiding-flow-control.md
-- content/telefonie/Functionaliteiten/call-pickup.md
 - content/telefonie/Functionaliteiten/keuzemenu-ivr.md
 - content/telefonie/conference-service.md
 - content/telefonie/realtime-api.md
@@ -61,7 +62,6 @@ pages:
 - content/oplossingen/Branches/ict.md
 - content/oplossingen/Branches/recruitment.md
 - content/oplossingen/Branches/advocatuur.md
-- content/telefonie/Functionaliteiten/busy-lamp-field-blf.md
 - content/oplossingen/Branches/tandartspraktijk.md
 - content/oplossingen/Branches/reisbureau.md
 - content/telefonie/Functionaliteiten/prefix.md
