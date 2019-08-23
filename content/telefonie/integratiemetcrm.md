@@ -11,6 +11,7 @@ hero:
     content: Bereken je kosten
     link: "/calculator"
   image: "/v1565001373/Callvoip-website-voipctisimmpl_cyzmc3.png"
+  image_position: center
 blocks:
 - content: |-
     <br> Voor VoIP CTI heeft u nodig:
@@ -27,8 +28,9 @@ blocks:
   image: "/v1564654858/intergratiemetcrm-flat_n40ydz.png"
   position: image_left
   title: Wat is er nodig én welke applicaties kunt u koppelen?
+  image_position: ''
 - title: Vergelijking met andere integratie
-  image: "/v1557910428/SIMMPL_INTGRATIETABEL_141118MT.png"
+  image: "/v1566548695/Callvoip-website-integratie-tabel_vcvyoa.png"
   content: "De Simmpl telefooncentrale van Callvoip is klaar om te koppelen!\nU weet
     het: we houden het graag Simmpl! En daarom ontwikkelden we een koppeling die een
     basisintegratie biedt: een app voor de Chrome Browser met een <a href=\"/telefonie/clicktodial/\">Click-to-Dial</a>,
@@ -40,6 +42,7 @@ blocks:
     te laten ontwikkelen. Desgewenst brengen wij u in contact met deskundige programmeurs
     die de kunst van programmeren verstaan én de Simmpl API kennen. "
   position: image_right
+  image_position: ''
 usps:
   title: De voordelen op een rij
   content: 'Naast dat VoIP CTI een uitgebreide koppeling biedt, biedt het ook de volgende
@@ -75,6 +78,7 @@ prijzen:
     - title: Eenmalig per organisatie
       price: '150.00'
     title: Kosten VoIP CTI
+Hide in Search: false
 menu:
   main:
     weight: 3

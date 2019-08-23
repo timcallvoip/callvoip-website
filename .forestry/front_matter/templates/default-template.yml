@@ -183,6 +183,7 @@ fields:
         name: price
         label: Price
 pages:
+- content/telefonie/integratiemetcrm.md
 - content/telefonie/vastmobielintegratie.md
 - content/telefonie/hostedvoip.md
 - content/oplossingen/trunk.md
@@ -195,6 +196,5 @@ pages:
 - content/internet/managed-4g-oplossing.md
 - content/telefonie/bereikbaarheidsmonitor.md
 - content/telefonie/operator-console.md
-- content/telefonie/integratiemetcrm.md
 - content/telefonie/qaller.md
 - content/telefonie/clicktodial.md
