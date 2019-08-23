@@ -14,6 +14,7 @@ hero:
     content: Bereken zelf uw kosten
     link: "/calculator/"
   image: "/v1566312817/bereikbaar_okmkfs.png"
+  image_position: start
 blocks:
 - title: Wat toont de bereikbaarheidsmonitor?
   image: "/v1563354632/callvoip-website-bereikbaarheidsmonitor-stats.png"
@@ -22,6 +23,7 @@ blocks:
     <b>Gespreksduur</b>: het dashboard toont de gemiddelde duur van gesprekken in de gewenste periode (uur, dag, week) en toont bovendien de totale gespreksduur per uur, dag en week en berekent ook de gemiddelde gespreksduur. Waardevolle stuurinformatie voor het management!<br><br>
     <b>Piekuur / piekdag</b>: de managementbalk aan de rechterzijde van het dashboard toont u op welk uur van de dag cq. op welke dag van de week er de meeste telefoondrukte is. Een simpel feit, maar toch waardevol te weten en ook hoe dit zich ontwikkelt in uw activiteitenseizoenen.
   position: image_right
+  image_position: center
 - title: Bereikbaarheidsmonitor, wat monitort het precies?
   image: "/v1563355159/callvoip-website-bereikbaarheidsmonitor2.png"
   content: |-
@@ -32,6 +34,7 @@ blocks:
 
     Belangrijke vragen om de telefonische performance van uw organisatie in kaart te brengen.
   position: image_left
+  image_position: ''
 usps:
   title: Wat zijn de voordelen?
   content: ''
