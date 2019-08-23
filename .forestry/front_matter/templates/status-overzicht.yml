@@ -22,5 +22,10 @@ fields:
   - type: boolean
     name: status
     label: status
+- name: content
+  type: text
+  config:
+    required: false
+  label: Text onder status
 pages:
 - content/status/_index.md
