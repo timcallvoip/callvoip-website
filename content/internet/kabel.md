@@ -13,6 +13,7 @@ hero:
     content: Benieuwd naar de mogelijkheden?
     link: "/internet/postcodecheck/"
   image: "/v1565000079/callvoip-website-internet-kabel2_n2llz0.png"
+  image_position: start
 blocks:
 - content: |-
     - Supersnel zakelijk internet tot 500 Mbps
@@ -23,6 +24,7 @@ blocks:
   image: "/v1565859111/kabel_osyiys.png"
   position: image_left
   title: Ziggo Zakelijk
+  image_position: center
 usps:
   title: Waarom kiezen voor Ziggo?
   content: ''

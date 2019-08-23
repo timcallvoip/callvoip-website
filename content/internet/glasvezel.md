@@ -12,6 +12,7 @@ hero:
     content: Benieuwd naar de mogelijkheden?
     link: "/internet/postcodecheck/"
   image: "/v1565000133/callvoip-website-internet-glasvezel2_mvvorj.png"
+  image_position: start
 blocks:
 - title: Callvoip FTTH Glasvezel – dé beste basis voor VoIP!
   image: "/v1565858744/glasvezel_xgeang.png"
@@ -21,6 +22,7 @@ blocks:
     bij het vinden van de juiste mix aan diensten en producten. Alles zodat u verzekerd
     bent van de beste basis voor VoIP telefonie.
   position: image_left
+  image_position: center
 usps:
   title: Waarom kiezen voor glasvezel van Callvoip (FTTH)?
   content: ''

@@ -15,6 +15,7 @@ hero:
     content: Benieuwd naar de mogelijkheden?
     link: "/internet/postcodecheck/"
   image: "/v1565000291/Callvoip-website-internet-4g_mpec8y.png"
+  image_position: start
 blocks:
 - title: Hoe werkt het?
   image: "/v1565862221/antenne6_wfo1aw.png"
@@ -23,6 +24,7 @@ blocks:
 
     Voor ons 4G internet-aanbod werken wij samen met Geuzenet, specialist in aanleg en beheer van 4G verbindingen. Veel bedrijven in heel Nederland werden reeds door hen van 4G internet voorzien.
   position: image_left
+  image_position: center
 - title: 'Uw 4G draadloze internetoplossing in 4 stappen:'
   image: "/v1565860150/4g2_lv0lkl.png"
   content: |-
@@ -31,6 +33,7 @@ blocks:
     3. Een monteur komt de 4G-apparatuur en antennes installeren
     4. Terwijl u geniet van snel en goed internet wordt de verbinding 24/7 gemonitord
   position: image_right
+  image_position: ''
 usps:
   title: Voordelen van een managed 4G-oplossing
   content: 'Het fijne van een 4G-oplossing is dat het direct overal leverbaar is.

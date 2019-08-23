@@ -183,6 +183,9 @@ fields:
         name: price
         label: Price
 pages:
+- content/internet/managed-4g-oplossing.md
+- content/internet/kabel.md
+- content/internet/glasvezel.md
 - content/telefonie/clicktodial.md
 - content/telefonie/integratiemetcrm.md
 - content/telefonie/vastmobielintegratie.md
@@ -192,9 +195,6 @@ pages:
 - content/oplossingen/branches.md
 - content/oplossingen/zelfstandigen.md
 - content/internet/dsl.md
-- content/internet/glasvezel.md
-- content/internet/kabel.md
-- content/internet/managed-4g-oplossing.md
 - content/telefonie/bereikbaarheidsmonitor.md
 - content/telefonie/operator-console.md
 - content/telefonie/qaller.md
