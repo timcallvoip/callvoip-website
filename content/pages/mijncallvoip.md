@@ -12,23 +12,31 @@ usps:
   - title: Nummers
     items:
     - title: Nieuw nummer
-      link: http://localhost:1313/aanvragen/nummer/
-    - title: Nieuw nummer
-      link: http://localhost:1313/aanvragen/nummer/
-    - title: Nieuw nummer
-      link: http://localhost:1313/aanvragen/nummer/
-    - title: Nieuw nummer
-      link: http://localhost:1313/aanvragen/nummer/
+      link: "/aanvragen/nummer/"
+    - title: Nummerportering
+      link: "/aanvragen/portering/"
+    - title: 'Internationaal nummer '
+      link: "/aanvragen/internationaal-nummer/"
+    - title: '088-nummerblok activatie '
+      link: "/aanvragen/088-blok-activatie/"
+    - title: '0800-servicenummer activatie '
+      link: "/aanvragen/0800-activatie/"
+    - title: '0900-servicenummer activatie '
+      link: "/aanvragen/0900-activatie/"
+    - title: Splitsing 10-blok
+      link: "/aanvragen/splitsing-10-blok/"
   - title: Internet
     items:
-    - title: Nieuw nummer
-      link: http://localhost:1313/aanvragen/nummer/
-    - title: Nieuw nummer
-      link: http://localhost:1313/aanvragen/nummer/
-    - title: Nieuw nummer
-      link: http://localhost:1313/aanvragen/nummer/
-    - title: Nieuw nummer
-      link: http://localhost:1313/aanvragen/nummer/
+    - title: CallvoipDSL
+      link: https://www.callvoip.nl/download/callvoip/callvoip-adsl-vdsl_aanvraagformulier.pdf
+    - title: Glasvezel (via Callvoip)
+      link: https://www.simmpl.nl/downloads/callvoip_ftth_aanvraagformulier.pdf
+    - title: Ziggo Zakelijk Internet
+      link: https://www.callvoip.nl/download/callvoip/callvoip_aanvraagformulier_ziggo-connect-zzp.pdf
+    - title: " Ziggo Zakelijk Internet Pro"
+      link: https://www.callvoip.nl/download/callvoip/callvoip_aanvraagformulier_ziggo-connect-mkb.pdf
+    - title: Managed 4G-oplossing
+      link: "/aanvragen/managed-4g/"
   - title: Integratie
     items:
     - title: Vast Mobiel (Vamos)
