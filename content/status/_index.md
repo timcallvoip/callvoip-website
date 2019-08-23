@@ -29,6 +29,7 @@ blocks:
     bent van de beste basis voor VoIP telefonie.
   position: image_left
   image_position: center
+
 ---
 Op deze pagina vindt u de status van de verschillende onderdelen van Simmpl, de online telefooncentrale van Callvoip, inclusief onderhoudsmeldingen en incidenten.
 
