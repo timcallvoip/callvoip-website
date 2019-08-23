@@ -1,5 +1,5 @@
 ---
-title: 'Qaller: de mobiele app voor uw Simmpl telefooncentrale'
+title: Qaller | de mobiele app voor uw Simmpl telefooncentrale
 type: page
 layout: default
 logos: true
@@ -11,7 +11,8 @@ hero:
   button:
     content: Bereken je kosten
     link: "/calculator"
-  image: "/v1565183715/callvoip-website-qaller-algemeen_z8qd3q.png"
+  image: "/v1566556616/mock_up_phone_oneplus_icmuae.png"
+  image_position: start
 blocks:
 - content: Met de <b>gratis</b> variant van Qaller kunt u uw telefooncentrale beheren
     en bedienen via uw smartphone. Wanneer dan ook, waar dan ook. Snel en gemakkelijk.
@@ -19,6 +20,7 @@ blocks:
   image: "/v1565183745/callvoip-website-qaller-dialplan_lniops.png"
   position: image_left
   title: Bedien de telefooncentrale (Qaller)
+  image_position: ''
 - content: |-
     Met de <b>betaalde</b> variant van Qaller:<br>
     …bedient u de telefooncentrale.<br>
@@ -29,6 +31,7 @@ blocks:
   image: "/v1565183772/callvoip-website-qaller-bellen_caeolh.png"
   position: ''
   title: Bel met uw zakelijke telefoonnummer (Qaller Plus)
+  image_position: ''
 usps:
   title: Welke voordelen heeft Qaller?
   content: ''
@@ -89,5 +92,6 @@ prijzen:
 description: Met Qaller bent u inkomend bereikbaar op- en belt u uit met het zakelijk
   nummer. Tevens bedient u eenvoudig de online telefooncentrale.
 images: []
+Hide in Search: false
 
 ---
