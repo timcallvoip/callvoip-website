@@ -2,7 +2,7 @@
 layout: team
 title: Team
 hero:
-  image: "/v1566566603/het_team_iqqgog.jpg"
+  image: "/v1566567124/het_team.jpg_jk6jgm.png"
 intro:
   content: Callvoip is de zakelijke telefonieprovider waar persoonlijk contact centraal
     staat. Maak daarom kennis met ons team en weet wie u aan de lijn heeft.
