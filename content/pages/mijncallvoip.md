@@ -50,7 +50,21 @@ usps:
   - title: Nummers
     items:
     - title: Gehele abonnement
-      link: https://callvoip-website.netlify.com/opzeggen/abonnement/
+      link: "/opzeggen/abonnement/"
+    - title: Los(se) Nummer(s)
+      link: "/opzeggen/nummer/"
+  - title: Internet
+    items:
+    - title: CallvoipDSL of FTTH
+      link: "/opzeggen/internet-callvoip/"
+  - title: Integratie
+    items:
+    - title: Vast Mobiel (Vamos)
+      link: "/opzeggen/vamos/"
+    - title: VoIP CTI
+      link: "/opzeggen/voipcti/"
+    - title: Conference Service
+      link: "/opzeggen/conference/"
 
 ---
 Als bestaande klant van Callvoip kunt altijd uw abonnement wijzigen. Ook kunt u extra diensten aanvragen of opzeggen. Bent u nog geen klant?
