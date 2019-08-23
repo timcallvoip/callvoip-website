@@ -7,7 +7,8 @@ description: Bescherm uw privacy en zorg dat uw gesprekken niet zomaar worden af
 images: []
 slug: versleutelde-telefoongesprekken/
 hero:
-  image: ''
+  image: "/v1566564028/SRTP_fq8s4x.png"
+  title: ''
 layout: ''
 Hide in Search: false
 
