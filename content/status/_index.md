@@ -1,7 +1,7 @@
 ---
 title: Status
 hero:
-  image: "/v1552398058/Team/logo-bord-breed.jpg"
+  image: "/v1566566520/banner_formaat_xqptws.jpg"
 items:
 - title: Online telefooncentrale
   status: true
@@ -19,6 +19,7 @@ items:
   status: true
 - title: Vamos
   status: true
+
 ---
 Op deze pagina vindt u de status van de verschillende onderdelen van Simmpl, de online telefooncentrale van Callvoip, inclusief onderhoudsmeldingen en incidenten.
 
