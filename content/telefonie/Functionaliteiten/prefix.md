@@ -1,13 +1,15 @@
 ---
 type: page
-title: Prefix
+title: Prefix | VoIP-Functionaliteit | Geschreven tekst in uw toestel
 description: Met de prefix-app stuur u een geschreven tekst mee naar uw toestellen
   bij een inkomend belletje. Zo weet u bijvoorbeeld op welk nummer is gebeld.
 images: []
 slug: prefix
 hero:
   image: "/v1560261249/callvoip-website-prefix.png"
+  title: ''
 layout: ''
+Hide in Search: false
 
 ---
 Met de prefix-app kunt u zelf een code, naam of nummer ingeven. Deze wordt in het display van uw telefoon getoond als het gesprek via deze route binnenkomt.

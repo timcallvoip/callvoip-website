@@ -1,13 +1,15 @@
 ---
 type: page
-title: Meldtekst (Sound)
+title: Meldtekst (Sound) | VoIP-Functionaliteit | Ingesproken meldingen
 description: Voorzie uw VoIP-oplossing met een meldtekst of andere geluidsbestanden.
   Met meldteksten maakt u uw telefonie een stuk professioneler.
 images: []
 slug: meldtekst
 hero:
   image: "/v1560261248/callvoip-website-meldtekst.png"
+  title: ''
 layout: ''
+Hide in Search: false
 
 ---
 Met deze functionaliteit kunt u verschillende meldteksten in uw belplan plaatsen. Denk hierbij aan bijvoorbeeld een welkomst-meldtekst, een tekst wanneer iedereen in gesprek is, meldteksten voor binnen & buiten werktijd en aparte vakantiemeldingen.
