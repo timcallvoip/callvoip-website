@@ -34,7 +34,7 @@ blocks:
     -<b>Nummer-kopie-functie:</b> kopieer een nummer en vind bellers nog sneller in uw CRM!<br>
     -<b>Yealink-adresboek:</b> koppel uw Yealink toestel met uw Click to Dial adresboek!
   position: image_left
-  image_position: center
+  image_position: end
 - title: Hoe werkt het?
   image: "/v1565859295/clicktodial3_fzxr1n.png"
   content: |-
