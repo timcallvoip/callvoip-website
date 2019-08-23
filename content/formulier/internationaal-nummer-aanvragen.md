@@ -1,6 +1,7 @@
 ---
 title: Internationaal nummer aanvragen
 url: "/aanvragen/internationaal-nummer/"
+Hide in Search: false
 
 ---
 Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akkoord per mail, naar ons ter bevestiging van uw opdracht.
@@ -99,7 +100,7 @@ België & Duitsland
 
 {{< layout/column3 >}}
 
-<a href="https://callvoiptelefoniewebsite.netlify.com/telefonie/telefoonnummers/" target="_blank">Meest voorkomende landen</a>
+Meest voorkomende landen
 
 {{</ layout/column3 >}}
 
@@ -127,7 +128,7 @@ Overige landen
 
 {{< layout/column3 >}}
 
-€ 18,00 excl. BTW
+v.a. € 18,00 excl. BTW
 
 {{</ layout/column3 >}}
 
@@ -147,23 +148,13 @@ Overige landen
 
 – Voor veel buitenlandse bestemmingen geldt een Call Cost per minute.
 
-<br>
-
 Een opslagtarief dat over inkomende gesprekken wordt berekend. Na uw aanvraag laten wij u weten wat deze Call Cost per minute is voor het nummer van uw bestemming.
-
-<br>
 
 – Het is niet mogelijk om buitenlandse nummers mee te sturen als uitgaand nummer.
 
-<br>
-
 Dit is wél mogelijk voor Belgische en Duitse nummers.
 
-<br>
-
 – Buitenlandse nummers en servicenummers hebben een initiële looptijd van een jaar.
-
-<br>
 
 Dit in tegenstelling tot de reguliere Nederlandse nummers die ook binnen het eerste jaar een opzegtermijn van één maand hebben.
 

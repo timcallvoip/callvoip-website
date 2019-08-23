@@ -16,6 +16,7 @@ fields:
     required: false
   label: URL
 pages:
+- content/formulier/internationaal-nummer-aanvragen.md
 - content/formulier/srtp-vesleutelde-gesprekken-aanvragen.md
 - content/formulier/belbundel-aanvragen.md
 - content/formulier/wijziging-verzonden.md
@@ -25,7 +26,6 @@ pages:
 - content/formulier/wijzigen-overzicht.md
 - content/formulier/opzeggen-overzicht.md
 - content/formulier/nummerportering-aanvragen.md
-- content/formulier/internationaal-nummer-aanvragen.md
 - content/formulier/voip-cti-koppeling-met-uw-crm-pakket-aanvragen.md
 - content/formulier/serviceplus-aanvragen.md
 - content/formulier/vast-mobiel-vamos-aanvragen.md
