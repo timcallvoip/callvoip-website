@@ -128,13 +128,13 @@ Stel uw openingstijden eenvoudig in en zorg dat u optimaal bereikbaar bent.
 
 {{< layout/column3 >}}
 
-**Email**:
+[**Email**](/telefonie/functionaliteiten/email/):
 
 {{</ layout/column3 >}}
 
 {{< layout/column3 >}}
 
-Beheer de centrale en bel met uw mobiele telefoon.
+Ontvang een notificatie van alle (gemiste) gesprekken.
 
 {{</ layout/column3 >}}
 
