@@ -12,14 +12,16 @@ hero:
     content: Bereken je kosten
     link: "/calculator"
   image: "/v1565690422/simmpl_sideways_shiu0m.png"
+  image_position: start
 blocks:
 - content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent, dat
     gaat verder dan alleen maar telefonie via vaste toestellen. Ook op uw mobiele
     telefoon bent u altijd bereikbaar met <a href="/telefonie/qaller/">Qaller</a>
     en <a href="/telefonie/vastmobielintegratie/">Vamos</a>.
-  image: "/v1552466820/phones.png"
+  image: "/v1566548339/qaller_en_vamos_ezc5p6.png"
   position: image_left
   title: Altijd bereikbaar met Callvoip, ook met uw mobiel!
+  image_position: center
 - content: |-
     Bij CallvoipTelefonie krijgt u toegang tot de modernste online telefooncentrale, Simmpl. Simmpl, omdat de telefooncentrale u voorziet van zeer veel professionele <a href="/telefonie/functionaliteiten/">functionaliteiten</a> en uitblinkt in bedieningsgemak.
 
@@ -27,6 +29,7 @@ blocks:
   image: "/v1552466837/instellingen.png"
   position: image_right
   title: Functionaliteiten van de online telefooncentrale
+  image_position: ''
 usps:
   title: Veelgestelde vragen over VoIP
   content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent. Dat
