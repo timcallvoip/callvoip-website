@@ -17,7 +17,7 @@ blocks:
     centrale. Door deze trunk lopen alle gesprekken van al uw nummers: inkomend en
     uitgaand. Uw eigen centrale blijft het centrale punt waar u instelt wat er met
     gesprekken gebeurt, op welke toestellen deze rinkelen, en dergelijke.'
-  image: "/v1566545567/voip_trunk_ssrhut.png"
+  image: "/v1566555684/voip_trunk_mltn25.png"
   position: image_left
   title: VoIP Trunk van Callvoip
   image_position: center
