@@ -20,7 +20,7 @@ blocks:
   image: "/v1566545567/voip_trunk_ssrhut.png"
   position: image_left
   title: VoIP Trunk van Callvoip
-  image_position: ''
+  image_position: center
 - content: 'De trunkoplossing van Callvoip is te gebruiken bij bijna alle IP-centrales,
     waaronder de volgende populaire systemen:'
   image: "/v1566218614/trunk_logos_qexe54.png"
