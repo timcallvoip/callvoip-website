@@ -16,6 +16,15 @@ fields:
     required: false
   label: URL
 pages:
+- content/formulier/importeren-telefoonboek-click-to-dial-aanvragen.md
+- content/formulier/internationaal-nummer-aanvragen.md
+- content/formulier/klantgegevens-wijzigen.md
+- content/formulier/managed-4g-verbinding-aanvragen.md
+- content/formulier/mijn-callvoip.md
+- content/formulier/aanvragen-nummer.md
+- content/formulier/nummer-opzeggen.md
+- content/formulier/nummerportering-aanvragen.md
+- content/formulier/opzeggen-overzicht.md
 - content/formulier/opzegging-verzonden.md
 - content/formulier/rekeningnummer-wijzigen.md
 - content/formulier/serviceplus-aanvragen.md
@@ -40,16 +49,7 @@ pages:
 - content/formulier/0900-servicenummer-aanvragen.md
 - content/formulier/088-nummerblok-activatie-aanvragen.md
 - content/formulier/0800-servicenummer-aanvragen.md
-- content/formulier/internationaal-nummer-aanvragen.md
-- content/formulier/aanvragen-nummer.md
-- content/formulier/opzeggen-overzicht.md
-- content/formulier/nummerportering-aanvragen.md
-- content/formulier/importeren-telefoonboek-click-to-dial-aanvragen.md
-- content/formulier/nummer-opzeggen.md
 - content/formulier/gidsvermelding-wijzigen.md
-- content/formulier/klantgegevens-wijzigen.md
 - content/formulier/conference-service-opzeggen.md
 - content/formulier/contact.md
 - content/formulier/gidsvermelding-aanvragen.md
-- content/formulier/mijn-callvoip.md
-- content/formulier/managed-4g-verbinding-aanvragen.md

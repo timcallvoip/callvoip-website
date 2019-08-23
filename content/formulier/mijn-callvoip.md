@@ -1,6 +1,7 @@
 ---
 title: Mijn Callvoip
 url: "/mijncallvoip/"
+Hide in Search: true
 menu:
   top:
     pre: external

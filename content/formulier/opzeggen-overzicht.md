@@ -1,6 +1,7 @@
 ---
 title: Opzeggen (overzicht)
 url: "/opzeggen/"
+Hide in Search: true
 
 ---
 <br>
