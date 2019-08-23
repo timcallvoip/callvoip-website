@@ -10,7 +10,7 @@ hero:
   button:
     content: Bereken je kosten
     link: "/calculator"
-  image: "/v1566215446/home_nieuwe_site_wope1k.png"
+  image: "/v1566554471/laptop_650px_lbzvro.png"
   image_position: center
 blocks:
 - title: Advocatuur
