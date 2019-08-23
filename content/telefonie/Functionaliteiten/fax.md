@@ -1,13 +1,15 @@
 ---
 type: page
-title: Fax
+title: Fax | VoIP-Functionaliteit | Faxen zonder faxapparaat
 description: Faxen met een faxapparaat is verleden tijd. Verzend uw faxen online en
   ontvang inkomende faxen als een pdf-bestand in uw e-mail.
 images: []
 slug: fax
 hero:
   image: "/v1560261248/callvoip-website-fax.png"
+  title: ''
 layout: ''
+Hide in Search: false
 
 ---
 Met een faxbox kunt u faxberichten ontvangen én versturen. Hiervoor heeft u geen fysiek faxapparaat meer nodig, alles gaat via internet. **Inkomende faxberichten** komen als PDF-bericht per email op één of meer emailadressen binnen. Wilt u een **fax versturen**, dan kunt u het te faxen bestand als PDF-document uploaden op de telefooncentrale. Het bericht komt dan bij uw relatie als fax binnen.

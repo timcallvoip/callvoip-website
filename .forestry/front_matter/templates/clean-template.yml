@@ -39,6 +39,8 @@ fields:
   label: layout
   hidden: true
 pages:
+- content/telefonie/Functionaliteiten/fax.md
+- content/telefonie/Functionaliteiten/e-mail.md
 - content/telefonie/Functionaliteiten/doorverbinden.md
 - content/telefonie/Functionaliteiten/busy-lamp-field-blf.md
 - content/telefonie/Functionaliteiten/call-pickup.md
@@ -69,10 +71,8 @@ pages:
 - content/telefonie/Functionaliteiten/gespreksopname.md
 - content/telefonie/functionaliteiten.md
 - content/telefonie/Functionaliteiten/voorwaarde-filter.md
-- content/telefonie/Functionaliteiten/e-mail.md
 - content/telefonie/Functionaliteiten/meldtekst.md
 - content/telefonie/Functionaliteiten/tijdsconditie.md
-- content/telefonie/Functionaliteiten/fax.md
 - content/oplossingen/Branches/assurantie.md
 - content/oplossingen/Branches/webshop.md
 - content/telefonie/Functionaliteiten/wachtrij-queue.md

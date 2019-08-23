@@ -1,13 +1,15 @@
 ---
 type: page
-title: E-mail
+title: E-mail | VoIP-Functionaliteit | Notificatie van alle (gemiste) gesprekken
 description: Met de email-app stuurt de telefooncentrale uw een e-mail met het telefoonnummer
   dat u heeft gebeld. Mis nooit meer een telefoonnummer!
 images: []
 slug: email
 hero:
   image: "/v1560261248/callvoip-website-email.png"
+  title: ''
 layout: ''
+Hide in Search: false
 
 ---
 De email-app plaatst u in uw belplan. Hiermee geeft u de telefooncentrale de opdracht om u een bericht te sturen met daarin het telefoonnummer van de beller. U kunt deze functionaliteit helemaal bovenaan (ontvang een email van alle bellers) of onderaan (ontvang een e-mail van alleen de gemiste bellers) de belroute plaatsen.
