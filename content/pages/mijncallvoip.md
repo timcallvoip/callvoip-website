@@ -30,30 +30,23 @@ usps:
     - title: Nieuw nummer
       link: http://localhost:1313/aanvragen/nummer/
 - title: Wijzigen
-  content: "<p>Als bestaande klant van Callvoip kunt u altijd uw abonnement uitbreiden.
-    Zo kunt u extra diensten afnemen zoals de Conference Service, buitenlandse nummers
-    aanvragen of servicenummers.</p>"
+  content: Als bestaande klant van Callvoip kunt altijd uw abonnement wijzigen. Zo
+    kunt u uw gidsvermelding en uw klantgegevens wijzigen.
   items:
-  - title: Nummers
+  - title: Algemeen
     items:
+    - title: Klantgegevens
+      link: "/wijzigen/klantgegevens/"
+    - title: Verhuisbericht
+      link: "/wijzigen/verhuisbericht/"
     - title: Nieuw nummer
       link: http://localhost:1313/aanvragen/nummer/
     - title: Nieuw nummer
       link: http://localhost:1313/aanvragen/nummer/
-    - title: Nieuw nummer
-      link: http://localhost:1313/aanvragen/nummer/
-    - title: Nieuw nummer
-      link: http://localhost:1313/aanvragen/nummer/
-  - title: Internet
-    items:
-    - title: Nieuw nummer
-      link: http://localhost:1313/aanvragen/nummer/
-    - title: Nieuw nummer
-      link: http://localhost:1313/aanvragen/nummer/
-    - title: Nieuw nummer
-      link: http://localhost:1313/aanvragen/nummer/
-    - title: Nieuw nummer
-      link: http://localhost:1313/aanvragen/nummer/
+- title: Opzeggen
+  content: Als bestaande klant van Callvoip kunt u altijd diensten opzeggen. Kies
+    hieronder wat u wilt opzeggen en wij zullen uw wijzigingen maandelijks doorvoeren.
+  items: []
 
 ---
 Als bestaande klant van Callvoip kunt altijd uw abonnement wijzigen. Ook kunt u extra diensten aanvragen of opzeggen. Bent u nog geen klant?
