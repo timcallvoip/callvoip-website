@@ -216,13 +216,13 @@ Stuur een geschreven tekst mee naar uw VoIP-toestel.
 
 {{< layout/column3 >}}
 
-**Voorwaarde**:
+[**Voorwaarde**](/telefonie/functionaliteiten/voorwaarde/):
 
 {{</ layout/column3 >}}
 
 {{< layout/column3 >}}
 
-Beheer de centrale en bel met uw mobiele telefoon.
+Filter inkomende gesprekken.
 
 {{</ layout/column3 >}}
 
@@ -238,13 +238,13 @@ Beheer de centrale en bel met uw mobiele telefoon.
 
 {{< layout/column3 >}}
 
-**BLF**:
+[**BLF**](/telefonie/functionaliteiten/blf/):
 
 {{</ layout/column3 >}}
 
 {{< layout/column3 >}}
 
-TEKST
+Zie de beschikbaarheid van uw collega's.
 
 {{</ layout/column3 >}}
 
@@ -260,13 +260,13 @@ TEKST
 
 {{< layout/column3 >}}
 
-**Call Pickup**:
+[**Call Pickup**](/telefonie/functionaliteiten/call-pickup/):
 
 {{</ layout/column3 >}}
 
 {{< layout/column3 >}}
 
-Beheer de centrale en bel met uw mobiele telefoon.
+Neem een inkomend gesprek over op uw toestel.
 
 {{</ layout/column3 >}}
 
@@ -372,13 +372,13 @@ Met meerdere mensen op afstand telefonisch vergaderen.
 
 {{< layout/column3 >}}
 
-**Gespreksopname**:
+[**Gespreksopname**](/telefonie/functionaliteiten/gespreksopname/):
 
 {{</ layout/column3 >}}
 
 {{< layout/column3 >}}
 
-Beheer de centrale en bel met uw mobiele telefoon.
+Luister uw telefoongesprekken terug of neem ze op.
 
 {{</ layout/column3 >}}
 
