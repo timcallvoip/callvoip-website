@@ -2,7 +2,7 @@
 title: Werken bij Callvoip
 layout: werkenbij
 hero:
-  image: "/v1552398058/Team/logo-bord-breed.jpg"
+  image: "/v1566566520/banner_formaat_xqptws.jpg"
 intro:
   title: Werken bij Callvoip
   content: Ben je op zoek naar een echte uitdaging en een leuk team? <br> Bekijk dan
@@ -25,6 +25,7 @@ blocks:
 description: Ben je op zoek naar een echte uitdaging en een leuk team? Bekijk dan
   snel welke interessante vacatures wij op dit moment hebben.
 images: []
+Hide in Search: false
 menu:
   main:
     weight: 3
