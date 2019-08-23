@@ -22,14 +22,5 @@ fields:
   - type: boolean
     name: status
     label: status
-  - name: content
-    type: textarea
-    default: ''
-    config:
-      required: false
-      wysiwyg: false
-      schema:
-        format: markdown
-    label: Content
 pages:
 - content/status/_index.md
