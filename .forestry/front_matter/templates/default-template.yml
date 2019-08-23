@@ -183,8 +183,8 @@ fields:
         name: price
         label: Price
 pages:
-- content/oplossingen/branches.md
 - content/internet/managed-4g-oplossing.md
+- content/oplossingen/branches.md
 - content/internet/kabel.md
 - content/internet/glasvezel.md
 - content/telefonie/clicktodial.md
