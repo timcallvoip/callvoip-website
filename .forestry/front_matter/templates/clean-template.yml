@@ -39,8 +39,8 @@ fields:
   label: layout
   hidden: true
 pages:
-- content/telefonie/conference-service.md
 - content/telefonie/functionaliteiten.md
+- content/telefonie/conference-service.md
 - content/telefonie/bedrijfstelefoonboek.md
 - content/telefonie/gesprekskosten.md
 - content/telefonie/telefoonnummers.md
