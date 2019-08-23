@@ -20,7 +20,7 @@ blocks:
   image: "/v1566556821/mock_up_phone_oneplus2_crftun.png"
   position: image_left
   title: Bedien de telefooncentrale (Qaller)
-  image_position: ''
+  image_position: end
 - content: |-
     Met de <b>betaalde</b> variant van Qaller:<br>
     …bedient u de telefooncentrale.<br>
