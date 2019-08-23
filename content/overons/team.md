@@ -2,7 +2,7 @@
 layout: team
 title: Team
 hero:
-  image: "/v1552398058/Team/logo-bord-breed.jpg"
+  image: "/v1566566603/het_team_iqqgog.jpg"
 intro:
   content: Callvoip is de zakelijke telefonieprovider waar persoonlijk contact centraal
     staat. Maak daarom kennis met ons team en weet wie u aan de lijn heeft.
@@ -64,6 +64,7 @@ team:
 description: 'Maak kennis met het team van Callvoip: Tim, Ralph, Dion, Remco, Lynn,
   Herman, Marieke & Robert.'
 images: []
+Hide in Search: false
 menu:
   main:
     parent: Over ons
