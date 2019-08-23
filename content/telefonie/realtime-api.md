@@ -6,7 +6,7 @@ description: Met de Realtime API (application programming interface) van Callvoi
 images: []
 slug: realtime-api
 hero:
-  image: ''
+  image: "/v1566561487/API_epg36w.png"
   title: Realtime API (webhooks)
 layout: ''
 Hide in Search: false
