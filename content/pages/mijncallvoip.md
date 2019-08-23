@@ -65,6 +65,14 @@ usps:
       link: "/opzeggen/voipcti/"
     - title: Conference Service
       link: "/opzeggen/conference/"
+  - title: Overig
+    items:
+    - title: Belbundel
+      link: "/opzeggen/belbundel/"
+    - title: 'SRTP (Vesleutelde gesprekken) '
+      link: "/opzeggen/srtp/"
+    - title: ServicePlus
+      link: "/opzeggen/serviceplus/"
 
 ---
 Als bestaande klant van Callvoip kunt altijd uw abonnement wijzigen. Ook kunt u extra diensten aanvragen of opzeggen. Bent u nog geen klant?
