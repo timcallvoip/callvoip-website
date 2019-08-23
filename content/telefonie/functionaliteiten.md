@@ -350,13 +350,13 @@ Beheer de centrale en bel met uw mobiele telefoon.
 
 {{< layout/column3 >}}
 
-**Conference Service**:
+[**Conference Service**](/telefonie/conference/):
 
 {{</ layout/column3 >}}
 
 {{< layout/column3 >}}
 
-Beheer de centrale en bel met uw mobiele telefoon.
+Met meerdere mensen op afstand telefonisch vergaderen.
 
 {{</ layout/column3 >}}
 
