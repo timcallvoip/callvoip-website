@@ -2,7 +2,7 @@
 layout: hetbedrijf
 title: Het bedrijf
 hero:
-  image: "/v1566566043/banner_formaat_bxsetg.jpg"
+  image: "/v1566566520/banner_formaat_xqptws.jpg"
 intro:
   content: "<strong>Even voorstellen:</strong> Wij zijn Callvoip, VoIP-provider voor
     de zakelijke markt. "
