@@ -1,6 +1,6 @@
 ---
 title: Qaller-app
-weight: 
+weight: 1
 description: ''
 images: []
 Hide in Search: false
