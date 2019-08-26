@@ -5,7 +5,7 @@ layout: default
 logos: false
 hero:
   title: Callvoip is vernieuwt!
-  content: Nieuwe webiste
+  content: Kies voor zakelijke telefonie van Callvoip en ervaar het gebruiks- gemak van de modernste online telefooncentrale! Bellen via internet, op kantoor en onderweg. Dat is de kracht van bellen met Callvoip.
   button:
     content: Browse de nieuwe site
     link: https://www.callvoip.nl/
