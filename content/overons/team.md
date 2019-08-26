@@ -25,7 +25,7 @@ team:
     wel, hoewel we betwijfelen of die wel anekdotes kunnen vertellen. Deelt graag
     de koffie uit. Passie voor techniek.
   function: Technisch logistiek medewerker
-  image: "/v1552398058/Team/team-herman.jpg"
+  image: "/v1566802563/callvoip-website-team-herman_mdldbx.png"
   name: Herman Willems
 - content: Is hier al een tijdje en heeft zichzelf getransformeerd tot online marketing
     man. Stelt dus o.a. pakkende mails op en is verantwoordelijk voor de website.
