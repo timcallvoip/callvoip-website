@@ -28,7 +28,8 @@ p a:hover {
 }
 
 .button-outline-secondary:hover {
-  @apply text-bronze;
+  @apply bg-white text-bronze;
+  opacity: 0;
 }
 
 .button {
