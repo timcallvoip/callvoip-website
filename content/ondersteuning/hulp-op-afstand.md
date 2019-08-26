@@ -13,7 +13,8 @@ Heeft u hulp nodig bij het instellen van uw telefoons of andere apparatuur? Laat
 
 ### Hoe werkt het?
 
-Stap 1: Ga naar onze ['Hulp op Afstand'-pagina](http://support.callvoip.nl:8040/).
+Stap 1: Ga naar onze <a href="http://support.callvoip.nl:8040/" target=_blank>'Hulp of afstand' -pagina</a>
+['Hulp op Afstand'-pagina](http://support.callvoip.nl:8040/).
 
 Stap 2: Vul de **code** in die de Callvoip-medewerker u geeft.
 
