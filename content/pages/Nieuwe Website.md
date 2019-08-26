@@ -9,7 +9,7 @@ hero:
   button:
     content: Browse de nieuwe site
     link: https://www.callvoip.nl/
-  image: "/v1566812662/new_wtvgdo.png"
+  image: "/v1566812755/new_jswgjh.png"
   position: " image_right"
 description: ''
 images: []
