@@ -11,7 +11,7 @@ hero:
   button:
     content: Browse de nieuwe site
     link: https://www.callvoip.nl/
-  image: "/v1566827034/hulp-icon_sow7yj.png"
+  image: "/v1566812938/new_btpepq.png"
   position: " image_right"
 description: ''
 images: []
