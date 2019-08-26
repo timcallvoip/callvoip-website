@@ -54,7 +54,7 @@ aanbod:
         internetverbindingen aan. Bent u opzoek naar betere verbinding? Wij bekijken
         graag de mogelijkheden voor u!
       image: "/v1566216767/Glasvezel_snelheid_tidxfm.png"
-      position: image_right
+      image_position: end
       button:
         content: Ik wil een postcodecheck!
         link: "/internet/postcodecheck/"
