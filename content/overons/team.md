@@ -13,7 +13,7 @@ team:
     de koffie zwart. Heeft niets met favoriete FC te maken, al komt Twente uit dezelfde
     buurt.
   function: Algemeen Directeur
-  image: "/v1552398058/Team/team-robert.jpg"
+  image: "/v1566802543/callvoip-website-team-robert_redkwl.png"
   name: Robert Tijdhof
 - content: Orakel van Callvoip. Maakt ambassadeurs van klanten. Maar nog liever fans.
     Zelf fan van planten en mooie vergezichten. Mag graag uit eten. Schijnt een zak
@@ -31,7 +31,7 @@ team:
     man. Stelt dus o.a. pakkende mails op en is verantwoordelijk voor de website.
     Is een Noord-Hollandse Fries, maar wel één van de leukere.
   function: Marketing
-  image: "/v1557495164/Portretfoto.jpg"
+  image: "/v1566802520/callvoip-website-team-milan_ixdgqf.png"
   name: Milan Littooy
 - function: Administratie
   name: Lynn de Goede
