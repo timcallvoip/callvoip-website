@@ -14,9 +14,5 @@ hero:
 description: ''
 images: []
 Hide in Search: false
-intro:
-  title: ''
-  content: ''
-blocks: []
 
 ---
