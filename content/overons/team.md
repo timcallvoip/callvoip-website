@@ -35,7 +35,7 @@ team:
   name: Milan Littooy
 - function: Administratie
   name: Lynn de Goede
-  image: "/v1566820717/lynn_ejernk.png"
+  image: "/v1566820938/lynn_lng9ig.png"
   content: Porteert je waar je bij staat, na grondige check. Draagt zorg voor alle
     processen zodra je klant wordt. Maakt meer lawaai dan je denkt. Heeft iets met
     Griekenland. Vindt het leuk om op een paard te zitten.
