@@ -1,17 +1,14 @@
 {{ define "main" }}
 <article class="mb-8 md:mb-24">
   {{ $title := .Title }}
-  {{ if .Params.hero.title }}
-    {{ $title := .Params.hero.title }}
-  {{ else }}
-    {{ $title := .Title}}
-  {{ end }}
+
   {{- partial "components/hero.html" . -}}
   <div class="container px-4 pt-12  {{ if not .Params.hero.image}} {{ end }}">
     <div class="max-w-lg mx-auto">
-
-      {{ with $title }}
-      <h1 class="text-3xl lg:text-4xl font-medium mb-4 leading-tight">{{ . }}</h1>
+      {{ if .Params.hero.title }}
+        <h1 class="text-3xl lg:text-4xl font-medium mb-4 leading-tight">{{ .Params.hero.title  }}</h1>
+      {{ else }}
+        <h1 class="text-3xl lg:text-4xl font-medium mb-4 leading-tight">{{ .Title  }}</h1>
       {{ end }}
       {{ with .Content }}
       <div class="user-content opacity-85 lg:text-lg font-medium leading-loose">
