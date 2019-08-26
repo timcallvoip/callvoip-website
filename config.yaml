@@ -28,11 +28,11 @@ menu:
     url: https://www.callvoip.nl/download/callvoip/CallVoip_telefonie_aanvraagformulier.pdf
     name: Direct klant worden
     weight: 5
-  - pre: external
-    url: http://support.callvoip.nl:8040/
-    name: Hulp
-    post: fa-dekstop-alt
-    weight: 6
+- pre: external
+   url: http://support.callvoip.nl:8040/
+   name: Hulp
+   post: fa-desktop-alt
+   weight: 6
 outputs:
   home:
   - HTML
