@@ -4,7 +4,7 @@ type: page
 layout: default
 logos: false
 hero:
-  title: Callvoiptelefonie wordt Callvoip!
+  title: Callvoip is vernieuwt!
   content: Nieuwe webiste
   button:
     content: Browse de nieuwe site
