@@ -11,6 +11,18 @@ hero:
   button:
     content: ''
     link: ''
+blocks:
+- content: "Voor een goede kwaliteit VoIP is een stabiele internetverbinding een noodzakelijk
+    ingrediënt. Callvoip biedt daarom een ruim scala aan verbindingen. Situaties en
+    wensen verschillen – wij zijn u daarom graag van dienst bij het vinden van de
+    juiste mix aan diensten en producten. Alles zodat u verzekerd bent van de beste
+    basis voor uw telefonie."
+  image: "/v1566847351/demo_laptop2.png"
+  image_link: "http://files.callvoip.nl/"
+  position: image_left
+  title: DSL-verbinding waar je op kunt vertrouwen
+  image_position: center
+    
 kiezen:
   title: Waarom kiezen voor Callvoip?
   content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent. Op kantoor
