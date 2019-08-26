@@ -36,6 +36,7 @@ fields:
     required: false
   label: PDF
 pages:
+- content/ondersteuning/simmpl-functionaliteiten/qaller-app.md
 - content/ondersteuning/algemeen/storing.md
 - content/ondersteuning/Integraties/click-to-dial-yealink-adresboek.md
 - content/ondersteuning/Integraties/click-to-dial.md
