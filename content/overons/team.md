@@ -56,7 +56,7 @@ team:
   name: Ralph Elshot
   image: "/v1557495164/Portretfoto.jpg"
 - name: Tim van der Horst
-  image: "/v1566823185/Tim_hunfxa.png"
+  image: "/v1557495164/Portretfoto.jpg"
   content: 'De grafische man. Maakt mooie plaatjes of het niets is en weet daarbij
     de juiste boodschap over te brengen. Doet ie met zo’n raar klinkend toetenbord.
     Vermoedelijk een gamer. Typt in vreemde talen. '
