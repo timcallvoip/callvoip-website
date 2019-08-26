@@ -31,6 +31,7 @@ menu:
   - pre: external
     url: http://support.callvoip.nl:8040/
     name: Hulp
+    post:
     image: "/v1566827034/hulp-icon_sow7yj.png"
     weight: 6
 outputs:
