@@ -24,11 +24,11 @@ p a:hover {
 }
 
 .button-outline-secondary {
-  @apply bg-rgba(0, 0, 0, 0) border-bronze text-white;
+  @apply bg-bronze border-bronze text-white;
 }
 
 .button-outline-secondary:hover {
-  @apply bg-white text-bronze;
+  @apply bg-none text-bronze;
 }
 
 .button {
