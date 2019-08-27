@@ -1,11 +1,8 @@
 ---
 title: Mijn Callvoip
-url: "/mijncallvoip/"
+url: "/mijncallvoipoud/"
 Hide in Search: true
-menu:
-  top:
-    pre: external
-    weight: 2
+draft: true
 
 ---
 Als bestaande klant van Callvoip kunt altijd uw abonnement wijzigen. Ook kunt u extra diensten aanvragen of opzeggen. Bent u nog geen klant?

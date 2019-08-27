@@ -2,7 +2,11 @@
 title: Mijn Callvoip
 layout: mijncallvoip
 type: page
-url: "/mijncallvoipnew"
+url: "/mijncallvoip"
+menu:
+  top:
+    pre: external
+    weight: 2
 usps:
 - title: Aanvragen
   content: "<p>Als bestaande klant van Callvoip kunt u altijd uw abonnement uitbreiden.
