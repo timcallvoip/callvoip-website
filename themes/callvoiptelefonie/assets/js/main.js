@@ -63,20 +63,25 @@ var activemenu = function () {
 }();
 
 
- smartsupp('theme:options', {
-    panelWidth: 350,
-    panelHeight: 450,
-    buttonWidth: 1,
-    buttonHeight: 1
-  });
+// 
 
-  smartsupp('theme:colors', {
-    primary:'#2069f3',
-    banner:'#ffffff',
-    primaryText: '#ffffff',
-    widget: '#ebf2f7',
-    widgetText: '#203476'
-  });
+function openChat() {
+
+  const button = document.getElementById('openChat');
+
+  if(button) {
+    button.addEventListener('click', function (e) {
+      e.preventDefault();
+      window.Trengo.Api.Widget.open('chat');
+    });
+
+  }
+
+}
+
+openChat();
+
+
 
 
   const cl = cloudinary.Cloudinary.new({ cloud_name: 'spinme' })
