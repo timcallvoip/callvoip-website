@@ -1,14 +1,7 @@
 ---
-type: page
 title: Postcodecheck verzonden
-description: ''
-images: []
 Hide in Search: false
-slug: "/internet/postcodecheck/verzonden/"
-hero:
-  image: "/v1566566520/banner_formaat_xqptws.jpg"
-  title: ''
-layout: ''
+url: "/internet/postcodecheck/verzonden/"
 
 ---
 Je aanvraag is succesvol verzonden. We nemen zo snel mogelijk contact met je op.

@@ -30,7 +30,7 @@ Ontvang ingesproken voicemails automatisch in uw email
 
 {{< layout/column3 >}}
 
-![](https://www.callvoiptelefonie.nl/wp-content/uploads/2016/10/Voicemail-app.png "Voicemailbox")
+[![](https://www.callvoiptelefonie.nl/wp-content/uploads/2016/10/Voicemail-app.png "Voicemailbox")](/telefonie/functionaliteiten/voicemail "Voicemail")
 
 {{</ layout/column3 >}}
 
@@ -74,7 +74,7 @@ Verbind door naar een intern- of extern nummer.
 
 {{< layout/column3 >}}
 
-![](https://www.callvoiptelefonie.nl/wp-content/uploads/2016/10/trasfer_round.png)
+[![](https://www.callvoiptelefonie.nl/wp-content/uploads/2016/10/trasfer_round.png)]()
 
 {{</ layout/column3 >}}
 
