@@ -7,7 +7,9 @@ images: []
 slug: makelaardij
 hero:
   image: "/v1561542250/callvoip-website-branches-makelaardij.png"
+  title: ''
 layout: ''
+Hide in Search: false
 
 ---
 Als makelaar is het belangrijk dat u goed bereikbaar bent voor uw klanten. Echter bent u als makelaar vaak onderweg, maar u wenst wel telefonisch bereikbaar te zijn.
@@ -26,7 +28,7 @@ Dankzij de professionele functionaliteiten van de online telefooncentrale van Ca
 
 {{< layout/column2 >}}
 
-Om beter bereikbaar te zijn maakt de makelaar gebruik van Qaller. Hiermee wordt zijn mobiele telefoon een kopie van het toestel op kantoor. Via de Qaller app bepaal je zelf of het toestel mee-rinkelt. Ook bepaal je eenvoudig wat de belroute van het telefoonnummer moet zijn, bijvoorbeeld meteen naar voicemail of een omleiding aan- & uitzetten.
+Om beter bereikbaar te zijn maakt de makelaar gebruik van Qaller. Hiermee wordt zijn mobiele telefoon een kopie van het toestel op kantoor. Via de Qaller app bepaalt u zelf of het toestel mee-rinkelt. Ook bepaalt u eenvoudig wat de belroute van het telefoonnummer moet zijn, bijvoorbeeld meteen naar voicemail of een omleiding aan- & uitzetten.
 
 #### Omleiding
 
@@ -36,7 +38,7 @@ De makelaar maakt gebruik van de omleiding-app. Hiermee kan de makelaar een ande
 
 {{< layout/column2 >}}
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1562144337/Qaller%202.png)
+![](https://res.cloudinary.com/callvoip/image/upload/v1566556616/mock_up_phone_oneplus_icmuae.png)
 
 {{</ layout/column2 >}}
 

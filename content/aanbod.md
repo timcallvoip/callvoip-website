@@ -5,20 +5,21 @@ type: page
 layout: aanbod
 logos: true
 hero:
-  title: Doe het lekker zelf! Met onze demo
+  title: Doe het lekker zelf Met onze demo
   image: "/v1566293713/aanbod_header3_ckanme.png"
   link: http://files.callvoip.nl
   button:
     content: ''
     link: ''
 blocks:
-- content: "De telefooncentrale is de kracht van Callvoip! U kunt gemakkelijk zelf instellen wat er moet gebeuren als uw bedrijf gebeld wordt. Benieuwd hoe de telefooncentrale werkt? Probeer de interactieve demo door op het laptopscherm te klikken."
+- content: De telefooncentrale is de kracht van Callvoip! U kunt gemakkelijk zelf
+    instellen wat er moet gebeuren als uw bedrijf gebeld wordt. Benieuwd hoe de telefooncentrale
+    werkt? Probeer de interactieve demo door op het laptopscherm te klikken.
   image: "/v1566847351/demo_laptop_c4dj77.png"
-  image_link: "http://files.callvoip.nl/"
+  image_link: http://files.callvoip.nl/
   position: image_left
   title: Interactieve Demo Telefooncentrale
   image_position: center
-    
 kiezen:
   title: Waarom kiezen voor Callvoip?
   content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent. Op kantoor
