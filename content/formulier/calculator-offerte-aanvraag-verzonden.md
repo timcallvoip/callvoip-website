@@ -1,14 +1,7 @@
 ---
-type: page
 title: Calculator offerte aanvraag verzonden
-description: ''
-images: []
 Hide in Search: false
-slug: "/calculator/verzonden/"
-hero:
-  image: "/v1566566520/banner_formaat_xqptws.jpg"
-  title: ''
-layout: ''
+url: "/calculator/verzonden/"
 
 ---
 Je aanvraag is succesvol verzonden. We nemen zo snel mogelijk contact met je op.

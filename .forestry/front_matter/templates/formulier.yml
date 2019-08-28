@@ -16,6 +16,7 @@ fields:
     required: false
   label: URL
 pages:
+- content/formulier/calculator-offerte-aanvraag-verzonden.md
 - content/formulier/postcodecheck-verzonden.md
 - content/formulier/mijn-callvoip.md
 - content/formulier/importeren-telefoonboek-click-to-dial-aanvragen.md
