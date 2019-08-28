@@ -16,11 +16,11 @@ fields:
     required: false
   label: URL
 pages:
+- content/formulier/mijn-callvoip.md
 - content/formulier/importeren-telefoonboek-click-to-dial-aanvragen.md
 - content/formulier/internationaal-nummer-aanvragen.md
 - content/formulier/klantgegevens-wijzigen.md
 - content/formulier/managed-4g-verbinding-aanvragen.md
-- content/formulier/mijn-callvoip.md
 - content/formulier/aanvragen-nummer.md
 - content/formulier/nummer-opzeggen.md
 - content/formulier/nummerportering-aanvragen.md

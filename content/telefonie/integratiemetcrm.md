@@ -27,7 +27,7 @@ blocks:
     <a href="/offerte/" class="button">Vraag dan nu een offerte aan</a>
   image: "/v1564654858/intergratiemetcrm-flat_n40ydz.png"
   position: image_left
-  title: Wat is er nodig én welke applicaties kunt u koppelen?
+  title: Wat is er nodig en welke applicaties kunt u koppelen?
   image_position: ''
 - title: Vergelijking met andere integratie
   image: "/v1566552826/Callvoip-website-integratie-tabel2_zc7opr.png"
