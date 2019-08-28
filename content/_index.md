@@ -3,8 +3,8 @@ title: Callvoip - de modernste zakelijke telefonieprovider van Nederland
 hero:
   title: Altijd bereikbaar zijn voor je klanten
   content: "Nog beter bereikbaar met onze nieuwe website! Bent u al bestaande klant?
-    \n<a href=\"https://www.callvoip.nl/nieuws/website-vernieuwd\" target=\"_blank\">Bekijk
-    hier de wijzigingen en waar u nu alles vindt!</a> \n\nKies voor zakelijke telefonie
+    \n<a href=\"https://www.callvoip.nl/website-vernieuwd\" target=\"_blank\">Bekijk
+    hier de wijzigingen en waar u nu alles vindt.</a> \n\nKies voor zakelijke telefonie
     van Callvoip en ervaar het gebruiks- gemak van de modernste online telefooncentrale!
     Bellen via internet, op kantoor en onderweg. Dat is de kracht van bellen met Callvoip."
   button:

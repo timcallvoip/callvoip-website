@@ -9,7 +9,7 @@ hero:
   image: "/v1566566520/banner_formaat_xqptws.jpg"
 author: ''
 date: 2019-08-27T22:00:00.000+00:00
-url: website-vernieuwd
+url: "/website-vernieuwd/"
 contactpersoon: []
 categories: []
 tags: []
