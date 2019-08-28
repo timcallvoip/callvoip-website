@@ -18,9 +18,6 @@ blocks:
   image: "lego_yxbyop.png"
   image_link: http://files.callvoip.nl/
   position: image_left
-  button:
-    content: Interactive demo telefooncentrale
-    link: http://files.callvoip.nl
   title: Doe het lekker zelf!
   image_position: center
 kiezen:
