@@ -77,5 +77,6 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/pages/webshop-callvoip.md
 - content/pages/webshop.md
 - content/overons/hetbedrijf.md
