@@ -21,7 +21,7 @@ Dat hoeven we eigenlijk niemand te vertellen. Wel zijn wij benieuwd of u in kaar
 
 Het kan zomaar zijn dat dit bepaalt niet helder op uw netvlies staat. En dat is zonde, vinden wij. Immers, hoe krijgt u controle over uw telefonie als u niet inzichtelijk hebt hoe uw belverkeer eruit ziet?
 
-Én precies daarom hebben we de bereikbaarheidsmonitor ontwikkeld voor onze hosted VoIP centrale. Alle binnenkomende telefoontjes die de centrale bereiken worden (en werden al) geregistreerd uiteraard. Maar nu laat de centrale dus ook gedetailleerd en overzichtelijk zien hoeveel oproepen gemist zijn en wat de piekmomenten zijn. Na verloop van tijd ontvouwt zich vanzelf een patroon, en dit biedt u de juiste informatie om aan te sturen waar en wanneer nodig.
+Precies daarom hebben we de bereikbaarheidsmonitor ontwikkeld voor onze hosted VoIP centrale. Alle binnenkomende telefoontjes die de centrale bereiken worden (en werden al) geregistreerd uiteraard. Maar nu laat de centrale dus ook gedetailleerd en overzichtelijk zien hoeveel oproepen gemist zijn en wat de piekmomenten zijn. Na verloop van tijd ontvouwt zich vanzelf een patroon, en dit biedt u de juiste informatie om aan te sturen waar en wanneer nodig.
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1563355159/callvoip-website-bereikbaarheidsmonitor2.png)
 
