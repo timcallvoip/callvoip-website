@@ -6,8 +6,8 @@ logos: true
 hero:
   title: Hosted VoIP
   content: Met Hosted VoIP bent u overal en altijd bereikbaar en bespaart u op uw
-    maandelijkse abonnementskosten. Met Hosted VoIP gaat de zakelijke telefonie over
-    het internet en bevindt de telefooncentrale zich in de cloud.
+    maandelijkse abonnementskosten. De zakelijke telefonie gaat over het internet
+    en de telefooncentrale bevindt zich in de cloud.
   button:
     content: Bereken je kosten
     link: "/calculator"
