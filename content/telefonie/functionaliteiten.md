@@ -162,7 +162,7 @@ Bepaal welke telefoons moeten rinkelen en in welke volgorde.
 
 {{< layout/column3 >}}
 
-![](https://www.callvoiptelefonie.nl/wp-content/uploads/2016/10/Huntgroup_round.png)
+![](https://res.cloudinary.com/callvoip/image/upload/v1566996064/Huntgroup_round_yunto8.png)
 
 {{</ layout/column3 >}}
 
@@ -184,7 +184,7 @@ Stuur een geschreven tekst naar uw toestellen.
 
 {{< layout/column3 >}}
 
-![](https://www.callvoiptelefonie.nl/wp-content/uploads/2016/10/soundapp_round.png)
+![](https://res.cloudinary.com/callvoip/image/upload/v1566996057/soundapp_round_n733tu.png)
 
 {{</ layout/column3 >}}
 
