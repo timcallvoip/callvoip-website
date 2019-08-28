@@ -77,6 +77,5 @@ fields:
   hidden: false
   default: ''
 pages:
-- content/pages/Nieuwe Website.md
 - content/pages/webshop.md
 - content/overons/hetbedrijf.md
