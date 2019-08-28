@@ -14,7 +14,7 @@ hero:
   image: "/v1565690920/MKB_eq5yv1.png"
   image_position: center
 blocks:
-- content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent, dat
+- content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent en dat
     gaat verder dan alleen maar telefonie. Betrouwbaar internet en goede apparatuur
     mogen daarbij niet ontbreken. Callvoip begeleidt u daar graag bij en zo heeft
     u alles onder één dak.
