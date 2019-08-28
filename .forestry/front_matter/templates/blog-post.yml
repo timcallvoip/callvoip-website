@@ -50,6 +50,7 @@ fields:
   name: tags
   label: tags
 pages:
+- content/nieuws/nieuwe-website.md
 - content/nieuws/monitor-uw-bereikbaarheid.md
 - content/nieuws/sorteer-uw-klanten-op-postcode-gebied.md
 - content/nieuws/update-platform-05-07-19.md
