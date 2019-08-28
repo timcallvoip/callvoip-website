@@ -50,11 +50,6 @@ team:
   function: Commercieel Medewerker
   name: Dion Steen
   image: "/v1557495164/Portretfoto.jpg"
-- content: Goed gevoel voor zakelijk. Straalt rust en kunde uit. Rijdt graag op twee
-    wielen. Traint voetbaldames in zijn vrije tijd. Doet suiker in de koffie.
-  function: Commercieel Medewerker
-  name: Ralph Elshot
-  image: "/v1557495164/Portretfoto.jpg"
 - name: Tim van der Horst
   image: "/v1557495164/Portretfoto.jpg"
   content: 'De grafische man. Maakt mooie plaatjes of het niets is en weet daarbij

@@ -34,9 +34,9 @@ Alle medewerkers bellen veel uit. Callvoip biedt drie verschillende belbundels (
 
 Inkomend staan alle toestellen in één belgroep. Deze toestellen rinkelen simultaan. Het toestel dat dus als eerste opneemt heeft het gesprek.
 
-#### Email
+#### E-mail
 
-Mocht iedereen in gesprek zijn of wordt het gesprek niet opgenomen, dan wordt er een e-mail gestuurd met het telefoonnummer dat belde. Zo kan een medewerker éénvoudig en snel terugbellen.
+Mocht iedereen in gesprek zijn of wordt het gesprek niet opgenomen, dan wordt er een e-mail gestuurd met het telefoonnummer dat belde. Zo kan een medewerker eenvoudig en snel terugbellen.
 
 {{</ layout/column2 >}}
 
