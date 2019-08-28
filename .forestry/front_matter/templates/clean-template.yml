@@ -39,6 +39,7 @@ fields:
   label: layout
   hidden: true
 pages:
+- content/oplossingen/Branches/advocatuur.md
 - content/oplossingen/Branches/makelaardij.md
 - content/telefonie/telefoonnummers.md
 - content/telefonie/versleutelde-telefoongesprekken-met-srtp.md
@@ -72,7 +73,6 @@ pages:
 - content/oplossingen/Branches/fysiotherapie.md
 - content/oplossingen/Branches/ict.md
 - content/oplossingen/Branches/recruitment.md
-- content/oplossingen/Branches/advocatuur.md
 - content/oplossingen/Branches/tandartspraktijk.md
 - content/oplossingen/Branches/reisbureau.md
 - content/oplossingen/Branches/assurantie.md
