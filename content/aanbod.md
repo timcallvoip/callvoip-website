@@ -14,8 +14,11 @@ hero:
 blocks:
 - content: De telefooncentrale is de kracht van Callvoip! U kunt gemakkelijk zelf
     instellen wat er moet gebeuren als uw bedrijf gebeld wordt. Benieuwd hoe de telefooncentrale
-    werkt? Probeer de interactieve demo door op het laptopscherm te klikken.
-  image: "/v1566847351/demo_laptop_c4dj77.png"
+    werkt? Probeer het zelf!
+  button:
+    content: Interactive demo telefooncentrale
+    link: http://files.callvoip.nl
+  image: "lego_kp88uf.png"
   image_link: http://files.callvoip.nl/
   position: image_left
   title: Doe het lekker zelf! Met onze demo
