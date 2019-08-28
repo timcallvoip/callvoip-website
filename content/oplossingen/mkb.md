@@ -33,8 +33,7 @@ blocks:
   image_position: ''
 usps:
   title: Geniet van een beter telefoongesprek
-  content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent, dat
-    gaat verder dan alleen maar telefonie. Betrouwbaar internet en goede apparatuur
+  content: ''
   items:
   - icon: fa-comment-alt-smile
     title: Flexibiliteit
