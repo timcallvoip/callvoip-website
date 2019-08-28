@@ -12,15 +12,11 @@ hero:
     content: ''
     link: ''
 blocks:
-- content: "Voor een goede kwaliteit VoIP is een stabiele internetverbinding een noodzakelijk
-    ingrediënt. Callvoip biedt daarom een ruim scala aan verbindingen. Situaties en
-    wensen verschillen – wij zijn u daarom graag van dienst bij het vinden van de
-    juiste mix aan diensten en producten. Alles zodat u verzekerd bent van de beste
-    basis voor uw telefonie."
+- content: "De telefooncentrale is de kracht van Callvoip! U kunt gemakkelijk zelf instellen wat er moet gebeuren als uw bedrijf gebeld wordt. Benieuwd hoe de telefooncentrale werkt? Probeer de interactieve demo door op het laptopscherm te klikken."
   image: "/v1566847351/demo_laptop2.png"
   image_link: "http://files.callvoip.nl/"
   position: image_left
-  title: DSL-verbinding waar je op kunt vertrouwen
+  title: Interactieve Demo Telefooncentrale
   image_position: center
     
 kiezen:
