@@ -44,7 +44,7 @@ Hier vindt u een overzicht van de gesprekskosten van Callvoip. Bij Callvoip beta
 
 {{< layout/column3 >}}
 
-**België**
+**Starttarief**
 
 {{</ layout/column3 >}}
 
