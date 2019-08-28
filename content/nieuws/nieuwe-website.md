@@ -15,7 +15,6 @@ categories: []
 tags: []
 
 ---
-
 Zoals u ziet is onze website vernieuwd! Voor onze bestaande klanten zal het even wennen zijn, maar uiteindelijk is de informatie gemakkelijker vindbaar. Voor u als bestaande klant is de balk rechtsboven belangrijk. Wij leggen het u uit...
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1566812938/new_btpepq.png)
@@ -26,13 +25,17 @@ Bookmark deze pagina en bekijk snel of er problemen zijn met de telefoniedienst.
 
 Op deze statuspagina vindt u de status van de verschillende onderdelen van Simmpl, de online telefooncentrale van Callvoip, inclusief onderhoudsmeldingen en incidenten.
 
+[Bekijk 'Status' hier](https://callvoip.nl/mijncallvoip/).
+
 <br>
 
 ### Mijn Callvoip
 
 Alle formulieren vindt u centraal op één plek: Mijn Callvoip.
 
-Als bestaande klant van Callvoip kunt altijd uw abonnement wijzigen. Ook kunt u (extra) diensten aanvragen of opzeggen. 
+Als bestaande klant van Callvoip kunt altijd uw abonnement wijzigen. Ook kunt u (extra) diensten aanvragen of opzeggen.
+
+[Bekijk 'Mijn Callvoip' hier](https://callvoip.nl/mijncallvoip/).
 
 <br>
 
@@ -42,11 +45,15 @@ Zelf uw toestel instellen of benieuwd naar de mogelijkheden van een bepaalde fun
 
 Op onze ondersteuningspagina vindt u oplossingen en ondersteuning voor veel voorkomende problemen. Handige artikelen en software downloads. Ook helpen we u graag via onze chat of kijken we, via onze remote software, gezamenlijk naar het probleem.
 
+[Bekijk 'Mijn Callvoip' hier](https://callvoip.nl/mijncallvoip/).
+
 <br>
 
 ### Webshop
 
-Onze webshop is niet gewijzigd, oud & vertrouwd. Via de knop opent een nieuw tabblad waardoor u op onze webshop terecht komt. 
+Onze webshop is niet gewijzigd, oud & vertrouwd. Via de knop opent een nieuw tabblad waardoor u op onze webshop terecht komt.
+
+[Bekijk 'Webshop' hier](https://www.callvoip.nl/pages/webshop/).
 
 <br>
 
@@ -54,10 +61,14 @@ Onze webshop is niet gewijzigd, oud & vertrouwd. Via de knop opent een nieuw tab
 
 Via de knop 'Login' komt u op Simmp, de online telefooncentrale, terecht. Via Simmpl voert u eenvoudig wijzigingen door in uw belplan en meer!
 
+[Bekijk 'Login Simmpl' hier](https://panel.callvoip.nl/login/panel).
+
 <br>
 
 ### Zoeken
 
-Toch niet gevonden waar u naar op zoek bent? Klik dan op het 'vergrootglas' en zoek in onze website. 
+Toch niet gevonden waar u naar op zoek bent? Klik dan op het 'vergrootglas' en zoek in onze website.
 
-Ook via de zoekfunctie niet de juiste informatie gevonden? Neem dan even contact met ons op via 050 820 00 00 of via callvoip@callvoip.nl. 
+Ook via de zoekfunctie niet de juiste informatie gevonden? Neem dan even contact met ons op via 050 820 00 00 of via callvoip@callvoip.nl.
+
+[Bekijk 'Zoeken' hier](https://www.callvoip.nl/zoeken/).
