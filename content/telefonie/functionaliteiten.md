@@ -2,7 +2,8 @@
 type: page
 title: Functionaliteiten | Alle VoIP-functionaliteiten van Simmpl op een rij
 description: 'U krijgt een tal van professionele functionaliteiten met Simmpl; de
-  modernste online telefooncentrale ter wereld! '
+  modernste online telefooncentrale ter wereld! Benieuwd hoe de telefooncentrale werkt?
+  <a href="http://files.callvoip.nl/" target="_blank">probeer de interactieve demo!</a>'
 images: []
 slug: functionaliteiten
 hero:
