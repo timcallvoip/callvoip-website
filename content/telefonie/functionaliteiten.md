@@ -30,7 +30,7 @@ Ontvang ingesproken voicemails automatisch in uw email
 
 {{< layout/column3 >}}
 
-![](https://www.callvoiptelefonie.nl/wp-content/uploads/2016/10/Voicemail-app.png "Voicemailbox")
+![](https://res.cloudinary.com/callvoip/image/upload/v1566995670/Voicemail-app_cq9s4o.png)
 
 {{</ layout/column3 >}}
 
@@ -52,7 +52,7 @@ Digitaal faxen ontvangen en versturen zonder faxapparaat.
 
 {{< layout/column3 >}}
 
-![](https://www.callvoiptelefonie.nl/wp-content/uploads/2016/10/Fax-app.png)
+![](https://res.cloudinary.com/callvoip/image/upload/v1566995670/Fax-app_yd2sny.png)
 
 {{</ layout/column3 >}}
 
@@ -74,7 +74,7 @@ Verbind door naar een intern- of extern nummer.
 
 {{< layout/column3 >}}
 
-![](https://www.callvoiptelefonie.nl/wp-content/uploads/2016/10/trasfer_round.png)
+![](https://res.cloudinary.com/callvoip/image/upload/v1566995670/trasfer_round_by7y4w.png)
 
 {{</ layout/column3 >}}
 
@@ -96,7 +96,7 @@ Met één druk op de knop een doorschakeling activeren.
 
 {{< layout/column3 >}}
 
-![](https://www.callvoiptelefonie.nl/wp-content/uploads/2016/10/omleiding_round.png)
+![](https://res.cloudinary.com/callvoip/image/upload/v1566995669/omleiding_round_k0vqxz.png)
 
 {{</ layout/column3 >}}
 
@@ -118,7 +118,7 @@ Stel uw openingstijden eenvoudig in en zorg dat u optimaal bereikbaar bent.
 
 {{< layout/column3 >}}
 
-![](https://www.callvoiptelefonie.nl/wp-content/uploads/2016/10/tijdsconditie_round.png)
+![](https://res.cloudinary.com/callvoip/image/upload/v1566995670/tijdsconditie_round_szsrmf.png)
 
 {{</ layout/column3 >}}
 
@@ -296,7 +296,7 @@ Veel inkomende gesprekken? Beantwoord ze allemaal met een wachtrij.
 
 {{< layout/column3 >}}
 
-![](https://www.callvoiptelefonie.nl/wp-content/uploads/2016/10/Wachtrij-app.png)
+![](https://res.cloudinary.com/callvoip/image/upload/v1566995669/Wachtrij-app_bp3bak.png)
 
 {{</ layout/column3 >}}
 
@@ -318,7 +318,7 @@ Iedere beller direct met de juiste afdeling verbinden.
 
 {{< layout/column3 >}}
 
-![](https://www.callvoiptelefonie.nl/wp-content/uploads/2016/10/Keuzemenu-app.png)
+![](https://res.cloudinary.com/callvoip/image/upload/v1566995669/Keuzemenu-app_dntzhx.png)
 
 {{</ layout/column3 >}}
 
@@ -340,7 +340,7 @@ Beheer de centrale en bel met uw mobiele telefoon.
 
 {{< layout/column3 >}}
 
-![](https://www.callvoiptelefonie.nl/wp-content/uploads/2016/10/test-qaller.png)
+![](https://res.cloudinary.com/callvoip/image/upload/v1566995669/test-qaller_iqepfj.png)
 
 {{</ layout/column3 >}}
 
