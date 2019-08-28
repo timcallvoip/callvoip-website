@@ -2,9 +2,10 @@
 title: Offerte aanvraag verzonden
 url: "/offerte/verzonden"
 hero:
-  image: "/v1552991205/Team/logo-bord-breed.jpg"
+  image: "/v1566566520/banner_formaat_xqptws.jpg"
 slug: "/offerte/verzonden/"
 hideinsearch: true
+
 ---
 Je aanvraag is succesvol verzonden. We nemen zo snel mogelijk contact met je op.
 

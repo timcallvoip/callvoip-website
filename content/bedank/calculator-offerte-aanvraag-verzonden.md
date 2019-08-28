@@ -1,10 +1,10 @@
 ---
 type: page
-title: Postcodecheck verzonden
+title: Calculator offerte aanvraag verzonden
 description: ''
 images: []
 Hide in Search: false
-slug: "/internet/postcodecheck/verzonden/"
+slug: "/calculator/verzonden/"
 hero:
   image: "/v1566566520/banner_formaat_xqptws.jpg"
   title: ''
