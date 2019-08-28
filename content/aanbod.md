@@ -18,7 +18,7 @@ blocks:
   image: "/v1566847351/demo_laptop_c4dj77.png"
   image_link: http://files.callvoip.nl/
   position: image_left
-  title: Doe het lekker zelf! <br> Met onze demo
+  title: Doe het lekker zelf! Met onze demo
   image_position: center
 kiezen:
   title: Waarom kiezen voor Callvoip?
