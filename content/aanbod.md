@@ -20,6 +20,9 @@ blocks:
   position: image_left
   title: Doe het lekker zelf! Met onze demo
   image_position: center
+  button:
+    content: Interactive demo telefooncentrale
+    link: http://files.callvoip.nl
 kiezen:
   title: Waarom kiezen voor Callvoip?
   content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent. Op kantoor
