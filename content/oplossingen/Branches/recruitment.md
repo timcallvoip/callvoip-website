@@ -7,7 +7,9 @@ images: []
 slug: recruitment
 hero:
   image: "/v1561638617/callvoip-website-branches-recruitment.png"
+  title: ''
 layout: ''
+Hide in Search: false
 
 ---
 Voor recruiters is het belangrijk dat er veel uitgebeld kan worden tegen een scherp tarief. Daarnaast moet men natuurlijk bereikbaar zijn, maar de focus ligt hier niet.
@@ -24,25 +26,25 @@ Dankzij de professionele functionaliteiten van de online telefooncentrale van Ca
 
 {{< layout/columns >}}
 
- {{< layout/column2 >}}
+{{< layout/column2 >}}
 
 Alle medewerkers bellen veel uit. Callvoip biedt drie verschillende belbundels (500, 1500 en 5000 minuten). Op basis van gemiddelde belminuten heeft men gekozen voor de 1500-bundel. Mocht een toestel meer bellen, dan betaalt men de reguliere (lage) gesprekstarieven.
 
 #### Belgroep
 
-Inkomende staan alle toestellen in één belgroep. Deze toestellen rinkelen simultaan. Het toestel dat dus als eerste opneemt heeft het gesprek.
+Inkomend staan alle toestellen in één belgroep. Deze toestellen rinkelen simultaan. Het toestel dat dus als eerste opneemt heeft het gesprek.
 
 #### Email
 
 Mocht iedereen in gesprek zijn of wordt het gesprek niet opgenomen, dan wordt er een e-mail gestuurd met het telefoonnummer dat belde. Zo kan een medewerker éénvoudig en snel terugbellen.
 
- {{</ layout/column2 >}}
+{{</ layout/column2 >}}
 
- {{< layout/column2 >}}
+{{< layout/column2 >}}
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1562159812/Callvoip-website-gesprekskosten.png)
 
- {{</ layout/column2 >}}
+{{</ layout/column2 >}}
 
 {{</ layout/columns >}}
 
