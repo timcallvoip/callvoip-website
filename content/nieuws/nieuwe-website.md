@@ -8,7 +8,7 @@ Hide in Search: false
 hero:
   image: "/v1566566520/banner_formaat_xqptws.jpg"
 author: ''
-date: 2019-08-27T22:00:00+00:00
+date: 2019-08-27T22:00:00.000+00:00
 url: website-vernieuwd
 contactpersoon: []
 categories: []
@@ -45,13 +45,13 @@ Zelf uw toestel instellen of benieuwd naar de mogelijkheden van een bepaalde fun
 
 Op onze ondersteuningspagina vindt u oplossingen en ondersteuning voor veel voorkomende problemen. Handige artikelen en software downloads. Ook helpen we u graag via onze chat of kijken we, via onze remote software, gezamenlijk naar het probleem.
 
-[Bekijk 'Mijn Callvoip' hier](https://callvoip.nl/mijncallvoip/).
+[Bekijk 'Support' hier](https://callvoip.nl/mijncallvoip/).
 
 <br>
 
 ### Webshop
 
-Onze webshop is niet gewijzigd, oud & vertrouwd. Via de knop opent een nieuw tabblad waardoor u op onze webshop terecht komt.
+Onze webshop is niet gewijzigd, oud & vertrouwd. 
 
 [Bekijk 'Webshop' hier](https://www.callvoip.nl/pages/webshop/).
 
