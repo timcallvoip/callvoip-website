@@ -2,8 +2,9 @@
 title: Callvoip - de modernste zakelijke telefonieprovider van Nederland
 hero:
   title: Altijd bereikbaar zijn voor je klanten
-  content: Kies voor zakelijke telefonie van Callvoip en ervaar het gebruiks- gemak van de modernste online telefooncentrale!
-    Bellen via internet, op kantoor en onderweg. Dat is de kracht van bellen met Callvoip.
+  content: Kies voor zakelijke telefonie van Callvoip en ervaar het gebruiks- gemak
+    van de modernste online telefooncentrale! Bellen via internet, op kantoor en onderweg.
+    Dat is de kracht van bellen met Callvoip.
   button:
     content: Bekijk ons aanbod
     link: "/aanbod"
@@ -17,7 +18,7 @@ hero:
     content: Gebruik de Vast Mobiel Integratie (Vamos)
     link: telefonie/vastmobielintegratie/
 intro:
-  image: "/v1566311865/home_nieuwe_site_versie3_tycdvq.png"
+  image: "/v1567005489/home_nieuwe_site_versie2_yikfb4.png"
   title: Voordelig bellen vanuit de cloud
   content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent op één
     en hetzelfde nummer. Op kantoor via een vast toestel of onderweg via uw eigen
