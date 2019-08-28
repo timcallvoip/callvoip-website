@@ -15,14 +15,14 @@ blocks:
 - content: De telefooncentrale is de kracht van Callvoip! U kunt gemakkelijk zelf
     instellen wat er moet gebeuren als uw bedrijf gebeld wordt. Benieuwd hoe de telefooncentrale
     werkt? Probeer het zelf!
-  image: "lego_kp88uf.png"
+  button:
+    content: Interactive demo telefooncentrale
+    link: http://files.callvoip.nl
+  image: "lego_yxbyop.png"
   image_link: http://files.callvoip.nl/
   position: image_left
   title: Doe het lekker zelf! Met onze demo
   image_position: center
-  button:
-    content: Interactive demo telefooncentrale
-    link: http://files.callvoip.nl
 kiezen:
   title: Waarom kiezen voor Callvoip?
   content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent. Op kantoor
