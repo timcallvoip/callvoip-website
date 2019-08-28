@@ -39,6 +39,7 @@ fields:
   label: layout
   hidden: true
 pages:
+- content/bedank/postcodecheck-verzonden.md
 - content/telefonie/gesprekskosten.md
 - content/oplossingen/Branches/advocatuur.md
 - content/oplossingen/Branches/makelaardij.md

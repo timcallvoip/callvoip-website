@@ -10,7 +10,7 @@ U ontvangt **binnen één werkdag** een vrijblijvende offerte. Wilt u tevens adv
 
 Heeft u eerst advies nodig of heeft u nog vragen, bel ons gerust op [**050 820 0001**](tel:+31508200001).
 
-{{< form "postcode-check" "/offerte/verzonden" >}}  
+{{< form "postcode-check" "/internet/postcodecheck/verzonden" >}}  
 {{< form/template "d-5f1602c68c8a42919ddf340e285386e3">}}  
 {{< form/to "offerte">}}
 
