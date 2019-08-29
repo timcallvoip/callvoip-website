@@ -3,7 +3,7 @@ title: Meldingen
 error: false
 
 ---
-Wij krijgen meldingen binnen van klanten die CallvoipDSL afnemen:
+Momenteel ondervinden klanten, die internet van Callvoip en KPN afnemen, problemen met de telefoniedienst:
 
 * mindere gesprekskwaliteit.
 * wisselvallig BLF (Busy Lamp Field)
