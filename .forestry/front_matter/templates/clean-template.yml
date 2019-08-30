@@ -39,6 +39,9 @@ fields:
   label: layout
   hidden: true
 pages:
+- content/telefonie/functionaliteiten.md
+- content/telefonie/conference-service.md
+- content/telefonie/bedrijfstelefoonboek.md
 - content/telefonie/realtime-api.md
 - content/telefonie/telefoonnummers.md
 - content/telefonie/versleutelde-telefoongesprekken-met-srtp.md
@@ -55,10 +58,7 @@ pages:
 - content/oplossingen/Branches/assurantie.md
 - content/oplossingen/Branches/advocatuur.md
 - content/offerte.md
-- content/telefonie/functionaliteiten.md
 - content/telefonie/gesprekskosten.md
-- content/telefonie/conference-service.md
-- content/telefonie/bedrijfstelefoonboek.md
 - content/telefonie/Functionaliteiten/call-pickup.md
 - content/telefonie/Functionaliteiten/e-mail.md
 - content/telefonie/Functionaliteiten/fax.md

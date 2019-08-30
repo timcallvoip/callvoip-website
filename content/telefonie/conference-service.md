@@ -3,7 +3,8 @@ type: page
 title: Conference Service | Met meerdere mensen op afstand telefonisch vergaderen
 description: Met de Callvoip Conference Service bespaart u tijd en geld voor vergaderen
   op afstand.
-images: []
+images:
+- "/v1567165784/icon_hwk0eh.png"
 slug: conference
 hero:
   image: "/v1566553083/yealink_conferencecall_mvrwpe.png"

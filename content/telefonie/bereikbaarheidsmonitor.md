@@ -2,7 +2,8 @@
 title: Bereikbaarheidsmonitor | Breng uw telefonische performance in kaart.
 description: De Bereikbaarheidsmonitor toont u in één oogopslag alles wat u wilt weten
   om uw bereikbaarheid te beoordelen én dus te verbeteren.
-images: []
+images:
+- "/v1567165784/icon_hwk0eh.png"
 type: page
 layout: default
 logos: false

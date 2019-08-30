@@ -3,7 +3,8 @@ type: page
 title: Bedrijfstelefoonboek | Uw contacten in de Click-to-Dial
 description: U krijgt het bedrijfstelefoonboek standaard bij onze Click-to-Dial plugin.
   Elk van uw medewerkers die deze plugin ook gebruikt, profiteert meteen!
-images: []
+images:
+- "/v1567165784/icon_hwk0eh.png"
 slug: "/bedrijfstelefoonboek/"
 hero:
   image: "/v1566209719/telefoonboek_nuksdm.png"

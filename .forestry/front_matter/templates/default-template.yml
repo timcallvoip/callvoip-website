@@ -183,12 +183,12 @@ fields:
         name: price
         label: Price
 pages:
+- content/telefonie/integratiemetcrm.md
+- content/telefonie/bereikbaarheidsmonitor.md
 - content/oplossingen/mkb.md
 - content/telefonie/hostedvoip.md
-- content/telefonie/integratiemetcrm.md
 - content/telefonie/qaller.md
 - content/telefonie/operator-console.md
-- content/telefonie/bereikbaarheidsmonitor.md
 - content/oplossingen/trunk.md
 - content/internet/managed-4g-oplossing.md
 - content/oplossingen/branches.md

@@ -59,7 +59,8 @@ usps:
     content: Het werk wordt gemakkelijker, geen verkeerde nummers meer!
 description: Met VoIP CTI verbindt u uw Windowsomgeving met uw telefoonsysteem. Zo
   koppelt u eenvoudig uw klantsysteem (CRM-, ERP- en administratiepakketten).
-images: []
+images:
+- "/v1567165784/icon_hwk0eh.png"
 intro:
   title: Abonnementskosten van VoIP CTI
   content: ''
