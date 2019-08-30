@@ -4,7 +4,7 @@ title: Busy Lamp Field (BLF) | VoIP-Functionaliteit | Beschikbaarheid van colleg
 description: Met Busy Lamp Field ziet u snel of uw collega's beschikbaar of in gesprek
   zijn. Enige voorwaarde is dat uw VoIP-toestel deze functionaliteit ondersteunt.
 images:
-- "/v1567165784/icon_hwk0eh.png"
+- "/v1566559930/busy_lamp_field_icon_s9ixjo.png"
 slug: blf
 hero:
   image: "/v1561535634/callvoip-website-blf.png"

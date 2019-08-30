@@ -4,7 +4,7 @@ title: Omleiding (Flow Control) | VoIP-Functionaliteit | Zet acties aan & uit
 description: Met de omleiding-app stelt u zo een andere belroute in werking. Erg handig
   voor ad hoc afwezigheid of op drukke momenten qua inkomende telefonie.
 images:
-- "/v1566995670/trasfer_round_by7y4w.png"
+- "/v1566995669/omleiding_round_k0vqxz.png"
 slug: omleiding
 hero:
   image: "/v1560261248/callvoip-website-omleiding.png"

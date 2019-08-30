@@ -4,7 +4,7 @@ title: Call Pickup | VoIP-Functionaliteit | Neem inkomend gesprek over
 description: Call Pickup biedt de mogelijkheid om een gesprek, dat op een ander toestel
   rinkelt, op uw toestel aan te nemen.
 images:
-- "/v1567165784/icon_hwk0eh.png"
+- "/v1566559951/call_pick_up_icon_vcgkmu.png"
 slug: "/call-pickup/"
 hero:
   image: "/v1566552868/240_F_184272839_2kDHohpk4i4NorSI1DsnzEepXMwuV5PO_aphzul.jpg"

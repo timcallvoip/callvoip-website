@@ -4,7 +4,7 @@ title: Fax | VoIP-Functionaliteit | Faxen zonder faxapparaat
 description: Faxen met een faxapparaat is verleden tijd. Verzend uw faxen online en
   ontvang inkomende faxen als een pdf-bestand in uw e-mail.
 images:
-- "/v1567165784/icon_hwk0eh.png"
+- "/v1566995670/Fax-app_yd2sny.png"
 slug: fax
 hero:
   image: "/v1560261248/callvoip-website-fax.png"
