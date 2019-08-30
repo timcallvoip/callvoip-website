@@ -51,7 +51,7 @@ team:
   name: Dion Steen
   image: "/v1557495164/Portretfoto.jpg"
 - name: Tim van der Horst
-  image: "/v1557495164/Portretfoto.jpg"
+  image: "/v1567149481/Tim_fjmxfn.png"
   content: 'De grafische man. Maakt mooie plaatjes of het niets is en weet daarbij
     de juiste boodschap over te brengen. Doet ie met zo’n raar klinkend toetenbord.
     Vermoedelijk een gamer. Typt in vreemde talen. '
