@@ -39,14 +39,18 @@ fields:
   label: layout
   hidden: true
 pages:
+- content/oplossingen/Branches/tandartspraktijk.md
+- content/oplossingen/Branches/recruitment.md
+- content/oplossingen/Branches/marketingbureau.md
+- content/oplossingen/Branches/makelaardij.md
+- content/oplossingen/Branches/kapsalon.md
+- content/oplossingen/Branches/ict.md
 - content/oplossingen/Branches/fysiotherapie.md
 - content/oplossingen/Branches/assurantie.md
 - content/oplossingen/Branches/advocatuur.md
 - content/offerte.md
 - content/telefonie/functionaliteiten.md
-- content/oplossingen/Branches/recruitment.md
 - content/telefonie/gesprekskosten.md
-- content/oplossingen/Branches/makelaardij.md
 - content/telefonie/telefoonnummers.md
 - content/telefonie/versleutelde-telefoongesprekken-met-srtp.md
 - content/telefonie/realtime-api.md
@@ -71,10 +75,6 @@ pages:
 - content/bedank/wijziging-verzonden.md
 - content/bedank/opzegging-verzonden.md
 - content/telefonie/Functionaliteiten/test.md
-- content/oplossingen/Branches/marketingbureau.md
-- content/oplossingen/Branches/kapsalon.md
-- content/oplossingen/Branches/ict.md
-- content/oplossingen/Branches/tandartspraktijk.md
 - content/oplossingen/Branches/reisbureau.md
 - content/oplossingen/Branches/webshop.md
 - content/oplossingen/Branches/autodealer.md

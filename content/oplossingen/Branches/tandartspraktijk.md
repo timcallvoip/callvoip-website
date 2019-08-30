@@ -3,11 +3,14 @@ type: page
 title: Tandartspraktijk
 description: Callvoip biedt zakelijke telefonie voor elke branche. Bekijk hier de
   mogelijkheden voor uw tandartspraktijk.
-images: []
+images:
+- "/v1567165784/icon_hwk0eh.png"
 slug: tandarts
 hero:
   image: "/v1560762783/callvoip-website-branches-tandarts.png"
+  title: ''
 layout: ''
+Hide in Search: false
 
 ---
 Als tandartspraktijk is het belangrijk dat u altijd bereikbaar bent voor uw patiënten. Binnen werktijd moet op drukke momenten de beller worden opgevangen & buiten werktijd moet de beller in contact gebracht worden met de dienstdoende tandarts.

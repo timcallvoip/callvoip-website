@@ -3,11 +3,14 @@ type: page
 title: ICT
 description: Callvoip biedt zakelijke telefonie voor elke branche. Bekijk hier de
   mogelijkheden voor de ict.
-images: []
+images:
+- "/v1567165784/icon_hwk0eh.png"
 slug: ict
 hero:
   image: "/v1561543729/callvoip-website-branches-ict.png"
+  title: ''
 layout: ''
+Hide in Search: false
 
 ---
 Als aanbieder van ICT diensten (waaronder telefonie) is het belangrijk dat u goed bereikbaar bent voor uw klanten. Daarnaast is het zeer belangrijk om zelf alle ins & outs te kennen van de telefonieoplossing.

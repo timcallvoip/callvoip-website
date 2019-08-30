@@ -3,11 +3,14 @@ type: page
 title: Marketingbureau
 description: Callvoip biedt zakelijke telefonie voor elke branche. Bekijk hier de
   mogelijkheden voor uw marketingbureau.
-images: []
+images:
+- "/v1567165784/icon_hwk0eh.png"
 slug: marketing
 hero:
   image: "/v1560763028/callvoip-website-branches-marketing.png"
+  title: ''
 layout: ''
+Hide in Search: false
 
 ---
 Als marketingbureau is het belangrijk dat alle werknemers bereikbaar zijn voor klanten, dit geldt ook voor als er wordt thuisgewerkt.
