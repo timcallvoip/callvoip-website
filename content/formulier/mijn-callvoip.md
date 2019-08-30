@@ -9,7 +9,7 @@ Als bestaande klant van Callvoip kunt altijd uw abonnement wijzigen. Ook kunt u 
 
 {{< layout/columns >}}
 {{< layout/column2 >}}
-<a href="/offerte/" class="button-outline-secondary">Vraag dan nu een offerte aan</a>
+<a href="/offerte/" class="button outline-secondary">Vraag dan nu een offerte aan</a>
 {{</ layout/column2 >}}
 {{< layout/column2 >}}
 <a href="https://www.callvoip.nl/download/callvoip/CallVoip_telefonie_aanvraagformulier.pdf" class="button">Of word klant!</a>
