@@ -39,6 +39,7 @@ fields:
   label: layout
   hidden: true
 pages:
+- content/telefonie/Functionaliteiten/wachtrij-queue.md
 - content/telefonie/Functionaliteiten/voorwaarde-filter.md
 - content/telefonie/Functionaliteiten/voicemail.md
 - content/telefonie/Functionaliteiten/tijdsconditie.md
@@ -73,7 +74,6 @@ pages:
 - content/oplossingen/Branches/advocatuur.md
 - content/offerte.md
 - content/telefonie/gesprekskosten.md
-- content/telefonie/Functionaliteiten/wachtrij-queue.md
 - content/bedank/offerte-aanvraag-ontvangen.md
 - content/bedank/wijziging-verzonden.md
 - content/bedank/opzegging-verzonden.md

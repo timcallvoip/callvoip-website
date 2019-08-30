@@ -3,7 +3,8 @@ type: page
 title: Wachtrij (Queue) | VoIP-Functionaliteit | Handig bij veel inkomend verkeer
 description: Straal professionaliteit uit en vang inkomende gesprekken op met een
   wachtrij (queue). Maak u telefooncentrale compleet met een wachtrij van Callvoip.
-images: []
+images:
+- "/v1566995669/Wachtrij-app_bp3bak.png"
 slug: wachtrij
 hero:
   image: "/v1560261248/callvoip-website-wachtrij.png"
