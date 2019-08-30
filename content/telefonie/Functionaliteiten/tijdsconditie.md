@@ -3,7 +3,8 @@ type: page
 title: Tijdsconditie | VoIP-Functionaliteit | Definieer vooraf uw belroute
 description: Met de tijdsconditie-app stelt u eenvoudig uw openingstijden in. Ook
   creëert u gemakkelijk andere tijdscondities zoals feestdagen, vakantie etc.
-images: []
+images:
+- "/v1566995670/tijdsconditie_round_szsrmf.png"
 slug: tijdsconditie
 hero:
   image: "/v1560261248/callvoip-website-tijdsconditie.png"

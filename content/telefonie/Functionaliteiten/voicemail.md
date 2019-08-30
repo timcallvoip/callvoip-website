@@ -3,7 +3,8 @@ type: page
 title: Voicemail | VoIP-Functionaliteit | Vang gemiste gesprekken op
 description: Met de voicemailbox biedt u de beller de mogelijkheid om een bericht
   in te spreken. Deze voicemail wordt als .mp3 naar uw email gestuurd.
-images: []
+images:
+- "/v1566995670/Voicemail-app_cq9s4o.png"
 slug: voicemail
 hero:
   image: "/v1560261248/callvoip-website-voicemailbox.png"

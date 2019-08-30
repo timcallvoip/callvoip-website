@@ -3,7 +3,8 @@ type: page
 title: Voorwaarde (Filter) | VoIP-Functionaliteit | Filter inkomende gesprekken
 description: Filter gesprekken met de Voorwaarde-app. Creëer verschillende belroutes
   voor verschillende nummers of blokkeer nummers waardoor u wordt lastiggevallen.
-images: []
+images:
+- "/v1566559951/voorwaarde_icon_op97zu.png"
 slug: voorwaarde
 hero:
   image: "/v1560261249/callvoip-website-voorwaarde.png"
