@@ -3,11 +3,14 @@ type: page
 title: Webshop
 description: Callvoip biedt zakelijke telefonie voor elke branche. Bekijk hier de
   mogelijkheden voor uw webshop.
-images: []
+images:
+- "/v1567165784/icon_hwk0eh.png"
 slug: webshop
 hero:
   image: "/v1561541923/callvoip-website-branches-webshop.png"
+  title: ''
 layout: ''
+Hide in Search: false
 
 ---
 Als webshop is het belangrijk dat u goed bereikbaar bent voor uw klanten. Binnen werktijd moeten de toestellen rinkelen en moet op drukke momenten de beller worden opgevangen. Buiten werktijd moet de beller de melding krijgen dat er niemand beschikbaar is.
