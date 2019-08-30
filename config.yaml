@@ -30,7 +30,7 @@ menu:
     weight: 5
   - pre: external
     url: http://support.callvoip.nl:8040/
-    name: Hulp
+    name: _Hulp
     post: fa-window-restore
     weight: 6
 outputs:
