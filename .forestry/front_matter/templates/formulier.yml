@@ -16,9 +16,9 @@ fields:
     required: false
   label: URL
 pages:
-- content/formulier/abonnement-opzeggen.md
-- content/formulier/calculator-offerte-aanvraag-verzonden.md
 - content/formulier/postcodecheck-verzonden.md
+- content/formulier/calculator-offerte-aanvraag-verzonden.md
+- content/formulier/abonnement-opzeggen.md
 - content/formulier/mijn-callvoip.md
 - content/formulier/importeren-telefoonboek-click-to-dial-aanvragen.md
 - content/formulier/internationaal-nummer-aanvragen.md
