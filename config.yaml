@@ -30,7 +30,7 @@ menu:
     weight: 5
   - pre: external
     url: http://support.callvoip.nl:8040/
-    name: Hulp
+    name: <span style="color: #cc3232">Hulp/span>
     post: fa-desktop-alt
     weight: 6
 outputs:
