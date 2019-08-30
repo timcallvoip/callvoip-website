@@ -3,11 +3,14 @@ type: page
 title: Assurantie
 description: Callvoip biedt zakelijke telefonie voor elke branche. Bekijk hier de
   mogelijkheden voor uw assurantiekantoor.
-images: []
+images:
+- "/v1567165784/icon_hwk0eh.png"
 slug: assurantie
 hero:
   image: "/v1561543296/callvoip-website-branches-assurantie.png"
+  title: ''
 layout: ''
+Hide in Search: false
 
 ---
 Als assurantiekantoor is het belangrijk dat u altijd bereikbaar bent voor uw cliënten.
