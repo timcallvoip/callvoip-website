@@ -39,6 +39,11 @@ fields:
   label: layout
   hidden: true
 pages:
+- content/telefonie/Functionaliteiten/fax.md
+- content/telefonie/Functionaliteiten/doorverbinden.md
+- content/telefonie/Functionaliteiten/call-pickup.md
+- content/telefonie/Functionaliteiten/busy-lamp-field-blf.md
+- content/telefonie/Functionaliteiten/belgroep-huntgroup.md
 - content/telefonie/functionaliteiten.md
 - content/telefonie/conference-service.md
 - content/telefonie/bedrijfstelefoonboek.md
@@ -59,9 +64,7 @@ pages:
 - content/oplossingen/Branches/advocatuur.md
 - content/offerte.md
 - content/telefonie/gesprekskosten.md
-- content/telefonie/Functionaliteiten/call-pickup.md
 - content/telefonie/Functionaliteiten/e-mail.md
-- content/telefonie/Functionaliteiten/fax.md
 - content/telefonie/Functionaliteiten/gespreksopname.md
 - content/telefonie/Functionaliteiten/keuzemenu-ivr.md
 - content/telefonie/Functionaliteiten/meldtekst.md
@@ -71,9 +74,6 @@ pages:
 - content/telefonie/Functionaliteiten/voicemail.md
 - content/telefonie/Functionaliteiten/voorwaarde-filter.md
 - content/telefonie/Functionaliteiten/wachtrij-queue.md
-- content/telefonie/Functionaliteiten/doorverbinden.md
-- content/telefonie/Functionaliteiten/busy-lamp-field-blf.md
-- content/telefonie/Functionaliteiten/belgroep-huntgroup.md
 - content/bedank/offerte-aanvraag-ontvangen.md
 - content/bedank/wijziging-verzonden.md
 - content/bedank/opzegging-verzonden.md

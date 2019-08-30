@@ -3,7 +3,8 @@ type: page
 title: Doorverbinden (Transfer) | VoIP-Functionaliteit | Gesprekken doorzetten
 description: Met de doorverbinden-app zet u eenvoudig inkomende belletjes door naar
   een toestel bij u op kantoor of een extern nummer (bijv. mobiel).
-images: []
+images:
+- "/v1567165784/icon_hwk0eh.png"
 slug: doorverbinden
 hero:
   image: "/v1560261248/callvoip-website-doorverbinden.png"
