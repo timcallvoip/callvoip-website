@@ -39,6 +39,11 @@ fields:
   label: layout
   hidden: true
 pages:
+- content/telefonie/Functionaliteiten/gespreksopname.md
+- content/telefonie/Functionaliteiten/keuzemenu-ivr.md
+- content/telefonie/Functionaliteiten/meldtekst.md
+- content/telefonie/Functionaliteiten/omleiding-flow-control.md
+- content/telefonie/Functionaliteiten/e-mail.md
 - content/telefonie/Functionaliteiten/fax.md
 - content/telefonie/Functionaliteiten/doorverbinden.md
 - content/telefonie/Functionaliteiten/call-pickup.md
@@ -64,11 +69,6 @@ pages:
 - content/oplossingen/Branches/advocatuur.md
 - content/offerte.md
 - content/telefonie/gesprekskosten.md
-- content/telefonie/Functionaliteiten/e-mail.md
-- content/telefonie/Functionaliteiten/gespreksopname.md
-- content/telefonie/Functionaliteiten/keuzemenu-ivr.md
-- content/telefonie/Functionaliteiten/meldtekst.md
-- content/telefonie/Functionaliteiten/omleiding-flow-control.md
 - content/telefonie/Functionaliteiten/prefix.md
 - content/telefonie/Functionaliteiten/tijdsconditie.md
 - content/telefonie/Functionaliteiten/voicemail.md

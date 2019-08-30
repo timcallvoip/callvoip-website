@@ -3,7 +3,8 @@ type: page
 title: Meldtekst (Sound) | VoIP-Functionaliteit | Ingesproken meldingen
 description: Voorzie uw VoIP-oplossing met een meldtekst of andere geluidsbestanden.
   Met meldteksten maakt u uw telefonie een stuk professioneler.
-images: []
+images:
+- "/v1566996057/soundapp_round_n733tu.png"
 slug: meldtekst
 hero:
   image: "/v1560261248/callvoip-website-meldtekst.png"

@@ -3,7 +3,8 @@ type: page
 title: Keuzemenu (IVR) | VoIP-Functionaliteit | Begeleid de inkomende oproep
 description: Met een keuzemenu begeleidt u de beller naar de juiste afdeling. Maak
   uw telefonie professioneler met het gebruik van een keuzemenu van Callvoip.
-images: []
+images:
+- "/v1566995669/Keuzemenu-app_dntzhx.png"
 slug: keuzemenu
 hero:
   image: "/v1560261248/callvoip-website-keuzemenu2.png"

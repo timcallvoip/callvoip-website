@@ -3,7 +3,8 @@ type: page
 title: Gespreksopname (Call Recording) | VoIP-Functionaliteit
 description: Neem uw telefoongesprekken op met gespreksopname. Alle gesprekken zijn
   terug te luisteren en te downloaden op de Hosted telefooncentrale.
-images: []
+images:
+- "/v1566559951/gespreksopname_icon_dymfas.png"
 slug: gespreksopname
 hero:
   image: "/v1561534316/callvoip-website-gespreksopname.jpg"
