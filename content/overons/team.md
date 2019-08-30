@@ -44,7 +44,7 @@ team:
     golf als Formule 1.
   function: Commercieel Medewerker
   name: Lennart Swennenhuis
-  image: "/v1557495164/Portretfoto.jpg"
+  image: "/v1567159537/lennart_lshqcz.png"
 - content: Vindt het leuk om jouw probleem op te lossen. Zeer behulpzaam te noemen.
     Was al Formule 1 fan, maar rijdt zelf liever op twee wielen.
   function: Commercieel Medewerker
