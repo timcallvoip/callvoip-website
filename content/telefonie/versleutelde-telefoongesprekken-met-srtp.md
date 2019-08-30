@@ -4,7 +4,8 @@ title: Versleutelde telefoongesprekken (SRTP) | Veiligheid staat bij ons hoog in
   vaandel
 description: Bescherm uw privacy en zorg dat uw gesprekken niet zomaar worden afgeluisterd,
   dankzij versleutelde telefoongesprekken met SRTP en TLS.
-images: []
+images:
+- "/v1567165784/icon_hwk0eh.png"
 slug: versleutelde-telefoongesprekken/
 hero:
   image: "/v1566564028/SRTP_fq8s4x.png"

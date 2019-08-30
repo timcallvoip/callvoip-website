@@ -3,7 +3,8 @@ type: page
 title: Realtime API (webhooks) | Koppel externe systemen met uw telefooncentrale
 description: Met de Realtime API (application programming interface) van Callvoip
   koppelt u uw VoIP-telefooncentrale met een extern systeem.
-images: []
+images:
+- "/v1567165784/icon_hwk0eh.png"
 slug: realtime-api
 hero:
   image: "/v1566563538/240_F_277556805_XniH6U1Rn2hGJWJ761glNZO9l8sHBznY_kykidf.jpg"
