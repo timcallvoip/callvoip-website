@@ -4,9 +4,11 @@ slug: offerte
 type: page
 hero:
   image: "/v1566311125/offerte_xnr2od.png"
+  title: ''
 description: Bent u op zoek naar de beste zakelijke telefonie? Wilt u een offerte
   op maat? Vraag dan een offerte aan bij Callvoip en ontvang deze binnen 1 dag.
-images: []
+images:
+- "/v1567165784/icon_hwk0eh.png"
 layout: ''
 Hide in Search: false
 

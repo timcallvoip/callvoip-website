@@ -39,6 +39,7 @@ fields:
   label: layout
   hidden: true
 pages:
+- content/offerte.md
 - content/telefonie/functionaliteiten.md
 - content/oplossingen/Branches/recruitment.md
 - content/telefonie/gesprekskosten.md
@@ -64,7 +65,6 @@ pages:
 - content/telefonie/Functionaliteiten/doorverbinden.md
 - content/telefonie/Functionaliteiten/busy-lamp-field-blf.md
 - content/telefonie/Functionaliteiten/belgroep-huntgroup.md
-- content/offerte.md
 - content/bedank/offerte-aanvraag-ontvangen.md
 - content/bedank/wijziging-verzonden.md
 - content/bedank/opzegging-verzonden.md
