@@ -4,7 +4,7 @@ url: "/opzeggen/abonnement"
 Hide in Search: true
 
 ---
-Indien u uw abonnement voor CallvoipTelefonie wilt opzeggen kunt u gebruik maken van onderstaand formulier. Als u uw telefoonnummers mee wilt nemen naar een andere provider, dan kunt u dit op het formulier aangeven. Zegt u de telefoonnummers op, dan komen deze te vervallen.
+Indien u uw abonnement voor Callvoip wilt opzeggen kunt u gebruik maken van onderstaand formulier. Als u uw telefoonnummers mee wilt nemen naar een andere provider, dan kunt u dit op het formulier aangeven. Zegt u de telefoonnummers op, dan komen deze te vervallen.
 
 Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akkoord per mail, naar ons ter bevestiging van uw opdracht. Wij nemen dan z.s.m. met u contact op!
 
@@ -53,6 +53,8 @@ _Indien u de nummers meeneemt naar een andere provider, kunt u hieronder invulle
 _Per wanneer wilt u het abonnement opzeggen?_
 
 {{< form/input "Wensdatum opzegging" >}}
+
+{{< form/input "Heeft u ook CallvoipDSL en dient deze te worden opgezegd?" >}}
 
 {{< form/textarea "Reden van opzegging" >}}
 
