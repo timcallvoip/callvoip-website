@@ -45,7 +45,7 @@ usps:
     title: Hoe werkt VoIP?
     content: VoIP (Voice over Internet Protocol) is kort gezegd bellen over internet.
       Voorheen had u ISDN lijnen nodig, voortaan sluit u een toestel aan op uw internetverbinding.
-  - icon: fa-exlamation-circle
+  - icon: fa-exclamation-circle
     title: Is VoIP betrouwbaar?
     content: Geen internet? Dan schakelt de telefooncentrale door naar uw mobiele
       nummer. Zeer afhankelijk van uw internet? Overweeg dan een backup verbinding.

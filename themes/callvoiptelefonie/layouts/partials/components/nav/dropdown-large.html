@@ -12,7 +12,7 @@
       <div class="w-2/3">
         <div class="list-reset flex flex-wrap md:-mx-8 xl:-mx-4">
           {{ range .menu }}
-            <a href="{{.URL}}" class="md:w-1/2 md:px-8 xl:px-4 xxl:flex mb-8 lg:mb-12 text-grey-dark no-underline">
+            <a href="{{ .Page.Permalink }}" class="md:w-1/2 md:px-8 xl:px-4 xxl:flex mb-8 lg:mb-12 text-grey-dark no-underline">
               <div class="rounded-full bg-grey-lightest h-16 w-16 lg:h-20 lg:w-20 flex justify-center items-center mb-2 xl:mb-4  mr-8">
                 <i class="fal text-3xl lg:fa-2x {{ .Post }} text-blue"></i>
               </div>

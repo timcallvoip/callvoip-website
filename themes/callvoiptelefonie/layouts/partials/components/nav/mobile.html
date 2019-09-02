@@ -4,7 +4,7 @@
       {{ range .Site.Menus.main }}
       {{ if .HasChildren }}
       <li>
-        <a href="{{.URL}}" class="no-underline flex w-full pt-3 pb-1 no-underline items-center font-medium text-lg flex justify-between has-dropdown">
+        <a href="{{ .Page.Permalink }}" class="no-underline flex w-full pt-3 pb-1 no-underline items-center font-medium text-lg flex justify-between has-dropdown">
           <span>
             {{ .Name }}
           </span>
@@ -15,7 +15,7 @@
         <ul class="is-dropdown hidden">
           {{ range .Children }}
             <li>
-              <a href="{{.URL}}" class="no-underline flex w-full py-2 no-underline ">
+              <a href="{{ .Page.Permalink }}" class="no-underline flex w-full py-2 no-underline ">
                   {{ .Name }}
               </a>
             </li>
@@ -24,7 +24,7 @@
       </li>
       {{ else }}
       <li>
-        <a href="{{.URL}}" class="no-underline flex w-full py-3 no-underline items-center font-medium">
+        <a href="{{ .Page.Permalink }}" class="no-underline flex w-full py-3 no-underline items-center font-medium">
           {{ .Name }}
         </a>
       </li>

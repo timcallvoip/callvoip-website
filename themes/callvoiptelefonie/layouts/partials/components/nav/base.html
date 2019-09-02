@@ -7,8 +7,8 @@
     {{ $has := $page.HasMenuCurrent "main" . }}
     {{ if .HasChildren }}
     <li class="">
-      <a href="{{.URL}}" class="no-underline  pb-1  xl:text-lg md:mx-4 has-dropdown text-grey-dark border-white {{ if $has }} border-b-4 border-blue {{ end }}  hover:border-b-4 hover:text-blue  ">
-        {{ .Name }}
+      <a href="{{ .Page.Permalink }}" class="no-underline  pb-1  xl:text-lg md:mx-4 has-dropdown text-grey-dark border-white {{ if $has }} border-b-4 border-blue {{ end }}  hover:border-b-4 hover:text-blue  ">
+        {{ .Name }} 
       </a>
       {{ $parent := . }}
       <!-- If the menu item has children, include this partial template again (recursively) -->
@@ -20,7 +20,7 @@
     </li>
     {{ else }}
     <li>
-      <a href="{{.URL}}" class="no-underline xl:text-lg md:mx-4 {{ if eq $.page.URL .URL }} text-blue {{ else }} text-grey-dark {{end}} hover:text-blue">
+      <a href="{{ .Page.Permalink }}" class="no-underline xl:text-lg md:mx-4 {{ if eq $.page.URL .URL }} text-blue {{ else }} text-grey-dark {{end}} hover:text-blue">
         {{ .Name }}
       </a>
     </li>

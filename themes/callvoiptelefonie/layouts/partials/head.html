@@ -17,7 +17,6 @@
 {{- partial "seo/schema" . -}}
 {{- partial "seo/twitterCards" . -}}
 
-{{ .Hugo.Generator }}
 
 {{ if .Site.IsServer }}
   {{ $style := resources.Get "css/styles.css" | postCSS (dict "config" "./themes/callvoiptelefonie/assets/css/dev/postcss.config.js") | fingerprint }}
@@ -51,9 +50,9 @@
 <meta name="msapplication-TileColor" content="#1e3b78">
 <meta name="theme-color" content="#ffffff">
 
-{{- if .RSSLink -}}
-  <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ $title }}" />
-  <link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ $title }}" />
+{{ with .OutputFormats.Get "RSS" }}
+  <link href="{{ .RelPermalink }}" rel="alternate" type="application/rss+xml" title="{{ $title }}" />
+  <link href="{{ .RelPermalink }}" rel="feed" type="application/rss+xml" title="{{ $title }}" />
 {{- end -}}
 
 <style>.async-hide { opacity: 0 !important} </style>

@@ -11,7 +11,7 @@
       {{ if $post }}
       <i class="fal {{ $post }} {{ if eq $pre "external" }} text-red {{ end}}" ></i>
       {{ end }}
-    {{.Name}}
+    <span class="ml-1 {{ if $post }} text-red {{ end }}">{{.Name}}</span>
   </a>
   {{ end }}
 </nav>
