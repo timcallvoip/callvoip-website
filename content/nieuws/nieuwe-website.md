@@ -19,6 +19,9 @@ Zoals u ziet is onze website vernieuwd! Voor onze bestaande klanten zal het even
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1566812938/new_btpepq.png)
 
+{{< layout/columns >}}  
+ {{< layout/column2 >}}
+
 ### Status
 
 Bookmark deze pagina en bekijk snel of er problemen zijn met de telefoniedienst.
@@ -27,7 +30,17 @@ Op deze statuspagina vindt u de status van de verschillende onderdelen van Simmp
 
 [Bekijk 'Status' hier](https://callvoip.nl/mijncallvoip/).
 
+{{</ layout/column2 >}}  
+ {{< layout/column2 >}}
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1567432846/mailing-status_stuzes.png)  
+ {{</ layout/column2 >}}  
+{{</ layout/columns >}}
+
 <br>
+
+{{< layout/columns >}}  
+ {{< layout/column2 >}}
 
 ### Mijn Callvoip
 
@@ -37,7 +50,18 @@ Als bestaande klant van Callvoip kunt altijd uw abonnement wijzigen. Ook kunt u 
 
 [Bekijk 'Mijn Callvoip' hier](https://callvoip.nl/mijncallvoip/).
 
+ {{</ layout/column2 >}}  
+ {{< layout/column2 >}}
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1567432926/mailing-mijncallvoip_iihpqt.png)
+
+ {{</ layout/column2 >}}  
+{{</ layout/columns >}}
+
 <br>
+
+{{< layout/columns >}}  
+ {{< layout/column2 >}}
 
 ### Support
 
@@ -47,21 +71,51 @@ Op onze ondersteuningspagina vindt u oplossingen en ondersteuning voor veel voor
 
 [Bekijk 'Support' hier](https://callvoip.nl/mijncallvoip/).
 
+ {{</ layout/column2 >}}  
+ {{< layout/column2 >}}
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1567432947/mailing-support_bhhssc.png)
+
+ {{</ layout/column2 >}}  
+{{</ layout/columns >}}
+
 <br>
+
+{{< layout/columns >}}  
+ {{< layout/column2 >}}
 
 ### Webshop
 
-Onze webshop is niet gewijzigd, oud & vertrouwd. 
+Onze webshop is niet gewijzigd, oud & vertrouwd.
 
 [Bekijk 'Webshop' hier](https://www.callvoip.nl/pages/webshop/).
 
+ {{</ layout/column2 >}}  
+ {{< layout/column2 >}}
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1567432967/mailing-webshop_gef2vm.png)
+
+ {{</ layout/column2 >}}  
+{{</ layout/columns >}}
+
 <br>
+
+{{< layout/columns >}}  
+ {{< layout/column2 >}}
 
 ### Login
 
 Via de knop 'Login' komt u op Simmp, de online telefooncentrale, terecht. Via Simmpl voert u eenvoudig wijzigingen door in uw belplan en meer!
 
 [Bekijk 'Login Simmpl' hier](https://panel.callvoip.nl/login/panel).
+
+ {{</ layout/column2 >}}  
+ {{< layout/column2 >}}
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1567432986/mailing-login_l0xajk.png)
+
+ {{</ layout/column2 >}}  
+{{</ layout/columns >}}
 
 <br>
 
