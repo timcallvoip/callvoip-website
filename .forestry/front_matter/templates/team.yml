@@ -67,6 +67,11 @@ fields:
     type: text
     hidden: false
     default: ''
+  - name: linkedin
+    label: Linkedin
+    type: text
+    hidden: false
+    default: ''
   - type: file
     name: image
     label: Image

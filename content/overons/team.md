@@ -15,6 +15,7 @@ team:
   function: Algemeen Directeur
   image: "/v1566802543/callvoip-website-team-robert_redkwl.png"
   name: Robert Tijdhof
+  linkedin: https://www.linkedin.com/in/robert-tijdhof-3b55822/
 - content: Orakel van Callvoip. Maakt ambassadeurs van klanten. Maar nog liever fans.
     Zelf fan van planten en mooie vergezichten. Mag graag uit eten. Schijnt een zak
     koffiebonen per dag weg te drinken.
