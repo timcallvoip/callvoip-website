@@ -26,7 +26,7 @@ blocks:
     Bij CallvoipTelefonie krijgt u toegang tot de modernste online telefooncentrale, Simmpl. Simmpl, omdat de telefooncentrale u voorziet van zeer veel professionele <a href="/telefonie/functionaliteiten/">functionaliteiten</a> en uitblinkt in bedieningsgemak.
 
     Met alle professionele functies maken we u écht beter bereikbaar. Alles kunt u eenvoudig instellen en mocht u er toch even niet uitkomen, dan helpen wij u graag!
-  image: "/v1552466837/instellingen.png"
+  image: "/v1566993176/lego_yv1a3b.png"
   position: image_right
   title: Functionaliteiten van de online telefooncentrale
   image_position: ''
