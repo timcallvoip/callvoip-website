@@ -12,13 +12,13 @@ hero:
     content: ''
     link: ''
 blocks:
-- content: <p>De telefooncentrale is de kracht van Callvoip! U kunt gemakkelijk zelf
-    instellen wat er moet gebeuren als uw bedrijf gebeld wordt. Benieuwd hoe de telefooncentrale
-    werkt?</p> <p><a href="http://files.callvoip.nl/" class="button" target="_blank">Probeer de interactieve demo!</a></p>
+- content: <p>Onze telefooncentrale heet Simmpl en is de krachtige kern van Callvoip. Hier kunt u alle functionaliteiten (laten) beheren
+en aanpassen. Eens zien hoe eenvoudig dit is? Probeer de nieuwe demo omgeving uit en bouw uw eigen belplan!</p> <p><a
+href="http://files.callvoip.nl/" class="button" target="_blank">Probeer de interactieve demo!</a></p>
   image: "lego_yv1a3b.png"
   image_link: http://files.callvoip.nl/
   position: image_left
-  title: Doe het lekker zelf!
+  title: Bouw uw eigen telefooncentrale, zo Simmpl als lego
   image_position: center
 kiezen:
   title: Waarom kiezen voor Callvoip?
