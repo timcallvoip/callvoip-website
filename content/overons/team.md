@@ -22,41 +22,48 @@ team:
   function: Business Operations
   image: "/v1566806438/marieke_jqs8iq.png"
   name: Marieke Timmer
+  linkedin: ''
 - content: Heeft de nauwkeurigheid van een precisie-instrument. Is dit misschien ook
     wel, hoewel we betwijfelen of die wel anekdotes kunnen vertellen. Deelt graag
     de koffie uit. Passie voor techniek.
   function: Technisch logistiek medewerker
   image: "/v1566802563/callvoip-website-team-herman_mdldbx.png"
   name: Herman Willems
+  linkedin: ''
 - content: Is hier al een tijdje en heeft zichzelf getransformeerd tot online marketing
     man. Stelt dus o.a. pakkende mails op en is verantwoordelijk voor de website.
     Is een Noord-Hollandse Fries, maar wel één van de leukere.
   function: Marketing
   image: "/v1566802520/callvoip-website-team-milan_ixdgqf.png"
   name: Milan Littooy
+  linkedin: https://nl.linkedin.com/in/milanlittooy
 - function: Administratie
   name: Lynn de Goede
   image: "/v1566820938/lynn_lng9ig.png"
   content: Porteert je waar je bij staat, na grondige check. Draagt zorg voor alle
     processen zodra je klant wordt. Maakt meer lawaai dan je denkt. Heeft iets met
     Griekenland. Vindt het leuk om op een paard te zitten.
+  linkedin: ''
 - content: Maakt graag klanten van leads. Denkt en veert mee maar geeft ook advies.
     Eet vermoedelijk een doos eieren per dag. ’t Is een raadsel hoe, maar kijkt zowel
     golf als Formule 1.
   function: Commercieel Medewerker
   name: Lennart Swennenhuis
   image: "/v1567159537/lennart_lshqcz.png"
+  linkedin: ''
 - content: Vindt het leuk om jouw probleem op te lossen. Zeer behulpzaam te noemen.
     Was al Formule 1 fan, maar rijdt zelf liever op twee wielen.
   function: Commercieel Medewerker
   name: Dion Steen
   image: "/v1557495164/Portretfoto.jpg"
+  linkedin: ''
 - name: Tim van der Horst
   image: "/v1567149481/Tim_fjmxfn.png"
   content: 'De grafische man. Maakt mooie plaatjes of het niets is en weet daarbij
     de juiste boodschap over te brengen. Doet ie met zo’n raar klinkend toetenbord.
     Vermoedelijk een gamer. Typt in vreemde talen. '
   function: Marketingmedewerker
+  linkedin: ''
 description: 'Maak kennis met het team van Callvoip: Tim, Ralph, Dion, Remco, Lynn,
   Herman, Marieke & Robert.'
 images: []
