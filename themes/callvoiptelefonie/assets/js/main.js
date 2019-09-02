@@ -63,6 +63,27 @@ var activemenu = function () {
 }();
 
 
+function closeMenu() {
+
+  const dropdowns = document.getElementsByClassName('active-dropdown');
+
+  Array.prototype.forEach.call(dropdowns, function (element, index) {
+
+    console.log('active dropdown')
+    
+    element.addEventListener('click', function() {
+      console.log('click')
+    })
+
+  })
+
+
+
+}
+
+
+
+
 // 
 
 function openChat() {
