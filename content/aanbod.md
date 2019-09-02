@@ -18,7 +18,7 @@ blocks:
   image: "lego_yv1a3b.png"
   image_link: http://files.callvoip.nl/
   position: image_left
-  title: <p>Bouw uw eigen centrale, <br> zo Simmpl als lego</p>
+  title: Bouw uw eigen centrale,  zo Simmpl als lego
   image_position: center
 kiezen:
   title: Waarom kiezen voor Callvoip?
