@@ -10,7 +10,7 @@ hero:
   image: "/v1561534316/callvoip-website-gespreksopname.jpg"
   title: Gespreksopname (Call Recording)
 layout: ''
-Hide in Search: false
+hideinsearch: false
 
 ---
 Met gespreksopname kunt u uw telefoongesprekken opnemen en terugluisteren.  

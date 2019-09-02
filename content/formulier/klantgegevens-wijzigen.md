@@ -1,7 +1,7 @@
 ---
 title: Klantgegevens wijzigen
 url: "/wijzigen/klantgegevens/"
-Hide in Search: true
+hideinsearch: true
 
 ---
 Hieronder kunt u uw klantgegevens wijzigen. Vult u onderstaand formulier in en wij doen ons best deze wijzigingen zo snel mogelijk te verwerken.

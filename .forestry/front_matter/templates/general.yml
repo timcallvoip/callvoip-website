@@ -9,7 +9,7 @@ fields:
   label: SEO
   description: SEO
 - type: boolean
-  name: Hide in Search
+  name: hideinsearch
   label: hideinsearch
 - type: field_group
   name: clients

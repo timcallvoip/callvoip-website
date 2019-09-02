@@ -79,7 +79,7 @@ prijzen:
     - title: Eenmalig (ongeveer)
       price: '350.00'
     footer: Prijzen zijn excl. BTW
-Hide in Search: false
+hideinsearch: false
 menu:
   main:
     name: 4G Oplossingen

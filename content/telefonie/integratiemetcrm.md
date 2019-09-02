@@ -79,7 +79,7 @@ prijzen:
     - title: Eenmalig per organisatie
       price: '150.00'
     title: Kosten VoIP CTI
-Hide in Search: false
+hideinsearch: false
 menu:
   main:
     weight: 3

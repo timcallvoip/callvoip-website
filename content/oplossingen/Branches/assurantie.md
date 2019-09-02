@@ -10,7 +10,7 @@ hero:
   image: "/v1561543296/callvoip-website-branches-assurantie.png"
   title: ''
 layout: ''
-Hide in Search: false
+hideinsearch: false
 
 ---
 Als assurantiekantoor is het belangrijk dat u altijd bereikbaar bent voor uw cliënten.

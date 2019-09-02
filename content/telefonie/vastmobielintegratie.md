@@ -107,7 +107,7 @@ prijzen:
       price: '49.00'
     - title: Eenmalig
       price: '25.00'
-Hide in Search: false
+hideinsearch: false
 menu:
   main:
     weight: 2

@@ -10,7 +10,7 @@ hero:
   image: "/v1561543537/callvoip-website-branches-kapper.png"
   title: ''
 layout: ''
-Hide in Search: false
+hideinsearch: false
 
 ---
 Als kapsalon is het belangrijk dat u goed bereikbaar bent voor uw klanten. Binnen werktijd moeten de toestellen rinkelen en moet op drukke momenten de beller worden opgevangen. Buiten werktijd moet de beller de melding krijgen dat jullie gesloten zijn.

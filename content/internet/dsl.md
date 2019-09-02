@@ -96,7 +96,7 @@ prijzen:
 description: 'DSL internetverbindingen van Callvoip komen er in vele soorten en maten:
   ADSL, ADSL2+, VDSL en VVDSL. Doe de postcodecheck.'
 images: []
-Hide in Search: false
+hideinsearch: false
 menu:
   main:
     name: DSL

@@ -24,7 +24,7 @@ fields:
   label: layout
   hidden: true
 - type: boolean
-  name: Hide in Search
+  name: hideinsearch
   label: hideinsearch
 - type: boolean
   name: logos

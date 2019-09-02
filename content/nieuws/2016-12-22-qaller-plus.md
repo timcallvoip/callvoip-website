@@ -8,7 +8,7 @@ contactpersoon:
 - 1995
 categories:
 - Updates
-Hide in Search: true
+hideinsearch: true
 
 ---
 Een aantal maanden geleden lanceerden wij de gratis smartphone app Qaller. Met Qaller kunt u de telefooncentrale bedienen, handig voor onderweg. De app is enorm populair en voorziet bij veel klanten in een behoefte.

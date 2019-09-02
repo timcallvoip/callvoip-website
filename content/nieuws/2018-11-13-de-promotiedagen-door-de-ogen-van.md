@@ -8,7 +8,7 @@ contactpersoon:
 - 9358
 categories:
 - Evenement
-Hide in Search: true
+hideinsearch: true
 
 ---
 Zoals u misschien wel hebt gezien of gehoord waren wij als CallvoipTelefonie aanwezig op de Promotiedagen in de MartiniPlaza, deze vonden plaats op 6 en 7 november. <!--more-->

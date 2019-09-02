@@ -4,7 +4,7 @@ weight:
 description: ''
 images: []
 pdf: http://www.simmpl.nl/downloads/Simmpl_snelstarthandleiding_Yealink-C2D-adresboek.pdf
-Hide in Search: false
+hideinsearch: false
 Nieuw: true
 Update: false
 

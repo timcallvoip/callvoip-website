@@ -12,7 +12,7 @@ url: "/click-to-dial-van-nummer-naar-slimme-toepassingen/"
 contactpersoon: []
 categories: []
 tags: []
-Hide in Search: true
+hideinsearch: true
 
 ---
 De **gratis** Click-to-Dial extensie van Callvoip blijft zich steeds verder ontwikkelen op basis van wensen van onze klanten. Wat 2 jaar geleden begon als een simpele app die nummers ‘klikbaar’ maakt om gemakkelijk uit te kunnen bellen, heeft zich inmiddels ontwikkeld tot een volwaardige en onmisbare functionaliteit in de dagelijkse werkzaamheden van vele Callvoip-klanten.<!--more-->

@@ -1,7 +1,7 @@
 ---
 title: SRTP (Vesleutelde gesprekken) aanvragen
 url: "/aanvragen/srtp/"
-Hide in Search: true
+hideinsearch: true
 
 ---
 Wilt u voortaan dat al uw gesprekken beveiligd zijn? Dan kunt u hieronder de dienst SRTP aanvragen. De kosten van SRTP bedragen: € 2,00 per toestelaccount per maand – deze meerprijs geldt voor alle toestellen.

@@ -161,6 +161,6 @@ testimonial:
 description: Callvoip is de zakelijke telefonieprovider in Nederland. Bespaar op uw
   telefonie met de modernste oplossingen van Callvoip.
 images: []
-Hide in Search: false
+hideinsearch: false
 
 ---

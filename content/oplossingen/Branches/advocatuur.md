@@ -10,7 +10,7 @@ hero:
   image: "/v1561639237/callvoip-website-branches-advocatuur.png"
   title: ''
 layout: ''
-Hide in Search: false
+hideinsearch: false
 
 ---
 Als advocatenpraktijk is het belangrijk dat u altijd bereikbaar bent voor uw cliënten. Daarnaast is er veel contact met de rechtbank, via de telefoon en via de fax.

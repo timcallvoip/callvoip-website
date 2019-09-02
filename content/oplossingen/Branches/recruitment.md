@@ -10,7 +10,7 @@ hero:
   image: "/v1561638617/callvoip-website-branches-recruitment.png"
   title: ''
 layout: ''
-Hide in Search: false
+hideinsearch: false
 
 ---
 Voor recruiters is het belangrijk dat er veel uitgebeld kan worden tegen een scherp tarief. Daarnaast moet men natuurlijk bereikbaar zijn, maar de focus ligt hier niet.

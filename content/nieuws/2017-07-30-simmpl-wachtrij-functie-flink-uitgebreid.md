@@ -6,7 +6,7 @@ date: 2017-07-30T12:20:59.000+00:00
 url: "/simmpl-wachtrij-functie-flink-uitgebreid/"
 categories:
 - Nieuwsbrieven
-Hide in Search: true
+hideinsearch: true
 
 ---
 Op basis van uw wensen en feedback is de wachtrijfunctie is flink uitgebreid en voorzien van extra, professionele features.

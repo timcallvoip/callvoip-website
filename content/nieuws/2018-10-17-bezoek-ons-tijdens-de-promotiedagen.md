@@ -10,7 +10,7 @@ categories:
 - Evenement
 images: []
 description: Wij nodigen u van harte uit om onze stand te bezoeken
-Hide in Search: true
+hideinsearch: true
 
 ---
 Wij zijn 6 en 7 november aanwezig op 32ste editie van de Promotiedagen in MartiniPlaza Groningen. De Promotiedagen is het zakelijk ontmoetingspunt van Noord-Nederland. Tijdens deze twee dagen zijn er 600 bedrijven aanwezig en meer dan 25000 bezoekers. <!--more-->

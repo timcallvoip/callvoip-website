@@ -10,7 +10,7 @@ hero:
   image: "/v1566563538/240_F_277556805_XniH6U1Rn2hGJWJ761glNZO9l8sHBznY_kykidf.jpg"
   title: Realtime API (webhooks)
 layout: ''
-Hide in Search: false
+hideinsearch: false
 
 ---
 Met de Realtime API (application programming interface) van Callvoip koppelt u uw telefooncentrale met een extern systeem. Of nu gaat om een integratie met uw CRM systeem of een Call-me-Back button. Met de API-koppeling kan het.

@@ -10,7 +10,7 @@ hero:
   image: "/v1560261248/callvoip-website-doorverbinden.png"
   title: Doorverbinden (Transfer)
 layout: ''
-Hide in Search: false
+hideinsearch: false
 
 ---
 Met de doorverbinden-app zet u eenvoudig inkomende belletjes door naar een toestel bij u op kantoor of naar een extern nummer. Denk hierbij bijvoorbeeld aan een mobiele telefoon of een externe telefoondienst.

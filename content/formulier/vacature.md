@@ -1,6 +1,6 @@
 ---
 title: Reageren op vacature
-Hide in Search: true
+hideinsearch: true
 
 ---
 Vul het onderstaande formulier in en wij nemen zo snel mogelijk contact met je op.

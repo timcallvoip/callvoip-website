@@ -8,7 +8,7 @@ contactpersoon:
 - 1988
 categories:
 - Nieuwsbrieven
-Hide in Search: true
+hideinsearch: true
 
 ---
 Stel: u heeft net een telefoongesprek gehad en u wilt terugluisteren wat er allemaal besproken of afgesproken is. Hoe kunt u dit instellen?

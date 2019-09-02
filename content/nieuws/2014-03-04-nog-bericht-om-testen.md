@@ -8,7 +8,7 @@ contactpersoon:
 - 1997
 categories:
 - Nieuwsbrieven
-Hide in Search: true
+hideinsearch: true
 
 ---
 <!--more-->CallvoipTelefonie is de full-service aanbieder van Voice-over-IP diensten en met onze centrale kunt u al uw telefoniewensen uitvoeren. Maar het configureren van onze centrale kan een flinke klus zijn. We nemen deze klus vanaf nu graag van u over voor een geringe vergoeding.

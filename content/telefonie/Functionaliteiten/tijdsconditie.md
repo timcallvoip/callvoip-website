@@ -10,7 +10,7 @@ hero:
   image: "/v1560261248/callvoip-website-tijdsconditie.png"
   title: Tijdsconditie
 layout: ''
-Hide in Search: false
+hideinsearch: false
 
 ---
 Met de tijdsconditie-app definieert u vooraf tijden waarop één of meerdere acties moeten plaatsvinden. Denkt u bijvoorbeeld aan een belroute voor binnen en buiten werktijd of een gewijzigde belroute tijdens de lunchpauze, feestdagen, etc.

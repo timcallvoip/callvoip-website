@@ -10,7 +10,7 @@ hero:
   image: "/v1566553083/yealink_conferencecall_mvrwpe.png"
   title: ''
 layout: ''
-Hide in Search: false
+hideinsearch: false
 
 ---
 Een eigen vergaderfaciliteit om met meerdere mensen op afstand telefonisch vergaderen?  

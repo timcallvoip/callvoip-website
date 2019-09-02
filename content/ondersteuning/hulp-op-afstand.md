@@ -4,7 +4,7 @@ weight:
 description: ''
 images: []
 pdf: ''
-Hide in Search: false
+hideinsearch: false
 Nieuw: false
 Update: false
 

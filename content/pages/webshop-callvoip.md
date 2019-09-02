@@ -13,7 +13,7 @@ hero:
     link: http://files.callvoip.nl/
   image: "/v1566993176/lego_yv1a3b.png"
   position: " image_right"
-Hide in Search: false
+hideinsearch: false
 intro:
   title: ''
   content: ''

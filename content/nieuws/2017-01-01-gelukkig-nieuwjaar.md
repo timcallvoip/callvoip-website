@@ -8,7 +8,7 @@ contactpersoon:
 - 1987
 categories:
 - Nieuwsbrieven
-Hide in Search: true
+hideinsearch: true
 
 ---
 Namens ons gehele team: een heel gelukkig 2017 toegewenst!

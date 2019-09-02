@@ -10,7 +10,7 @@ hero:
   image: "/v1561541923/callvoip-website-branches-webshop.png"
   title: ''
 layout: ''
-Hide in Search: false
+hideinsearch: false
 
 ---
 Als webshop is het belangrijk dat u goed bereikbaar bent voor uw klanten. Binnen werktijd moeten de toestellen rinkelen en moet op drukke momenten de beller worden opgevangen. Buiten werktijd moet de beller de melding krijgen dat er niemand beschikbaar is.

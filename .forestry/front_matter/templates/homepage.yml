@@ -14,7 +14,7 @@ fields:
   label: SEO
   description: SEO
 - type: boolean
-  name: Hide in Search
+  name: hideinsearch
   label: hideinsearch
 - name: hero
   label: Hero

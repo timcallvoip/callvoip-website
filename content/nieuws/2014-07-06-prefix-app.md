@@ -8,7 +8,7 @@ contactpersoon:
 - 1991
 categories:
 - Updates
-Hide in Search: true
+hideinsearch: true
 
 ---
 Maak de inkomende route van een telefoongesprek zichtbaar door er een zelfgekozen prefix voor te plakken. Deze ziet u voor het nummer van de beller in het display van uw IP-telefoon.

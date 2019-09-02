@@ -112,6 +112,6 @@ prijzen:
 description: 'Benieuwd naar het aanbod van Callvoip? Totaalleverancier: de modernste
   telefonie, het snelste internet en de beste apparatuur. Alles onder één dak.'
 images: []
-Hide in Search: false
+hideinsearch: false
 
 ---

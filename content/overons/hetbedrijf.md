@@ -25,7 +25,7 @@ blocks:
 description: Callvoip is de telefonieprovider voor de zakelijke markt. De beste telefonieoplossing
   en persoonlijk contact staan bij ons centraal.
 images: []
-Hide in Search: false
+hideinsearch: false
 menu:
   main:
     parent: Over ons

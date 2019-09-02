@@ -10,7 +10,7 @@ hero:
   image: "/v1561542250/callvoip-website-branches-makelaardij.png"
   title: ''
 layout: ''
-Hide in Search: false
+hideinsearch: false
 
 ---
 Als makelaar is het belangrijk dat u goed bereikbaar bent voor uw klanten. Echter bent u als makelaar vaak onderweg, maar u wenst wel telefonisch bereikbaar te zijn.

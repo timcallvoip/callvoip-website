@@ -25,7 +25,7 @@ blocks:
 description: Ben je op zoek naar een echte uitdaging en een leuk team? Bekijk dan
   snel welke interessante vacatures wij op dit moment hebben.
 images: []
-Hide in Search: false
+hideinsearch: false
 menu:
   main:
     weight: 3

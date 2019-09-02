@@ -22,7 +22,7 @@ fields:
   label: SEO
   description: Seo
 - type: boolean
-  name: Hide in Search
+  name: hideinsearch
   label: hideinsearch
 - type: boolean
   name: Nieuw

@@ -10,7 +10,7 @@ hero:
   image: "/v1566564525/telefoonnummer.png_ng1asx.jpg"
   title: Telefoonnummers
 layout: ''
-Hide in Search: false
+hideinsearch: false
 
 ---
 Neem uw huidige telefoonnummers mee of vraag nieuwe telefoonnummers aan; landelijke-, regionale-, internationale- of servicenummers. Het kan allemaal bij Callvoip.

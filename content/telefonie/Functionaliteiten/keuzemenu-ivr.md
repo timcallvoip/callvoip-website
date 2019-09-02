@@ -10,7 +10,7 @@ hero:
   image: "/v1560261248/callvoip-website-keuzemenu2.png"
   title: Keuzemenu (IVR)
 layout: ''
-Hide in Search: false
+hideinsearch: false
 
 ---
 Met een keuzemenu begeleidt u de bellers direct naar de juiste medewerker of afdeling.  

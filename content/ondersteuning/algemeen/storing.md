@@ -7,7 +7,7 @@ description: ''
 images: []
 update: true
 nieuw: true
-Hide in Search: false
+hideinsearch: false
 Nieuw: false
 Update: false
 pdf: ''

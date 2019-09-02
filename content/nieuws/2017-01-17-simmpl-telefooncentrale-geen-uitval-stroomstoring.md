@@ -8,7 +8,7 @@ contactpersoon:
 - 1987
 categories:
 - Nieuwsbrieven
-Hide in Search: true
+hideinsearch: true
 
 ---
 Zoals u zult hebben vernomen heeft er vannacht (17 januari 2017) een zeer grote stroomstoring plaatsgevonden in Amsterdam. De Simmpl telefooncentrales bevinden zich o.a. in datacenters in Amsterdam. 

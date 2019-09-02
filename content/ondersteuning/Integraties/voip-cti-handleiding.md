@@ -4,7 +4,7 @@ weight:
 description: ''
 images: []
 pdf: http://www.simmpl.nl/downloads/Simmpl_handleiding_bij_VoIP-CTI_CRM-koppelingen.pdf
-Hide in Search: false
+hideinsearch: false
 Nieuw: false
 Update: false
 

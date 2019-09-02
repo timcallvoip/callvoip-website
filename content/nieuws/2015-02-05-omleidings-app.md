@@ -10,7 +10,7 @@ categories:
 - Updates
 images: []
 description: Wilt u met één druk op de knop uw belverkeer aanpassen?
-Hide in Search: true
+hideinsearch: true
 
 ---
 **Nieuw: one-touch omleidings-app!**

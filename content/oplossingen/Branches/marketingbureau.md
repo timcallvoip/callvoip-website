@@ -10,7 +10,7 @@ hero:
   image: "/v1560763028/callvoip-website-branches-marketing.png"
   title: ''
 layout: ''
-Hide in Search: false
+hideinsearch: false
 
 ---
 Als marketingbureau is het belangrijk dat alle werknemers bereikbaar zijn voor klanten, dit geldt ook voor als er wordt thuisgewerkt.

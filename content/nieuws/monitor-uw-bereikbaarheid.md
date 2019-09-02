@@ -12,7 +12,7 @@ url: "/monitor-bereikbaarheid/"
 contactpersoon: []
 categories: []
 tags: []
-Hide in Search: false
+hideinsearch: false
 
 ---
 We bellen steeds minder, zo zegt men. Is ook zo, als het om privésituaties gaat. Liever even een appje om aan te geven dat men wat later is. Maar voor de kapper, tandarts en makelaar pakken we doorgaans toch echt de telefoon om daadwerkelijk te bellen. En deze kapper, tandarts en makelaar willen uiteraard bereikbaar zijn voor hun klant. Zoals een voormalige werkgever van me zei “is de telefoon waar het geld zit”. Eén gemist gesprek hoeft niet direct een ramp te zijn, maar het is nooit goed. Men moet bereikbaar zijn.

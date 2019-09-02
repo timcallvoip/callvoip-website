@@ -10,7 +10,7 @@ hero:
   image: "/v1560261248/callvoip-website-belgroep.png"
   title: Belgroep (Huntgroup)
 layout: ''
-Hide in Search: false
+hideinsearch: false
 
 ---
 De belgroep-app biedt u de mogelijkheid om een inkomend gesprek naar één of meerdere interne of externe nummers door te schakelen. Daarnaast kunt u ervoor kiezen in welke volgorde de toestellen rinkelen.

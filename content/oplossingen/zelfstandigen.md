@@ -108,7 +108,7 @@ prijzen:
 description: Op zoek naar telefonie voor ZZP? Callvoip biedt u de oplossing. Ontdek
   de voordelen en mogelijkheden van onze modernste online telefooncentrale.
 images: []
-Hide in Search: false
+hideinsearch: false
 menu:
   main:
     name: Zelfstandigen

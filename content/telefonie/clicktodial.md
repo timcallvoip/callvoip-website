@@ -68,7 +68,7 @@ intro:
   title: ''
   content: ''
 prijzen: []
-Hide in Search: false
+hideinsearch: false
 menu:
   main:
     weight: 4

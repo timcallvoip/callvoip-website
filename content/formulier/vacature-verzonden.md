@@ -2,7 +2,7 @@
 title: Sollicitatie verzonden
 url: "/formulier/vacature/verzonden"
 hideinsearch: true
-Hide in Search: true
+hideinsearch: true
 
 ---
 Je bericht is succesvol verzonden.

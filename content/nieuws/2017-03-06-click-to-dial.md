@@ -9,7 +9,7 @@ contactpersoon:
 categories:
 - Nieuwsbrieven
 - Updates
-Hide in Search: true
+hideinsearch: true
 
 ---
 Met trots introduceert CallvoipTelefonie de Click-to-dial functionaliteit.<br /> Klanten die gebruik maken van de Simmpl-telefooncentrale kunnen voortaan nummers in Chrome aanklikken en automatisch bellen!<br /> Kadootje van Callvoip &#8211; deze plugin voor de chrome browser kunt u kostenloos installeren en gebruiken!

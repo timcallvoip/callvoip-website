@@ -11,7 +11,7 @@ hero:
   image: "/v1566564028/SRTP_fq8s4x.png"
   title: ''
 layout: ''
-Hide in Search: false
+hideinsearch: false
 
 ---
 Als eerste provider in Nederland levert Callvoip versleutelde telefoongesprekken. Veiligheid staat bij ons hoog in het vaandel en daarom bieden wij de mogelijkheid om uw telefonie te versleutelen en zo uw privacy te waarborgen. Dit doen we door middel van SRTP en TLS.

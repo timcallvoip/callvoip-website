@@ -117,7 +117,7 @@ prijzen:
 description: 'Zakelijke telefonie voor het MKB: dé professionele telefonie-oplossing
   voor uw situatie. Vraag een vrijblijvende offerte aan bij Callvoip. '
 images: []
-Hide in Search: false
+hideinsearch: false
 menu:
   main:
     name: MKB

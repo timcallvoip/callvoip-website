@@ -98,7 +98,7 @@ prijzen:
 description: De veiligste VoIP trunk voor uw eigen telefooncentrale. Met een VoIP
   trunk belt u met uw eigen VoIP centrale via de lijnen van Callvoip.
 images: []
-Hide in Search: false
+hideinsearch: false
 menu:
   main:
     name: Trunk

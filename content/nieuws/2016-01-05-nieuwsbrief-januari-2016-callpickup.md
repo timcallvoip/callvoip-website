@@ -8,7 +8,7 @@ contactpersoon:
 - 1988
 categories:
 - Nieuwsbrieven
-Hide in Search: true
+hideinsearch: true
 
 ---
 De telefoon van een collega rinkelt en u wilt dit gesprek op uw toestel aannemen. Hoe kunt u dit gesprek aannemen?

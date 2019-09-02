@@ -1,7 +1,7 @@
 ---
 title: Nieuw telefoonnummer aanvragen
 url: "/aanvragen/nummer"
-Hide in Search: true
+hideinsearch: true
 
 ---
 Vraag hieronder eenvoudig een nieuw telefoonnummer aan. Uw nieuwe telefoonnummer is binnen 24 uur beschikbaar en actief. Wilt u een extra mooi telefoonnummer? Kies dan voor een Premium nummer. U ontvangt een lijst met telefoonnummers waar u uit kunt kiezen.

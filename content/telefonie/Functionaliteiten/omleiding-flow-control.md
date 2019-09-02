@@ -10,7 +10,7 @@ hero:
   image: "/v1560261248/callvoip-website-omleiding.png"
   title: Omleiding (Flow Control)
 layout: ''
-Hide in Search: false
+hideinsearch: false
 
 ---
 Een omleiding is een schakelaar waarmee u eenvoudig acties aan- of uitzet. U kunt voor elk nummer omleidingen aanmaken. Daarnaast kunt u in één nummer meerdere omleidingen plaatsen.

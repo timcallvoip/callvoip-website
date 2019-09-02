@@ -10,7 +10,7 @@ hero:
   image: "/v1560261249/callvoip-website-voorwaarde.png"
   title: Voorwaarde (Filter)
 layout: ''
-Hide in Search: false
+hideinsearch: false
 
 ---
 Met de ‘voorwaarde-app’ kunt u gesprekken filteren. Door (delen van) het nummer te noteren kunt u aangeven hoe de telefooncentrale dit belletje afhandelt. Wordt u bijvoorbeeld lastig gevallen door een nummer? Vult dit nummer in als voorwaarde, met daarachter direct een voicemailbox.

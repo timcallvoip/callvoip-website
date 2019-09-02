@@ -9,7 +9,7 @@ hero:
   image: "/v1560763707/callvoip-website-branches-autodealer.png"
   title: ''
 layout: ''
-Hide in Search: false
+hideinsearch: false
 draft: true
 
 ---

@@ -8,7 +8,7 @@ contactpersoon:
 - 1994
 categories:
 - Updates
-Hide in Search: true
+hideinsearch: true
 
 ---
 Met trots presenteren wij onze langverwachte nieuwe app: Qaller!

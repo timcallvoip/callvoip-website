@@ -8,7 +8,7 @@ contactpersoon:
 - 9589
 categories:
 - Meldingen
-Hide in Search: true
+hideinsearch: true
 
 ---
 Op dit moment zijn we druk bezig met een nieuw gebruikerspaneel, ook wel **UC Panel** genoemd. In dit gebruikerspaneel kunt u straks eenvoudig navigeren naar de verschillende onderdelen van de telefooncentrale.

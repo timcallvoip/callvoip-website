@@ -1,7 +1,7 @@
 ---
 title: VoIP CTI (Koppeling met uw CRM-pakket) aanvragen
 url: "/aanvragen/voip-cti/"
-Hide in Search: true
+hideinsearch: true
 
 ---
 Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akkoord per mail, naar ons ter bevestiging van uw opdracht.

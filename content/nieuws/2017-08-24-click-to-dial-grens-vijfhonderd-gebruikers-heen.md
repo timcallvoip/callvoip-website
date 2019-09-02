@@ -8,7 +8,7 @@ contactpersoon:
 - 1991
 categories:
 - Nieuwsbrieven
-Hide in Search: true
+hideinsearch: true
 
 ---
 De Simmpl Click to Dial-plugin van CallvoipTelefonie heeft recentelijk zijn vijfhonderdste gebruiker mogen begroeten. Om deze mijlpaal te vieren krijgt de applicaties binnenkort een update met enkele nieuwe features waardoor deze nóg gebruiksvriendelijker wordt.

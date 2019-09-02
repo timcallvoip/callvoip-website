@@ -53,7 +53,7 @@ intro:
   title: ''
   content: ''
 prijzen: []
-Hide in Search: false
+hideinsearch: false
 
 ---
 ## Wat kost het?

@@ -10,7 +10,7 @@ hero:
   image: "/v1561542873/callvoip-website-branches-fysiotherapier.png"
   title: ''
 layout: ''
-Hide in Search: false
+hideinsearch: false
 
 ---
 Met meerdere vestigingen is men opzoek naar een aanbieder waar al deze praktijken ondergebracht kunnen worden. Belangrijk is dat alles onder één factuur komt en dat eenvoudig én op één plek, de belroutes van de verschillende vestigingen gewijzigd kunnen worden.

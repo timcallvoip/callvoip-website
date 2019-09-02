@@ -8,7 +8,7 @@ contactpersoon:
 - 1994
 categories:
 - Handleidingen
-Hide in Search: true
+hideinsearch: true
 
 ---
 De zomervakantie komt er weer aan. Voor veel van onze klanten betekent dit een wijziging in de bereikbaarheid. We helpen u graag mee om uw telefooncentrale zo in te richten dat u optimaal bereikbaar blijft.

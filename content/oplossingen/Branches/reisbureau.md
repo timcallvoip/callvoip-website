@@ -9,7 +9,7 @@ hero:
   image: "/v1560762650/callvoip-website-branches-reizen.png"
   title: ''
 layout: ''
-Hide in Search: false
+hideinsearch: false
 draft: true
 
 ---

@@ -10,7 +10,7 @@ hero:
   image: ''
   title: ''
 layout: ''
-Hide in Search: false
+hideinsearch: false
 
 ---
 #### Dit krijgt u bij de basis telefooncentrale:

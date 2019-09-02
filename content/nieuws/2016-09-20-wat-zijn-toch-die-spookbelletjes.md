@@ -8,7 +8,7 @@ contactpersoon:
 - 1994
 categories:
 - Meldingen
-Hide in Search: true
+hideinsearch: true
 
 ---
 De laatste tijd horen wij van klanten dat zij gebeld worden door vreemde nummers.

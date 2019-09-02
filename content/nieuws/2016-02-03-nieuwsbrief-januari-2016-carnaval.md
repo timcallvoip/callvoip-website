@@ -8,7 +8,7 @@ contactpersoon:
 - 1995
 categories:
 - Nieuwsbrieven
-Hide in Search: true
+hideinsearch: true
 
 ---
 De carnavalstijd breekt weer aan! Voor veel van onze klanten betekent dat: een wijziging in de bereikbaarheid. Geldt dat ook voor u? Hoe stelt u de wijzigingen dan op de telefooncentrale in?

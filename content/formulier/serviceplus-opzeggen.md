@@ -1,7 +1,7 @@
 ---
 title: ServicePlus opzeggen
 url: "/opzeggen/serviceplus/"
-Hide in Search: true
+hideinsearch: true
 
 ---
 Wilt u geen gebruik meer maken van ServicePlus volledig telefooncentralebeheer? Vult u onderstaand formulier in zodat wij uw opzegging administratief kunnen verwerken.

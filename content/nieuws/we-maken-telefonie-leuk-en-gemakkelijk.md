@@ -12,7 +12,7 @@ url: "/we-maken-telefonie-leuk-en-gemakkelijk/"
 contactpersoon: []
 categories: []
 tags: []
-Hide in Search: true
+hideinsearch: true
 
 ---
 Met een prachtige online telefooncentrale, een misschien nog wel mooiere roadmap én de uitfasering van ISDN, staat ons veel leuks te wachten dit jaar. Robert en Marieke vertellen u er graag meer over.<!--more-->

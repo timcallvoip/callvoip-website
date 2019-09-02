@@ -76,7 +76,7 @@ headless: true
 link: ''
 logo: ''
 name: ''
-Hide in Search: false
+hideinsearch: false
 menu:
   main:
     name: Branches

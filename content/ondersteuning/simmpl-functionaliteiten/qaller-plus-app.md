@@ -4,7 +4,7 @@ weight: 2
 description: ''
 images: []
 pdf: http://www.simmpl.nl/downloads/Simmpl_handleiding_qaller_plus_mobile_app.pdf
-Hide in Search: false
+hideinsearch: false
 Nieuw: false
 Update: false
 

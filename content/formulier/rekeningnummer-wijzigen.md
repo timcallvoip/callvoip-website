@@ -1,7 +1,7 @@
 ---
 title: Rekeningnummer wijzigen
 url: "/wijzigen/rekeningnummer/"
-Hide in Search: true
+hideinsearch: true
 
 ---
 Wilt u uw rekeningnummer wijzigen voor de automatische incasso? Geef dan hieronder uw nieuwe rekening door.

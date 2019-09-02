@@ -23,7 +23,7 @@ fields:
   default: true
   hidden: true
 - type: boolean
-  name: Hide in Search
+  name: hideinsearch
   label: hideinsearch
 - type: text
   name: link

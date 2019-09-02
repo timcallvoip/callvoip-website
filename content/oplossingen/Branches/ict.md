@@ -10,7 +10,7 @@ hero:
   image: "/v1561543729/callvoip-website-branches-ict.png"
   title: ''
 layout: ''
-Hide in Search: false
+hideinsearch: false
 
 ---
 Als aanbieder van ICT diensten (waaronder telefonie) is het belangrijk dat u goed bereikbaar bent voor uw klanten. Daarnaast is het zeer belangrijk om zelf alle ins & outs te kennen van de telefonieoplossing.

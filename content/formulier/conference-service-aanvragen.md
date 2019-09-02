@@ -1,7 +1,7 @@
 ---
 title: Conference Service aanvragen
 url: "/aanvragen/conference/"
-Hide in Search: true
+hideinsearch: true
 
 ---
 Snel, simpel en tegen lage tarieven telefonisch vergaderen met 2 of meer personen. Alle deelnemers bellen naar uw eigen vergader-telefoonnummer en loggen in met een toegangscode. U kunt overal en altijd telefonisch vergaderen, zo lang u maar wenst.

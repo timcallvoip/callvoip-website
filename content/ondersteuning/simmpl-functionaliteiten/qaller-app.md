@@ -3,7 +3,7 @@ title: Qaller-app
 weight: 1
 description: ''
 images: []
-Hide in Search: false
+hideinsearch: false
 Nieuw: false
 Update: false
 pdf: ''

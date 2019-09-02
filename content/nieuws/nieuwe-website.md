@@ -4,7 +4,7 @@ title: Nieuwe website!
 description: ''
 images: []
 featured: true
-Hide in Search: false
+hideinsearch: false
 hero:
   image: "/v1566566520/banner_formaat_xqptws.jpg"
 author: ''

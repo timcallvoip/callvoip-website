@@ -78,6 +78,6 @@ prijzen:
   button:
     title: Bereken het zelf
     link: "/calculator/"
-Hide in Search: false
+hideinsearch: false
 
 ---

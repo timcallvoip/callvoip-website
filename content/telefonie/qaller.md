@@ -92,6 +92,6 @@ prijzen:
 description: Met Qaller bent u inkomend bereikbaar op- en belt u uit met het zakelijk
   nummer. Tevens bedient u eenvoudig de online telefooncentrale.
 images: []
-Hide in Search: false
+hideinsearch: false
 
 ---

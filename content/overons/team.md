@@ -60,7 +60,7 @@ team:
 description: 'Maak kennis met het team van Callvoip: Tim, Ralph, Dion, Remco, Lynn,
   Herman, Marieke & Robert.'
 images: []
-Hide in Search: false
+hideinsearch: false
 menu:
   main:
     parent: Over ons

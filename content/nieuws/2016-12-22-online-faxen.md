@@ -12,7 +12,7 @@ footer_block_1:
 - 4096
 categories:
 - Updates
-Hide in Search: true
+hideinsearch: true
 
 ---
 &#8220;Faxen? Dat is toch iets van vroeger?&#8221;

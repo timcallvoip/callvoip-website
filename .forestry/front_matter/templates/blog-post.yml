@@ -15,7 +15,7 @@ fields:
   name: featured
   label: Featured
 - type: boolean
-  name: Hide in Search
+  name: hideinsearch
   label: hideinsearch
 - type: field_group
   name: hero

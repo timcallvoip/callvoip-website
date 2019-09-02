@@ -8,7 +8,7 @@ contactpersoon:
 - 1987
 categories:
 - Nieuwsbrieven
-Hide in Search: true
+hideinsearch: true
 
 ---
 De Click-to-Dial functie van Simmpl is verder uitgebreid: de contactpersonen die kunnen nu in een bedrijfstelefoonboek worden opgeslagen. U kunt telefoonnummers van uw contacten zowel zakelijk- als privé opslaan.

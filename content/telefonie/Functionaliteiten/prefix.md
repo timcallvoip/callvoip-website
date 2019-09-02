@@ -10,7 +10,7 @@ hero:
   image: "/v1560261249/callvoip-website-prefix.png"
   title: Prefix
 layout: ''
-Hide in Search: false
+hideinsearch: false
 
 ---
 Met de prefix-app kunt u zelf een code, naam of nummer ingeven. Deze wordt in het display van uw telefoon getoond als het gesprek via deze route binnenkomt.

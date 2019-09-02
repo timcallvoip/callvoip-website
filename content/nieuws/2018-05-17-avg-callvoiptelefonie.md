@@ -8,7 +8,7 @@ contactpersoon:
 - 1991
 categories:
 - Nieuwsbrieven
-Hide in Search: true
+hideinsearch: true
 
 ---
 Als klant van CallvoipTelefonie brengen wij u graag onder de aandacht dat wij wijzigingen hebben aangebracht in de <a href="https://www.callvoiptelefonie.nl/algemene-voorwaarden/" rel="noopener" target="_blank">Algemene Voorwaarden</a> en de <a href="https://www.callvoiptelefonie.nl/privacy/" rel="noopener" target="_blank">Privacyverklaring</a>. Dit in verband met de Algemene verordening gegevensbescherming (AVG) die per 25 mei geldt.

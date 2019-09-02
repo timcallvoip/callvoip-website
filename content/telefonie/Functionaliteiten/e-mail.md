@@ -10,7 +10,7 @@ hero:
   image: "/v1560261248/callvoip-website-email.png"
   title: E-mail
 layout: ''
-Hide in Search: false
+hideinsearch: false
 
 ---
 De email-app plaatst u in uw belplan. Hiermee geeft u de telefooncentrale de opdracht om u een bericht te sturen met daarin het telefoonnummer van de beller. U kunt deze functionaliteit helemaal bovenaan (ontvang een email van alle bellers) of onderaan (ontvang een e-mail van alleen de gemiste bellers) de belroute plaatsen.

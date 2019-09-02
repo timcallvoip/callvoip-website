@@ -1,7 +1,7 @@
 ---
 title: ServicePlus aanvragen
 url: "/aanvragen/serviceplus/"
-Hide in Search: true
+hideinsearch: true
 
 ---
 ServicePlus is een Managed PBX Service: u betaalt een vast bedrag per maand en wij doen op uw verzoek alle instellingen op de telefooncentrale, en bouwen bovendien de door u gewenste configuratie inclusief meldteksten.

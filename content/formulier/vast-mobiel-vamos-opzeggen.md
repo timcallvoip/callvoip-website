@@ -1,7 +1,7 @@
 ---
 title: Vast Mobiel (Vamos) opzeggen
 url: "/opzeggen/vamos/"
-Hide in Search: true
+hideinsearch: true
 
 ---
 Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akkoord per mail, naar ons ter bevestiging van uw opdracht. Wij nemen dan z.s.m. met u contact op!

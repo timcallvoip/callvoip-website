@@ -127,7 +127,7 @@ prijzen:
 description: Welkom in de wereld van Voice over IP (VoIP). Bekijk alle mogelijkheden
   en ontdek onze interessante abonnementskosten.
 images: []
-Hide in Search: false
+hideinsearch: false
 menu:
   main:
     weight: 1

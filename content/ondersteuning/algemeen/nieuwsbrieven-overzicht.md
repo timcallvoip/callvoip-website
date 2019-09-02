@@ -3,7 +3,7 @@ title: Nieuwsbrieven overzicht
 weight: 
 description: ''
 images: []
-Hide in Search: false
+hideinsearch: false
 Nieuw: false
 Update: false
 pdf: ''
