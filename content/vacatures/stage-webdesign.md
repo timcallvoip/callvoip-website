@@ -2,7 +2,7 @@
 title: Open sollicitatie
 tag:
 - open sollicitatie
-excerpt: Hebben we op dit moment geen passen de vacature, maar wil je wel graag bij
+excerpt: Hebben we op dit moment geen passende vacature, maar wil je wel graag bij
   ons komen werken? Stuur ons dan een open sollicitatie!
 card:
   title: Open sollicitatie
