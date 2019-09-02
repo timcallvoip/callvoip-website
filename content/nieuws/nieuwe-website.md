@@ -19,6 +19,8 @@ Zoals u ziet is onze website vernieuwd! Voor onze bestaande klanten zal het even
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1566812938/new_btpepq.png)
 
+<br>
+
 {{< layout/columns >}}  
  {{< layout/column2 >}}
 
@@ -36,8 +38,6 @@ Op deze statuspagina vindt u de status van de verschillende onderdelen van Simmp
 ![](https://res.cloudinary.com/callvoip/image/upload/v1567432846/mailing-status_stuzes.png)  
  {{</ layout/column2 >}}  
 {{</ layout/columns >}}
-
-<br>
 
 {{< layout/columns >}}  
  {{< layout/column2 >}}
@@ -58,8 +58,6 @@ Als bestaande klant van Callvoip kunt altijd uw abonnement wijzigen. Ook kunt u 
  {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
-<br>
-
 {{< layout/columns >}}  
  {{< layout/column2 >}}
 
@@ -79,8 +77,6 @@ Op onze ondersteuningspagina vindt u oplossingen en ondersteuning voor veel voor
  {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
-<br>
-
 {{< layout/columns >}}  
  {{< layout/column2 >}}
 
@@ -98,8 +94,6 @@ Onze webshop is niet gewijzigd, oud & vertrouwd.
  {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
-<br>
-
 {{< layout/columns >}}  
  {{< layout/column2 >}}
 
@@ -116,8 +110,6 @@ Via de knop 'Login' komt u op Simmp, de online telefooncentrale, terecht. Via Si
 
  {{</ layout/column2 >}}  
 {{</ layout/columns >}}
-
-<br>
 
 ### Zoeken
 
