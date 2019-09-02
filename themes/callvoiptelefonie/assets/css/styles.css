@@ -28,7 +28,7 @@ p a:hover {
 }
 
 .button-outline-secondary:hover {
-  @apply text-bronze;
+  @apply text-bronze no-underline;
   background-color: #2d6da300;
   box-shadow: 0 7px 14px rgba(50,50,93,.1), 0 3px 6px rgba(0,0,0,.08);
   transform: translateY(-1px);
