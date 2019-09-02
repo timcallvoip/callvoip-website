@@ -13,8 +13,8 @@ hero:
     link: ''
 blocks:
 - content: <p>Onze telefooncentrale heet Simmpl en is de krachtige kern van Callvoip. Hier kunt u alle functionaliteiten (laten) beheren
-en aanpassen. Eens zien hoe eenvoudig dit is? Probeer de nieuwe demo omgeving uit en bouw uw eigen belplan!</p> <p><a
-href="http://files.callvoip.nl/" class="button" target="_blank">Probeer de interactieve demo!</a></p>
+    en aanpassen. Eens zien hoe eenvoudig dit is? Probeer de nieuwe demo omgeving uit en bouw uw eigen belplan!</p> <p><a
+    href="http://files.callvoip.nl/" class="button" target="_blank">Probeer de interactieve demo!</a></p>
   image: "lego_yv1a3b.png"
   image_link: http://files.callvoip.nl/
   position: image_left
