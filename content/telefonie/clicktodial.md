@@ -16,7 +16,7 @@ hero:
   button:
     content: Offerte aanvragen
     link: "/offerte/"
-  image: "/v1567498186/clicktdial_yvc2aj.png"
+  image: "/v1567498458/clicktdial_bweq3w.png"
   image_position: start
 blocks:
 - title: 'Click-to-Dial plugin: Welke functies heeft het?'
