@@ -49,12 +49,8 @@ De gesprekken zijn versleuteld tussen uw telefoons en de telefooncentrale. Belt 
 **Voorbeeld 1: Collega’s bellen onderling**  
 Als collega’s onderling bellen dan zijn deze gesprekken beveiligd door middel van SRTP.
 
-![voorbeelden](https://www.callvoiptelefonie.nl/wp-content/uploads/2016/10/voorbeelden_SRTP_vb1-2.png)
-
 **Voorbeeld 2: Telefoongesprek naar een andere provider**  
 Het kan zijn dat dit gesprek tussen de (mobiele) telefoon en de ontvangende provider niet beveiligd is. Als zij SRTP hebben, dan is het gesprek wel beveiligd. Tussen uw telefoon en de telefooncentrale is het gesprek wel beveiligd.
-
-![voorbeelden](https://www.callvoiptelefonie.nl/wp-content/uploads/2016/10/voorbeelden_SRTP_vb3.png)
 
 <br>
 
