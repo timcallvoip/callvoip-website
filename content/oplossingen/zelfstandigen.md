@@ -11,7 +11,7 @@ hero:
   button:
     content: Bereken je kosten
     link: "/calculator"
-  image: "/v1557759324/gesprekken.png"
+  image: "/v1567495579/zelfstandige_hbtb5x.png"
   image_position: center
 blocks:
 - content: |-
