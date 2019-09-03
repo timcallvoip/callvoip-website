@@ -39,7 +39,7 @@ usps:
     title: Flexibiliteit
     content: 'De dienst is zeer flexibel en schaalbaar, handig bij uitbreiding van
       of juist vertrek van collega''s. '
-  - icon: fa-group
+  - icon: fa-laptop
     title: Één beheeromgeving
     content: Heeft u meerdere vestigingen? U bedient ze allemaal eenvoudig vanuit
       één beheeromgeving.
