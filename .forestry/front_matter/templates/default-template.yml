@@ -183,6 +183,7 @@ fields:
         name: price
         label: Price
 pages:
+- content/oplossingen/mkb.md
 - content/telefonie/clicktodial.md
 - content/oplossingen/zelfstandigen.md
 - content/telefonie/hostedvoip.md
@@ -197,4 +198,3 @@ pages:
 - content/internet/glasvezel.md
 - content/oplossingen/trunk.md
 - content/oplossingen/branches.md
-- content/oplossingen/mkb.md
