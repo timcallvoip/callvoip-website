@@ -26,9 +26,6 @@ kiezen:
     via een vasttoestel of onderweg via uw eigen mobiel. Altijd bereikbaar zijn via
     één en hetzelfde nummer, wel zo handig voor uw klanten. Benieuwd naar de mogelijkheden
     voor uw organisatie?
-  button:
-    content: Interactive demo telefooncentrale
-    link: http://files.callvoip.nl
   items:
   - icon: fa-file-contract
     content: Elke maand opzegbaar geen lange moeilijke contracten.
