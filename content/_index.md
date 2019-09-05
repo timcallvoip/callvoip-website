@@ -150,7 +150,7 @@ options:
     tab: true
 prefooter:
   title: Wilt u ook zorgeloos bereikbaar zijn?
-  content: 95% van onze klanten adviseert ons bij hun netwerk. Bekijk de <a href="/testimonials/">testimonials</a>
+  content: 95% van onze klanten beveelt ons aan bij collega's en vrienden. Bekijk de <a href="/testimonials/">testimonials</a>
     van onze klanten.
 testimonial:
   image: "/v1556267419/Callvoip-website-logo-AlphaLabs.png"
