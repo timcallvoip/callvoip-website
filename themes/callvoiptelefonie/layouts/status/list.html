@@ -7,6 +7,13 @@
       <h1 class="text-3xl lg:text-4xl font-medium mb-4 leading-tight">{{ . }}</h1>
       {{ end }}
 
+
+      {{ with .Params.contentTop }}
+      <div class="user-content opacity-85 lg:text-lg font-medium leading-loose mb-6 ">
+        {{ . | markdownify }}
+      </div>
+      {{ end }}
+
       <div class="mb-4">
         {{ $paginator := .Paginate (where .Data.Pages.ByWeight "Type" "status")  12 }}
 
