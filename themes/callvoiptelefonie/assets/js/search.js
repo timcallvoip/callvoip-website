@@ -32,6 +32,7 @@ new Vue({
       resultsOriginal: [],
       results: [],
   },
+
   computed: {
 
       filteredPosts () {

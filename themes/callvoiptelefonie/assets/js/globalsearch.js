@@ -32,6 +32,12 @@ new Vue({
       resultsOriginal: [],
       results: [],
   },
+  mounted() {
+    let input = document.querySelector('[autofocus]');
+    if (input) {
+        input.focus()
+    }
+},
   computed: {
 
       filteredPosts () {
