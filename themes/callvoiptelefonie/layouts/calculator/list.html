@@ -39,7 +39,7 @@
                   {{ end }}
                 </div>
                 <div class="xl:w-1/2 xl:px-4">
-                  <input type="number" data-name={{$item.name}} data-price_monthly="{{$item.price_monthly}}"
+                  <input type="number" data-name={{$item.name}} autocomplete="false" data-price_monthly="{{$item.price_monthly}}"
                     data-price_onetime="{{$item.price_onetime}}" {{ if eq $item.min $item.max }} disabled {{ end }}
                     class="w-full border border-grey-light bg-grey-lightest px-4 py-2 rounded" min="{{ $item.min }}"
                     max="{{ $item.max }}" value="{{ $item.min }}" name="{{ $item.name | urlize }}"
@@ -213,7 +213,7 @@
               </div>
               <div class="mb-4">
                 <label for="telefoonnummer_client" class="block">Telefoonnummer </label>
-                <input type="text" id="telefoonnummer_client" name="telefoonnummer_client"
+                <input type="text" id="telefoonnummer_client"  name="telefoonnummer_client"
                   class="w-full border border-grey-light bg-grey-lightest px-3 py-3">
               </div>
             </div>
