@@ -63,25 +63,49 @@ var activemenu = function () {
 }();
 
 
-function closeMenu() {
+// function closeMenu() {
 
+//   const dropdowns = document.getElementsByClassName('active-dropdown');
+
+//   Array.prototype.forEach.call(dropdowns, function (element, index) {
+
+//     console.log('active dropdown')
+    
+//     element.addEventListener('click', function() {
+//       console.log('click')
+//     })
+
+//   })
+
+
+
+// }
+
+// closeMenu();
+
+
+window.addEventListener('mouseup', function(event) {
+
+  
   const dropdowns = document.getElementsByClassName('active-dropdown');
 
   Array.prototype.forEach.call(dropdowns, function (element, index) {
 
-    console.log('active dropdown')
-    
-    element.addEventListener('click', function() {
-      console.log('click')
-    })
 
-  })
+    if(event.target != element && event.target.parentNode != element) {
 
 
+      element.parentNode.firstElementChild.classList.remove('active')
 
-}
+      element.classList.remove('active-dropdown');
+      element.classList.add('hidden');
+    }
+
+  });
 
 
+
+})
 
 
 // 
