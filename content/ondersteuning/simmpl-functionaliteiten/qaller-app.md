@@ -25,9 +25,9 @@ Sommige gebruikers moeten na de update opnieuw inloggen en de gevraagde machtigi
 
   _Let op_: Dit scherm is per Android-versie verschillend
 
-  ![](https://res.cloudinary.com/callvoip/image/upload/v1568013346/Qaller-callingaccounts1_ohg1xh.png)
+  ![](https://res.cloudinary.com/callvoip/image/upload/v1568015151/Qaller-callingaccounts1-klein_dzzh0k.png)
 
-  ![](https://res.cloudinary.com/callvoip/image/upload/v1568013362/Qaller-callingaccounts2_dupoi7.png)
+  ![](https://res.cloudinary.com/callvoip/image/upload/v1568015163/Qaller-callingaccounts2-klein_zqfurj.png)
 
 ***
 
