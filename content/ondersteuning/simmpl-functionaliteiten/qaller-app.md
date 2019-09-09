@@ -75,7 +75,7 @@ U kunt op de Simmpl omgeving instellen* welk nummer u meestuurt.
 
 \* _Schakel Multiple Caller ID in bij de gebruiker; u kunt dit dan ook via de Qaller app instellen!_
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1566806355/qaller-3_xwxuhv.png)
+![](https://res.cloudinary.com/callvoip/image/upload/v1568015200/Qaller-support-klein_bzuipg.png)
 
 <h3>Qaller Plus: bellen/gebeld worden via internet (WiFi/4G)</h3>
 
