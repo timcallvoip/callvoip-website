@@ -15,11 +15,11 @@ pdf: ''
 
 **UPDATE SEPTEMBER 2019:**
 
-Houd er rekening mee dat gebruikers na de update opnieuw moeten inloggen en de gevraagde machtigingen moeten toestaan. Voor Android-gebruikers is er een extra toestemming:
+Sommige gebruikers moeten na de update opnieuw inloggen en de gevraagde machtigingen toestaan. Voor Android-gebruikers is er een extra toestemming:
 
-* **Access to your phone accounts**
+* **Toegang tot uw telefoonaccounts**
 
-  Tik bij het zien van dit scherm op "OK" in de prompt "Machtigingen vereist". Het scherm met belaccounts wordt automatisch geopend. Zet de schakelaar nu op 'AAN' door erop te klikken. Nadat het is ingesteld, kan de gebruiker de pijl links bovenaan gebruiken om terug te gaan naar de Qaller-app.
+  Tik bij het zien van dit scherm op "OK". Het scherm met belaccounts wordt automatisch geopend. Zet de schakelaar nu op 'AAN' door erop te klikken. Nadat het is ingesteld, kan de gebruiker de pijl links bovenaan gebruiken om terug te gaan naar de Qaller-app.
 
   ![](https://lh6.googleusercontent.com/ZA7bVGgQbL3z13k0i-BZFxAjOje2EkVTaDFnz8GVBLnLjySl5P0QgSUDp8p2VcEAnvnrIoF9TgTOxtHSlpb-D5AHuEN-69yxuuruGUapaUSvj5Rd4BDhGFZb6E6K3amXlLDER12m =215x108)
 
