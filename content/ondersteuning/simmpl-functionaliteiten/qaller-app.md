@@ -5,23 +5,47 @@ description: ''
 images: []
 hideinsearch: false
 Nieuw: false
-Update: false
+Update: true
 pdf: ''
 
 ---
+***
+
+***
+
+**UPDATE SEPTEMBER 2019:**
+
+Houd er rekening mee dat gebruikers na de update opnieuw moeten inloggen en de gevraagde machtigingen moeten toestaan. Voor Android-gebruikers is er een extra toestemming:
+
+* **Access to your phone accounts**
+
+  Tik bij het zien van dit scherm op "OK" in de prompt "Machtigingen vereist". Het scherm met belaccounts wordt automatisch geopend. Zet de schakelaar nu op 'AAN' door erop te klikken. Nadat het is ingesteld, kan de gebruiker de pijl links bovenaan gebruiken om terug te gaan naar de Qaller-app.
+
+  ![](https://lh6.googleusercontent.com/ZA7bVGgQbL3z13k0i-BZFxAjOje2EkVTaDFnz8GVBLnLjySl5P0QgSUDp8p2VcEAnvnrIoF9TgTOxtHSlpb-D5AHuEN-69yxuuruGUapaUSvj5Rd4BDhGFZb6E6K3amXlLDER12m =215x108)
+
+  _Let op_: Dit scherm is per Android-versie verschillend
+
+  ![](https://lh3.googleusercontent.com/jQiOut2Cp6oWhhHL5DwK0BpFrZh8cAkOuPIuB_9TuBzjZlthl7MlGDs4Ll2aCfaO2312-kKv73GXJD9veo58Z4OQ7ONYgfJwppN5MZYts5qU9lE0tZU6UJVi3EqkeG13iAp4OIbf =294x103)
+
+  ![](https://lh5.googleusercontent.com/N4tnddeahltaCbhtSHdq5dsUxvepc0rGERFENNDRH_hZuq7lhacbQjhMCYg5hC3G8Gcu7kYgdN3CWrtNEuBQYty0tHJizPsbVjEjFe_WVTRf6DsX2Pn-BhuKBqGsfxYM8iNKShz8 =303x103)
+
+***
+
+***
+
 De Qaller Smartphone app is uw gratis afstandsbediening bij de Simmpl telefooncentrale.
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1566805829/qaller-1_x4gbcb.png)
 
 <h3>Wat is Qaller?</h3>
 
-Qaller is de Smartphone app bij de Simmpl telefooncentrale.   
-Deze werkt als afstandsbediening: u kunt uw persoonlijke bereikbaarheid instellen.    
+Qaller is de Smartphone app bij de Simmpl telefooncentrale.  
+Deze werkt als afstandsbediening: u kunt uw persoonlijke bereikbaarheid instellen.  
 Bent u **beheerder**? Dan kunt u de bereikbaarheid van uw bedrijf instellen.
 
 <h3>Qaller Plus</h3>
 
-U kunt Qaller upgraden naar Qaller Plus: u kunt er dan ook mee bellen en gebeld worden. U belt dan met uw mobiele telefoon via de app. Deze werkt met WiFi of 4G internet of middels callback.   
+U kunt Qaller upgraden naar Qaller Plus: u kunt er dan ook mee bellen en gebeld worden. U belt dan met uw mobiele telefoon via de app. Deze werkt met WiFi of 4G internet of middels callback.  
 Bovendien heeft u een intern telefoonboek met actuele status van collega’s én kunt u gesprekken doorverbinden en opnemen (mits deze functie is ingeschakeld).
 
 <h3>Beheerder</h3>
@@ -30,7 +54,7 @@ Als u als beheerder bent (Simmpl login) en op Qaller inlogt kunt u ook de belrou
 
 <h3>Beheer de belroute van uw bedrijfsnummer met Qaller</h3>
 
-Als u als beheerder (Simmpl login) op Qaller inlogt kunt u ook de belroute van uw bedrijfsnummers instellen.    
+Als u als beheerder (Simmpl login) op Qaller inlogt kunt u ook de belroute van uw bedrijfsnummers instellen.  
 Gebruik de dropdown bij de INCOMING CALL ROUTING om het gewenste belplan te kiezen.
 
 De belplannen worden weergegeven in alfabetische volgorde. Ook ziet u de belplankleur terug. Zo kunt u gemakkelijk een logische volgorde in uw belplannen creëren.
@@ -39,14 +63,14 @@ De belplannen worden weergegeven in alfabetische volgorde. Ook ziet u de belplan
 
 <h3>Flow Controls</h3>
 
-Hier staan alle omleidingen in het gekozen belplan.   
-U kunt ze met een druk op de knop aan/uit zetten.    
+Hier staan alle omleidingen in het gekozen belplan.  
+U kunt ze met een druk op de knop aan/uit zetten.  
 Bij groepsomleidingen ziet u een A, B etc achter de omleidingen staan.
 
 <h3>Welk nummer wilt u meesturen?</h3>
 
-Gebruikt u Qaller Plus?    
-Heeft u meerdere nummers?    
+Gebruikt u Qaller Plus?  
+Heeft u meerdere nummers?  
 U kunt op de Simmpl omgeving instellen* welk nummer u meestuurt.
 
 \* _Schakel Multiple Caller ID in bij de gebruiker; u kunt dit dan ook via de Qaller app instellen!_
@@ -90,7 +114,7 @@ Qaller App is nu klaar voor alle soorten van gebruik.
 
 <h3>Veelgestelde vragen over de Qaller Smartphone App</h3>
 
-Hieronder vindt u een aantal vragen en antwoorden.   
+Hieronder vindt u een aantal vragen en antwoorden.  
 Bel, mail of chat gerust met ons voor meer informatie en uitleg!
 
 Q: **Wat kan ik de met de Qaller App?**
