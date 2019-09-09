@@ -21,13 +21,13 @@ Sommige gebruikers moeten na de update opnieuw inloggen en de gevraagde machtigi
 
   Tik bij het zien van dit scherm op "OK". Het scherm met belaccounts wordt automatisch geopend. Zet de schakelaar nu op 'AAN' door erop te klikken. Nadat het is ingesteld, kan de gebruiker de pijl links bovenaan gebruiken om terug te gaan naar de Qaller-app.
 
-  ![](https://lh6.googleusercontent.com/ZA7bVGgQbL3z13k0i-BZFxAjOje2EkVTaDFnz8GVBLnLjySl5P0QgSUDp8p2VcEAnvnrIoF9TgTOxtHSlpb-D5AHuEN-69yxuuruGUapaUSvj5Rd4BDhGFZb6E6K3amXlLDER12m =215x108)
+  ![](https://res.cloudinary.com/callvoip/image/upload/v1568013329/Qaller-permissionrequired_vruvrf.png)
 
   _Let op_: Dit scherm is per Android-versie verschillend
 
-  ![](https://lh3.googleusercontent.com/jQiOut2Cp6oWhhHL5DwK0BpFrZh8cAkOuPIuB_9TuBzjZlthl7MlGDs4Ll2aCfaO2312-kKv73GXJD9veo58Z4OQ7ONYgfJwppN5MZYts5qU9lE0tZU6UJVi3EqkeG13iAp4OIbf =294x103)
+  ![](https://res.cloudinary.com/callvoip/image/upload/v1568013346/Qaller-callingaccounts1_ohg1xh.png)
 
-  ![](https://lh5.googleusercontent.com/N4tnddeahltaCbhtSHdq5dsUxvepc0rGERFENNDRH_hZuq7lhacbQjhMCYg5hC3G8Gcu7kYgdN3CWrtNEuBQYty0tHJizPsbVjEjFe_WVTRf6DsX2Pn-BhuKBqGsfxYM8iNKShz8 =303x103)
+  ![](https://res.cloudinary.com/callvoip/image/upload/v1568013362/Qaller-callingaccounts2_dupoi7.png)
 
 ***
 
