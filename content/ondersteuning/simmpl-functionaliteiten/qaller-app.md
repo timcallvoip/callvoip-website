@@ -21,7 +21,7 @@ Sommige gebruikers moeten na de update opnieuw inloggen en de gevraagde machtigi
 
   Tik bij het zien van dit scherm op "OK". Het scherm met belaccounts wordt automatisch geopend. Zet de schakelaar nu op 'AAN' door erop te klikken. Nadat het is ingesteld, kan de gebruiker de pijl links bovenaan gebruiken om terug te gaan naar de Qaller-app.
 
-  ![](https://res.cloudinary.com/callvoip/image/upload/v1568013329/Qaller-permissionrequired_vruvrf.png)
+  ![](https://res.cloudinary.com/callvoip/image/upload/v1568014789/Qaller-permissionrequired-klein_rsy9mx.png)
 
   _Let op_: Dit scherm is per Android-versie verschillend
 
