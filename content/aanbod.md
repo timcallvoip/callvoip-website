@@ -12,13 +12,14 @@ hero:
     content: ''
     link: ''
 blocks:
-- content: <p>Onze telefooncentrale heet Simmpl en is de krachtige kern van Callvoip. Hier kunt u alle functionaliteiten (laten) beheren
-    en aanpassen. Eens zien hoe eenvoudig dit is? Probeer de nieuwe demo omgeving uit en bouw uw eigen belplan!</p> <p><a
-    href="http://files.callvoip.nl/" class="button" target="_blank">Probeer de interactieve demo!</a></p>
-  image: "lego_yv1a3b.png"
+- content: <p>De telefooncentrale is de kracht van Callvoip! U kunt gemakkelijk zelf
+    instellen wat er moet gebeuren als uw bedrijf gebeld wordt. Benieuwd hoe de telefooncentrale
+    werkt?</p> <p><a href="http://files.callvoip.nl/" class="button" target="_blank">Probeer
+    de interactieve demo!</a></p>
+  image: lego_yv1a3b.png
   image_link: http://files.callvoip.nl/
   position: image_left
-  title: Bouw uw eigen centrale, zo Simmpl als lego
+  title: Doe het lekker zelf!
   image_position: center
 kiezen:
   title: Waarom kiezen voor Callvoip?
@@ -26,13 +27,16 @@ kiezen:
     via een vasttoestel of onderweg via uw eigen mobiel. Altijd bereikbaar zijn via
     één en hetzelfde nummer, wel zo handig voor uw klanten. Benieuwd naar de mogelijkheden
     voor uw organisatie?
+  button:
+    content: Interactive demo telefooncentrale
+    link: http://files.callvoip.nl
   items:
   - icon: fa-file-contract
     content: Elke maand opzegbaar geen lange moeilijke contracten.
   - icon: fa-boxes-alt
     content: Eenvoudige bediening via uw eigen beveiligde omgeving.
   - icon: fa-piggy-bank
-    content: Tot wel 50% voordeliger dan tradionele telefooncentrale
+    content: Tot wel 50% voordeliger dan traditionele telefooncentrale
 aanbod:
   title: Ons product aanbod
   items:
