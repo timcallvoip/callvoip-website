@@ -32,7 +32,7 @@ intro:
   - icon: fa-boxes-alt
     content: Flexibel en schaalbaar. Eenvoudig via uw eigen beveiligde omgeving.
   - icon: fa-piggy-bank
-    content: Tot wel 50% voordeliger dan tradionele telefooncentrale.
+    content: Tot wel 50% voordeliger dan traditionele telefonie.
 usps:
 - title: Callvoip is er voor de ondernemers
   content: <p>Callvoip levert met Simmpl een telefooncentrale dat zorgt voor optimale
@@ -150,8 +150,8 @@ options:
     tab: true
 prefooter:
   title: Wilt u ook zorgeloos bereikbaar zijn?
-  content: 95% van onze klanten beveelt ons aan bij collega's en vrienden. Bekijk de <a href="/testimonials/">testimonials</a>
-    van onze klanten.
+  content: 95% van onze klanten beveelt ons aan bij collega's en vrienden. Bekijk
+    de <a href="/testimonials/">testimonials</a> van onze klanten.
 testimonial:
   image: "/v1556267419/Callvoip-website-logo-AlphaLabs.png"
   title: Carlo Giliam - Alpha Labs
