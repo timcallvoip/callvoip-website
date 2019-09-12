@@ -5,6 +5,35 @@ type: page
 layout: aanbod
 logos: true
 hero:
+  title: Doe het lekker zelf Met onze demo
+  image: "/v1566293713/aanbod_header3_ckanme.png"
+  link: http://files.callvoip.nl
+  button:
+    content: ''
+    link: ''
+blocks:
+- content: <p>Onze telefooncentrale heet Simmpl en is de krachtige kern van Callvoip. Hier kunt u alle functionaliteiten (laten) beheren
+    en aanpassen. Eens zien hoe eenvoudig dit is? Probeer de nieuwe demo omgeving uit en bouw uw eigen belplan!</p> <p><a
+    href="http://files.callvoip.nl/" class="button" target="_blank">Probeer de interactieve demo!</a></p>
+  image: "lego_yv1a3b.png"
+  image_link: http://files.callvoip.nl/
+  position: image_left
+  title: Bouw uw eigen centrale, zo Simmpl als lego
+  image_position: center
+kiezen:
+  title: Waarom kiezen voor Callvoip?
+  content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent. Op kantoor
+    via een vasttoestel of onderweg via uw eigen mobiel. Altijd bereikbaar zijn via
+    één en hetzelfde nummer, wel zo handig voor uw klanten. Benieuwd naar de mogelijkheden
+    voor uw organisatie?
+  items:
+  - icon: fa-file-contract
+    content: Elke maand opzegbaar geen lange moeilijke contracten.
+  - icon: fa-boxes-alt
+    content: Eenvoudige bediening via uw eigen beveiligde omgeving.
+  - icon: fa-piggy-bank
+    content: Tot wel 50% voordeliger dan tradionele telefooncentrale
+aanbod:
   title: Ons product aanbod
   items:
   - tab:
@@ -48,36 +77,6 @@ hero:
       button:
         content: Vraag een offerte aan!
         link: "/offerte/"
-    link: ''
-blocks:
-- content: <p>Onze telefooncentrale heet Simmpl en is de krachtige kern van Callvoip. Hier kunt u alle functionaliteiten (laten) beheren
-    en aanpassen. Eens zien hoe eenvoudig dit is? Probeer de nieuwe demo omgeving uit en bouw uw eigen belplan!</p> <p><a
-    href="http://files.callvoip.nl/" class="button" target="_blank">Probeer de interactieve demo!</a></p>
-  image: "lego_yv1a3b.png"
-  image_link: http://files.callvoip.nl/
-  position: image_left
-  title: Bouw uw eigen centrale, zo Simmpl als lego
-  image_position: center
-kiezen:
-  title: Waarom kiezen voor Callvoip?
-  content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent. Op kantoor
-    via een vasttoestel of onderweg via uw eigen mobiel. Altijd bereikbaar zijn via
-    één en hetzelfde nummer, wel zo handig voor uw klanten. Benieuwd naar de mogelijkheden
-    voor uw organisatie?
-  items:
-  - icon: fa-file-contract
-    content: Elke maand opzegbaar geen lange moeilijke contracten.
-  - icon: fa-boxes-alt
-    content: Eenvoudige bediening via uw eigen beveiligde omgeving.
-  - icon: fa-piggy-bank
-    content: Tot wel 50% voordeliger dan tradionele telefooncentrale
-aanbod:
-  title: Doe het lekker zelf Met onze demo
-  image: "/v1566293713/aanbod_header3_ckanme.png"
-  link: http://files.callvoip.nl
-  button:
-    content: ''
-    link: ''
 intro:
   title: Zakelijke bereikbaarheid, wat gaat mij dat kosten?
   content: Callvoip weet dat bij elke onderneming de telefoniesituatie anders is en
