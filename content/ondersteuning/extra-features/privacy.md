@@ -16,7 +16,7 @@ Het **Operator Console** is een dashboard voor receptionist/supervisor met realt
 
 We hopen dat deze updates zullen bijdragen aan een nóg groter gebruiksgemak van Simmpl in uw situatie. Betrekt u ons hierbij gerust – wij zijn úw expert op het gebied van telefoniezaken en kijken hoe onze dienst nog beter kan aansluiten bij uw dagelijkse praktijk.
 
-Team CallvoipTelefonie
+Team Callvoip
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1566208781/operatorconsole-1_ehyswc.png)
 
@@ -29,7 +29,7 @@ In december 2017 is de Simmpl centrale uitgebreid met het Operator Panel: een ov
 Om het Operator Console in te schakelen:
 
 1. Log in als beheerder op de <a href="https://panel.callvoip.nl" target="_blank">Simmpl telefooncentrale</a>
-2. Ga naar menu **GEBRUIKERS**, kies **EDIT** bij de gewenste gebruiker.   
+2. Ga naar menu **GEBRUIKERS**, kies **EDIT** bij de gewenste gebruiker.  
    Hier kunt u de switch voor het **OPERATOR CONSOLE** aanzetten.
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1566210712/operatorconsole-2_mp5wrk.png)
@@ -114,7 +114,7 @@ Als u klaar bent, klik op PROCEED rechtsboven om het widget op het console te pl
 
 <h3>Phonebook Widget</h3>
 
-Het Phonebook is een lijst van gebruikers die u zelf samenstelt. Van deze gebruikers kunt u de realtime belstatus zien: **idle** (inactief), **ringing** (rinkelt), **busy** (bellend).   
+Het Phonebook is een lijst van gebruikers die u zelf samenstelt. Van deze gebruikers kunt u de realtime belstatus zien: **idle** (inactief), **ringing** (rinkelt), **busy** (bellend).  
 U kunt deze gebruikers bellen, gesprekken overnemen en naar hen doorverbinden.
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1566218657/operatorconsole-16_kjjejs.png)
@@ -146,7 +146,7 @@ Als u klaar bent, klik op PROCEED rechtsboven om het widget op het console te pl
 
 * In het dropdown scherm ziet u staan TRANSFER > klik daarop
 * Kies of u ATTENDED of UNATTENDED (met of zonder ruggespraak) wilt doorverbinden
-* U krijgt nu een scherm waarin u kunt kiezen naar wie u wilt doorverbinden.   
+* U krijgt nu een scherm waarin u kunt kiezen naar wie u wilt doorverbinden.  
   Selecteer met de muis en klik op het groene pijltje
 * Het inkomende gesprek dat rinkelt bij persoon X wordt nu door uw actie doorverbonden met collega Y
 * NB: deze actie komt er ook voor active calls (lopende gesprekken)
@@ -202,7 +202,7 @@ De Supervisor-switch vindt u in de wachtrij bij de agents:
 
 Log als Supervisor in op de Operator Panel en klik door naar de wachtrij.
 
-Rechtsonder ziet u de ANSWERED CALLS FROM QUEUE.   
+Rechtsonder ziet u de ANSWERED CALLS FROM QUEUE.  
 Als Supervisor kunt u op gesprekken klikken en heeft u de mogelijkheid tot:
 
 * **Listen**: klik en luister mee zonder dat de agent en de beller u horen
