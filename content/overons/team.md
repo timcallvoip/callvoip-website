@@ -30,13 +30,6 @@ team:
   image: "/v1566802563/callvoip-website-team-herman_mdldbx.png"
   name: Herman Willems
   linkedin: ''
-- content: Is hier al een tijdje en heeft zichzelf getransformeerd tot online marketing
-    man. Stelt dus o.a. pakkende mails op en is verantwoordelijk voor de website.
-    Is een Noord-Hollandse Fries, maar wel één van de leukere.
-  function: Marketing
-  image: "/v1566802520/callvoip-website-team-milan_ixdgqf.png"
-  name: Milan Littooy
-  linkedin: https://nl.linkedin.com/in/milanlittooy
 - function: Administratie
   name: Lynn de Goede
   image: "/v1566820938/lynn_lng9ig.png"
