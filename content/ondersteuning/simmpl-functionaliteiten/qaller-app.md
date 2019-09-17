@@ -43,12 +43,12 @@ Qaller is de Smartphone app bij de Simmpl telefooncentrale.
 Deze werkt als afstandsbediening: u kunt uw persoonlijke bereikbaarheid instellen.  
 Bent u **beheerder**? Dan kunt u de bereikbaarheid van uw bedrijf instellen.
 
-<h3>Qaller Plus</h3>
+<b>Qaller Plus</b>
 
 U kunt Qaller upgraden naar Qaller Plus: u kunt er dan ook mee bellen en gebeld worden. U belt dan met uw mobiele telefoon via de app. Deze werkt met WiFi of 4G internet of middels callback.  
 Bovendien heeft u een intern telefoonboek met actuele status van collega’s én kunt u gesprekken doorverbinden en opnemen (mits deze functie is ingeschakeld).
 
-<h3>Beheerder</h3>
+<b>Beheerder</b>
 
 Als u als beheerder bent (Simmpl login) en op Qaller inlogt kunt u ook de belroutes van uw nummers instellen.
 
