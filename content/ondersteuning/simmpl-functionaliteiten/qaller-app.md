@@ -52,7 +52,7 @@ Bovendien heeft u een intern telefoonboek met actuele status van collega’s én
 
 Als u als beheerder bent (Simmpl login) en op Qaller inlogt kunt u ook de belroutes van uw nummers instellen.
 
-<h3>Beheer de belroute van uw bedrijfsnummer met Qaller</h3>
+<b>Beheer de belroute van uw bedrijfsnummer met Qaller</b>
 
 Als u als beheerder (Simmpl login) op Qaller inlogt kunt u ook de belroute van uw bedrijfsnummers instellen.  
 Gebruik de dropdown bij de INCOMING CALL ROUTING om het gewenste belplan te kiezen.
@@ -61,13 +61,13 @@ De belplannen worden weergegeven in alfabetische volgorde. Ook ziet u de belplan
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1566806204/qaller-2_gy4ldw.png)
 
-<h3>Flow Controls</h3>
+<b>Omleidingen / Flow Controls</b>
 
 Hier staan alle omleidingen in het gekozen belplan.  
 U kunt ze met een druk op de knop aan/uit zetten.  
 Bij groepsomleidingen ziet u een A, B etc achter de omleidingen staan.
 
-<h3>Welk nummer wilt u meesturen?</h3>
+<b>Welk nummer wilt u meesturen?</b>
 
 Gebruikt u Qaller Plus?  
 Heeft u meerdere nummers?  
@@ -77,7 +77,7 @@ U kunt op de Simmpl omgeving instellen* welk nummer u meestuurt.
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1568015200/Qaller-support-klein_bzuipg.png)
 
-<h3>Qaller Plus: bellen/gebeld worden via internet (WiFi/4G)</h3>
+<h3>Qaller Plus (bellen via internet WiFi/4G)</h3>
 
 Om met Qaller uit te bellen klikt u op:
 
@@ -112,7 +112,7 @@ Om met Qaller uit te bellen klikt u op:
 
 Qaller App is nu klaar voor alle soorten van gebruik.
 
-<h3>Veelgestelde vragen over de Qaller Smartphone App</h3>
+<h3>Veelgestelde vragen</h3>
 
 Hieronder vindt u een aantal vragen en antwoorden.  
 Bel, mail of chat gerust met ons voor meer informatie en uitleg!
@@ -161,11 +161,3 @@ A: Dit komt omdat u uw keuze (een belplan, een voicemailbox, een nummer, etc.) i
 Q: **Kan ik Qaller Plus gebruiken voor provider-onafhankelijke vast-mobiel-integratie?**
 
 A: Ja! U kunt in uw belplan zorgen dat inkomende gesprekken naar uw mobiele telefoon worden doorgeschakeld, zodat u inkomende gesprekken op uw smartphone ontvangt.  Gecombineerd met de uitbel-mogelijkheden van Qaller Plus beschikt u over een volledige vast-mobiel integratie. Deze vorm van vast-mobiel integratie is provider-onafhankelijk, er is geen specifieke Simkaart of extra contract voor nodig.
-
-Q: **Hoe werkt de callback precies?**
-
-A: Als u een uitgaand gesprek wilt voeren met Qaller Plus, stuurt Qaller Plus een API verzoek naar de Simmpl telefooncentrale. De Simmpl telefooncentrale start dan een nieuw gesprek naar uw mobiele nummer. Alleen als het gesprek ook wordt aangenomen wordt een uitbelverzoek geplaatst naar het nummer dat u op Qaller Plus heeft ingetoetst.
-
-Q: **Hoe werkt de dial-in?**
-
-A: Bij de dial-in te lanceren. In plaats dat de telefoon wacht op een gesprek van de Simmpl centrale zal de telefoon inbellen naar een speciaal nummer dat het gesprek zal forwarden naar het bestemmingsnummer. In de instellingen van de telefooncentrale is het mogelijk om een landnummer te kiezen dat kan worden gebruikt voor de dial-in.
