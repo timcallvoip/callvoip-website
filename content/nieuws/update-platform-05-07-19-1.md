@@ -5,7 +5,7 @@ description: ''
 images: []
 featured: false
 hero:
-  image: "/v1568809253/Untitled-1_ansqff.png"
+  image: "/v1568809489/Untitled-1_dkgdgj.png"
 author: ''
 date: 2019-09-17T22:00:00+00:00
 url: "/qaller-blog"
