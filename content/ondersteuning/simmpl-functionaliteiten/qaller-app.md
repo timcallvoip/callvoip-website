@@ -6,7 +6,7 @@ images: []
 hideinsearch: false
 Nieuw: false
 Update: true
-pdf: ''
+pdf: Simmpl_handleiding_qaller_30_plus_mobile_app_rkjgyd.pdf
 
 ---
 ***
