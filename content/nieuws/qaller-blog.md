@@ -16,7 +16,7 @@ tags: []
 hideinsearch: true
 
 ---
-### ![](https://res.cloudinary.com/callvoip/image/upload/v1568813547/concept2_wttisg.png)Welke nieuwe functionaliteiten zijn er bij gekomen?
+### Welke nieuwe functionaliteiten zijn er bij gekomen?
 
 Qaller 3.0 is jouw slimme Smartphone App om altijd en overal mobiel bereikbaar te zijn. Want wij weten dat sommige telefoontjes net even te belangrijk zijn om te missen.
 
