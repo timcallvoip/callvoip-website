@@ -6,7 +6,7 @@ images: []
 hideinsearch: false
 Nieuw: false
 Update: true
-pdf: Simmpl_handleiding_qaller_30_plus_mobile_app_rkjgyd.pdf
+pdf: http://files.callvoip.nl/downloads/Simmpl_handleiding_Qaller_30_Plus_mobile_app.pdf
 
 ---
 ***
