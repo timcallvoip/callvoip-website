@@ -36,7 +36,7 @@ team:
   content: Porteert je waar je bij staat, na grondige check. Draagt zorg voor alle
     processen zodra je klant wordt. Maakt meer lawaai dan je denkt. Heeft iets met
     Griekenland. Vindt het leuk om op een paard te zitten.
-  linkedin: ''
+  linkedin: https://www.linkedin.com/in/lynn-de-goede-074158b3/
 - content: Maakt graag klanten van leads. Denkt en veert mee maar geeft ook advies.
     Eet vermoedelijk een doos eieren per dag. ’t Is een raadsel hoe, maar kijkt zowel
     golf als Formule 1.
@@ -49,7 +49,7 @@ team:
   function: Commercieel Medewerker
   name: Dion Steen
   image: "/v1568098250/dion_invlag.png"
-  linkedin: ''
+  linkedin: https://www.linkedin.com/in/dion-steen-214b06a2/
 - name: Tim van der Horst
   image: "/v1567149481/Tim_fjmxfn.png"
   content: 'De grafische man. Maakt mooie plaatjes of het niets is en weet daarbij
