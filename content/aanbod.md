@@ -36,7 +36,7 @@ kiezen:
   - icon: fa-boxes-alt
     content: Eenvoudige bediening via uw eigen beveiligde omgeving.
   - icon: fa-piggy-bank
-    content: Tot wel 50% voordeliger dan traditionele telefooncentrale
+    content: Tot wel 50% voordeliger dan traditionele telefonie.
 aanbod:
   title: Ons product aanbod
   items:
