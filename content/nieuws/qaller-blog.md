@@ -7,7 +7,7 @@ featured: false
 hero:
   image: "/v1568809489/Untitled-1_dkgdgj.png"
 author: ''
-date: 2019-09-17T22:00:00+00:00
+date: 2019-09-17T22:00:00.000+00:00
 url: "/qaller-blog"
 contactpersoon: []
 categories: []
@@ -25,7 +25,7 @@ Je **logt simpel éénmalig opnieuw in** en je kan direct even wennen aan de nie
 Dan is dit hét moment om alsnog in te stappen! Want Qaller is jouw gratis 'afstandsbediening' in de centrale. Enkel de app installeren en jouw vaste kantoortoestel is ineens geïntegreerd met je smartphone. Mooi werk toch?
 
 **Abracadabra??**  
-preek één van onze MacGyver's aan achter de chatbot via onze website[ Callvoip.nl](https://www.callvoip.nl/telefonie/qaller/). Zij helpen jou direct om de nieuwe Qaller app kraakhelder uit te leggen. Duurt hooguit een stief kwartiertje, maar dan heb je ook echt wat.
+Psst..hier rechts onderaan de pagina zit één van onze MacGyver's achter de chatbot. Deze baas helpt jou direct om de nieuwe Qaller app kraakhelder uit te leggen. Duurt hooguit een stief kwartiertje, maar dan heb je ook echt wat.
 
 **![](https://res.cloudinary.com/callvoip/image/upload/v1568809641/quote_y5hx0z.png)  
 Wijzigingen in Qaller 3.0 (gratis):**
