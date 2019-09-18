@@ -51,4 +51,4 @@ Wijzigingen in Qaller 3.0 (gratis):**
 Jouw KPN internetverbinding ligt er plotsklaps uit? Of je zit in een verhuizing en de huidige verbinding past niet meer?
 
 **Vraag Callvoip om een gratis internet-check!?**  
-**Voordeel:** wij checken daadwerkelijk alle technieken zodat jij een wijs besluit kunt nemen. Daarbij bieden wij een scherpe prijs omdat goed en snel internet een essentiële basis biedt voor jouw zorgeloze internettelefonie. Belangrijk voor je bedrijfsvoering.
+**Voordeel:** Wij checken daadwerkelijk alle technieken zodat jij een wijs besluit kunt nemen. Daarbij bieden wij een scherpe prijs omdat goed en snel internet een essentiële basis biedt voor jouw zorgeloze internettelefonie. Belangrijk voor je bedrijfsvoering.
