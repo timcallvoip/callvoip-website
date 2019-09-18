@@ -47,7 +47,8 @@ Wijzigingen in Qaller 3.0 Plus (betaald)?**
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1568813640/blog_nvkg9t.png)
 
-**Goed, en dan nog even dit..?**  
+### Goed, en dan nog even dit..?
+
 Jouw KPN internetverbinding ligt er plotsklaps uit? Of je zit in een verhuizing en de huidige verbinding past niet meer?
 
 **Vraag Callvoip om een gratis internet-check!?**  
