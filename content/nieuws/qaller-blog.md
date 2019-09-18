@@ -38,8 +38,7 @@ Wijzigingen in Qaller 3.0 (gratis):**
 * gemakkelijker bediening
 * bookmark belplannen voor meer overzicht
 
-**  
-Wijzigingen in Qaller 3.0 Plus (betaald)?**
+**Wijzigingen in Qaller 3.0 Plus (betaald)?**
 
 * telefoonboek met realtime belstatus
 * keuze uitgaand nummer / anoniem
