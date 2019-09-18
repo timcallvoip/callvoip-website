@@ -45,7 +45,7 @@ team:
   image: "/v1567159537/lennart_lshqcz.png"
   linkedin: ''
 - content: Vindt het leuk om jouw probleem op te lossen. Zeer behulpzaam te noemen.
-    Was al Formule 1 fan, maar rijdt zelf liever op twee wielen
+    Was al Formule 1 fan, maar rijdt zelf liever op twee wielen.
   function: Commercieel Medewerker
   name: Dion Steen
   image: "/v1568098250/dion_invlag.png"
