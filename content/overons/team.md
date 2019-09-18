@@ -43,7 +43,7 @@ team:
   function: Commercieel Medewerker
   name: Lennart Swennenhuis
   image: "/v1567159537/lennart_lshqcz.png"
-  linkedin: ''
+  linkedin: https://www.linkedin.com/in/lennart-swennenhuis-916027103/
 - content: Vindt het leuk om jouw probleem op te lossen. Zeer behulpzaam te noemen.
     Was al Formule 1 fan, maar rijdt zelf liever op twee wielen.
   function: Commercieel Medewerker
