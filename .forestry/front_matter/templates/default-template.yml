@@ -183,6 +183,7 @@ fields:
         name: price
         label: Price
 pages:
+- content/pages/aanvraag-formulier.md
 - content/oplossingen/mkb.md
 - content/telefonie/clicktodial.md
 - content/oplossingen/zelfstandigen.md
