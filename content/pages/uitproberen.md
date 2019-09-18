@@ -1,6 +1,6 @@
 ---
 title: Gratis uitproberen
-slug: uitproberen
+url: uitproberen
 type: page
 hero:
   image: "/v1566311125/offerte_xnr2od.png"

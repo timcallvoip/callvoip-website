@@ -28,8 +28,8 @@ kiezen:
     één en hetzelfde nummer, wel zo handig voor uw klanten. Benieuwd naar de mogelijkheden
     voor uw organisatie?
   button:
-    content: Interactive demo telefooncentrale
-    link: http://files.callvoip.nl
+    content: Gratis uitproberen
+    link: /uitproberen
   items:
   - icon: fa-file-contract
     content: Elke maand opzegbaar geen lange moeilijke contracten.
