@@ -1,6 +1,6 @@
 ---
 type: post
-title: Vast mobiel bereikbaar zijn? Of even je lunchbandje op afstand bedienen? Qaller!
+title: Vast mobiel bereikbaar? Of je lunchbandje op afstand bedienen? Qaller!
 description: ''
 images: []
 featured: false
