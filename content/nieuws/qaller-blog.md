@@ -17,6 +17,7 @@ hideinsearch: true
 
 ---
 ### Welke nieuwe functionaliteiten zijn er bij gekomen?
+
 Qaller 3.0 is jouw slimme Smartphone App om altijd en overal mobiel bereikbaar te zijn. Want wij weten dat sommige telefoontjes net even te belangrijk zijn om te missen.
 
 **Jij weet nog van niks? Geen probleem want..?**
