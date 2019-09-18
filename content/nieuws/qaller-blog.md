@@ -16,7 +16,7 @@ tags: []
 hideinsearch: true
 
 ---
-### Welke nieuwe functionaliteiten zijn er bij gekomen?
+### ![](https://res.cloudinary.com/callvoip/image/upload/v1568813547/concept2_wttisg.png)Welke nieuwe functionaliteiten zijn er bij gekomen?
 
 Qaller 3.0 is jouw slimme Smartphone App om altijd en overal mobiel bereikbaar te zijn. Want wij weten dat sommige telefoontjes net even te belangrijk zijn om te missen.
 
@@ -38,11 +38,14 @@ Wijzigingen in Qaller 3.0 (gratis):**
 * gemakkelijker bediening
 * bookmark belplannen voor meer overzicht
 
-**Wijzigingen in Qaller 3.0 Plus (betaald)?**
+**  
+Wijzigingen in Qaller 3.0 Plus (betaald)?**
 
 * telefoonboek met realtime belstatus
 * keuze uitgaand nummer / anoniem
 * Je kunt voortaan ook doorverbinden
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1568813640/blog_nvkg9t.png)
 
 **Goed, en dan nog even dit..?**  
 Jouw KPN internetverbinding ligt er plotsklaps uit? Of je zit in een verhuizing en de huidige verbinding past niet meer?
