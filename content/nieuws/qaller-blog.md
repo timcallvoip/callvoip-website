@@ -19,7 +19,7 @@ hideinsearch: true
 **Welke nieuwe functionaliteiten zijn er bij gekomen?**
 Qaller 3.0 is jouw slimme Smartphone App om altijd en overal mobiel bereikbaar te zijn. Want wij weten dat sommige telefoontjes net even te belangrijk zijn om te missen.
 
-##Jij weet nog van niks? Geen probleem want..?##
+### Jij weet nog van niks? Geen probleem want..?
 Je **logt simpel éénmalig opnieuw in** en je kan direct even wennen aan de nieuwe 'look & feel' en bovenal het gemak! Alsof je lekker achterover ligt en je haren vakkundig gewassen worden. Ehm,..juist ja en weer door!
 
 **Jij lag onder een zwerfkei en gebruikt Qaller nog helemaal niet??**  
