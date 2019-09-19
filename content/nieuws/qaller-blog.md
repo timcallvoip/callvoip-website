@@ -29,6 +29,8 @@ Dan is dit hét moment om alsnog in te stappen! Want Qaller is jouw gratis 'afst
 **Abracadabra??**  
 Psst..hier rechts onderaan de pagina zit één van onze MacGyver's achter de chatbot. Deze baas helpt jou direct om de nieuwe Qaller app kraakhelder uit te leggen. Duurt hooguit een stief kwartiertje, maar dan heb je ook echt wat.
 
+[Klik hier voor de Qaller handleiding](https://www.callvoip.nl/ondersteuning/simmpl-functionaliteiten/qaller-app/)
+
 **![](https://res.cloudinary.com/callvoip/image/upload/v1568809641/quote_y5hx0z.png)  
 Wijzigingen in Qaller 3.0 (gratis):**
 
