@@ -13,27 +13,9 @@ pdf: http://files.callvoip.nl/downloads/Simmpl_handleiding_Qaller_30_Plus_mobile
 
 ***
 
-**UPDATE SEPTEMBER 2019:**
-
-Sommige gebruikers moeten na de update opnieuw inloggen en de gevraagde machtigingen toestaan. Voor Android-gebruikers is er een extra toestemming:
-
-* **Toegang tot uw telefoonaccounts**
-
-  Tik bij het zien van dit scherm op "OK". Het scherm met belaccounts wordt automatisch geopend. Zet de schakelaar nu op 'AAN' door erop te klikken. Nadat het is ingesteld, kan de gebruiker de pijl links bovenaan gebruiken om terug te gaan naar de Qaller-app.
-
-  ![](https://res.cloudinary.com/callvoip/image/upload/v1568014789/Qaller-permissionrequired-klein_rsy9mx.png)
-
-  _Let op_: Dit scherm is per Android-versie verschillend
-
-  ![](https://res.cloudinary.com/callvoip/image/upload/v1568015151/Qaller-callingaccounts1-klein_dzzh0k.png)
-
-  ![](https://res.cloudinary.com/callvoip/image/upload/v1568015163/Qaller-callingaccounts2-klein_zqfurj.png)
-
-***
-
-***
-
-De Qaller Smartphone app is uw gratis afstandsbediening bij de Simmpl telefooncentrale.
+**Qaller Smartphone App  
+  
+**De Qaller Smartphone app is uw gratis afstandsbediening bij de Simmpl telefooncentrale.
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1566805829/qaller-1_x4gbcb.png)
 
@@ -110,7 +92,21 @@ Om met Qaller uit te bellen klikt u op:
 3. Log in op Qaller met de juiste gebruikersnaam en wachtwoord
 4. Geef Qaller alle permissies die gevraagd worden, zodat deze goed werkt.
 
-Qaller App is nu klaar voor alle soorten van gebruik.
+Qaller App is nu klaar voor alle soorten van gebruik.  
+  
+Sommige gebruikers moeten na de update opnieuw inloggen en de gevraagde machtigingen toestaan. Voor Android-gebruikers is er een extra toestemming:
+
+* **Toegang tot uw telefoonaccounts**
+
+  Tik bij het zien van dit scherm op "OK". Het scherm met belaccounts wordt automatisch geopend. Zet de schakelaar nu op 'AAN' door erop te klikken. Nadat het is ingesteld, kan de gebruiker de pijl links bovenaan gebruiken om terug te gaan naar de Qaller-app.
+
+  ![](https://res.cloudinary.com/callvoip/image/upload/v1568014789/Qaller-permissionrequired-klein_rsy9mx.png)
+
+  _Let op_: Dit scherm is per Android-versie verschillend
+
+  ![](https://res.cloudinary.com/callvoip/image/upload/v1568015151/Qaller-callingaccounts1-klein_dzzh0k.png)
+
+  ![](https://res.cloudinary.com/callvoip/image/upload/v1568015163/Qaller-callingaccounts2-klein_zqfurj.png)
 
 <h3>Veelgestelde vragen</h3>
 
