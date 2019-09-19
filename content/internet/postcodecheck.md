@@ -1,5 +1,5 @@
 ---
-title: Postcode Check
+title: Internet-check
 
 ---
 Vul hieronder uw gegevens in en u wij zoeken de mogelijkheden qua internet voor u uit.
