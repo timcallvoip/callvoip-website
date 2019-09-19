@@ -9,6 +9,6 @@
 
 {{ with $js }}
 {{ $secureJS := . | resources.Fingerprint }}
-<script type="text/javascript" src="{{ $secureJS.Permalink }}" integrity="{{ $secureJS.Data.Integrity }}"
+<script type="text/javascript" src="{{ $secureJS.Permalink }}"
 	crossorigin="anonymous" defer></script>
 {{ end }}

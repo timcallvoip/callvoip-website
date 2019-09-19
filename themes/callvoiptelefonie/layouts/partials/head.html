@@ -23,7 +23,7 @@
   <link rel="stylesheet" href="{{ $style.Permalink }}" data>
 {{ else }}
   {{ $style := resources.Get "css/styles.css" | postCSS (dict "config" "./themes/callvoiptelefonie/assets/css/postcss.config.js") | minify | fingerprint }}
-  <link rel="stylesheet" href="{{ $style.Permalink }}" integrity="{{ $style.Data.Integrity }}">
+  <link rel="stylesheet" href="{{ $style.Permalink }}" crossorigin="anonymous">
 {{ end }}
 
 
