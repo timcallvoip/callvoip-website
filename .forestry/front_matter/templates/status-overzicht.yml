@@ -8,6 +8,9 @@ fields:
 - type: textarea
   name: contentTop
   label: Content Top
+- type: textarea
+  name: contentMiddle
+  label: Content Middle
 - type: field_group
   name: hero
   label: hero
