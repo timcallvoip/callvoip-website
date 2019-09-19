@@ -44,7 +44,7 @@ Wijzigingen in Qaller 3.0 (gratis):**
 * keuze uitgaand nummer / anoniem
 * Je kunt voortaan ook doorverbinden
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1568819741/phone_bruin_ido2dx.png)
+![](https://res.cloudinary.com/callvoip/image/upload/v1568875791/phone_new_rkvuby.png)
 
 ### Goed, en dan nog even dit..?
 
