@@ -37,16 +37,16 @@
         </div>
         {{ end }}
         {{ end }}
-
-
-
       </div>
 
-      {{ with .Content }}
-      <div class="user-content opacity-85 lg:text-lg font-medium leading-loose">
+
+      {{ with .Params.contentMiddle }}
+      <div class="user-content opacity-85 lg:text-lg font-medium leading-loose mb-6 ">
         {{ . | markdownify }}
       </div>
       {{ end }}
+
+
 
       <div class="mt-6 border-2 border-grey-lightest rounded-lg">
         <div class="bg-grey-lightest py-3 px-4">
@@ -65,6 +65,12 @@
         {{ end }}
         {{ end }}
       </div>
+
+      {{ with .Content }}
+      <div class="user-content opacity-85 lg:text-lg font-medium leading-loose pt-6">
+        {{ . | markdownify }}
+      </div>
+      {{ end }}
 
     </div>
   </div>
