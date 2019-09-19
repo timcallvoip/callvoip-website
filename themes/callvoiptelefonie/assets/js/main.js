@@ -110,21 +110,21 @@ window.addEventListener('mouseup', function(event) {
 
 // 
 
-function openChat() {
+// function openChat() {
 
-  const button = document.getElementById('openChat');
+//   const button = document.getElementById('openChat');
 
-  if(button) {
-    button.addEventListener('click', function (e) {
-      e.preventDefault();
-      window.Trengo.Api.Widget.open('chat');
-    });
+//   if(button) {
+//     button.addEventListener('click', function (e) {
+//       e.preventDefault();
+//       window.Trengo.Api.Widget.open('chat');
+//     });
 
-  }
+//   }
 
-}
+// }
 
-openChat();
+// openChat();
 
 
 
