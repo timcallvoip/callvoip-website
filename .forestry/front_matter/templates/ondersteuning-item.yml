@@ -36,6 +36,7 @@ fields:
     required: false
   label: PDF
 pages:
+- content/ondersteuning/Integraties/voip-cti-handleiding.md
 - content/ondersteuning/simmpl-functionaliteiten/qaller-plus-app.md
 - content/ondersteuning/simmpl-functionaliteiten/qaller-app.md
 - content/ondersteuning/Integraties/click-to-dial.md
@@ -43,7 +44,6 @@ pages:
 - content/ondersteuning/algemeen/nieuwsbrieven-overzicht.md
 - content/ondersteuning/Apparatuurhandleidingen/fritz-box.md
 - content/ondersteuning/Integraties/click-to-dial-yealink-adresboek.md
-- content/ondersteuning/Integraties/voip-cti-handleiding.md
 - content/ondersteuning/algemeen/conferencing-service-handleiding.md
 - content/ondersteuning/algemeen/overzicht-sip-statuscodes.md
 - content/ondersteuning/algemeen/sip-trunk-handleiding.md

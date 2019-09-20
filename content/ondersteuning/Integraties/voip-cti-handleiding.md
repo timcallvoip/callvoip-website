@@ -9,6 +9,12 @@ Nieuw: false
 Update: false
 
 ---
+<h3>Software download</h3>
+
+<a href="[http://www.simmpl.nl/downloads/VoipCTIClientSetup.exe](http://www.simmpl.nl/downloads/VoipCTIClientSetup.exe "http://www.simmpl.nl/downloads/VoipCTIClientSetup.exe")" target="_blank">Voip CTI Client Software</a>
+
+<a href="[http://www.simmpl.nl/downloads/VoipCTIRecognitionConfigToolSetup.exe](http://www.simmpl.nl/downloads/VoipCTIRecognitionConfigToolSetup.exe "http://www.simmpl.nl/downloads/VoipCTIRecognitionConfigToolSetup.exe")" target="_blank">Voip CTI REcognition Configuration Tool</a>
+
 <h3>Wat is VoIP CTI?</h3>
 
 Met VoIP CTI (= Computer Telephony Integration) verbindt u de Simmpl telefooncentrale met uw klantsysteem (**CRM-, ERP- of administratiepakketten**). Dit biedt gemak en bespaart tijd bij het bellen naar klanten (Click-to-Dial), en als de klant u belt verschijnt een **pop-up met klantinformatie op uw scherm**. Klik op de pop-up en de klantenkaart in uw CRM pakket wordt geopend.
@@ -102,7 +108,7 @@ A: Als u geheel geen popups krijgt, check dan of het tonen van Popups in Windows
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1566290356/voipcti-6_jva3d8.png)
 
-IN menu SYSTEEM, kies links: MELDINGEN EN ACTIES.   
+IN menu SYSTEEM, kies links: MELDINGEN EN ACTIES.  
 Controleer hier of de meldingen aanstaan. Zo niet, zet deze aan en test opnieuw.
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1566290445/voipcti-7_actkhf.png)
@@ -111,7 +117,7 @@ Heeft u nog steeds geen popups? Er kunnen andere redenen zijn dat u deze niet kr
 
 Q: **Kan ik de popup ook langer in beeld laten verschijnen?**
 
-A: Ja, dat kunt u als volgt instellen:   
+A: Ja, dat kunt u als volgt instellen:  
 Ga naar Windows Meldingen, kies ALLE INSTELLINGEN en kies vervolgens TOEGANKELIJKHEID
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1566290584/voipcti-8_jvki1l.png)
@@ -127,8 +133,8 @@ Rechtsonder ziet u het Windows Meldingen icoon en links daarvan een aantal ander
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1566290784/voipcti-10_grvlo0.png)
 
-Kies in dit menu de onderste optie: TAAKBALKINSTELLINGEN.    
-In het venster dat nu verschijnt scrolt u naar beneden totdat u ziet: SYSTEEMVAK.   
+Kies in dit menu de onderste optie: TAAKBALKINSTELLINGEN.  
+In het venster dat nu verschijnt scrolt u naar beneden totdat u ziet: SYSTEEMVAK.  
 Klik op de regel eronder: \[**Selecteren … weergegeven**\]
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1566290880/voipcti-11_ax9r7p.png)
@@ -137,7 +143,7 @@ Zoek dan VoIP CTI in de lijst en zet deze op \[**AAN**\].
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1566290950/voipcti-12_sx2ntr.png)
 
-Het VoIP CTI icoon staat er nu los bij, onderin de taakbalk.    
+Het VoIP CTI icoon staat er nu los bij, onderin de taakbalk.  
 Klik op het icoon om de laatste popup opnieuw op te tonen.
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1566291020/voipcti-13_q7ftc7.png)
@@ -148,7 +154,7 @@ A: Nee, u kunt alleen de laatste popup opnieuw tonen.
 
 <h3>Uw telefonie integreren met: …….  wat zijn de mogelijkheden?</h3>
 
-Hoe efficiënt wilt u het hebben? Koppel uw telefoonsysteem met andere applicaties.    
+Hoe efficiënt wilt u het hebben? Koppel uw telefoonsysteem met andere applicaties.  
 De Simmpl telefooncentrale van CallvoipTelefonie is klaar om te koppelen!
 
 U weet het: we houden het graag Simmpl! En daarom ontwikkelden we een koppeling die een basisintegratie biedt: een app voor de Chrome Browser met een click to dial, een gesprekslog en een bedrijfstelefoonboek. Deze app is voor u als Simmpl klant kostenloos.
