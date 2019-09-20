@@ -15,40 +15,40 @@ Met de Qaller Plus smartphone app kan de Simmpl telefooncentrale vanaf de smartp
 
 ### Overzicht
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1565011948/support-qaller-overzicht_kpjsbu.png)
+![](https://res.cloudinary.com/callvoip/image/upload/v1568973241/qaller_plus_nl_jdqdex.png)
 
 ### Quickstart
 
 #### Qaller op uw Smartphone installeren
 
 {{< layout/columns >}}  
- {{< layout/column2 >}}  
-1\. **Download de App** in de [Appstore (Apple)](https://play.google.com/store/apps/details?id=com.digifoon.qaller&hl=nl) of [Google Play (Android)](https://apps.apple.com/nl/app/qaller/id1140548146) 
+{{< layout/column2 >}}  
+1\. **Download de App** in de [Appstore (Apple)](https://play.google.com/store/apps/details?id=com.digifoon.qaller&hl=nl) of [Google Play (Android)](https://apps.apple.com/nl/app/qaller/id1140548146)
 
-2\. **Login als beheerder op Simmpl en zet Qaller Plus aan**. Qaller Plus voegt de mogelijkheid tot in/uitgaand bellen toe aan Qaller. NB : Qaller Plus wordt als toestelaccount berekend. 
+2\. **Login als beheerder op Simmpl en zet Qaller Plus aan**. Qaller Plus voegt de mogelijkheid tot in/uitgaand bellen toe aan Qaller. NB : Qaller Plus wordt als toestelaccount berekend.
 
 3\. **Start de app op uw smartphone** en vul uw Simmpl gebruikersnaam in bv: 001.devriesbv, 005.jansennotarissen, etc.  
- {{</ layout/column2 >}}  
- {{< layout/column2 >}}  
+{{</ layout/column2 >}}  
+{{< layout/column2 >}}  
 ![](https://res.cloudinary.com/callvoip/image/upload/v1565014510/support-qaller-ps1_gyqmje.png)  
- {{</ layout/column2 >}}  
+{{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
 {{< layout/columns >}}  
- {{< layout/column2 >}}  
-4\. **Kies hoe u de App wilt activeren**: NB: de opties kunnen wat verborgen staan onder uw smartphone toetsenbord 
+{{< layout/column2 >}}  
+4\. **Kies hoe u de App wilt activeren**: NB: de opties kunnen wat verborgen staan onder uw smartphone toetsenbord
 
-\- vul het wachtwoord in dat hoort bij uw Simmpl gebruikerslogin 
+\- vul het wachtwoord in dat hoort bij uw Simmpl gebruikerslogin
 
-\- of: login op Simmpl en gebruik de QR Code* > klik op start en scan 
+\- of: login op Simmpl en gebruik de QR Code* > klik op start en scan
 
-\- of: login op Simmpl en gebruik de Pair Code* 
+\- of: login op Simmpl en gebruik de Pair Code*
 
 5\. * De QR Code en Pair Code vindt u op de Simmpl telefooncentrale. Log in als gebruiker; rechstboven staat uw naam. Klik hierop. Kies **Verbind Mobiele App** voor de QR Code en Pair code.  
- {{</ layout/column2 >}}  
- {{< layout/column2 >}}  
+{{</ layout/column2 >}}  
+{{< layout/column2 >}}  
 ![](https://res.cloudinary.com/callvoip/image/upload/v1565014687/support-qaller-ps2_gk0kns.png)  
- {{</ layout/column2 >}}  
+{{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
 Gefeliciteerd! De Qaller App is nu geactiveerd en klaar voor gebruik!
@@ -58,22 +58,22 @@ Gefeliciteerd! De Qaller App is nu geactiveerd en klaar voor gebruik!
 #### Met Qaller uw eigen bereikbaarheid instellen
 
 {{< layout/columns >}}  
- {{< layout/column2 >}}  
-1\. Open de Qaller app op uw smartphone 
+{{< layout/column2 >}}  
+1\. Open de Qaller app op uw smartphone
 
-2\. U ziet de 4 beheermogelijkheden van uw eigen toestel (bv 001) 
+2\. U ziet de 4 beheermogelijkheden van uw eigen toestel (bv 001)
 
-\- volg originele belroute, mét mogelijkheid om Qaller (niet) mee te laten rinkelen 
+\- volg originele belroute, mét mogelijkheid om Qaller (niet) mee te laten rinkelen
 
-\- doorschakelen naar mobiel 
+\- doorschakelen naar mobiel
 
-\- doorschakelen naar voicemail - doorschakelen naar collega / extern nummer 
+\- doorschakelen naar voicemail - doorschakelen naar collega / extern nummer
 
 3\. Selecteer de route van uw keuze  
- {{</ layout/column2 >}}  
- {{< layout/column2 >}}  
+{{</ layout/column2 >}}  
+{{< layout/column2 >}}  
 **![](https://res.cloudinary.com/callvoip/image/upload/v1565014706/support-qaller-ps3_zn5acy.png)**  
- {{</ layout/column2 >}}  
+{{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
 <br>
@@ -81,18 +81,18 @@ Gefeliciteerd! De Qaller App is nu geactiveerd en klaar voor gebruik!
 #### Met Qaller de bereikbaarheid van een bedrijfsnummer instellen
 
 {{< layout/columns >}}  
- {{< layout/column2 >}}  
-1\. Open de Qaller App 
+{{< layout/column2 >}}  
+1\. Open de Qaller App
 
-2\. Blader via swipe of de oranje ronde knop naar het juiste bedrijfsnummer 
+2\. Blader via swipe of de oranje ronde knop naar het juiste bedrijfsnummer
 
-3\. Overrule de hele bedrijfsroute met één van de vier route-opties… 
+3\. Overrule de hele bedrijfsroute met één van de vier route-opties…
 
 4\. … of gebruik de omleidingen / omleidingsgroepen* (A, B, etc) Omleidingen zijn customized aanpassingen die u op de Simmpl telefooncentrale als beheerder instelt  
- {{</ layout/column2 >}}  
- {{< layout/column2 >}}  
+{{</ layout/column2 >}}  
+{{< layout/column2 >}}  
 **![](https://res.cloudinary.com/callvoip/image/upload/v1565014722/support-qaller-ps4_jplrcz.png)**  
- {{</ layout/column2 >}}  
+{{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
 <br>
@@ -100,44 +100,44 @@ Gefeliciteerd! De Qaller App is nu geactiveerd en klaar voor gebruik!
 #### Met Qaller Plus bellen en gebeld worden
 
 {{< layout/columns >}}  
- {{< layout/column2 >}}  
-1\. Heeft u Qaller Plus? En heeft uw smartphone internet? Dan kunt u bellen en gebeld worden alsof u op kantoor bent. 
+{{< layout/column2 >}}  
+1\. Heeft u Qaller Plus? En heeft uw smartphone internet? Dan kunt u bellen en gebeld worden alsof u op kantoor bent.
 
 2\. Gebeld worden: Qaller ontvangt de gesprekken op uw eigen nummer (001, 002) en laat deze ook overgaan op uw smartphone. U kunt overal gebeld worden waar u over internet beschikt. Een inkomend Qaller-gesprek herkent u aan het rode Qaller scherm.  
- {{</ layout/column2 >}}  
- {{< layout/column2 >}}  
+{{</ layout/column2 >}}  
+{{< layout/column2 >}}  
 **![](https://res.cloudinary.com/callvoip/image/upload/v1565014738/support-qaller-ps5_p33sbq.png)**  
- {{</ layout/column2 >}}  
+{{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
 {{< layout/columns >}}  
- {{< layout/column2 >}}  
+{{< layout/column2 >}}  
 3\. Uitbellen: Klik op het middelste icoon onderin uw scherm (dialpad) en draai een nummer. Met Qaller kunt u uitbellen naar collega’s: zij zien uw interne nummer. Met Qaller kunt u uitbellen naar externe nummers, hierbij wordt uw zaaknummer meegestuurd.  
- {{</ layout/column2 >}}  
- {{< layout/column2 >}}  
+{{</ layout/column2 >}}  
+{{< layout/column2 >}}  
 **![](https://res.cloudinary.com/callvoip/image/upload/v1565014753/support-qaller-ps6_vvwbiz.png)**  
- {{</ layout/column2 >}}  
+{{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
 <br>
 
 #### Instellingsmogelijkheden
 
-Als u de Qaller App heeft geopend ziet u geheel rechtsboven drie kleine rondjes. Klik hierop om naar de instellingspagina te gaan. Hier kunt u het volgende doen: 
+Als u de Qaller App heeft geopend ziet u geheel rechtsboven drie kleine rondjes. Klik hierop om naar de instellingspagina te gaan. Hier kunt u het volgende doen:
 
-**1. Vergrendelcode voor start instellen** 
+**1. Vergrendelcode voor start instellen**
 
-Het is mogelijk om het gebruik van de app te vergrendelen met een zelf te kiezen 5- cijferige vergrendelcode. 
+Het is mogelijk om het gebruik van de app te vergrendelen met een zelf te kiezen 5- cijferige vergrendelcode.
 
-**2. Gespreksinstellingen** 
+**2. Gespreksinstellingen**
 
-De Qaller App toont hoe Qaller via internet is verbonden (nl. via Wi-Fi, roaming of 2G/3G/4G) en hoe Qaller haar uitgaande gesprekken opzet (via internet of via callback). U heeft zelf ook de mogelijkheid om dit hier aan te passen. 
+De Qaller App toont hoe Qaller via internet is verbonden (nl. via Wi-Fi, roaming of 2G/3G/4G) en hoe Qaller haar uitgaande gesprekken opzet (via internet of via callback). U heeft zelf ook de mogelijkheid om dit hier aan te passen.
 
-**3. Mobiele nummer** 
+**3. Mobiele nummer**
 
-Vul hier uw mobiele nummer in zonder streepjes of spaties 
+Vul hier uw mobiele nummer in zonder streepjes of spaties
 
-**4. Algemene instellingen** 
+**4. Algemene instellingen**
 
 Via button \[ONTKOPPEL APP VAN ACCOUNT\] kunt u Qaller loskoppelen van uw Simmpl gebruikersaccount. U kunt dan niet meer bellen/gebeld worden en u kunt de telefooncentrale ook niet meer bedienen.
 
@@ -147,11 +147,11 @@ Via button \[ONTKOPPEL APP VAN ACCOUNT\] kunt u Qaller loskoppelen van uw Simmpl
 
 <br>
 
-##### Is de Qaller App kostenloos te gebruiken? 
+##### Is de Qaller App kostenloos te gebruiken?
 
-Ja en nee: dat hangt ervan af welke mogelijkheden u gebruikt: 
+Ja en nee: dat hangt ervan af welke mogelijkheden u gebruikt:
 
-**Qaller**: hiermee kunt u de telefooncentrale bedienen, Qaller is kosteloos 
+**Qaller**: hiermee kunt u de telefooncentrale bedienen, Qaller is kosteloos
 
 **Qaller Plus**: hiermee kunt u óók in/uitgaand bellen. Qaller Plus wordt berekend als toestel (éénmalig 5,- ex BTW en maandelijks 4,- ex BTW).
 
@@ -161,17 +161,17 @@ De basisfunctie is het bedienen van de telefooncentrale; hiervoor kunt u Qaller 
 
 ##### Wat is mijn Simmpl gebruikersnaam en waar vind ik die?
 
-Uw gebruikersnaam ziet er bv zo uit: Uw gebruikersnaam ziet er bv zo uit: **001.mijnbedrijf**. 
+Uw gebruikersnaam ziet er bv zo uit: Uw gebruikersnaam ziet er bv zo uit: **001.mijnbedrijf**.
 
-• vóór de punt staat uw eigen verkorte nummer (waarmee een collega naar u belt) 
+• vóór de punt staat uw eigen verkorte nummer (waarmee een collega naar u belt)
 
-• ná de punt uw bedrijfsloginnaam, vaak gelijk aan de bedrijfsnaam in uw emailadres U kunt uw gebruikersnaam terugvinden op de telefooncentrale: 
+• ná de punt uw bedrijfsloginnaam, vaak gelijk aan de bedrijfsnaam in uw emailadres U kunt uw gebruikersnaam terugvinden op de telefooncentrale:
 
-• log in als beheerder via [https://panel.callvoip.nl](https://panel.callvoip.nl) 
+• log in als beheerder via [https://panel.callvoip.nl](https://panel.callvoip.nl)
 
-• klik op \[gebruikers\] en zoek uzelf in de lijst 
+• klik op \[gebruikers\] en zoek uzelf in de lijst
 
-• klik op het tandwiel-icoon (bewerk gebruiker) – hier vindt u uw hele loginnaam en kunt u het password instellen 
+• klik op het tandwiel-icoon (bewerk gebruiker) – hier vindt u uw hele loginnaam en kunt u het password instellen
 
 Lukt het niet? Geen nood, bel / mail / chat ons en wij helpen u!
 
@@ -179,13 +179,13 @@ Lukt het niet? Geen nood, bel / mail / chat ons en wij helpen u!
 
 ##### Wat is het wachtwoord van mijn Simmpl gebruikersnaam?
 
-Uw Simmpl wachtwoord kunt u instellen in de Simmpl telefooncentrale. U kunt uw wachtwoord instellen op de telefooncentrale: 
+Uw Simmpl wachtwoord kunt u instellen in de Simmpl telefooncentrale. U kunt uw wachtwoord instellen op de telefooncentrale:
 
 • log in als beheerder via [https://panel.callvoip.nl ](https://panel.callvoip.nl )
 
-• klik op \[gebruikers\] en zoek uzelf in de lijst 
+• klik op \[gebruikers\] en zoek uzelf in de lijst
 
-• klik op het tandwiel-icoon (bewerk gebruiker) – hier vindt u uw hele loginnaam en kunt u het password instellen 
+• klik op het tandwiel-icoon (bewerk gebruiker) – hier vindt u uw hele loginnaam en kunt u het password instellen
 
 Lukt het niet? Geen nood, bel / mail / chat ons en wij helpen u!
 
@@ -193,31 +193,29 @@ Lukt het niet? Geen nood, bel / mail / chat ons en wij helpen u!
 
 ##### Hoe zet ik Qaller Plus aan?
 
-Na het downloaden en invullen van uw Simmpl gebruikersnaam (bv 002.devriesbv) kunt u de app op 3 manieren activeren: 
+Na het downloaden en invullen van uw Simmpl gebruikersnaam (bv 002.devriesbv) kunt u de app op 3 manieren activeren:
 
-1) vul het Simmpl wachtwoord bij uw gebruikersnaam in 
-
-2) of: laat uw smartphone de QR-Code inscannen 
-
-3) of: vul de PAIRCODE in op uw smartphone
+1. vul het Simmpl wachtwoord bij uw gebruikersnaam in
+2. of: laat uw smartphone de QR-Code inscannen
+3. of: vul de PAIRCODE in op uw smartphone
 
 <br>
 
 ##### Waar vind ik de QR Code?
 
-Log in op Simmpl ([https://panel.callvoip.nl](https://panel.callvoip.nl)) als gebruiker 
+Log in op Simmpl ([https://panel.callvoip.nl](https://panel.callvoip.nl)) als gebruiker
 
-• Rechtsboven staat uw naam; klik daarop en kies \[Verbind mobiele app\]. 
+• Rechtsboven staat uw naam; klik daarop en kies \[Verbind mobiele app\].
 
-• De QR Code wordt nu getoond. 
+• De QR Code wordt nu getoond.
 
-• U kunt ook een PAIR CODE / KOPPELINGSCODE genereren en Qaller daarmee activeren. 
+• U kunt ook een PAIR CODE / KOPPELINGSCODE genereren en Qaller daarmee activeren.
 
-Wat u precies ziet hangt af van uw type Smartphone en de grootte van uw scherm. 
+Wat u precies ziet hangt af van uw type Smartphone en de grootte van uw scherm.
 
-• Bij veel Android Smartphones kan het keyboard worden verborgen met de \[terug\] toets. 
+• Bij veel Android Smartphones kan het keyboard worden verborgen met de \[terug\] toets.
 
-• Bij iPhones kan dit soms niet; scroll het scherm iets omhoog om het toch te zien. 
+• Bij iPhones kan dit soms niet; scroll het scherm iets omhoog om het toch te zien.
 
 • Of bel ons voor uw wachtwoord, dan bent u er ook!
 
@@ -225,7 +223,7 @@ Wat u precies ziet hangt af van uw type Smartphone en de grootte van uw scherm.
 
 ##### Hoe vaak moet ik Qaller opnieuw activeren?
 
-Dat hoeft u maar éénmalig te doen. Mogelijk is nieuwe activatie incidenteel nodig na een update van uw smartphone of van de Qaller software. 
+Dat hoeft u maar éénmalig te doen. Mogelijk is nieuwe activatie incidenteel nodig na een update van uw smartphone of van de Qaller software.
 
 **Tip**: ervaart u uitval van de registratie? Deïnstalleer Qaller dan en installeer opnieuw. U heeft dan de laatste versie van Qaller en activeert opnieuw, wat de stabiliteit zal optimaliseren.
 
@@ -329,13 +327,13 @@ Na een oproep blijft Qaller vaak aanstaan. Dat is vervelend want kost batterijca
 
 ##### Qaller Plus gaat niet of pas laat rinkelen, wat kan ik daaraan doen?
 
-Er zijn verschillende redenen dat Qaller Plus een inkomend gesprek niet direct aanneemt. 
+Er zijn verschillende redenen dat Qaller Plus een inkomend gesprek niet direct aanneemt.
 
-\- **Heeft u een snelle processor en/of besteed uw processor voldoende aandacht aan Qaller?** Een nieuwere smartphone is vaak sneller, en een grotere snellere processor kan meer aan. Dit kan mede van invloed zijn op de snelheid waarmee Qaller Plus gesprekken laat rinkelen. 
+\- **Heeft u een snelle processor en/of besteed uw processor voldoende aandacht aan Qaller?** Een nieuwere smartphone is vaak sneller, en een grotere snellere processor kan meer aan. Dit kan mede van invloed zijn op de snelheid waarmee Qaller Plus gesprekken laat rinkelen.
 
-\- **Is de batterij vol genoeg?** Als de batterijlading van uw smartphone laag is dan start de smartphone een soort rantsoen: de belangrijkste processen worden het eerst gevoed, andere processen zoals Qaller komen pas later. Dit kan een reden zijn dat Qaller niet direct start. Zorg dus voor een goed opgeladen smartphone. 
+\- **Is de batterij vol genoeg?** Als de batterijlading van uw smartphone laag is dan start de smartphone een soort rantsoen: de belangrijkste processen worden het eerst gevoed, andere processen zoals Qaller komen pas later. Dit kan een reden zijn dat Qaller niet direct start. Zorg dus voor een goed opgeladen smartphone.
 
-\- **Komt uw smartphone uit een deep sleep?** Dan kan het meer tijd kosten om de app te starten. Bij een inkomende oproep sturen wij een priority impuls voor VoIP naar de smartphone. Google en Apple zijn verantwoordelijk voor de snelheid waarmee deze aankomt. Uw smartphone zorgt dan voor het ontwaken, starten en rinkelen van het inkomende gesprek. Zorg er dus voor dat u een gesprek lang genoeg (20-25 seconden = 4 à 5x) laat overgaan zodat hij tijd genoeg krijgt om te ontwaken. 
+\- **Komt uw smartphone uit een deep sleep?** Dan kan het meer tijd kosten om de app te starten. Bij een inkomende oproep sturen wij een priority impuls voor VoIP naar de smartphone. Google en Apple zijn verantwoordelijk voor de snelheid waarmee deze aankomt. Uw smartphone zorgt dan voor het ontwaken, starten en rinkelen van het inkomende gesprek. Zorg er dus voor dat u een gesprek lang genoeg (20-25 seconden = 4 à 5x) laat overgaan zodat hij tijd genoeg krijgt om te ontwaken.
 
 \- **Kan uw app op de achtergrond draaien?** Heeft u bij de app ingesteld dat deze op de achtergrond mag draaien (run on background)? Dat is standaard het geval, maar dit kan worden uitgezet. Verifieer dat dit aanstaat bij uw app > instellingen > run on background.
 
