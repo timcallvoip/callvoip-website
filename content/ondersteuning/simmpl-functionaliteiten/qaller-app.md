@@ -13,10 +13,12 @@ pdf: http://files.callvoip.nl/downloads/Simmpl_handleiding_Qaller_30_Plus_mobile
 
 ***
 
-**Qaller Smartphone App  
-  
-**De Qaller Smartphone app is uw gratis afstandsbediening bij de Simmpl telefooncentrale.
+**Qaller Smartphone App**
 
+De Qaller Smartphone app is uw gratis afstandsbediening bij de Simmpl telefooncentrale.  
+Qaller is geupdate! Je moet even weer opnieuw inloggen.  
+Gebruik hiervoor je Simmpl gebruikersnaam en wachtwoord, bv. 201.mijnbedrijf.  
+  
 ![](https://res.cloudinary.com/callvoip/image/upload/v1566805829/qaller-1_x4gbcb.png)
 
 <h3>Wat is Qaller?</h3>
@@ -92,8 +94,8 @@ Om met Qaller uit te bellen klikt u op:
 3. Log in op Qaller met de juiste gebruikersnaam en wachtwoord
 4. Geef Qaller alle permissies die gevraagd worden, zodat deze goed werkt.
 
-Qaller App is nu klaar voor alle soorten van gebruik.  
-  
+Qaller App is nu klaar voor alle soorten van gebruik.
+
 Sommige gebruikers moeten na de update opnieuw inloggen en de gevraagde machtigingen toestaan. Voor Android-gebruikers is er een extra toestemming:
 
 * **Toegang tot uw telefoonaccounts**
