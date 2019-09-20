@@ -183,8 +183,8 @@ fields:
         name: price
         label: Price
 pages:
-- content/oplossingen/mkb.md
 - content/telefonie/clicktodial.md
+- content/oplossingen/mkb.md
 - content/oplossingen/zelfstandigen.md
 - content/telefonie/hostedvoip.md
 - content/telefonie/bereikbaarheidsmonitor.md
