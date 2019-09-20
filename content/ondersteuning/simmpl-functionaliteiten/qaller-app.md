@@ -43,7 +43,7 @@ Gebruik de dropdown bij de INCOMING CALL ROUTING om het gewenste belplan te kiez
 
 De belplannen worden weergegeven in alfabetische volgorde. Ook ziet u de belplankleur terug. Zo kunt u gemakkelijk een logische volgorde in uw belplannen creëren.
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1566806204/qaller-2_gy4ldw.png)
+![](https://res.cloudinary.com/callvoip/image/upload/v1568973781/qaller_plus2_nl_em5r6u.png)
 
 <b>Omleidingen / Flow Controls</b>
 
@@ -59,7 +59,7 @@ U kunt op de Simmpl omgeving instellen* welk nummer u meestuurt.
 
 \* _Schakel Multiple Caller ID in bij de gebruiker; u kunt dit dan ook via de Qaller app instellen!_
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1568015200/Qaller-support-klein_bzuipg.png)
+![](https://res.cloudinary.com/callvoip/image/upload/v1568974023/qaller_plus3_nl_rsnyyr.png)
 
 <h3>Qaller Plus (bellen via internet WiFi/4G)</h3>
 
