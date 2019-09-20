@@ -6,6 +6,8 @@ images: []
 pdf: http://www.simmpl.nl/downloads/Simmpl_configuratiehandleiding_Yealink_T4x.pdf
 
 ---
+<a href="http://files.callvoip.nl/downloads/Simmpl_verkorte_gebruikshandleiding_Yealink_T46g.pdf" target="_blank">Korte gebruiksinstructie Yealink T46G</a>
+Yealink T4x- & T5x
 In deze handleiding kunt u lezen hoe u uw Yealink T4x of T5x IP telefoon configureert met een VoIP-account van de Simmpl telefooncentrale.
 
 1. **Maak een Simmpl toestelaccount aan**  
