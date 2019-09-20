@@ -13,6 +13,8 @@ hero:
     webbrowser klikbaar. Één klik op het nummer en uw toestel belt uit. Is dit alles?
     Nee! Zo krijgt u bij inkomende oproepen een notificatie, ziet u de beschikbaarheid
     van uw collega's, kunt u gesprekken doorverbinden en heeft u een telefoonboek.
+    
+    <a href="https://chrome.google.com/webstore/detail/simmpl-click-to-dial/hnjepanannlajhppemgdmcjjpimlhkgm?hl=nl target="_blank">Download Click-to-Dial Gratis voor Google Chrome!</a>
   button:
     content: Offerte aanvragen
     link: "/offerte/"
