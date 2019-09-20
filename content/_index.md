@@ -13,10 +13,12 @@ hero:
     title: Kleine en middelgrote bedrijven
     content: Kies voor de Hosted VoIP oplossing
     link: telefonie/hostedvoip/
+    id: cta-mkb
   - icon: fa-tty
     title: Mobiele telefoon als onderdeel van de zakelijke telefonieoplossing?
     content: Gebruik de Vast Mobiel Integratie (Vamos)
     link: telefonie/vastmobielintegratie/
+    id: cta-vamos
 intro:
   image: "/v1567005839/home_nieuwe_site_versie2_gksupd.png"
   title: Voordelig bellen vanuit de cloud
