@@ -336,3 +336,27 @@ function pageSummary() {
 }
 
 pageSummary();
+
+
+
+function ctaClicks() {
+
+  if(!document.getElementById('cta-mkb')) return;
+  if(!document.getElementById('cta-vamos')) return;
+
+  document.getElementById('cta-mkb').onclick( function() {
+    window.dataLayer.push({
+      'event': 'buttonclick',
+      'button': 'button-click-cta-mkb'
+      })
+  })
+
+  document.getElementById('cta-vamos').onclick( function() {
+    window.dataLayer.push({
+      'event': 'buttonclick',
+      'button': 'button-click-cta-vamos'
+      })
+  })
+}
+
+ctaClicks();
