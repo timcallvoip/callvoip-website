@@ -15,7 +15,7 @@ Met de Qaller Plus smartphone app kan de Simmpl telefooncentrale vanaf de smartp
 
 ### Overzicht
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1568973241/qaller_plus_nl_jdqdex.png)
+![](https://res.cloudinary.com/callvoip/image/upload/v1568980157/qaller_plus4_nl_nc8kgd.png)
 
 ### Quickstart
 
