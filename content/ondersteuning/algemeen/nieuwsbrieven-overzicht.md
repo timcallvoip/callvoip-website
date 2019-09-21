@@ -1,5 +1,5 @@
 ---
-title: Nieuwsbrieven overzicht
+title: Nieuwsbrieven-overzicht
 weight: 
 description: ''
 images: []
@@ -11,9 +11,9 @@ pdf: ''
 ---
 <h3>2019</h3>
 
-* <a href="https://mailchi.mp/callvoip/sep19-nieuweqaller_callvoipdsl" target="_blank">15-09-19 | Simmpl | Nieuwe Qaller + CallvoipDSL</a>
-* <a href="https://mailchi.mp/callvoip/sep19-qallergeupdate" target="_blank">14-08-19 | Simmpl | Update Qaller</a>
-* <a href="https://mailchi.mp/callvoip/sep19-nieuwewebsite" target="_blank">09-09-19 | Simmpl | Nieuwe website</a>
+* <a href="https://mailchi.mp/callvoip/sep19-nieuweqaller_callvoipdsl" target="_blank">CallvoipTelefonie nieuwsbrief 15-09-19 | Qaller geupdate | gratis internetcheck!</a>
+* <a href="https://mailchi.mp/callvoip/sep19-qallergeupdate" target="_blank">CallvoipTelefonie nieuwsbrief 14-08-19 | Aankondiging: Qaller update!</a>
+* <a href="https://mailchi.mp/callvoip/sep19-nieuwewebsite" target="_blank">CallvoipTelefonie nieuwsbrief 09-09-19 | Yes! Nieuw logo, nieuwe website!</a>
 * <a href="https://www.simmpl.nl/downloads/Simmpl_feature-update_juli-2019.pdf" target="_blank">Simmpl Feature Update - juli 2019</a>
 * <a href="https://mailchi.mp/callvoip/simmpl-juli19-bereikbaarheid" target="_blank">CallvoipTelefonie nieuwsbrief 17-07-19: Uw bereikbaarheid in beeld</a>
 * <a href="https://mailchi.mlvoip/simmpl-juli19-aankondiging" target="_blank">CallvoipTelefonie nieuwsbrief 04-07-19: aankondiging onderhoud en nieuwe features!</a>
