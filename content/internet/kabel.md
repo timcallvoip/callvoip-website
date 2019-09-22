@@ -4,7 +4,7 @@ type: page
 layout: default
 logos: false
 hero:
-  title: Kabel Internet
+  title: Kabelinternet
   content: VodafoneZiggo is de grootste leverancier van zakelijk internet via de kabel.
     Het uitgebreide coax-kabelnetwerk bestaat voor 98% uit glasvezel en tot maximaal
     300 meter van uw voordeur uit coaxkabel. Hierdoor krijgt u supersnel internet
@@ -34,7 +34,8 @@ usps:
     content: U behaalt downloadsnelheden tot wel 600 Mbit/s bij Ziggo Zakelijk Pro.
   - icon: fa-trophy
     title: De beste provider
-    content: Bij de Tweakers Awards 18/19 is Ziggo als beste provider uit de bus gekomen.
+    content: Bij de Tweakers Awards 2018 en 2019 kwam Ziggo als beste provider uit
+      de bus.
   - icon: fa-hand-pointer
     title: Één aanspreekpunt
     content: Ondanks dat het internet van Ziggo is, zijn wij uw aanspreekpunt.
