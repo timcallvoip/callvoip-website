@@ -4,7 +4,7 @@ url: "/aanvragen/nummer"
 hideinsearch: true
 
 ---
-Vraag hieronder eenvoudig een nieuw telefoonnummer aan. Uw nieuwe telefoonnummer is binnen 24 uur beschikbaar en actief. Wilt u een extra mooi telefoonnummer? Kies dan voor een Premium nummer. U ontvangt een lijst met telefoonnummers waar u uit kunt kiezen.
+Vraag hieronder eenvoudig een nieuw nummer aan (telefoon of fax). Uw nieuwe nummer is binnen 24 uur beschikbaar en actief. Wilt u een extra mooi telefoonnummer? Kies dan voor een Premium nummer. U ontvangt een lijst met telefoonnummers waar u uit kunt kiezen.
 
 Vul het formulier in, controleer de bevestigingsmail en stuur een reply met akkoord per mail naar ons ter bevestiging van uw opdracht.
 
