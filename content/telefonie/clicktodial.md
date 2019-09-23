@@ -36,7 +36,7 @@ blocks:
   position: image_left
   image_position: end
 - title: Hoe werkt het?
-  image: "/v1565859295/clicktodial3_fzxr1n.png"
+  image: "/v1569232681/clicktodial_3_afbeeldingen_oxbpxq.png"
   content: |-
     Alle telefoonnummers in uw Chrome browser worden belbaar. Nummers worden getoond met een groen hoorntje of u kunt ze rechts-klikken of kopiëren en plakken in de Click to Dial app.
     Zodra u klikt, rechts klikt of het nummer plakt in de app, zal uw eigen telefoon direct overgaan. Zodra u de hoorn opneemt zal uw telefoon starten met bellen naar het nummer waarop u klikte. Hierdoor hoeft u zelf geen telefoonnummers meer in te toetsen: geen fouten, geen bril opzetten, geen tijdverlies: gewoon snel en Simmpl bellen!
