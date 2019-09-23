@@ -9,8 +9,8 @@ hero:
     Met Qaller wordt uw mobiele telefoon onderdeel van de online telefooncentrale.
     Bedien de telefooncentrale vanaf uw smartphone én gebruik uw smartphone alsof het een kantoortoestel is (bellen en gebeld worden).
   button:
-    content: Bereken je kosten
-    link: "/calculator"
+    content: Qaller Handleiding
+    link: https://www.callvoip.nl/ondersteuning/simmpl-functionaliteiten/qaller-app/
   image: "/v1566556616/mock_up_phone_oneplus_icmuae.png"
   image_position: start
 blocks:
