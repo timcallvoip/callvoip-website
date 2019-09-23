@@ -57,10 +57,10 @@ prijzen:
     footer: 3 verschillende pakketten om tussen te kiezen
     items:
     - title: Start (60-om-10)
-      price: '39.00'
-    - title: Complete (250-om-40)
-      price: '46.50'
-    - title: Max (500-om-50)
+      price: '40.00'
+    - title: Complete (300-om-40)
+      price: '47.50'
+    - title: Max (600-om-50)
       price: '65.00'
 - title: Ziggo Zakelijk Internet Pro
   content: 'Ziggo Zakelijk Internet Pro is een supersnelle internetverbinding met
