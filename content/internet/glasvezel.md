@@ -1,13 +1,14 @@
 ---
-title: Glasvezel | U heeft uw eigen lijn en een stabiele snelheid
+title: FTTH Glasvezel | U heeft uw eigen lijn en een stabiele snelheid
 type: page
 layout: default
 logos: false
 hero:
-  title: Glasvezel
-  content: Met een glasvezel verbinding heeft u uw eigen lijn en een stabiele snelheid.
-    Zowel de upload- als de download- snelheid zijn gelijk. Zo heeft u 1 aanspreekpunt
-    en ontvangt u korting op de maandelijkse abonnementsprijs.
+  title: FTTH Glasvezel
+  content: Met een (Fiber to the Home) glasvezel verbinding heeft u uw eigen lijn
+    en een stabiele snelheid. Ook handig voor consumenten! Zowel de upload- als de
+    download- snelheid zijn gelijk. Zo heeft u 1 aanspreekpunt en ontvangt u korting
+    op de maandelijkse abonnementsprijs.
   button:
     content: Benieuwd naar de mogelijkheden?
     link: "/internet/postcodecheck/"
@@ -24,7 +25,7 @@ blocks:
   position: image_left
   image_position: center
 usps:
-  title: Waarom kiezen voor glasvezel van Callvoip (FTTH)?
+  title: Waarom kiezen voor glasvezel van Callvoip?
   content: ''
   items:
   - icon: fa-hand-pointer
@@ -38,7 +39,7 @@ usps:
     content: Callvoip internet biedt de beste basis voor uw telefoniesituatie.
 intro:
   title: Abonnementen
-  content: Callvoip biedt drie verschillende FTTH-abonnementen.
+  content: Callvoip biedt drie verschillende Glasvezel-abonnementen.
 prijzen:
 - title: 60-om-60 Mbit/s
   content: De eenmalige kosten verschillen per situatie. Wij informeren u graag!
@@ -86,7 +87,7 @@ menu:
     post: fa-wifi
 
 ---
-## Extra mogelijkheden Callvoip FTTH
+## Extra mogelijkheden Callvoip Glasvezel
 
 #### PIN over IP
 
