@@ -33,12 +33,12 @@ usps:
       link: https://www.callvoip.nl/download/callvoip/callvoip-adsl-vdsl_aanvraagformulier.pdf
     - title: Glasvezel (via Callvoip)
       link: https://www.simmpl.nl/downloads/callvoip_ftth_aanvraagformulier.pdf
-    - title: Ziggo Zakelijk Internet
-      link: https://www.callvoip.nl/download/callvoip/callvoip_aanvraagformulier_ziggo-connect-zzp.pdf
-    - title: " Ziggo Zakelijk Internet Pro"
-      link: https://www.callvoip.nl/download/callvoip/callvoip_aanvraagformulier_ziggo-connect-mkb.pdf
     - title: Managed 4G-oplossing
       link: "/aanvragen/managed-4g/"
+    - title: Ziggo Zakelijk Internet - PDF
+      link: http://files.callvoip.nl/downloads/ZIGGO-Zakelijk-Internet_variabel-IP.pdf
+    - title: " Ziggo Zakelijk Internet Pro - PDF"
+      link: http://files.callvoip.nl/downloads/ZIGGO-Zakelijk-Internet_Pro.pdf
     - title: ZIGGO Zakelijk Aanvragen
       link: https://bestellen.ziggozakelijk.nl/zakelijk_internet/P-540-U7383
     - title: ZIGGO Zakelijk Pro Aanvragen
