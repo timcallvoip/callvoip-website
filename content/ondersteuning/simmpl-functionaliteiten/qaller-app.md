@@ -71,7 +71,7 @@ Om met Qaller uit te bellen klikt u op:
 
 2\. Dialpad - Klik op de toets met het toetsenbordje (dialpad) om een nummer in te toetsen. Qaller zoekt gelijk mee in uw adresboek of dit een bekend contact is. Druk vervolgens op de beltoets om te starten met bellen.
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1566806749/qaller-5_tmrs6s.png)
+![](https://res.cloudinary.com/callvoip/image/upload/v1569239112/qaller_plus6_nl_lu8nsz.png)
 
 3\. Call controls - Tijdens een gesprek heeft u de volgende call controls:
 
@@ -84,7 +84,7 @@ Om met Qaller uit te bellen klikt u op:
 
 \* _hiervoor dient gespreksopname te zijn ingeschakeld, dit is een dienst met een meerprijs._
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1566806793/qaller-6_gmkxun.png)
+![](https://res.cloudinary.com/callvoip/image/upload/v1569239145/qaller_plus7_nl_fclcyz.png)
 
 <h3>Qaller (Plus) QuickStart installatie</h3>
 
