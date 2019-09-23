@@ -75,11 +75,11 @@ prijzen:
     footer: 3 verschillende pakketten om tussen te kiezen
     items:
     - title: Start Pro (60-om-10)
-      price: '59.00'
+      price: '60.00'
     - title: Complete Pro (300-om-40)
-      price: '79.00'
+      price: '80.00'
     - title: Max Pro (600-om-50)
-      price: '119.00'
+      price: '100.00'
 description: Met kabelinternet (Coax) van Ziggo heeft u een perfect basis voor VoIP-telefonie.
   Geen groene kabel? Wij bekijken graag of dit alsnog mogelijk is.
 images: []
