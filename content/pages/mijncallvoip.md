@@ -11,6 +11,8 @@ usps:
   items:
   - title: Nummers
     items:
+    - title: Aanvraagformulier
+      link: https://www.callvoip.nl/download/callvoip/CallVoip_telefonie_aanvraagformulier.pdf
     - title: Nieuw nummer
       link: "/aanvragen/nummer/"
     - title: Nummerportering
@@ -57,8 +59,6 @@ usps:
       link: "/aanvragen/srtp/"
     - title: Gidsvermelding
       link: "/aanvragen/gidsvermelding/"
-    - title: Aanvraagformulier
-      link: https://www.callvoip.nl/download/callvoip/CallVoip_telefonie_aanvraagformulier.pdf
 - title: Wijzigen
   content: Als bestaande klant van Callvoip kunt altijd uw abonnement wijzigen. Zo
     kunt u uw gidsvermelding en uw klantgegevens wijzigen.
