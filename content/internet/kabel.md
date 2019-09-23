@@ -16,7 +16,7 @@ hero:
   image_position: start
 blocks:
 - content: |-
-    - Supersnel zakelijk internet tot 500 Mbps
+    - Supersnel zakelijk internet tot 600 Mbps
     - Snelheid onafhankelijk van de afstand tot de wijkcentrale
     - Zakelijke SLA met hersteltijd binnen 16 kantooruren
     - Flexibel contract en inclusief kabel TV
