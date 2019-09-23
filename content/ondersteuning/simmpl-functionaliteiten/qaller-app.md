@@ -19,7 +19,7 @@ De Qaller Smartphone app is uw gratis afstandsbediening bij de Simmpl telefoonce
 Qaller is geupdate! Je moet even weer opnieuw inloggen.  
 Gebruik hiervoor je Simmpl gebruikersnaam en wachtwoord, bv. 201.mijnbedrijf.
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1568973241/qaller_plus_nl_jdqdex.png)
+![](https://res.cloudinary.com/callvoip/image/upload/v1569239818/qaller_plus8_nl_dopyjd.png)
 
 <h3>Wat is Qaller?</h3>
 
