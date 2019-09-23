@@ -42,7 +42,7 @@ usps:
     - title: Ziggo Zakelijk Internet - Portal
       link: https://bestellen.ziggozakelijk.nl/zakelijk_internet/P-540-U7383
     - title: Ziggo Zakelijk Internet Pro - Portal
-      link: 'https://bestellen.ziggozakelijk.nl/zakelijk_internet_pro/P-540-U7383 '
+      link: https://bestellen.ziggozakelijk.nl/zakelijk_internet_pro/P-540-U7383
   - title: Integratie
     items:
     - title: Vast Mobiel (Vamos)
