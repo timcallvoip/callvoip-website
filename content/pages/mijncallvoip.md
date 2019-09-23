@@ -39,6 +39,10 @@ usps:
       link: https://www.callvoip.nl/download/callvoip/callvoip_aanvraagformulier_ziggo-connect-mkb.pdf
     - title: Managed 4G-oplossing
       link: "/aanvragen/managed-4g/"
+    - title: ZIGGO Zakelijk Aanvragen
+      link: https://bestellen.ziggozakelijk.nl/zakelijk_internet/P-540-U7383
+    - title: ZIGGO Zakelijk Pro Aanvragen
+      link: 'https://bestellen.ziggozakelijk.nl/zakelijk_internet_pro/P-540-U7383 '
   - title: Integratie
     items:
     - title: Vast Mobiel (Vamos)
