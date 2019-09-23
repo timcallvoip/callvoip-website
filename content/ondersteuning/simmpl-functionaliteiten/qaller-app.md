@@ -67,7 +67,7 @@ Om met Qaller uit te bellen klikt u op:
 
 1\. Phonebook - kies één van de categorieën contacten. Kiest u collega’s, dan ziet u alle collega’s en hun belstatus terug. U kunt ook de zoekfunctie gebruiken.
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1566806703/qaller-4_llricz.png)
+![](https://res.cloudinary.com/callvoip/image/upload/v1569238964/qaller_plus5_nl_fql9bc.png)
 
 2\. Dialpad - Klik op de toets met het toetsenbordje (dialpad) om een nummer in te toetsen. Qaller zoekt gelijk mee in uw adresboek of dit een bekend contact is. Druk vervolgens op de beltoets om te starten met bellen.
 
