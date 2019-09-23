@@ -39,9 +39,9 @@ usps:
       link: http://files.callvoip.nl/downloads/ZIGGO-Zakelijk-Internet_variabel-IP.pdf
     - title: " Ziggo Zakelijk Internet Pro - PDF"
       link: http://files.callvoip.nl/downloads/ZIGGO-Zakelijk-Internet_Pro.pdf
-    - title: ZIGGO Zakelijk Aanvragen
+    - title: Ziggo Zakelijk Internet - Portal
       link: https://bestellen.ziggozakelijk.nl/zakelijk_internet/P-540-U7383
-    - title: ZIGGO Zakelijk Pro Aanvragen
+    - title: Ziggo Zakelijk Internet Pro - Portal
       link: 'https://bestellen.ziggozakelijk.nl/zakelijk_internet_pro/P-540-U7383 '
   - title: Integratie
     items:

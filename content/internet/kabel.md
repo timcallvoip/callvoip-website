@@ -51,7 +51,7 @@ prijzen:
     geïnstalleerd door een monteur en wordt geleverd zonder vaste IP-adressen. '
   button:
     title: Aanvragen
-    link: https://www.callvoip.nl/download/callvoip/callvoip_aanvraagformulier_ziggo-connect-zzp.pdf
+    link: http://files.callvoip.nl/downloads/ZIGGO-Zakelijk-Internet_variabel-IP.pdf
   tarieven:
     title: Maandelijkse kosten
     footer: 3 verschillende pakketten om tussen te kiezen
@@ -68,8 +68,8 @@ prijzen:
     over snelheden tot 500 Mbit/s downloadsnelheid en 50 Mbit/s uploadsnelheid, gecombineerd
     met bandbreedtegarantie en zakelijke SLA. '
   button:
-    title: Direct bestellen
-    link: https://bestellen.ziggozakelijk.nl/zakelijk_internet_pro
+    title: Aanvragen
+    link: http://files.callvoip.nl/downloads/ZIGGO-Zakelijk-Internet_Pro.pdf
   tarieven:
     title: Maandelijkse kosten
     footer: 3 verschillende pakketten om tussen te kiezen
