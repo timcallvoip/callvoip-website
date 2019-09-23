@@ -117,5 +117,4 @@ menu:
 ---
 Als bestaande klant van Callvoip kunt altijd uw abonnement wijzigen. Ook kunt u extra diensten aanvragen of opzeggen. Bent u nog geen klant?
 
-
-<a href="/offerte/" class="button-outline button-outline-secondary">Vraag dan nu een offerte aan</a> <a href="https://www.callvoip.nl/download/callvoip/CallVoip_telefonie_aanvraagformulier.pdf" class="button">Of word klant!</a>
+<a href="/offerte/" class="button-outline button-outline-secondary">Vraag dan nu een offerte aan</a> <a href="http://files.callvoip.nl/downloads/CallVoip_telefonie_aanvraagformulier.pdf" class="button">Of word klant!</a>
