@@ -46,7 +46,7 @@ intro:
     internetdienst voor u.
 prijzen:
 - title: Ziggo Zakelijk Internet
-  content: 'Supersnel en betrouwbaar zakelijk internet tot wel 500 Mbit/s. Het is
+  content: 'Supersnel en betrouwbaar zakelijk internet tot wel 600 Mbit/s. Het is
     voor u de basis om succesvol te ondernemen. Ziggo Zakelijk Internet wordt kosteloos
     geïnstalleerd door een monteur en wordt geleverd zonder vaste IP-adressen. '
   button:
@@ -65,7 +65,7 @@ prijzen:
 - title: Ziggo Zakelijk Internet Pro
   content: 'Ziggo Zakelijk Internet Pro is een supersnelle internetverbinding met
     5 vaste IP-adressen. Dan is Ziggo Zakelijk Internet Pro de juiste keuze. U beschikt
-    over snelheden tot 500 Mbit/s downloadsnelheid en 50 Mbit/s uploadsnelheid, gecombineerd
+    over snelheden tot 600 Mbit/s downloadsnelheid en 50 Mbit/s uploadsnelheid, gecombineerd
     met bandbreedtegarantie en zakelijke SLA. '
   button:
     title: Aanvragen
