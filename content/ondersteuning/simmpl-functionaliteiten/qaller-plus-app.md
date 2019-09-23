@@ -15,7 +15,7 @@ Met de Qaller Plus smartphone app kan de Simmpl telefooncentrale vanaf de smartp
 
 ### Overzicht
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1568980157/qaller_plus4_nl_nc8kgd.png)
+![](https://res.cloudinary.com/callvoip/image/upload/v1569240985/qaller_plus9_nl_m8iacw.png)
 
 ### Quickstart
 
@@ -72,7 +72,7 @@ Gefeliciteerd! De Qaller App is nu geactiveerd en klaar voor gebruik!
 3\. Selecteer de route van uw keuze  
 {{</ layout/column2 >}}  
 {{< layout/column2 >}}  
-**![](https://res.cloudinary.com/callvoip/image/upload/v1565014706/support-qaller-ps3_zn5acy.png)**  
+![](https://res.cloudinary.com/callvoip/image/upload/v1569239112/qaller_plus6_nl_lu8nsz.png)  
 {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
@@ -91,7 +91,7 @@ Gefeliciteerd! De Qaller App is nu geactiveerd en klaar voor gebruik!
 4\. … of gebruik de omleidingen / omleidingsgroepen* (A, B, etc) Omleidingen zijn customized aanpassingen die u op de Simmpl telefooncentrale als beheerder instelt  
 {{</ layout/column2 >}}  
 {{< layout/column2 >}}  
-**![](https://res.cloudinary.com/callvoip/image/upload/v1565014722/support-qaller-ps4_jplrcz.png)**  
+![](https://res.cloudinary.com/callvoip/image/upload/v1568974023/qaller_plus3_nl_rsnyyr.png)  
 {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
@@ -106,7 +106,7 @@ Gefeliciteerd! De Qaller App is nu geactiveerd en klaar voor gebruik!
 2\. Gebeld worden: Qaller ontvangt de gesprekken op uw eigen nummer (001, 002) en laat deze ook overgaan op uw smartphone. U kunt overal gebeld worden waar u over internet beschikt. Een inkomend Qaller-gesprek herkent u aan het rode Qaller scherm.  
 {{</ layout/column2 >}}  
 {{< layout/column2 >}}  
-**![](https://res.cloudinary.com/callvoip/image/upload/v1565014738/support-qaller-ps5_p33sbq.png)**  
+![](https://res.cloudinary.com/callvoip/image/upload/v1569239112/qaller_plus6_nl_lu8nsz.png)  
 {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
@@ -115,7 +115,7 @@ Gefeliciteerd! De Qaller App is nu geactiveerd en klaar voor gebruik!
 3\. Uitbellen: Klik op het middelste icoon onderin uw scherm (dialpad) en draai een nummer. Met Qaller kunt u uitbellen naar collega’s: zij zien uw interne nummer. Met Qaller kunt u uitbellen naar externe nummers, hierbij wordt uw zaaknummer meegestuurd.  
 {{</ layout/column2 >}}  
 {{< layout/column2 >}}  
-**![](https://res.cloudinary.com/callvoip/image/upload/v1565014753/support-qaller-ps6_vvwbiz.png)**  
+![](https://res.cloudinary.com/callvoip/image/upload/v1569239145/qaller_plus7_nl_fclcyz.png)  
 {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
