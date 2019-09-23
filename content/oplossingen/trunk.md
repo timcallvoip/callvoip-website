@@ -60,7 +60,7 @@ prijzen:
   content: De basis trunk bestaat uit 4 spraakkanalen
   button:
     title: Trunk aanvragen
-    link: https://www.callvoip.nl/download/callvoip/CallVoip_telefonie_aanvraagformulier.pdf
+    link: http://files.callvoip.nl/downloads/CallVoip_telefonie_aanvraagformulier.pdf
   tarieven:
     title: Trunk
     footer: Prijzen zijn excl. BTW
