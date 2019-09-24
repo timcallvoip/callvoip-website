@@ -11,9 +11,9 @@ Update: false
 ---
 <h3>Software download</h3>
 
-<a href="[http://www.simmpl.nl/downloads/VoipCTIClientSetup.exe](http://www.simmpl.nl/downloads/VoipCTIClientSetup.exe "http://www.simmpl.nl/downloads/VoipCTIClientSetup.exe")" target="_blank">Voip CTI Client Software</a>
+[Voip CTI Client Software](http://www.simmpl.nl/downloads/VoipCTIClientSetup.exe "Voip CTI Client Software")
 
-<a href="[http://www.simmpl.nl/downloads/VoipCTIRecognitionConfigToolSetup.exe](http://www.simmpl.nl/downloads/VoipCTIRecognitionConfigToolSetup.exe "http://www.simmpl.nl/downloads/VoipCTIRecognitionConfigToolSetup.exe")" target="_blank">Voip CTI REcognition Configuration Tool</a>
+[Voip CTI REcognition Configuration Tool](http://www.simmpl.nl/downloads/VoipCTIRecognitionConfigToolSetup.exe "Voip CTI REcognition Configuration Tool")
 
 <h3>Wat is VoIP CTI?</h3>
 
