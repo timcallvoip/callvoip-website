@@ -30,26 +30,6 @@ fields:
   name: logos
   label: logos
 - type: field_group
-  name: hero
-  label: hero
-  fields:
-  - type: text
-    name: title
-    label: title
-  - type: file
-    name: image
-    label: image
-  - type: field_group
-    name: button
-    label: button
-    fields:
-    - type: text
-      name: content
-      label: content
-    - type: text
-      name: link
-      label: link
-- type: field_group
   name: kiezen
   label: kiezen
   fields:
