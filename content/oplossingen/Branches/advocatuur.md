@@ -19,6 +19,8 @@ Als advocatenpraktijk is het belangrijk dat u altijd bereikbaar bent voor uw cli
 
 Het advocatenkantoor wordt veel gebeld door de cliënten. Echter zijn de advocaten vaak onderweg en daardoor slecht bereikbaar. Men is opzoek naar een oplossing hiervoor. Ook blijft faxen belangrijk in de advocatuur, echter is de techniek achterhaald en heeft men liever geen fysieke fax meer.
 
+<a href="/offerte/" class="button">Vraag hier een offerte aan!</a>
+
 ### De oplossing van Callvoip
 
 Dankzij de professionele functionaliteiten van de online telefooncentrale van Callvoip is de praktijk beter bereikbaar en kan men efficiënter werken. De volgende functionaliteiten zijn ingezet:
@@ -48,5 +50,3 @@ Om de bereikbaarheid te optimaliseren is gekozen voor onze mobiele app Qaller. H
 ### Benieuwd naar de mogelijkheden voor uw situatie?
 
 <br>
-
-<a href="/offerte/" class="button">Vraag hier een offerte aan!</a>
