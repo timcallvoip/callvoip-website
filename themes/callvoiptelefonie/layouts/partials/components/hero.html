@@ -1,6 +1,18 @@
 {{$title := .Title }}
+{{$link := .Params.hero.link }}
 {{ with .Params.hero.image}}
+
 <header class="h-64 md:h-80 xxl:h-96 bg-grey-lightest">
+    {{ if $link}}
+    <a href="{{$link}}">
+    {{ end}}
+
   <img data-src="{{ $.Site.Params.cloudinary_base_url }}/c_scale,f_auto,q_auto{{.}}" class="h-full w-full cld-responsive" style="object-fit: cover;" alt="{{$title}}" />
+
+  {{ if $link }}
+      </a>
+
+  {{ end }}
+
 </header>
 {{ end }}

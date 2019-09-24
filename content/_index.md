@@ -4,7 +4,7 @@ hero:
   title: Altijd bereikbaar zijn voor je klanten
   content: Kies voor zakelijke telefonie van Callvoip en ervaar het gebruiks- gemak
     van de modernste online telefooncentrale! Bellen via internet, op kantoor en onderweg.
-    Dat is de kracht van bellen met Callvoip.
+    Dat is de kracht van bellen met Callvoip. 
   button:
     content: Bekijk ons aanbod
     link: "/aanbod"
