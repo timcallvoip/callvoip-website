@@ -3,6 +3,6 @@ title: Sitemap
 layout: sitemap
 menu:
   footer:
-    weight: 4
+    weight: 6
 
 ---
