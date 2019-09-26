@@ -1,10 +1,14 @@
 ---
 title: Hoe kan ik jullie bereiken?
-weight: 2
+weight: 3
 onderdelen:
 - Algemeen
 description: ''
 images: []
+hideinsearch: false
+Nieuw: false
+Update: false
+pdf: ''
 
 ---
 <br>
