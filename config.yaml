@@ -27,12 +27,12 @@ menu:
   - pre: external
     url: http://files.callvoip.nl/downloads/CallVoip_telefonie_aanvraagformulier.pdf
     name: Direct klant worden
-    weight: 5
+    weight: 6
   - pre: external
     url: http://support.callvoip.nl:8040/
     name: Hulp
     post: fa-window-restore
-    weight: 6
+    weight: 1
 outputs:
   home:
   - HTML
