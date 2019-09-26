@@ -226,3 +226,16 @@ html {
   width: 100vw;
   z-index: -1;
 } */
+
+
+.usp-list ul {
+  @apply list-none leading-normal;
+}
+
+.usp-list ul li {
+  @apply mb-2 pl-8;
+  background-image: url('/images/check.svg');
+  background-repeat: no-repeat;
+  background-size: 20px 20px;
+  background-position: 0 5px;
+}
