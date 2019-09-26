@@ -27,7 +27,7 @@ menu:
   - pre: external
     url: http://files.callvoip.nl/downloads/CallVoip_telefonie_aanvraagformulier.pdf
     name: Direct klant worden
-    weight: 6
+    weight: 5
   - pre: external
     url: http://support.callvoip.nl:8040/
     name: Hulp
