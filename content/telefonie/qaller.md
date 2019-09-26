@@ -11,7 +11,7 @@ hero:
   button:
     content: Qaller Handleiding
     link: https://www.callvoip.nl/ondersteuning/simmpl-functionaliteiten/qaller-app/
-  image: "/v1566556616/mock_up_phone_oneplus_icmuae.png"
+  image: "/v1568875791/phone_new_rkvuby.png"
   image_position: start
 blocks:
 - content: Met de <b>gratis</b> variant van Qaller kunt u uw telefooncentrale beheren
