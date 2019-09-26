@@ -17,7 +17,7 @@ blocks:
 - content: Met de <b>gratis</b> variant van Qaller kunt u uw telefooncentrale beheren
     en bedienen via uw smartphone. Wanneer dan ook, waar dan ook. Snel en gemakkelijk.
     Dat biedt vrijheid en onafhankelijkheid.
-  image: "/v1566556821/mock_up_phone_oneplus2_crftun.png"
+  image: "/v1568875791/phone_new_rkvuby.png"
   position: image_left
   title: Bedien de telefooncentrale (Qaller)
   image_position: center

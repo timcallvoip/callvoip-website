@@ -1,6 +1,6 @@
 ---
 title: Nieuwsbrieven-overzicht
-weight: 
+weight: 2
 description: ''
 images: []
 hideinsearch: false
