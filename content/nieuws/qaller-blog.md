@@ -7,6 +7,7 @@ images: []
 featured: false
 hero:
   image: "/v1568809489/Untitled-1_dkgdgj.png"
+  link: "https://www.callvoip.nl"
 author: ''
 date: 2019-09-17T22:00:00.000+00:00
 url: "/qaller-blog"
