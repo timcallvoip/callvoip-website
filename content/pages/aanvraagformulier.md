@@ -9,6 +9,6 @@ hero:
   button:
     content: PDF Aanvraagformulier
     link: "https://files.callvoip.nl/downloads/CallVoip_telefonie_aanvraagformulier.pdf"
-  image: "/v1566295059/callvoipshop_3_laptops_wuqbcm.png"
+  image: "/v1566295059/Callvoip-website-3laptops_t7bfir.png"
   position: " image_right"
 ---
