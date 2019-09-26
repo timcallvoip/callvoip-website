@@ -21,6 +21,4 @@ items:
   status: true
 contentTop: Op deze pagina vindt u de status van de verschillende onderdelen van Simmpl, de online telefooncentrale van Callvoip, inclusief onderhoudsmeldingen en incidenten.
 contentMiddle: Als u een niet-vermeld probleem met één van onze services wilt melden, neemt u dan rechtstreeks contact met ons op via <a href="tel:+31508200000">050 820 0000</a> of [callvoip@callvoip.nl](mailto:callvoip@callvoip.nl)
-Content: Test
-
 ---
