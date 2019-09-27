@@ -5,11 +5,15 @@ var content = '/index.json';
 var fuseOptions = {
   include: ["score","matches"],
   shouldSort: true,
-  threshold: 0.40,
+  threshold: 0.30,
   maxPatternLength: 32,
   minMatchCharLength: 1,
   keys: [
       "title",
+      "content",
+      "blocks",
+      "blocks.title",
+      "blocks.content",
       "description",
       "items.title",
       "items.title.value",
