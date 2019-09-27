@@ -15,6 +15,8 @@ var fuseOptions = {
       "blocks.title",
       "blocks.content",
       "description",
+      "usps.items.items.title",
+      "usps.items.title",
       "items.title",
       "items.title.value",
       "items.description",
