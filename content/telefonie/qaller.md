@@ -60,7 +60,7 @@ intro:
   title: Waar download ik de app?
   content: |-
     <a href="https://play.google.com/store/apps/details?id=com.digifoon.qaller&amp;hl=nl" target="_blank" rel="noopener noreferrer">
-    <img src= "/v1566295059/Callvoip-website-3laptops_t7bfir.png"></a><br>
+    <img src="/v1566295059/Callvoip-website-3laptops_t7bfir.png"></a><br>
     <a href="https://itunes.apple.com/nl/app/qaller/id1140548146?mt=8" target="_blank" rel="noopener noreferrer">Qaller voor Apple downloaden</a>
 prijzen:
 - title: Qaller
