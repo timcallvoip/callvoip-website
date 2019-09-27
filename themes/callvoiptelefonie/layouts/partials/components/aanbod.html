@@ -9,7 +9,7 @@
     {{ end }}
     {{ with .items }}
     <div id="tabs" class="">
-      <div class="tab-nav flex flex-col-reverse  md:flex-row clearfix md:-mx-4">
+      <div class="tab-nav md:flex flex-col-reverse hidden md:flex-row clearfix md:-mx-4">
         {{ range $index, $element := . }}
         {{ with .tab}}
         <a href="#tab{{$index}}"
@@ -31,7 +31,7 @@
         {{ end }}
       </div>
       {{ range $index, $element := . }}
-      <div class="tab-content h-0 overflow-hidden {{if eq $index 0 }} h-auto {{ else }}  {{ end }} ">
+      <div class="tab-content md:h-0 overflow-hidden {{if eq $index 0 }} md:h-auto {{ else }}  {{ end }} ">
         {{ with .item }}
         {{ $title := .title }}
         <div class="flex flex-col-reverse md:flex-row items-center pt-12   md:flex-row-reverse  md:-mx-8 mb-8 md:mb-24">
