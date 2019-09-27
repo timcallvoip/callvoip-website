@@ -59,6 +59,8 @@ usps:
 intro:
   title: Waar download ik de app?
   content: |-
+    image: "/v1566556835/mock_up_phone_oneplus3_i8lww0.png"
+    link: "https://play.google.com/store/apps/details?id=com.digifoon.qaller&amp;hl=nl"
     <a href="https://play.google.com/store/apps/details?id=com.digifoon.qaller&amp;hl=nl" target="_blank" rel="noopener noreferrer">Qaller voor Android downloaden</a><br>
     <a href="https://itunes.apple.com/nl/app/qaller/id1140548146?mt=8" target="_blank" rel="noopener noreferrer">Qaller voor Apple downloaden</a>
 prijzen:
