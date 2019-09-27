@@ -16,6 +16,7 @@ fields:
     required: false
   label: URL
 pages:
+- content/formulier/nummerportering-aanvragen.md
 - content/formulier/aanvragen-nummer.md
 - content/formulier/srtp-vesleutelde-gesprekken-opzeggen.md
 - content/formulier/verhuisbericht-doorgeven.md
@@ -24,7 +25,6 @@ pages:
 - content/formulier/mijn-callvoip.md
 - content/formulier/voip-cti-koppeling-met-uw-crm-pakket-aanvragen.md
 - content/formulier/vast-mobiel-vamos-opzeggen.md
-- content/formulier/nummerportering-aanvragen.md
 - content/formulier/belbundel-opzeggen.md
 - content/formulier/serviceplus-aanvragen.md
 - content/formulier/callvoipdsl-of-callvoipftth-opzeggen.md
