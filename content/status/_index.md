@@ -15,7 +15,7 @@ items:
   status: true
 - title: Toestelregistraties
   status: true
-- title: Qaller
+- title: Qaller Smartphone app
   status: true
 - title: Vamos Vast-Mobiel
   status: true
