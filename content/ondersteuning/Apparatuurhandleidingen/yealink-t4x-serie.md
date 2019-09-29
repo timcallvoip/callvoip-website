@@ -1,9 +1,12 @@
 ---
-title: Yealink T4x- & T5x-serie (handmatig)
+title: Yealink T4x/T5x instellen (handmatig)
 weight: 
 description: ''
 images: []
 pdf: http://www.simmpl.nl/downloads/Simmpl_configuratiehandleiding_Yealink_T4x.pdf
+hideinsearch: false
+Nieuw: false
+Update: false
 
 ---
 <a href="http://files.callvoip.nl/downloads/Simmpl_verkorte_gebruikshandleiding_Yealink_T46g.pdf" target="_blank">Korte gebruiksinstructie Yealink T46G</a>
