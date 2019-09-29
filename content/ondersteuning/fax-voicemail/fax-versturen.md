@@ -1,5 +1,5 @@
 ---
-title: Faxbox gebruiken - snelstarthandleiding
+title: Faxbox gebruiken (Quickstart)
 weight: 
 description: ''
 images: []

@@ -36,9 +36,11 @@ fields:
     required: false
   label: PDF
 pages:
+- content/ondersteuning/fax-voicemail/fax-versturen.md
+- content/ondersteuning/Integraties/click-to-dial-uitgebreide-handleiding.md
+- content/ondersteuning/Integraties/click-to-dial.md
 - content/ondersteuning/Integraties/click-to-dial-yealink-adresboek.md
 - content/ondersteuning/Integraties/realtime-api.md
-- content/ondersteuning/fax-voicemail/fax-versturen.md
 - content/ondersteuning/fax-voicemail/fax-versturen-zonder-faxapparaat.md
 - content/ondersteuning/fax-voicemail/voicemail-instellen-afluisteren.md
 - content/ondersteuning/internet/callvoip-business-adsl-instellen.md
@@ -48,7 +50,6 @@ pages:
 - content/ondersteuning/Integraties/voip-cti-handleiding.md
 - content/ondersteuning/simmpl-functionaliteiten/qaller-plus-app.md
 - content/ondersteuning/simmpl-functionaliteiten/qaller-app.md
-- content/ondersteuning/Integraties/click-to-dial.md
 - content/ondersteuning/Apparatuurhandleidingen/yealink-t4x-serie.md
 - content/ondersteuning/Apparatuurhandleidingen/fritz-box.md
 - content/ondersteuning/algemeen/overzicht-sip-statuscodes.md
@@ -70,5 +71,4 @@ pages:
 - content/ondersteuning/vast-mobiel/vast-mobiel-vamos-informatie.md
 - content/ondersteuning/Apparatuurhandleidingen/gigaset-ip-pro-handmatig.md
 - content/ondersteuning/Apparatuurhandleidingen/gigaset-ip-pro-provisioning.md
-- content/ondersteuning/Integraties/click-to-dial-uitgebreide-handleiding.md
 - content/ondersteuning/algemeen/overzicht-shortcodes-simmpl.md

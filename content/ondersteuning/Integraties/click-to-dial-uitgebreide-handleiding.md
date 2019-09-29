@@ -1,9 +1,12 @@
 ---
-title: Click-to-Dial uitgebreide handleiding
+title: Handleiding Click-to-Dial (uitgebreid)
 weight: 
 description: ''
 images: []
 pdf: http://www.simmpl.nl/downloads/Simmpl_handleiding_ClicktoDial.pdf
+hideinsearch: false
+Nieuw: false
+Update: false
 
 ---
 De **gratis Simmpl Click-to-Dial plug-in voor de Chrome Browser** biedt u:

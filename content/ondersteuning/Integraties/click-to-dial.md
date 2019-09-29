@@ -1,5 +1,5 @@
 ---
-title: Click-to-Dial snelstart handleiding
+title: Handleiding Click-to-Dial (Quickstart)
 weight: 
 description: ''
 images: []
