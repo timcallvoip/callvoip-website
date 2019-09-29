@@ -1,9 +1,12 @@
 ---
-title: Fax versturen zonder faxapparaat
+title: Faxbox aanmaken
 weight: 
 description: ''
 images: []
 pdf: http://www.simmpl.nl/downloads/Simmpl_handleiding_faxbox_instellen_ontvangen_versturen.pdf
+hideinsearch: false
+Nieuw: false
+Update: false
 
 ---
 <h3>De Simmpl-telefooncentrale en faxverkeer</h3>
