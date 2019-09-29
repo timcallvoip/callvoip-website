@@ -2,7 +2,7 @@
 description = ""
 images = []
 layout = "overview"
-title = "Internet"
+title = "Internet instellen"
 weight = 10
 
 +++

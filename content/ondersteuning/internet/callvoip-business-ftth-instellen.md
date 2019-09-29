@@ -1,8 +1,12 @@
 ---
-title: Callvoip Business FTTH instellen
+title: Callvoip FTTH (glasvezel) instellen
 weight: 
 description: ''
 images: []
+hideinsearch: false
+Nieuw: false
+Update: false
+pdf: ''
 
 ---
 ### Algemeen
