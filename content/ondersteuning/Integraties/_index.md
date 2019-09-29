@@ -3,7 +3,7 @@ description = ""
 images = []
 layout = "overview"
 pdf = ""
-title = "Integraties"
+title = "Integraties: Click to Dial, VoIP CTI en API"
 weight = 6
 
 +++
