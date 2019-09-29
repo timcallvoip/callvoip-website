@@ -1,9 +1,12 @@
 ---
-title: Gigaset IP Pro (handmatig)
+title: Gigaset N300A, N510IP en Maxwell (handmatig)
 weight: 
 description: ''
 images: []
 pdf: http://www.simmpl.nl/downloads/Simmpl_configuratiehandleiding_Gigaset_IP_DECT.pdf
+hideinsearch: false
+Nieuw: false
+Update: false
 
 ---
 In deze handleiding kunt u lezen hoe u uw Gigaset IP DECT instelt voor een VoIP-account van de Simmpl telefooncentrale.

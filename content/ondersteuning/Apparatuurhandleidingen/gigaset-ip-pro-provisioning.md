@@ -1,9 +1,12 @@
 ---
-title: Gigaset IP Pro (provisioning)
+title: Gigaset IP DECT instellen (provisioning)
 weight: 
 description: ''
 images: []
 pdf: http://www.simmpl.nl/downloads/Simmpl_provisioning_handleiding_Gigaset-Pro_Maxwell.pdf
+hideinsearch: false
+Nieuw: false
+Update: false
 
 ---
 Wij adviseren om de Maxwell via **AUTO PROVISIONING** automatisch door de telefooncentrale te laten instellen: dit gaat snel en de resultaten zijn goed. Bij het aanmaken van een toestelaccount vindt u deze optie.  

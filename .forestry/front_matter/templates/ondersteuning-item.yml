@@ -36,6 +36,8 @@ fields:
     required: false
   label: PDF
 pages:
+- content/ondersteuning/Apparatuurhandleidingen/gigaset-ip-pro-provisioning.md
+- content/ondersteuning/Apparatuurhandleidingen/gigaset-ip-pro-handmatig.md
 - content/ondersteuning/Apparatuurhandleidingen/yealink-t4x-serie.md
 - content/ondersteuning/netwerk-ondersteuning/eerste-hulp-bij-voip-problemen.md
 - content/ondersteuning/meldteksten-wachtmuziek/wachtmuziek.md
@@ -69,6 +71,4 @@ pages:
 - content/ondersteuning/simmpl-functionaliteiten/prefix.md
 - content/ondersteuning/simmpl-functionaliteiten/tijdsconditie-app.md
 - content/ondersteuning/fax-voicemail/tips-voor-slagend-faxverkeer.md
-- content/ondersteuning/Apparatuurhandleidingen/gigaset-ip-pro-handmatig.md
-- content/ondersteuning/Apparatuurhandleidingen/gigaset-ip-pro-provisioning.md
 - content/ondersteuning/algemeen/overzicht-shortcodes-simmpl.md
