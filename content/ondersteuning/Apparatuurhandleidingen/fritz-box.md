@@ -1,21 +1,22 @@
 ---
-title: FRITZ!Box
+title: FRITZ!Box instellen voor telefonie
 weight: 
 description: ''
 images: []
 pdf: http://www.simmpl.nl/downloads/Simmpl_configuratiehandleiding_FRITZBox.pdf
-hideinsearch: false
+Hide in Search: false
 Nieuw: false
 Update: false
+hideinsearch: false
 
 ---
 In deze handleiding kunt u lezen hoe u uw FRITZ!Box instelt voor een VoIP-account van de Simmpl telefooncentrale.
 
 1\. **Maak een Simmpl toestelaccount aan**
 
-Voordat u de telefoon kunt instellen maakt u op de Simmpl centrale aan:   
-\- een gebruiker (extension)   
-\- een toestel (device) > hier vindt u ook de SIP-username en password   
+Voordat u de telefoon kunt instellen maakt u op de Simmpl centrale aan:  
+\- een gebruiker (extension)  
+\- een toestel (device) > hier vindt u ook de SIP-username en password  
 Voor meer informatie, raadpleeg de Simmpl handleidingenbibliotheek.
 
 2\. **Sluit de FRITZ!Box aan**
@@ -28,10 +29,10 @@ Het is van groot belang dat u uw FRITZ!Box van de **laatste firmware** voorziet.
 
 4\. **Sluit uw apparatuur op de FRITZ!Box aan**
 
-Er zijn diverse modellen FRITZ!Box die elk andere telefoon-aansluitingen bieden:   
-\- Analoge aansluitpoorten: hierop kunt u analoge toestellen aansluiten   
-\- S0 ISDN-poort: hierop kunt u uw ISDN-telefooncentrale aansluiten   
-\- Ingebouwd DECT-basisstation: hierop kunt u uw draadloze handsets aanmelden   
+Er zijn diverse modellen FRITZ!Box die elk andere telefoon-aansluitingen bieden:  
+\- Analoge aansluitpoorten: hierop kunt u analoge toestellen aansluiten  
+\- S0 ISDN-poort: hierop kunt u uw ISDN-telefooncentrale aansluiten  
+\- Ingebouwd DECT-basisstation: hierop kunt u uw draadloze handsets aanmelden  
 Als u uw telefoontoestellen / -ISDN-centrale aansluit, dan kunt u in de FRITZ!Box per nummer instellen welke toestellen gaan rinkelen als u dit nummer gebeld wordt en met welk nummer de toestellen uitbellen. ![](https://res.cloudinary.com/callvoip/image/upload/v1564736007/fritzbox-1_n33fkz.png)
 
 5\. **Log in op uw FRITZ!Box**
@@ -74,17 +75,17 @@ In de vorige stap heeft u uw Simmpl VoIP-account succesvol geregistreerd. Uw FRI
 
 Op de diverse soorten FRITZ!Boxen kunt u verschillende soorten apparaten aansluiten:
 ![](https://res.cloudinary.com/callvoip/image/upload/v1564737484/fritzbox-12_cwc6pe.png)
-Uw analoge toestellen kunt aansluiten op de analoge FON-poorten (2 of 3).   
-Uw ISDN-apparatuur (ISDN-centrale of ISDN-toestel) kunt u aansluiten op de S0-bus.   
+Uw analoge toestellen kunt aansluiten op de analoge FON-poorten (2 of 3).  
+Uw ISDN-apparatuur (ISDN-centrale of ISDN-toestel) kunt u aansluiten op de S0-bus.  
 Uw DECT toestellen kunt op op de FRITZ!Box-DECT basis aanmelden via de aanmeldprocedure die u start via de configuratie-pagina.
 ![](https://res.cloudinary.com/callvoip/image/upload/v1564737573/fritzbox-13_kyznvb.png)
 Om toestellen aan te melden gaat u naar menu \[Telephony Devices\]. Klik vervolgens op \[Configure New Device\]:
 ![](https://res.cloudinary.com/callvoip/image/upload/v1564737638/fritzbox-14_u2dmul.png)
 Doorloop de wizard:
 
-* Als u een analoog toestel wilt toevoegen, kies dan \[Telephone\] 
-* Als u een DECT draadloos toestel wilt aanmelden, kies dan \[Telephone\] 
-* Als u een ISDN telefooncentrale wilt aansluiten, kies dan \[ISDN PBX\] 
+* Als u een analoog toestel wilt toevoegen, kies dan \[Telephone\]
+* Als u een DECT draadloos toestel wilt aanmelden, kies dan \[Telephone\]
+* Als u een ISDN telefooncentrale wilt aansluiten, kies dan \[ISDN PBX\]
 * Als u een faxapparaat wilt aansluiten, kies Fax Machine (fax via VoIP wordt afgeraden)
 
 **NB**: met de onderste twee opties kunt u ook een FRITZ antwoordapparaat of faxbox aanmaken.
