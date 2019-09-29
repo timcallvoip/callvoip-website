@@ -1,5 +1,5 @@
 ---
-title: Vast Mobiel integratie (overzicht)
+title: 'Overzicht Vast Mobiel integraties: Vamos, Qaller'
 pdf: http://www.simmpl.nl/downloads/Simmpl_Vast-Mobiel-Integratie-mogelijkheden.pdf
 
 ---

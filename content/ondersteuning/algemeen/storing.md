@@ -1,5 +1,5 @@
 ---
-title: 'Is er een storing? '
+title: IS ER EEN STORING?
 weight: 1
 onderdelen:
 - Algemeen
