@@ -36,6 +36,7 @@ fields:
     required: false
   label: PDF
 pages:
+- content/ondersteuning/Integraties/voip-cti-handleiding.md
 - content/ondersteuning/fax-voicemail/fax-versturen.md
 - content/ondersteuning/Integraties/click-to-dial-uitgebreide-handleiding.md
 - content/ondersteuning/Integraties/click-to-dial.md
@@ -47,7 +48,6 @@ pages:
 - content/ondersteuning/internet/callvoip-business-ftth-instellen.md
 - content/ondersteuning/algemeen/contact.md
 - content/ondersteuning/algemeen/nieuwsbrieven-overzicht.md
-- content/ondersteuning/Integraties/voip-cti-handleiding.md
 - content/ondersteuning/simmpl-functionaliteiten/qaller-plus-app.md
 - content/ondersteuning/simmpl-functionaliteiten/qaller-app.md
 - content/ondersteuning/Apparatuurhandleidingen/yealink-t4x-serie.md
