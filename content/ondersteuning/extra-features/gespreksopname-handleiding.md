@@ -1,5 +1,5 @@
 ---
-title: Gespreksopname handleiding
+title: Handleiding Gespreksopname / Call Recording
 weight: 
 description: ''
 images: []
@@ -7,19 +7,18 @@ pdf: http://www.simmpl.nl/downloads/Simmpl_handleiding_Call-Recording.pdf
 
 ---
 De Simmpl telefooncentrale biedt de mogelijkheid om gesprekken op te nemen.  
-Het opnemen van telefoongesprekken kan worden gebruikt uit oogpunt van:
+Het opnemen van telefoongesprekken kan wenselijk zijn uit oogpunt van:
 
 * Controle van klanttevredenheid
 * Training, opleiding en evaluatie
 * Wettelijke verplichtingen
 * Contractuele afspraken / SLA met een opdrachtgever
 
-In deze handleiding leest u hoe u gespreksopname kunt inschakelen.  
+In deze handleiding leest u hoe u gespreksopname kunt inschakelen en hoe u de opgenomen gesprekken kunt downloaden.   
 Als u gespreksopname gebruikt worden ook gesprekken opgenomen die u voert met de Qaller Smartphone App.
 
 Aan het gebruik van gespreksopname zijn de volgende kosten verbonden:  
-![](https://res.cloudinary.com/callvoip/image/upload/v1565352588/features-7_xoo5gr.png)Voor meer informatie en aanvragen kunt u contact opnemen met CallvoipTelefonie,  
-tel. 050 820 00 00.
+![](https://res.cloudinary.com/callvoip/image/upload/v1565352588/features-7_xoo5gr.png)Meer weten of hulp nodig? callvoip@callvoip.nl | 050 820 00 00.
 
 <h3>Inschakelen gespreksopname voor een bestaande gebruiker</h3>
 
@@ -46,7 +45,7 @@ Voor **bestaande** **gebruikers** kunt u de opname-functie ook in het gebruikers
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1565353149/features-10_hpv3yd.png)
 
-<h3>Archivering van uw gespreksopnamen</h3>
+<h3>Archivering van uw gespreksopname</h3>
 
 Bij deze schuifbalk kunt u instellen hoelang u de gesprekken wilt bewaren. Dit kan vanaf 7 tot 180 dagen. De default bewaartijd-instelling is 7 dagen; u kunt dit zelf aanpassen.  
 Het is mogelijk om de bewaartermijn te wijzigen; deze geldt voor alle opgenomen gesprekken, ook gesprekken die u eerder al heeft opgenomen en waarvoor u toentertijd een andere bewaartermijn actief had. Als u de slider wijzigt, start de nieuwe bewaartermijn (bv. 30 dagen) met ingang van de dag van wijziging.
@@ -56,11 +55,10 @@ Het is mogelijk om de bewaartermijn te wijzigen; deze geldt voor alle opgenomen 
 
 <h3>Shortcode voor het in en uitschakelen van gespreksopname tijdens een lopend gesprek</h3>
 
-  
 In het veld snelcode kunt u een code opgeven om tijdens een lopend gesprek de gespreksopname aan en uit te zetten. De code moet bestaan uit een sterretje en een cijfer, bijvoorbeeld  
 ![](https://res.cloudinary.com/callvoip/image/upload/v1565353256/features-11_op02cb.png)
 
-<h3>Gesprekken afluisteren</h3>
+<h3>Gesprekken beluisteren</h3>
 
 Als tijdens een gesprek een opname is gemaakt is deze terug te vinden in menu \[**rapporten**\].  
 Achter het gesprek verschijnen aan de rechterzijde twee buttons:
@@ -71,11 +69,12 @@ Achter het gesprek verschijnen aan de rechterzijde twee buttons:
 ![](https://res.cloudinary.com/callvoip/image/upload/v1565353501/features-13_wxesu5.png)
 
 U kunt gespreksopnamen niet verwijderen. Als u een gebruiker uit de lijst met actieve opname-gebruikers verwijdert, dan blijven de opgenomen bestanden bestaan. U kunt gespreksopnamen downloaden om deze zelf te archiveren.  
-Dit kan per stuk, niet per batch.
+  
+**Nieuw**: bij een bewaartijd van 180 of 365 dagen kunt u opgenomen gesprekken als batch per maand voor de hele organisatie downloaden. U kunt dit aanzetten in de instellingen. U kunt per maand een link gemaild krijgen die naar een ZIP-file gaat met daarin alle opgenomen gesprekken. 
 
 <h3>Juridische aspecten bij het opnemen van gesprekken</h3>
 
 Bij het gebruik van de gespreksopname-feature zijn juridische aspecten van kracht.  
-Zo dient u te allen tijde aan de beller aan te geven dat u gespreken opneemt.  
+Zo dient u te allen tijde aan de beller aan te geven dat u gesprekken opneemt.  
 Ook als u deze enkel gebruikt voor eigen (trainings-)doeleinden.  
 <a href="http://www.auditio.nl/auditio-paul-harts-juridische-aspecten-van-kwaliteitsmonitoring2007.html" target="_blank">Meer informatie</a>

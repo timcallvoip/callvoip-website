@@ -1,5 +1,5 @@
 ---
-title: Bereikbaarheidsmonitor handleiding
+title: Handleiding Bereikbaarheidsmonitor
 weight: 
 description: ''
 images: []
