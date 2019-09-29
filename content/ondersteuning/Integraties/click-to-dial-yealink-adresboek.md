@@ -1,5 +1,5 @@
 ---
-title: Handleiding Click-to-Dial Yealink-adresboek
+title: Handleiding Click-to-Dial Yealink
 weight: 
 description: ''
 images: []

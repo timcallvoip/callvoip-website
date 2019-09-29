@@ -1,9 +1,12 @@
 ---
-title: Vast Mobiel (Vamos) informatie
+title: Informatie Vamos Vast Mobiel
 weight: 
 description: ''
 images: []
 pdf: http://www.simmpl.nl/downloads/Simmpl_informatie_Vamos-vast-mobiel-integratie.pdf
+hideinsearch: false
+Nieuw: false
+Update: false
 
 ---
 Onze klanten vroegen om mobiele vrijheid, en deze wens is gehoord, Vamos is ons antwoord. Simmpl, de meest eenvoudige telefooncentrale is er vanaf nu ook voor mobiel! Callvoip voorziet u van een SIM-kaart met uw eigen, of een nieuw, mobiel nummer. Met de handige Vamos app stelt u gemakkelijk in hoe u wilt bellen en gebeld wilt worden.
