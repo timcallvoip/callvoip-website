@@ -1,5 +1,5 @@
 ---
-title: Yealink T4x- & T5x-serie (provisioning)
+title: Yealink T4x/T5x instellen (provisioning)
 pdf: http://www.simmpl.nl/downloads/Simmpl_Provisioninghandleiding_Tiptel_Yealink.pdf
 
 ---
