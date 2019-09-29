@@ -2,7 +2,7 @@
 description = ""
 images = []
 layout = "overview"
-title = "Netwerk ondersteuning"
+title = "Netwerkondersteuning"
 weight = 11
 
 +++
