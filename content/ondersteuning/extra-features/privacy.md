@@ -1,5 +1,5 @@
 ---
-title: Handleiding Operator Console bedrijfsdashboard
+title: Handleiding Operator Console
 weight: 1
 description: ''
 images: []

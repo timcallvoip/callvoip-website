@@ -2,7 +2,7 @@
 description = ""
 images = []
 layout = "overview"
-title = "Apparatuurhandleidingen"
+title = "Apparatuur instellen"
 weight = 9
 
 +++
