@@ -1,5 +1,5 @@
 ---
-title: SIP-Trunk handleiding
+title: Handleiding SIP-Trunk
 weight: 
 description: ''
 images: []
