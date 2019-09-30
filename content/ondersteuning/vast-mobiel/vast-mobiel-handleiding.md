@@ -3,7 +3,7 @@ title: Handleiding Vamos Vast Mobiel
 weight: 
 description: ''
 images: []
-pdf: http://www.simmpl.nl/downloads/Simmpl_handleiding_ingebruikname_Vamos.pdf
+pdf: http://files.callvoip.nl/downloads/Simmpl_handleiding_ingebruikname_Vamos.pdf
 hideinsearch: false
 Nieuw: false
 Update: false
