@@ -41,22 +41,22 @@ tarieven:
     price: '5.00'
   footer: Prijzen zijn excl. BTW
 
-  tarieven:
-    title: 180 dagen berwaren
-    items:
-    - title: p/mnd per gebruiker
-      price: '10.00'
-    - title: Eenmalig
-      price: '5.00'
-    footer: Prijzen zijn excl. BTW
+tarieven:
+  title: 180 dagen berwaren
+  items:
+  - title: p/mnd per gebruiker
+    price: '10.00'
+  - title: Eenmalig
+    price: '5.00'
+  footer: Prijzen zijn excl. BTW
 
-  tarieven:
-    title: 365 dagen berwaren
-    items:
-    - title: p/mnd per gebruiker
-      price: '12.50'
-    - title: Eenmalig
-      price: '5.00'
-    footer: Prijzen zijn excl. BTW
+tarieven:
+  title: 365 dagen berwaren
+  items:
+  - title: p/mnd per gebruiker
+    price: '12.50'
+  - title: Eenmalig
+    price: '5.00'
+  footer: Prijzen zijn excl. BTW
 
 <a href="/telefonie/functionaliteiten/" class="button">Overzicht van alle functionaliteiten</a>
