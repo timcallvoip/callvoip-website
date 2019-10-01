@@ -18,7 +18,7 @@ Heeft u veel inkomend verkeer of wenst u een professionele uitstraling? Met een 
 Bepaal zelf de **rinkelvolgorde** en **wachtmuziek**. Voeg **externe nummers** toe en bekijk de **statistieken**. Met de Simmpl telefooncentrale is een wachtrij slechts enkele klikken werk.
 
 <a href="/calculator/" class="button">Bereken uw kosten</a>
-<a href="/ondersteuning/simmpl-functionaliteiten/wachtrij-app/" class="button">Handleiding/a>
+<a href="/ondersteuning/simmpl-functionaliteiten/wachtrij-app/" class="button">Handleiding</a>
 
 ## De voordelen:
 
