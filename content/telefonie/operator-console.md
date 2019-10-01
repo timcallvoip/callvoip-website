@@ -31,7 +31,7 @@ blocks:
   position: image_left
   image_position: center
 - title: Wat kunt u er precies mee?
-  image: "/v1557821422/OperatorPanel2.jpg"
+  image: "/v1569934798/operatorconsole_fpvvpk.png"
   content: |-
     Het Operator Console geeft een duidelijk overzicht van wat er gebeurt in de organisatie.
 
