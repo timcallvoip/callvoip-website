@@ -15,31 +15,31 @@ intro:
   title: ''
   content: ''
 prijzen:
-- title: Snel 4G internet
-  content: De eenmalige kosten zijn een schatting en verschillen per situatie.
-  button:
-    title: Aanvragen
-    link: "/aanvragen/managed-4g"
+- title: 30 dagen berwaren
   tarieven:
     items:
     - title: p/mnd per gebruiker
-      price: '99.00'
-    - title: Eenmalig (ongeveer)
-      price: '350.00'
+      price: '5.00'
+    - title: Eenmalig
+      price: '5.00'
     footer: Prijzen zijn excl. BTW
-    title: Snel 4G internet
-- title: Snel 4G internet met onbeperkt data
-  content: De eenmalige kosten zijn een schatting en verschillen per situatie.
-  button:
-    title: Aanvragen
-    link: "/aanvragen/managed-4g"
+- title: 180 dagen berwaren   
   tarieven:
-    title: Snel 4G internet met onbeperkt data
+    title: 180 dagen berwaren 
     items:
-    - title: Maandelijks
-      price: '189.00'
-    - title: Eenmalig (ongeveer)
-      price: '350.00'
+    - title: p/mnd per gebruiker
+      price: '10.00'
+    - title: Eenmalig
+      price: '5.00'
+    footer: Prijzen zijn excl. BTW
+- title: 365 dagen berwaren   
+  tarieven:
+    title: 365 dagen berwaren 
+    items:
+    - title: p/mnd per gebruiker
+      price: '12.50'
+    - title: Eenmalig
+      price: '5.00'
     footer: Prijzen zijn excl. BTW
 ---
 Met gespreksopname kunt u uw telefoongesprekken opnemen en terugluisteren.  
