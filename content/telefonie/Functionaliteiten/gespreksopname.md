@@ -32,31 +32,35 @@ Veel gesprekken zijn het waard, uit oogpunt van belang of diversiteit van inhoud
 ## Wat zijn de kosten?
 
 Gespreksopname wordt berekend op het aantal gebruikers en op basis van de ingestelde bewaarperiode:
-tarieven:
-  title: 30 dagen berwaren
-  items:
-  - title: p/mnd per gebruiker
-    price: '5.00'
-  - title: Eenmalig
-    price: '5.00'
-  footer: Prijzen zijn excl. BTW
-
-tarieven:
-  title: 180 dagen berwaren
-  items:
-  - title: p/mnd per gebruiker
-    price: '10.00'
-  - title: Eenmalig
-    price: '5.00'
-  footer: Prijzen zijn excl. BTW
-
-tarieven:
-  title: 365 dagen berwaren
-  items:
-  - title: p/mnd per gebruiker
-    price: '12.50'
-  - title: Eenmalig
-    price: '5.00'
-  footer: Prijzen zijn excl. BTW
+intro:
+  title: ''
+  content: ''
+prijzen:
+- title: Snel 4G internet
+  content: De eenmalige kosten zijn een schatting en verschillen per situatie.
+  button:
+    title: Aanvragen
+    link: "/aanvragen/managed-4g"
+  tarieven:
+    items:
+    - title: p/mnd per gebruiker
+      price: '99.00'
+    - title: Eenmalig (ongeveer)
+      price: '350.00'
+    footer: Prijzen zijn excl. BTW
+    title: Snel 4G internet
+- title: Snel 4G internet met onbeperkt data
+  content: De eenmalige kosten zijn een schatting en verschillen per situatie.
+  button:
+    title: Aanvragen
+    link: "/aanvragen/managed-4g"
+  tarieven:
+    title: Snel 4G internet met onbeperkt data
+    items:
+    - title: Maandelijks
+      price: '189.00'
+    - title: Eenmalig (ongeveer)
+      price: '350.00'
+    footer: Prijzen zijn excl. BTW
 
 <a href="/telefonie/functionaliteiten/" class="button">Overzicht van alle functionaliteiten</a>
