@@ -16,6 +16,8 @@ De Simmpl telefooncentrale kent drie soorten condities waarbinnen u één of mee
 
 Een omleiding is een schakelaar waarmee u één of meer acties aan of uit kunt zetten (bv. een doorschakeling naar voicemail of mobiel). U kunt meerdere omleidingen toevoegen. Een omleiding zet u aan/uit in het beheerpanel, met de Qaller Smartphone app of op uw telefoontoestel (u hoort en ziet of deze aanstaat).
 
+<a href="/ondersteuning/simmpl-functionaliteiten/omleidings-app/" class="button">Handleiding/a>
+
 ![](https://res.cloudinary.com/callvoip/image/upload/v1565093510/support-omleidingI_ooh0oq.png)
 
 <br>
