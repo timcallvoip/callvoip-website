@@ -3,7 +3,7 @@ title: Gratis uitproberen
 url: uitproberen
 type: page
 hero:
-  image: "/v1566311125/offerte_xnr2od.png"
+  image: "/v1566311125/offerte_gcg11h.png"
   title: ''
 description: Bent u op zoek naar de beste zakelijke telefonie? Wilt u een offerte
   op maat? Vraag dan een offerte aan bij Callvoip en ontvang deze binnen 1 dag.
