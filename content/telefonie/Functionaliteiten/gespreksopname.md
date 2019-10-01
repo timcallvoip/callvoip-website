@@ -32,14 +32,14 @@ Veel gesprekken zijn het waard, uit oogpunt van belang of diversiteit van inhoud
 ## Wat zijn de kosten?
 
 Gespreksopname wordt berekend op het aantal gebruikers en op basis van de ingestelde bewaarperiode:
-  tarieven:
-    title: 30 dagen berwaren
-    items:
-    - title: p/mnd per gebruiker
-      price: '5.00'
-    - title: Eenmalig
-      price: '5.00'
-    footer: Prijzen zijn excl. BTW
+tarieven:
+  title: 30 dagen berwaren
+  items:
+  - title: p/mnd per gebruiker
+    price: '5.00'
+  - title: Eenmalig
+    price: '5.00'
+  footer: Prijzen zijn excl. BTW
 
   tarieven:
     title: 180 dagen berwaren
