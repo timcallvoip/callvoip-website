@@ -16,6 +16,7 @@ hideinsearch: false
 Met de prefix-app kunt u zelf een code, naam of nummer ingeven. Deze wordt in het display van uw telefoon getoond als het gesprek via deze route binnenkomt.
 
 <a href="/calculator/" class="button">Bereken uw kosten</a>
+<a href="/ondersteuning/simmpl-functionaliteiten/prefix/" class="button">Handleiding/a>
 
 ## De voordelen:
 
