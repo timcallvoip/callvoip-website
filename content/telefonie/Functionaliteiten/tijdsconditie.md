@@ -16,6 +16,7 @@ hideinsearch: false
 Met de tijdsconditie-app definieert u vooraf tijden waarop één of meerdere acties moeten plaatsvinden. Denkt u bijvoorbeeld aan een belroute voor binnen en buiten werktijd of een gewijzigde belroute tijdens de lunchpauze, feestdagen, etc.
 
 <a href="/calculator/" class="button">Bereken uw kosten</a>
+<a href="/ondersteuning/simmpl-functionaliteiten/tijdsconditie-app/" class="button">Handleiding/a>
 
 ## De voordelen:
 
