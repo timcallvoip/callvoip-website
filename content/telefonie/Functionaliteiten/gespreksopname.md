@@ -41,7 +41,7 @@ prijzen:
     - title: Eenmalig
       price: '5.00'
     footer: Prijzen zijn excl. BTW
----
+    
 Met gespreksopname kunt u uw telefoongesprekken opnemen en terugluisteren.  
 De **gespreksopnamefunctie** kunt u zelf per gebruiker in- en uitschakelen. U kunt kiezen of alle gesprekken worden opgenomen of dat u de opname tijdens een gesprek aan- en uitzet. Opgenomen telefoongesprekken kunt u beluisteren en downloaden op de telefooncentrale
 
@@ -64,3 +64,4 @@ Gespreksopname wordt berekend op het aantal gebruikers en op basis van de ingest
 
 
 <a href="/telefonie/functionaliteiten/" class="button">Overzicht van alle functionaliteiten</a>
+---
