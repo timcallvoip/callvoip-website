@@ -11,37 +11,8 @@ hero:
   title: Gespreksopname (Call Recording)
 layout: ''
 hideinsearch: false
-intro:
-  title: ''
-  content: ''
-prijzen:
-- title: 30 dagen berwaren
-  tarieven:
-    items:
-    - title: p/mnd per gebruiker
-      price: '5.00'
-    - title: Eenmalig
-      price: '5.00'
-    footer: Prijzen zijn excl. BTW
-- title: 180 dagen berwaren   
-  tarieven:
-    title: 180 dagen berwaren 
-    items:
-    - title: p/mnd per gebruiker
-      price: '10.00'
-    - title: Eenmalig
-      price: '5.00'
-    footer: Prijzen zijn excl. BTW
-- title: 365 dagen berwaren   
-  tarieven:
-    title: 365 dagen berwaren 
-    items:
-    - title: p/mnd per gebruiker
-      price: '12.50'
-    - title: Eenmalig
-      price: '5.00'
-    footer: Prijzen zijn excl. BTW
-    
+
+---
 Met gespreksopname kunt u uw telefoongesprekken opnemen en terugluisteren.  
 De **gespreksopnamefunctie** kunt u zelf per gebruiker in- en uitschakelen. U kunt kiezen of alle gesprekken worden opgenomen of dat u de opname tijdens een gesprek aan- en uitzet. Opgenomen telefoongesprekken kunt u beluisteren en downloaden op de telefooncentrale
 
@@ -62,6 +33,19 @@ Veel gesprekken zijn het waard, uit oogpunt van belang of diversiteit van inhoud
 
 Gespreksopname wordt berekend op het aantal gebruikers en op basis van de ingestelde bewaarperiode:
 
+#### 30 dagen bewaren
+
+* €5,00 p/mnd per gebruiker
+* €5,00 eenmalig
+
+#### 180 dagen bewaren
+
+* €10,00 p/mnd per gebruiker
+* €5,00 eenmalig
+
+#### 365 dagen bewaren
+
+* €12,50 p/mnd per gebruiker
+* €5,00 eenmalig
 
 <a href="/telefonie/functionaliteiten/" class="button">Overzicht van alle functionaliteiten</a>
----
