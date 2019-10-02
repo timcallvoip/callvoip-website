@@ -15,9 +15,9 @@ hideinsearch: false
 ---
 ### Callvoip regelt het gratis voor jou
 {{< usps >}}  
-* Dit is mijn usp 1
-* Dit is mijn usp 2
-* Dit is mijn usp 2
+* Probeer ons 7 dagen vrijblijvend uit
+* En krijg je eigen nummer, online centrale & de Qaller App
+* Samen richten we alles in op maat
 {{</ usps >}}
 
 {{< form "Gratis uitproberen" "/offerte/verzonden" >}}  
