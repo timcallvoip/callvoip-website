@@ -13,8 +13,7 @@ layout: ''
 hideinsearch: false
 
 ---
-Vul hieronder uw gegevens in en u ontvangt **binnen één werkdag** een vrijblijvende offerte. Wilt u tevens advies over **internetverbindingen** of aanvullende **apparatuur**? Laat het ons weten in de toelichting, want ook deze **kennis** hebben wij in huis.
-
+### Callvoip regelt het gratis voor jou
 
 {{< form "Gratis uitproberen" "/offerte/verzonden" >}}  
 {{< form/template "d-5f1602c68c8a42919ddf340e285386e3">}}  
