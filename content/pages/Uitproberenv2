@@ -32,4 +32,4 @@ Vul hieronder uw gegevens in en u ontvangt **binnen één werkdag** een vrijblij
 
 {{< form/input "Telefoonnummer" >}}
 
-{{< form/button "Verstuur formulier" >}}{{</ form >}}
+{{< form/button "Call to action" >}}{{</ form >}}
