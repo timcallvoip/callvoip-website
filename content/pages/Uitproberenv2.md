@@ -15,9 +15,11 @@ hideinsearch: false
 ---
 ### Callvoip regelt het gratis en vrijblijvend
 {{< usps >}}  
-* Probeer ons 7 dagen vrijblijvend uit
-* En krijg je eigen nummer, online centrale & de Qaller App
-* Samen richten we alles in op maat
+* Probeer ons 7 dagen uit
+* We fixen jou eigen nummer
+* Je eigen centrale in de cloud
+* Met de Qaller app beheer je alles op afstand
+* Wij richten alles samen in op maat
 {{</ usps >}}
 
 {{< form "Gratis uitproberen" "/offerte/verzonden" >}}  
@@ -26,14 +28,9 @@ hideinsearch: false
 
 {{< layout/split >}}
 
-{{< form/input "Voornaam" required >}}
-
-{{< form/input "Achternaam" >}}
-
-{{</ layout/split >}}
+{{< form/input "Naam" required >}}
 
 {{< form/email "Email" required >}}
 
-{{< form/input "Telefoonnummer" >}}
-
 {{< form/button "Call to action" >}}{{</ form >}}
+Binnen een werkdag nemen we contact met u op
