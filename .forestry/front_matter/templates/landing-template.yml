@@ -31,7 +31,7 @@ fields:
   - type: file
     name: image
     label: Image
-  - type: link
+  - type: text
     name: link
     label: Link
 - type: field_group_list
