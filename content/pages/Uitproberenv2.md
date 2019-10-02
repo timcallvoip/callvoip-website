@@ -26,7 +26,9 @@ hideinsearch: false
 {{< form/to "offerte">}}
 
 {{< form/input "Voor en-achternaam" required >}}
-{{< layout/split >}} 
-{{< form/email "Email adres" required >}} {{< form/button "Verstuur formulier" >}}{{</ form >}}
+
+{{< form/email "Email adres" required >}}
+
+{{< layout/split >}}  {{< form/button "Verstuur formulier" >}}{{</ form >}}
 
 Binnen een werkdag nemen we contact met u op
