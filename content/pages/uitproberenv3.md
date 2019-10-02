@@ -21,16 +21,10 @@ textblocks:
     u op</p>
   title1: ''
   title2: Callvoip regelt het gratis en vrijblijvend
-  content2: |-
-    {{% usps %}}
-
-    * Probeer ons 7 dagen uit
-    * We fixen jou eigen nummer
-    * Je eigen centrale in de cloud
-    * Met de Qaller app beheer je alles op afstand
-    * Wij richten alles samen in op maat
-
-      {{% / usps %}}
+  content2: <p>&lt;div class="usp-list"&gt;</p><p>&lt;ul&gt;</p><p>&lt;li&gt;Probeer
+    ons 7 dagen uit&lt;/li&gt;</p><p>&lt;li&gt;We fixen jou eigen nummer&lt;/li&gt;</p><p>&lt;li&gt;Je
+    eigen centrale in de cloud&lt;/li&gt;</p><p>&lt;li&gt;Met de Qaller app beheer
+    je alles op afstand&lt;/li&gt;</p><p>&lt;li&gt;Wij richten alles samen in op maat&lt;/li&gt;</p><p>&lt;/ul&gt;</p><p>&lt;/div&gt;</p>
 title: ''
 blocks: []
 intro:
