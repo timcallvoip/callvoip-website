@@ -27,12 +27,6 @@ hideinsearch: false
 
 {{< form/input "Voor en-achternaam" required >}}
 
-{{< layout/split >}}
-
-{{< form/email "Email adres" required >}}
-
-{{< layout/split >}}
-
-{{< form/button "Call to action" >}}{{</ form >}}
+{{< form/email "Email adres" required >}} {{< form/button "Verstuur formulier" >}}{{</ form >}}
 
 Binnen een werkdag nemen we contact met u op
