@@ -22,7 +22,7 @@ textblocks:
   title1: ''
   title2: Callvoip regelt het gratis en vrijblijvend
   content2: |-
-    {{< usps >}}
+    {{% usps %}}
 
     * Probeer ons 7 dagen uit
     * We fixen jou eigen nummer
@@ -30,7 +30,7 @@ textblocks:
     * Met de Qaller app beheer je alles op afstand
     * Wij richten alles samen in op maat
 
-      {{</ usps >}}
+      {{% / usps %}}
 title: ''
 blocks: []
 intro:
