@@ -1,5 +1,5 @@
 ---
-label: Default template
+label: Landing Template
 hide_body: false
 fields:
 - type: text
@@ -88,12 +88,20 @@ fields:
   - type: textarea
     name: content1
     label: Content 1
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
   - type: text
     name: title2
     label: Title 2
   - type: textarea
     name: content2
     label: Content 2
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
   config:
     labelField: title
 - type: field_group
