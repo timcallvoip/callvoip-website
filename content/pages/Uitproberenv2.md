@@ -1,5 +1,4 @@
 ---
-title: Callvoip regelt het gratis en vrijblijvend
 url: uitproberen2
 type: page
 hero:
@@ -13,7 +12,7 @@ layout: ''
 hideinsearch: false
 
 ---
-### Test
+### Callvoip regelt het gratis en vrijblijvend
 {{< usps >}}  
 * Probeer ons 7 dagen uit
 * We fixen jou eigen nummer
