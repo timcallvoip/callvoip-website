@@ -26,6 +26,11 @@
             <input type="hidden" id="formlayout" name="formlayout" value="d-bb5785f73c154508a7d4125575855140" class="hidden">
             <input type="hidden" id="formto" name="formto" value="offerte" class="hidden">
 
+            <input type="hidden" id="formto" name="formto" value="offerte" class="hidden">
+
+            <input type="hidden" id="totaalpermaand" name="Totaal per maand" class="hidden">
+            <input type="hidden" id="totaaleenmalig" name="Totaal éénmalig" class="hidden">
+
 
             <div id="basic-fields">
               {{ range $index, $item := .Params.basic }}
@@ -222,6 +227,8 @@
               <textarea id="je-wensen" name="je-wensen"
                 class="w-full border border-grey-light bg-grey-lightest px-3 py-3" cols="30" rows="10"></textarea>
             </div>
+            
+
             <button type="submit" class="button">Verstuur formulier</button>
           </form>
         </div>
