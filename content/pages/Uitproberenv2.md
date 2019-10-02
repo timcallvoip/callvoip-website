@@ -34,4 +34,5 @@ hideinsearch: false
 {{< layout/split >}}
 
 {{< form/button "Call to action" >}}{{</ form >}}
+
 Binnen een werkdag nemen we contact met u op
