@@ -183,12 +183,16 @@ p .button + .button {
   @apply hidden;
 }
 
+@screen md {
 .layout-split {
   @apply flex -mx-2;
 }
+}
 
+@screen md {
 .layout-split > div {
   @apply w-1/2 px-2;
+}
 }
 
 html {

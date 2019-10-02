@@ -2,7 +2,7 @@
 {{ range $index, $item := . }}
 <div class="{{if (modBool $index 2)}} bg-grey-lightest {{ end }} py-12 lg:pt-20  lg:pb-12">
     <div class="container px-4">
-        <div class="flex flex-col-reverse md:flex-row items-center  md:-mx-8 mb-8 ">
+        <div class="flex flex-col-reverse md:flex-row items-start  md:-mx-8  ">
             <div class="md:w-1/2 md:px-8">
                 {{ with .title1 }}
                 <h2 class="text-3xl  font-medium mb-2 xxl:mb-6 leading-tight">{{ . }}</h2>
