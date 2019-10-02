@@ -56,13 +56,13 @@ exports.handler =  async (event, context, callback) => {
       email: fromEmail || 'aanvragen@callvoip.nl',
       name: 'Callvoip'
     },
-    subject: "Inzending formulier Callvoip",
+    subject: "Inzending formulier: " + " " + form_name,
     templateId: data.formlayout || defaultTemplate,
     dynamic_template_data: {
       last_name: data.achternaam,
       form_name: form_name,
       fields: clientFields,
-      subject: "Inzending formulier Callvoip"
+      subject: "Inzending formulier: " + " " + form_name,
     }
   };
 
