@@ -25,6 +25,8 @@ hideinsearch: false
 {{< form/template "d-5f1602c68c8a42919ddf340e285386e3">}}  
 {{< form/to "offerte">}}
 
+{{< layout/split >}}
+
 {{< form/input "Voor en-achternaam" required >}}
 
 {{< form/email "Email adres" required >}}
