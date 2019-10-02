@@ -196,8 +196,8 @@ if(document.getElementById('tabs')) {
       if (index !== activeIndex && index >= 0 && index <= tabNavigationLinks.length) {
         tabNavigationLinks[activeIndex].classList.remove('border-blue');
         tabNavigationLinks[index].classList.add('border-blue');
-        tabContentContainers[index].classList.add('h-auto');
-        tabContentContainers[activeIndex].classList.remove('h-auto');
+        tabContentContainers[index].classList.add('md:h-auto');
+        tabContentContainers[activeIndex].classList.remove('md:h-auto');
         activeIndex = index;
       }
     };
@@ -337,26 +337,3 @@ function pageSummary() {
 
 pageSummary();
 
-
-
-// function ctaClicks() {
-
-//   if(!document.getElementById('cta-mkb')) return;
-//   if(!document.getElementById('cta-vamos')) return;
-
-//   document.getElementById('cta-mkb').onclick( function() {
-//     window.dataLayer.push({
-//       'event': 'buttonclick',
-//       'button': 'button-click-cta-mkb'
-//       })
-//   })
-
-//   document.getElementById('cta-vamos').onclick( function() {
-//     window.dataLayer.push({
-//       'event': 'buttonclick',
-//       'button': 'button-click-cta-vamos'
-//       })
-//   })
-// }
-
-// ctaClicks();
