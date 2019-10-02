@@ -14,6 +14,11 @@ hideinsearch: false
 
 ---
 ### Callvoip regelt het gratis voor jou
+{{< usps >}}  
+* Dit is mijn usp 1
+* Dit is mijn usp 2
+* Dit is mijn usp 2
+{{</ usps >}}
 
 {{< form "Gratis uitproberen" "/offerte/verzonden" >}}  
 {{< form/template "d-5f1602c68c8a42919ddf340e285386e3">}}  
