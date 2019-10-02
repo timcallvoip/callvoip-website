@@ -1,9 +1,8 @@
 ---
-title: Gratis uitproberenv2
 url: uitproberen2
 type: page
 hero:
-  image: "/v1566311125/uitproberen_rto3xe.png"
+  image: "/v1566311125/uitproberen_kojo7m.png"
   title: ''
 description: Bent u op zoek naar de beste zakelijke telefonie? Wilt u een offerte
   op maat? Vraag dan een offerte aan bij Callvoip en ontvang deze binnen 1 dag.
@@ -15,9 +14,11 @@ hideinsearch: false
 ---
 ### Callvoip regelt het gratis en vrijblijvend
 {{< usps >}}  
-* Probeer ons 7 dagen vrijblijvend uit
-* En krijg je eigen nummer, online centrale & de Qaller App
-* Samen richten we alles in op maat
+* Probeer ons 7 dagen uit
+* We fixen jou eigen nummer
+* Je eigen centrale in de cloud
+* Met de Qaller app beheer je alles op afstand
+* Wij richten alles samen in op maat
 {{</ usps >}}
 
 {{< form "Gratis uitproberen" "/offerte/verzonden" >}}  
@@ -26,14 +27,8 @@ hideinsearch: false
 
 {{< layout/split >}}
 
-{{< form/input "Voornaam" required >}}
+{{< form/input "Voor en-achternaam" required >}}
 
-{{< form/input "Achternaam" >}}
+{{< form/email "Email adres" required >}} {{< layout/split >}} {{< form/button "Gratis uitproberen" >}}{{</ form >}}
 
-{{</ layout/split >}}
-
-{{< form/email "Email" required >}}
-
-{{< form/input "Telefoonnummer" >}}
-
-{{< form/button "Call to action" >}}{{</ form >}}
+Binnen een werkdag nemen we contact met u op
