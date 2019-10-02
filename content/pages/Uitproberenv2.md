@@ -31,6 +31,6 @@ hideinsearch: false
 
 {{< form/email "Email adres" required >}}
 
-{{< layout/split >}}  {{< form/button "Verstuur formulier" >}}{{</ form >}}
+{{< layout/split >}} {{< form/button "Verstuur formulier" >}}{{</ form >}}
 
 Binnen een werkdag nemen we contact met u op
