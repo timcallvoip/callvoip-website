@@ -13,7 +13,7 @@ layout: ''
 hideinsearch: false
 
 ---
-### Callvoip regelt het gratis voor jou
+### Callvoip regelt het gratis en vrijblijvend
 {{< usps >}}  
 * Probeer ons 7 dagen vrijblijvend uit
 * En krijg je eigen nummer, online centrale & de Qaller App
