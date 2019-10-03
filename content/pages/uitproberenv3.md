@@ -5,8 +5,8 @@ hero:
   image: "/v1570097106/header_proberen_uj5wta.png"
   title: ''
   link: ''
-description: Bent u op zoek naar de beste zakelijke telefonie? Wilt u een offerte
-  op maat? Vraag dan een offerte aan bij Callvoip en ontvang deze binnen 1 dag.
+description: Bent u op zoek naar de beste zakelijke telefonie? Wilt je dit gratis uitproberen?
+  Vraag dan een rondleiding aan bij Callvoip en ontvang binnen 1 dag een uitnodiging.
 images:
 - "/v1567165784/icon_hwk0eh.png"
 layout: landing
