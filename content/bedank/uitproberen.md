@@ -1,9 +1,9 @@
 ---
 title: Uitproberen aanvraag ontvangen
-url: "/uitproberen/verzonden"
+url: ''
 hero:
   image: "/v1566566520/banner_formaat_xqptws.jpg"
-slug: "/uitproberen/verzonden"
+slug: ''
 hideinsearch: true
 
 ---
