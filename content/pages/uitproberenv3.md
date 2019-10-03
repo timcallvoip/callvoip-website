@@ -44,7 +44,7 @@ blocks:
   position: image_left
   image: "/v1570098498/uitproberen_lego_ng50xy.png"
 - title: Altijd bereikbaar met Qaller
-  content: Qaller 3.0 is jouw slimme Smartphone App om altijd en overal mobiel bereikbaar
+  content: Qaller is jouw slimme Smartphone App om altijd en overal mobiel bereikbaar
     te zijn. Want wij weten dat sommige telefoontjes net even te belangrijk zijn om
     te missen. Qaller is jouw gratis ‘afstandsbediening’ in de centrale. Enkel de
     app installeren en jouw vaste kantoortoestel is ineens geïntegreerd met je smartphone.
