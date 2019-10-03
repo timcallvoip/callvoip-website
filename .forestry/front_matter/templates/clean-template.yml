@@ -39,6 +39,7 @@ fields:
   label: layout
   hidden: true
 pages:
+- content/telefonie/functionaliteiten.md
 - content/telefonie/Functionaliteiten/fax.md
 - content/telefonie/Functionaliteiten/omleiding-flow-control.md
 - content/telefonie/Functionaliteiten/tijdsconditie.md
@@ -49,7 +50,6 @@ pages:
 - content/telefonie/Functionaliteiten/gespreksopname.md
 - content/offerte.md
 - content/oplossingen/Branches/advocatuur.md
-- content/telefonie/functionaliteiten.md
 - content/telefonie/versleutelde-telefoongesprekken-met-srtp.md
 - content/telefonie/conference-service.md
 - content/telefonie/telefoonnummers.md

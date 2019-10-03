@@ -5,7 +5,7 @@ description: Voorzie uw VoIP-oplossing met een meldtekst of andere geluidsbestan
   Met meldteksten maakt u uw telefonie een stuk professioneler.
 images:
 - "/v1566996057/soundapp_round_n733tu.png"
-slug:
+slug: 
 hero:
   image: "/v1560261248/callvoip-website-meldtekst.png"
   title: Meldtekst (Sound)
@@ -13,7 +13,7 @@ layout: ''
 hideinsearch: false
 
 ---
-Met deze functionaliteit kunt u verschillende meldteksten in uw belplan plaatsen. Denk hierbij aan bijvoorbeeld een welkomst-meldtekst, een tekst wanneer iedereen in gesprek is, meldteksten voor binnen & buiten werktijd en aparte vakantiemeldingen.
+Eén klik en klaar: altijd de juiste meldtekst voor de juiste begroeting van jouw klant. Handig voor iedereen; van medische praktijk tot advocatenkantoor, van sportschool tot Sushibar. Schakel jouw teksten of andere acties automatisch of handmatig in, vanaf je computer, telefoon of onze Smartphone app!
 
 <a href="/calculator/" class="button">Bereken uw kosten</a>
 
