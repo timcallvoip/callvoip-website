@@ -1,5 +1,5 @@
 ---
-url: uitproberen3
+url: uitproberen
 type: page
 hero:
   image: "/v1570097106/header_proberen_uj5wta.png"
