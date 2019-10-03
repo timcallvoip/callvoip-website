@@ -1,0 +1,72 @@
+---
+label: Default template
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Title
+- name: seo
+  type: include
+  config: {}
+  template: seo
+  label: SEO
+  description: SEO
+- type: boolean
+  name: hideinsearch
+  label: hideinsearch
+- type: text
+  name: type
+  label: type
+  hidden: true
+  description: page
+- type: text
+  name: layout
+  label: layout
+  hidden: true
+  description: default
+- type: field_group
+  name: hero
+  label: Hero
+  fields:
+  - type: file
+    name: image
+    label: Image
+  - type: text
+    name: link
+    label: Link
+- type: field_group
+  name: usps
+  label: Usps
+  fields:
+  - type: text
+    name: title
+    label: Title
+  - type: textarea
+    name: content
+    label: Content
+  - type: field_group_list
+    name: items
+    label: Items
+    fields:
+    - type: text
+      name: icon
+      label: Icon
+    - type: text
+      name: title
+      label: Title
+    - type: textarea
+      name: content
+      label: Content
+- type: field_group
+  name: intro
+  label: Intro
+  fields:
+  - type: text
+    name: title
+    label: Title
+  - type: textarea
+    name: content
+    label: Content
+
+pages:
+- content/telefonie/functionaliteitenv2.md
