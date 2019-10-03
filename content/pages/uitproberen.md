@@ -27,7 +27,7 @@ textblocks:
     px-3 py-2 text-base" required> </div> </div> <p><button type="submit" class="button
     button-secondary">Aan de slag</button></p> </form> </div>'
   title1: ''
-  title2: Dit is hoe we het gaan doen
+  title2: 'Dit is hoe we het gaan doen:'
   content2: <div class="usp-list"><ul><li>Pak een kop koffie en wacht op ons telefoontje</li><li>Je
     krijgt toegang tot de volledige versie van de online centrale...</li><li>... én
     een gratis testnummer gedurende jouw testweek</li><li>Een Callvoip teamlid leidt
