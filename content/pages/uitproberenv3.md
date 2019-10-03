@@ -12,7 +12,7 @@ images:
 layout: landing
 hideinsearch: false
 textblocks:
-- content1: '<p>Binnen een werkdag nodigen we je uit voor een tour</p><form class="mb-6" name="gratis-uitproberen" action="/offerte/verzonden" accept-charset="UTF-8" method="POST" netlify-honeypot="bot-field" data-netlify="true">
+- content1: '<p>Binnen een werkdag nodigen we je uit voor een rondleiding</p><form class="mb-6" name="gratis-uitproberen" action="/offerte/verzonden" accept-charset="UTF-8" method="POST" netlify-honeypot="bot-field" data-netlify="true">
 <p class="hidden">label>Don’t fill this out if  human: <input name="bot-field"></label></p>
 <p><input type="hidden" id="formlayout" name="formlayout" value="d-5f1602c68c8a42919ddf340e285386e3" class="hidden">
 </p>
@@ -32,7 +32,7 @@ textblocks:
 <p><button type="submit" class="button button-secondary">Aan de slag</button></p>
 </form>'
   title1: ''
-  title2: Een persoonlijke tour
+  title2: Dit is hoe we het gaan doen
   content2: <div class="usp-list"><ul><li>Pak een kop koffie</li><li>Een medewerker geeft je een persoonlijke tour
     </li><li>Je krijgt de volledige versie van de centrale</li><li>En een gratis testnummer</li><li>Je krijgt alle hulp die je nodig      hebt voor het opzetten van je centrale</li><li>Probeer ons 7 dagen uit</li><li>Gratis en vrijblijvend</li></ul></div>
 title: ''
