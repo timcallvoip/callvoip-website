@@ -12,7 +12,7 @@ images:
 layout: landing
 hideinsearch: false
 textblocks:
-- content1: '<p>Alleen even je naam en email achterlaten en dan...</p><form class="mb-6"
+- content1: '<form class="mb-6"
     name="gratis-uitproberen" action="/offerte/verzonden" accept-charset="UTF-8" method="POST"
     netlify-honeypot="bot-field" data-netlify="true"> <p class="hidden">label>Don’t
     fill this out if  human: <input name="bot-field"></label></p> <p><input type="hidden"
@@ -25,7 +25,7 @@ textblocks:
     type="email" id="email" name="email" required="" class="w-full border border-grey-light
     bg-white px-3 py-2 text-base"> </div> </div> <p><button type="submit" class="button
     button-secondary">Aan de slag</button></p> </form>'
-  title1: 'Test'
+  title1: 'Alleen even je naam en email achterlaten en dan…'
   title2: Dit is hoe we het gaan doen
   content2: <div class="usp-list"><ul><li>Pak een kop koffie</li><li>Een medewerker
     geeft je een persoonlijke tour </li><li>Je krijgt de volledige versie van de centrale</li><li>En
