@@ -40,7 +40,7 @@ blocks:
     gesprekken gebeurt, op welke toestellen deze rinkelen, en dergelijke.'
   image_position: center
   position: image_left
-  image: "/v1566993176/lego_yv1a3b.png"
+  image: "/v1570098498/uitproberen_lego_ng50xy.png"
 - title: VoIP Trunk van Callvoip
   content: 'Een VoIP-trunk is een verbinding tussen het Callvoip-platform en uw eigen
     centrale. Door deze trunk lopen alle gesprekken van al uw nummers: inkomend en
