@@ -61,6 +61,6 @@ blocks:
   image: "/v1570106000/arm_met_qaller_zfdh3x.png"
 intro:
   title: Wat krijg je nu concreet van ons?
-  content: Een eigen omgeving op de Callvoip centrale én de Qaller Smartphone App met een testnummer, en alle assistentie die nodig is. 
+  content: Content
 
 ---
