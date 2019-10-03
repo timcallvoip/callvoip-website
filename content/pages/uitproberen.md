@@ -35,8 +35,8 @@ textblocks:
   title1: ''
   title2: Dit is hoe we het gaan doen
   content2: <div class="usp-list"><ul><li>Pak een kop koffie en wacht op ons telefoontje</li><li>Je krijgt toegang 
-    tot de volledige versie van de online centrale...</li><li>... én een gratis testnummer gedurende jouw testweek</li><li>En
-    ontvang een gratis testnummer</li><li>Je krijgt hulp met het opzetten van je centrale</li><li>En
+    tot de volledige versie van de online centrale...</li><li>... én een gratis testnummer gedurende jouw testweek</li><li>Een
+    Callvoip teamlid leidt je rond in de online centrale ..</li><li>Je krijgt hulp met het opzetten van je centrale</li><li>En
     dan 7 dagen gratis en vrijblijvend testen</li></ul></div>
 title: ''
 blocks:
