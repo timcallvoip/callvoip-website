@@ -48,7 +48,7 @@ blocks:
     gesprekken gebeurt, op welke toestellen deze rinkelen, en dergelijke.'
   image_position: center
   position: image_right
-  image: "/v1566993176/lego_yv1a3b.png"
+  image: "/v1570101435/arm_met_qaller_nmek6p.png"
 intro:
   title: Callvoip, ook met uw mobiel
   content: Lorem ipsum dollar am smi met
