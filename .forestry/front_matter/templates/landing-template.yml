@@ -114,5 +114,3 @@ fields:
   - type: textarea
     name: content
     label: Content
-pages:
-- content/pages/uitproberenv3.md
