@@ -55,7 +55,7 @@ blocks:
   position: image_right
   image: "/v1570106000/arm_met_qaller_zfdh3x.png"
 intro:
-  title: Concreet wat je van ons krijgt
+  title: Concreet is dit wat je van ons krijgt
   content: Even inlezen in de techniek van Callvoip, je krijgt toegang tot zowel de
     centrale als de Qaller app tijdens je test periode.
 
