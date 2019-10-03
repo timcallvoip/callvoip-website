@@ -11,7 +11,6 @@ hero:
   title: ''
 layout: ''
 hideinsearch: false
-
 ---
 #### Dit krijgt u bij de basis telefooncentrale:
 Benieuwd hoe de telefooncentrale werkt? <a href="http://files.callvoip.nl/" target="_blank">probeer de interactieve demo!</a>
