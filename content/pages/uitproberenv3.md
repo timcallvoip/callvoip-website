@@ -25,7 +25,7 @@ textblocks:
     type="email" id="email" name="email" required="" class="w-full border border-grey-light
     bg-white px-3 py-2 text-base"> </div> </div> <p><button type="submit" class="button
     button-secondary">Aan de slag</button></p> </form>'
-  title1: ''
+  title1: 'Test'
   title2: Dit is hoe we het gaan doen
   content2: <div class="usp-list"><ul><li>Pak een kop koffie</li><li>Een medewerker
     geeft je een persoonlijke tour </li><li>Je krijgt de volledige versie van de centrale</li><li>En
@@ -53,7 +53,7 @@ blocks:
   position: image_right
   image: "/v1570101435/arm_met_qaller_nmek6p.png"
 intro:
-  title: Callvoip, ook met uw mobiel
-  content: Lorem ipsum dollar am smi met
+  title: Concreet wat je van ons krijgt
+  content: Even inlezen in de techniek van Callvoip, je krijgt toegang tot zowel de centrale als de Qaller app tijdens je test periode.
 
 ---
