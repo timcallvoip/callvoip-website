@@ -7,7 +7,7 @@ images:
 - "/v1566996057/soundapp_round_n733tu.png"
 slug: 
 hero:
-  image: "/v1560261248/callvoip-website-meldtekst.png"
+  image: "/v1560261248/callingman_jr5ygo.png"
   title: 'Meldteksten + audio:'
 layout: ''
 hideinsearch: false
