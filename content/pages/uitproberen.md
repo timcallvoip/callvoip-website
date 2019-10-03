@@ -32,7 +32,7 @@ textblocks:
     krijgt toegang tot de volledige versie van de online centrale...</li><li>... én
     een gratis testnummer gedurende jouw testweek</li><li>Een Callvoip teamlid leidt
     je rond in de online centrale ..</li><li>... en helpt jou de testomgeving testklaar
-    te maken</li><li>Jij kunt 7 dagen gaan testen! Gratis en vrijblijvend.</li></ul></div>
+    te maken</li><li>Jij kunt 7 dagen gaan testen! Gratis en vrijblijvend</li></ul></div>
 title: ''
 blocks:
 - title: Dé modernste Telefooncentrale
