@@ -34,7 +34,7 @@ textblocks:
   title1: ''
   title2: Een persoonlijke tour
   content2: <div class="usp-list"><ul><li>Pak een kop koffie</li><li>Een medewerker geeft je een persoonlijke tour
-</li><li>Je krijgt de volledige versie van de centrale</li><li>En een gratis testnummer</li><li>Je krijgt alle hulp die je nodig hebt voor het opzetten van je eigen centrale</li><li>Probeer ons 7 dagen uit</li><li>Gratis en vrijblijvend</li></ul></div>
+    </li><li>Je krijgt de volledige versie van de centrale</li><li>En een gratis testnummer</li><li>Je krijgt alle hulp die je nodig      hebt voor het opzetten van je eigen centrale</li><li>Probeer ons 7 dagen uit</li><li>Gratis en vrijblijvend</li></ul></div>
 title: ''
 blocks:
 - title: VoIP Trunk van Callvoip
