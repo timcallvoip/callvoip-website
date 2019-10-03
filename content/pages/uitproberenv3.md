@@ -41,11 +41,12 @@ blocks:
   image_position: center
   position: image_left
   image: "/v1570098498/uitproberen_lego_ng50xy.png"
-- title: VoIP Trunk van Callvoip
-  content: 'Een VoIP-trunk is een verbinding tussen het Callvoip-platform en uw eigen
-    centrale. Door deze trunk lopen alle gesprekken van al uw nummers: inkomend en
-    uitgaand. Uw eigen centrale blijft het centrale punt waar u instelt wat er met
-    gesprekken gebeurt, op welke toestellen deze rinkelen, en dergelijke.'
+- title: Altijd bereikbaar met Qaller
+  content: Qaller 3.0 is jouw slimme Smartphone App om altijd en overal mobiel bereikbaar
+    te zijn. Want wij weten dat sommige telefoontjes net even te belangrijk zijn om
+    te missen. Qaller is jouw gratis ‘afstandsbediening’ in de centrale. Enkel de
+    app installeren en jouw vaste kantoortoestel is ineens geïntegreerd met je smartphone.
+    Mooi werk toch?
   image_position: center
   position: image_right
   image: "/v1570101435/arm_met_qaller_nmek6p.png"
