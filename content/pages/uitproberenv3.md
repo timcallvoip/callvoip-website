@@ -13,7 +13,7 @@ layout: landing
 hideinsearch: false
 textblocks:
 - content1: '<p>Alleen even je naam en email achterlaten en dan...</p><form class="mb-6"
-    name="gratis-uitproberen" action="/offerte/verzonden" accept-charset="UTF-8" method="POST"
+    name="gratis-uitproberen" action="/uitproberen/verzonden" accept-charset="UTF-8" method="POST"
     netlify-honeypot="bot-field" data-netlify="true"> <p class="hidden">label>Don’t
     fill this out if  human: <input name="bot-field"></label></p> <p><input type="hidden"
     id="formlayout" name="formlayout" value="d-5f1602c68c8a42919ddf340e285386e3" class="hidden">
