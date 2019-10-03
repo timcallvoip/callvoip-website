@@ -56,7 +56,6 @@ blocks:
   image: "/v1570106000/arm_met_qaller_zfdh3x.png"
 intro:
   title: Concreet is dit wat je van ons krijgt
-  content: Even inlezen in de techniek van Callvoip, je krijgt toegang tot zowel de
-    centrale als de Qaller app tijdens je test periode.
+  content: Een eigen omgeving op de Callvoip centrale én de Qaller Smartphone App met een testnummer, en alle assistentie die nodig is. 
 
 ---
