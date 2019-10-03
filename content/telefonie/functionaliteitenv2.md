@@ -19,7 +19,7 @@ intro:
 usps:
 - title: Standaard apps
   content: <p>Deze functies maken zonder meerkosten deel uit van de Callvoip centrale.
-    <br></br> Content</p>  <a href="/offerte" class="button">Vraag een offerte aan</a>
+    <br></br></p>  <a href="/offerte" class="button">Vraag een offerte aan</a>
   items:
   - image: "/v1566995670/Voicemail-app_cq9s4o.png"
     title: Voicemail
@@ -71,8 +71,8 @@ usps:
     link: "/telefonie/functionaliteiten/call-pickup/"
     content: Neem een inkomend gesprek over op uw toestel.
 - title: PowerFeatures
-  content: <p>Heb je ze nodig? Dan zijn deze features tegen een meerprijs beschikbaar!<br></br>
-    Content</p>  <a href="/offerte" class="button">Vraag een offerte aan</a>
+  content: <p>Heb je ze nodig? Dan zijn deze features tegen een meerprijs beschikbaar!<br></br></p>  <a
+    href="/offerte" class="button">Vraag een offerte aan</a>
   items:
   - image: "/v1566995669/Wachtrij-app_bp3bak.png"
     title: Wachtrij
