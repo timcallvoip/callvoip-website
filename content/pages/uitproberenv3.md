@@ -33,11 +33,13 @@ textblocks:
     dan 7 dagen gratis en vrijblijvend testen</li></ul></div>
 title: ''
 blocks:
-- title: VoIP Trunk van Callvoip
-  content: 'Een VoIP-trunk is een verbinding tussen het Callvoip-platform en uw eigen
-    centrale. Door deze trunk lopen alle gesprekken van al uw nummers: inkomend en
-    uitgaand. Uw eigen centrale blijft het centrale punt waar u instelt wat er met
-    gesprekken gebeurt, op welke toestellen deze rinkelen, en dergelijke.'
+- title: Dé modernste Telefooncentrale
+  content: |-
+    Met de centrale van Callvoip heb je volledige controle over jouw telefonie.
+    Je kunt je eigen belplan bouwen, dit gaat zo gemakkelijk als Lego.
+    De centrale biedt handige functies zoals; een wachtrij, keuzemenu, tijdscondities en nog veel meer professionele functionaliteiten.
+    Instellen zodat altijd om 12:00 het luchtbandje gaat afspelen? Zo geregeld!
+    Je kunt de centrale ontdekken en gratis uitproberen.
   image_position: center
   position: image_left
   image: "/v1570098498/uitproberen_lego_ng50xy.png"
