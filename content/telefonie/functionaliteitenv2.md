@@ -25,10 +25,10 @@ usps:
     title: Voicemail
     link: "/telefonie/functionaliteiten/voicemail"
     content: Ontvang ingesproken voicemails automatisch in uw email
-  - image: "/v1566995670/Fax-app_yd2sny.png"
-    title: Fax
-    link: "/telefonie/functionaliteiten/fax"
-    content: Digitaal faxen ontvangen en versturen zonder faxapparaat.
+  - image: "/v1566995669/test-qaller_iqepfj.png"
+    title: Qaller
+    link: "/telefonie/qaller"
+    content: Beheer de centrale en bel met uw mobiele telefoon.
   - image: "/v1566995670/trasfer_round_by7y4w.png"
     title: Doorverbinden
     link: "/telefonie/functionaliteiten/doorverbinden"
@@ -82,10 +82,10 @@ usps:
     title: Keuzemenu
     link: "/telefonie/functionaliteiten/keuzemenu"
     content: Iedere beller direct met de juiste afdeling verbinden.
-  - image: "/v1566995669/test-qaller_iqepfj.png"
-    title: Qaller
-    link: "/telefonie/qaller"
-    content: Beheer de centrale en bel met uw mobiele telefoon.
+  - image: "/v1566995670/Fax-app_yd2sny.png"
+    title: Fax
+    link: "/telefonie/functionaliteiten/fax"
+    content: Digitaal faxen ontvangen en versturen zonder faxapparaat.
   - image: "/v1566559951/conference_service_icon_qmq9iq.png"
     title: Conference Service
     link: "/telefonie/conference"
