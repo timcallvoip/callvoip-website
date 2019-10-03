@@ -33,8 +33,8 @@ textblocks:
     </form>
 </div>'
   title1: ''
-  title2: Dit is hoe we het gaan doen:
-  content2: <div class="usp-list"><ul><li>Pak een kop koffie en wacht op ons telefoontje</li><li>Een medewerker
+  title2: Dit is hoe we het gaan doen
+  content2: <div class="usp-list"><ul><li>Hou je telefoon paraat en pak een kop koffie</li><li>Een medewerker
     geeft je een persoonlijke tour </li><li>Je krijgt de volledige versie van de centrale</li><li>En
     ontvang een gratis testnummer</li><li>Je krijgt hulp met het opzetten van je centrale</li><li>En
     dan 7 dagen gratis en vrijblijvend testen</li></ul></div>
@@ -60,7 +60,8 @@ blocks:
   position: image_right
   image: "/v1570106000/arm_met_qaller_zfdh3x.png"
 intro:
-  title: Wat krijg je nu concreet van ons?
-  content: Content
+  title: Concreet wat je van ons krijgt
+  content: Even inlezen in de techniek van Callvoip, je krijgt toegang tot zowel de
+    centrale als de Qaller app tijdens je test periode.
 
 ---
