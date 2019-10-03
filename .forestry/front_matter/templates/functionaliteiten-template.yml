@@ -1,5 +1,5 @@
 ---
-label: Default template
+label: functionaliteiten template
 hide_body: false
 fields:
 - type: text
@@ -34,29 +34,43 @@ fields:
   - type: text
     name: link
     label: Link
-- type: field_group
-  name: usps
+- name: usps
   label: Usps
+  type: field_group_list
   fields:
-  - type: text
-    name: title
+  - name: title
     label: Title
-  - type: textarea
-    name: content
+    type: text
+    hidden: false
+    default: ''
+  - name: content
     label: Content
-  - type: field_group_list
-    name: items
+    type: text
+    hidden: false
+    default: ''
+  - name: items
     label: Items
+    type: field_group_list
     fields:
-    - type: text
-      name: icon
+    - name: icon
       label: Icon
-    - type: text
-      name: title
+      type: text
+      hidden: false
+      default: ''
+    - name: title
       label: Title
-    - type: textarea
-      name: content
+      type: text
+      hidden: false
+      default: ''
+    - name: content
       label: Content
+      type: textarea
+      hidden: false
+      default: ''
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
 - type: field_group
   name: intro
   label: Intro
