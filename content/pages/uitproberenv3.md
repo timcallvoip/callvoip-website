@@ -20,10 +20,10 @@ textblocks:
     id="formlayout" name="formlayout" value="d-5f1602c68c8a42919ddf340e285386e3" class="hidden">
     </p> <p><input type="hidden" id="formto" name="formto" value="aanvraag" class="hidden"></p>
     <div class="layout-split"> <div class="mb-4"> <label for="naam" class="block">Voor- en achternaam
-    </label> <input type="text" id="naam" name="naam" class="w-full border
+    </label> <input type="text" id="naam" name="naam" value="" class="w-full border
     border-grey-light bg-white px-3 py-2 text-base"> </div> <div class="mb-4"> <label
     for="email" class="block">Email <span class="text-red">*</span> </label> <input
-    type="email" id="email" name="email" required="" class="w-full border border-grey-light
+    type="email" id="email" name="email" required="" value="" class="w-full border border-grey-light
     bg-white px-3 py-2 text-base"> </div> </div> <p><button type="submit" class="button
     button-secondary">Aan de slag</button></p> </form>'
   title1: ''
