@@ -8,7 +8,7 @@ images:
 slug: 
 hero:
   image: "/v1560261248/callvoip-website-meldtekst.png"
-  title: Meldtekst (Sound)
+  title: 'Meldteksten + audio:'
 layout: ''
 hideinsearch: false
 
