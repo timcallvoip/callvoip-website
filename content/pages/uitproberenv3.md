@@ -5,16 +5,17 @@ hero:
   image: "/v1570097106/header_proberen_uj5wta.png"
   title: ''
   link: ''
-description: Bent u op zoek naar de beste zakelijke telefonie? Wilt je dit gratis uitproberen?
-  Vraag dan een rondleiding aan bij Callvoip en ontvang binnen 1 dag een uitnodiging.
+description: Bent u op zoek naar de beste zakelijke telefonie? Wilt je dit gratis
+  uitproberen? Vraag dan een rondleiding aan bij Callvoip en ontvang binnen 1 dag
+  een uitnodiging.
 images:
 - "/v1567165784/icon_hwk0eh.png"
 layout: landing
 hideinsearch: false
 textblocks:
 - content1: '<p>Alleen even je naam en email achterlaten en dan...</p><form class="mb-6"
-    name="gratis-uitproberen" action="/uitproberen/verzonden" accept-charset="UTF-8" method="POST"
-    netlify-honeypot="bot-field" data-netlify="true"> <p class="hidden">label>Don’t
+    name="gratis-uitproberen" action="/uitproberen/verzonden" accept-charset="UTF-8"
+    method="POST" netlify-honeypot="bot-field" data-netlify="true"> <p class="hidden">label>Don’t
     fill this out if  human: <input name="bot-field"></label></p> <p><input type="hidden"
     id="formlayout" name="formlayout" value="d-5f1602c68c8a42919ddf340e285386e3" class="hidden">
     </p> <p><input type="hidden" id="formto" name="formto" value="aanvraag" class="hidden"></p>
@@ -51,9 +52,10 @@ blocks:
     Mooi werk toch?
   image_position: center
   position: image_right
-  image: "/v1570101435/arm_met_qaller_nmek6p.png"
+  image: "/v1570106000/arm_met_qaller_zfdh3x.png"
 intro:
   title: Concreet wat je van ons krijgt
-  content: Even inlezen in de techniek van Callvoip, je krijgt toegang tot zowel de centrale als de Qaller app tijdens je test periode.
+  content: Even inlezen in de techniek van Callvoip, je krijgt toegang tot zowel de
+    centrale als de Qaller app tijdens je test periode.
 
 ---
