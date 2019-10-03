@@ -4,7 +4,7 @@ description: U krijgt een tal van professionele functionaliteiten met Simmpl; de
   online telefooncentrale ter wereld!
 images:
 - "/v1567165784/icon_hwk0eh.png"
-url: functionaliteiten
+url: /telefonie/functionaliteiten/
 type: page
 layout: functionaliteiten
 hero:
