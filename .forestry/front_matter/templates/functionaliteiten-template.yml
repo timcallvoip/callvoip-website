@@ -67,6 +67,3 @@ fields:
   - type: textarea
     name: content
     label: Content
-
-pages:
-- content/telefonie/functionaliteitenv2.md
