@@ -40,7 +40,7 @@ blocks:
     Met de centrale van Callvoip heb je volledige controle over jouw telefonie.
     Je kunt je eigen belplan bouwen, dit gaat zo gemakkelijk als Lego.
     De centrale biedt handige functies zoals; een wachtrij, keuzemenu, tijdscondities en nog veel meer professionele functionaliteiten.
-    Instellen zodat altijd om 12:00 het luchtbandje gaat afspelen? Zo geregeld!
+    Instellen zodat altijd om 12:00 het lunchbandje gaat afspelen? Zo geregeld!
     Je kunt de centrale ontdekken en gratis uitproberen.
   image_position: center
   position: image_left
@@ -56,6 +56,7 @@ blocks:
   image: "/v1570106000/arm_met_qaller_zfdh3x.png"
 intro:
   title: Concreet is dit wat je van ons krijgt
-  content: Een eigen omgeving op de Callvoip centrale én de Qaller Smartphone App met een testnummer, en alle assistentie die nodig is. 
+  content: Een eigen omgeving op de Callvoip centrale én de Qaller Smartphone App
+    met een testnummer, en alle assistentie die nodig is.
 
 ---
