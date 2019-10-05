@@ -3,7 +3,7 @@ title: Handleiding Gespreksopname / Call Recording
 weight: 
 description: ''
 images: []
-pdf: http://www.simmpl.nl/downloads/Simmpl_handleiding_Call-Recording.pdf
+pdf: http://files.callvoip.nl/downloads/Callvoip_handleiding_CallRecording_BatchDownload.pdf
 
 ---
 De Simmpl telefooncentrale biedt de mogelijkheid om gesprekken op te nemen.  
