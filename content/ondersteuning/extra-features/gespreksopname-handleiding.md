@@ -7,70 +7,40 @@ pdf: http://www.simmpl.nl/downloads/Simmpl_handleiding_Call-Recording.pdf
 
 ---
 De Simmpl telefooncentrale biedt de mogelijkheid om gesprekken op te nemen.  
-Het opnemen van telefoongesprekken kan wenselijk zijn uit oogpunt van:
+Het opnemen van telefoongesprekken kan wenselijk zijn uit oogpunt van training, controle of wettelijk verplichting, bv de MiFID II regulering. 
 
-* Controle van klanttevredenheid
-* Training, opleiding en evaluatie
-* Wettelijke verplichtingen
-* Contractuele afspraken / SLA met een opdrachtgever
+**Opname per gebruik op al zijn toestellen** - je zet gespreksopname aan op de Callvoip-centrale voor een specifieke gebruiker. Een gebruiker kan beschikken over een kantoortoestel, de Qaller Plus Smartphone app en/of Vamos Vast Mobiel. De gespreksopname geldt voor alle gesprekken, ook voor gesprekken via de Qaller App of via de Vamos SIM.    
+  
+**Kosten** - de kosten voor gespreksopname hangen af van de bewaartermijn die je instelt: de kosten zijn hoger als je wilt dat de gesprekken langer op de centrale gedownload kunnen worden.   
+  
+![](https://res.cloudinary.com/callvoip/image/upload/v1570290588/tabel_opname_v9cxlk.jpg)**Bulk download** - vanaf een bewaartermijn van 180 dagen of meer beschik je zónder meerkosten over het handige bulk download: je kunt de opgenomen gesprekken dan als .ZIP bestand in één keer van de telefooncentrale downloaden. Wel zo makkelijk én snel!
 
-In deze handleiding leest u hoe u gespreksopname kunt inschakelen en hoe u de opgenomen gesprekken kunt downloaden.   
-Als u gespreksopname gebruikt worden ook gesprekken opgenomen die u voert met de Qaller Smartphone App.
+====  
+  
+<h3>Gespreksopname in- en uitschakelen</h3>
 
-Aan het gebruik van gespreksopname zijn de volgende kosten verbonden:  
-![](https://res.cloudinary.com/callvoip/image/upload/v1565352588/features-7_xoo5gr.png)Meer weten of hulp nodig? callvoip@callvoip.nl | 050 820 00 00.
+1. Log in op de centrale, ga naar \[**Instellingen**\] > \[**Gespreksopname**\]
+2. Voeg een gebruiker toe met de plus, hij verschijnt rechts
+3. Bepaal het opnametype: **always** of **on demand** 
+4. Om gespreksopname uit te zetten, verwijder de gebruiker met het kruisje
 
-<h3>Inschakelen gespreksopname voor een bestaande gebruiker</h3>
+![](https://res.cloudinary.com/callvoip/image/upload/v1570291058/callrecording-details_ibkucn.jpg)
 
-1. Klik in de menubalk aan de linkerkant in het scherm op \[**instellingen**\]
-2. In de lijst \[**selecteer gebruikers**\] is het mogelijk om gebruikers te selecteren door op het plusje te klikken
-3. De toegevoegde gebruiker verschijnt in de linker kolom.  
-   Als default wordt gespreksopname-status \[**wanneer gewenst**\] geactiveerd
-4. Vervolgens is het mogelijk per gebruiker een gespreksopname-status te selecteren.  
-   Zie de lijst met gebruikers rechts in het scherm en druk op de opname-button:  
-   ![](https://res.cloudinary.com/callvoip/image/upload/v1565352850/features-8_xxyggd.png)
+<h3>Gespreksopnamen vinden en downloaden</h3>
 
-<h3>Uitschakelen gespreksopname voor een bestaande gebruiker</h3>
+Gesprekken worden gedurende de opgegeven bewaarperiode bewaard. Je vindt deze op de online centrale bij \[Rapporten\] . \[Gesprekken\]. Opgenomen gesprekken herken je aan de 2 buttons rechts: beluisteren en downloaden. 
 
-Het uitschakelen van gesprekopname voor een medewerker doet u door de medewerker met het kruisje uit het overzicht te verwijderen.  
-![](https://res.cloudinary.com/callvoip/image/upload/v1565352945/features-9_vhmijq.png)
-
-<h3>Instellen gespreksopname voor bestaande gebruikers</h3>
-
-Voor **bestaande** **gebruikers** kunt u de opname-functie ook in het gebruikersprofiel instellen. Ga in de menubalk naar de gebruikers, kies aan de rechterzijde het instellingsicoon om het gebruikersprofiel te openen en stel de gespreksopname drop-down naar uw wensen in, en kies \[**Opslaan**\] om de keuze vast te leggen:
-
-* **Nooit**: Bij deze optie worden er geen gesprekken opgenomen
-* **Altijd**: Alle gesprekken worden opgenomen voor de gekozen gebruikersaccount
-* **Wanneer gewenst**: Via een opgegeven code kan tijdens een gesprek de gespreksopname worden in en uitgeschakeld
-
-![](https://res.cloudinary.com/callvoip/image/upload/v1565353149/features-10_hpv3yd.png)
-
-<h3>Archivering van uw gespreksopname</h3>
-
-Bij deze schuifbalk kunt u instellen hoelang u de gesprekken wilt bewaren. Dit kan vanaf 7 tot 180 dagen. De default bewaartijd-instelling is 7 dagen; u kunt dit zelf aanpassen.  
-Het is mogelijk om de bewaartermijn te wijzigen; deze geldt voor alle opgenomen gesprekken, ook gesprekken die u eerder al heeft opgenomen en waarvoor u toentertijd een andere bewaartermijn actief had. Als u de slider wijzigt, start de nieuwe bewaartermijn (bv. 30 dagen) met ingang van de dag van wijziging.
-
-**NB**: de bewaartermijn heeft betrekking op de hoeveelheid dagen dat u de files op Simmpl kunt terugvinden en kunt downloaden. Gedurende de bewaartermijn kunt u de gesprekken (.mp3 audioberichten) downloaden en uiteraard kunt u ze op uw eigen netwerk onbeperkt bewaren.  
-![](https://res.cloudinary.com/callvoip/image/upload/v1565353361/features-12_aoaqhj.png)
-
-<h3>Shortcode voor het in en uitschakelen van gespreksopname tijdens een lopend gesprek</h3>
-
-In het veld snelcode kunt u een code opgeven om tijdens een lopend gesprek de gespreksopname aan en uit te zetten. De code moet bestaan uit een sterretje en een cijfer, bijvoorbeeld  
-![](https://res.cloudinary.com/callvoip/image/upload/v1565353256/features-11_op02cb.png)
-
-<h3>Gesprekken beluisteren</h3>
-
-Als tijdens een gesprek een opname is gemaakt is deze terug te vinden in menu \[**rapporten**\].  
+Als tijdens een gesprek een opname is gemaakt is deze terug te vinden in menu \[**rapporten**\] . \[**gesprekken**\]:   
 Achter het gesprek verschijnen aan de rechterzijde twee buttons:
 
-* met de linker button kunt u het gesprek afspelen en beluisteren (boxen nodig)
-* met de rechter button kunt u het opnamebestand downloaden
+* met de linker button kun je het gesprek afspelen en beluisteren (boxen nodig)
+* met de rechter button kun je het opnamebestand downloaden
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1565353501/features-13_wxesu5.png)
+![](https://res.cloudinary.com/callvoip/image/upload/v1570291458/opname_lspojj.jpg)
 
-U kunt gespreksopnamen niet verwijderen. Als u een gebruiker uit de lijst met actieve opname-gebruikers verwijdert, dan blijven de opgenomen bestanden bestaan. U kunt gespreksopnamen downloaden om deze zelf te archiveren.  
-  
-**Nieuw**: bij een bewaartijd van 180 of 365 dagen kunt u opgenomen gesprekken als batch per maand voor de hele organisatie downloaden. U kunt dit aanzetten in de instellingen. U kunt per maand een link gemaild krijgen die naar een ZIP-file gaat met daarin alle opgenomen gesprekken. 
+**Nieuw: bulk download** - bij een bewaartijd van 180 of 365 dagen kun je opgenomen gesprekken als batch per maand voor de hele organisatie downloaden. Bij Instellingen kun je bulk download inschakelen. Bij Rapporten verschijnt vervolgens een button Bulk download. Specificeer je wensen en je ontvang een email met daarin de download link naar de ZIP files. 
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1570291556/bulk_download_l0zecy.jpg)
 
 <h3>Juridische aspecten bij het opnemen van gesprekken</h3>
 
