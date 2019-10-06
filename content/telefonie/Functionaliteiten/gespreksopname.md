@@ -1,8 +1,8 @@
 ---
 type: page
-title: Gespreksopname (Call Recording) | VoIP-Functionaliteit
-description: Neem uw telefoongesprekken op met gespreksopname. Alle gesprekken zijn
-  terug te luisteren en te downloaden op de Hosted telefooncentrale.
+title: Gespreksopname | Call Recording | VoIP-Functionaliteit
+description: Neem uw telefoongesprekken op met gespreksopname. Ook via Qaller en Vamos
+  mobiel. Uw gesprekken zijn terug te luisteren en te downloaden op de Hosted telefooncentrale.
 images:
 - "/v1566559951/gespreksopname_icon_dymfas.png"
 slug: gespreksopname
@@ -13,16 +13,16 @@ layout: ''
 hideinsearch: false
 
 ---
-Met gespreksopname kunt u uw telefoongesprekken opnemen en terugluisteren.  
-De **gespreksopnamefunctie** kunt u zelf per gebruiker in- en uitschakelen. U kunt kiezen of alle gesprekken worden opgenomen of dat u de opname tijdens een gesprek aan- en uitzet. Opgenomen telefoongesprekken kunt u beluisteren en downloaden op de telefooncentrale
+Gespreksopname biedt de mogelijkheid om telefoongesprekken op te nemen en terug te luisteren. O'k gesprekken die je via de Smartphone maakt (Qaller of Vamos). De **gespreksopnamefunctie** kun je zelf per gebruiker in- en uitschakelen. Kies zelf of je alle gesprekken opneemt, of zet recording tijdens een gesprek aan. Opgenomen telefoongesprekken kun je beluisteren en gemakkelijk downloaden op de telefooncentrale. **Nieuw**: download je recordings in batches per dag, week of maand! 
 
 <a href="/calculator/" class="button">Bereken uw kosten</a>
 
 ## De voordelen:
 
-* **_Training_**: Ideaal voor trainingsdoeleinden
-* **_Bevestiging_** : van contractuele afspraken
-* **_Klanttevredenheid_**: Controle van klanttevredenheid
+* **Training**: ideaal voor training
+* **Bevestiging** : zekerheid over uitspraken en afspraken
+* **Wettelijke verplichting**: bv vanuity de MiFID II regulering
+* **Klanttevredenheid**: verifieer jouw klanttevredenheid
 
 ## Waarom gespreksopname?
 
