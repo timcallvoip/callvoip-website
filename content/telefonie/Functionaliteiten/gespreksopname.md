@@ -20,10 +20,10 @@ Met gespreksopname kun je telefoongesprekken opnemen, terugluisteren en bewaren.
 
 ## De voordelen:
 
-* **Training**: ideaal voor training
+* **Training**: instrument om jouw team goed op te leiden
 * **Bevestiging** : zekerheid over uitspraken en afspraken
 * **Wettelijke verplichting**: bv vanuit de MiFID II regulering
-* **Klanttevredenheid**: verifieer jouw klanttevredenheid
+* **Klanttevredenheid**: verifieer dat jouw klanten tevreden zijn!
 
 ## Waarom gespreksopname?
 
