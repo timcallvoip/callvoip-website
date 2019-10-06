@@ -13,8 +13,8 @@ layout: ''
 hideinsearch: false
 
 ---
-Met gespreksopname kun je telefoongesprekken opnemen, terugluisteren en bewaren. Oók gesprekken die je via de Smartphone maakt (Qaller of Vamos). De gespreksopnamefunctie kun je zelf per gebruiker in- en uitschakelen. Kies zelf of je alle gesprekken opneemt, of zet recording tijdens een gesprek aan. Opgenomen telefoongesprekken kun je beluisteren en gemakkelijk downloaden op de telefooncentrale.   
-**Nieuw**: download je recordings in batches per dag, week of maand!
+Met gespreksopname kun je telefoongesprekken opnemen, terugluisteren en bewaren. Oók gesprekken die je via de Smartphone maakt (Qaller of Vamos). De gespreksopnamefunctie kun je zelf per gebruiker in- en uitschakelen. Kies zelf of je alle gesprekken opneemt, of zet recording tijdens een gesprek aan. Opgenomen telefoongesprekken kun je beluisteren en gemakkelijk downloaden op de telefooncentrale.  
+**Nieuw**: download al je recordings in batches van een dag, week of kalendermaand!
 
 <a href="/calculator/" class="button">Bereken uw kosten</a>
 
