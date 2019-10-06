@@ -26,8 +26,9 @@ Gespreksopname biedt de mogelijkheid om telefoongesprekken op te nemen en terug 
 
 ## Waarom gespreksopname?
 
-Veel gesprekken zijn het waard, uit oogpunt van belang of diversiteit van inhoud, om nog eens terug te kunnen luisteren. Of het nu voor training, verdere uitwerking, begeleiding of het nakomen van overeengekomen mondelinge afspraken gaat: is het niet ideaal als u deze mogelijkheid heeft?  
-**De Simmpl-telefooncentrale biedt gespreksopname met één druk op de knop**: zet opname aan, bepaal het aantal bewaar-dagen (30, 90, 180 of 365), en klaar. Gesprekken worden opgenomen, u kunt ze terugluisteren en downloaden.
+Soms blijken telefoongesprekken achteraf van groot belang te zijn geweest. Voor training, maar vaker nog over gedane mondelinge uitspraken en afspraken en toezeggingen. Is het niet ideaal als je de zekerheid hebt dat dit gesprek is terug te luisteren?   
+**Callvoip biedt gespreksopname met één druk op de knop**: zet opname aan, bepaal het aantal bewaar-dagen (30, 90, 180 of 365), en klaar. Gesprekken worden opgenomen, u kunt ze terugluisteren en downloaden.   
+**Handig**: je kunt ze nu als batch per dag, week of maand downloaden! Wél zo efficiënt.
 
 ## Wat zijn de kosten?
 
