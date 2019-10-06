@@ -10,7 +10,7 @@ images:
 slug: blf
 hero:
   image: "/v1561535634/callvoip-website-blf.png"
-  title: Busy Lamp Field (BLF)
+  title: Busy Lamp Field | BLF
 layout: ''
 hideinsearch: false
 
