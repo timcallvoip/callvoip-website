@@ -13,7 +13,7 @@ layout: ''
 hideinsearch: false
 
 ---
-Gespreksopname biedt de mogelijkheid om telefoongesprekken op te nemen en terug te luisteren. Oók gesprekken die je via de Smartphone maakt (Qaller of Vamos). De **gespreksopnamefunctie** kun je zelf per gebruiker in- en uitschakelen. Kies zelf of je alle gesprekken opneemt, of zet recording tijdens een gesprek aan. Opgenomen telefoongesprekken kun je beluisteren en gemakkelijk downloaden op de telefooncentrale. **Nieuw**: download je recordings in batches per dag, week of maand! 
+    Met gespreksopname kun je telefoongesprekken opnemen, terugluisteren en bewaren. Oók gesprekken die je via de Smartphone maakt (Qaller of Vamos). De gespreksopnamefunctie kun je zelf per gebruiker in- en uitschakelen. Kies zelf of je alle gesprekken opneemt, of zet recording tijdens een gesprek aan. Opgenomen telefoongesprekken kun je beluisteren en gemakkelijk downloaden op de telefooncentrale. Nieuw: download je recordings in batches per dag, week of maand! 
 
 <a href="/calculator/" class="button">Bereken uw kosten</a>
 
@@ -21,13 +21,13 @@ Gespreksopname biedt de mogelijkheid om telefoongesprekken op te nemen en terug 
 
 * **Training**: ideaal voor training
 * **Bevestiging** : zekerheid over uitspraken en afspraken
-* **Wettelijke verplichting**: bv vanuity de MiFID II regulering
+* **Wettelijke verplichting**: bv vanuit de MiFID II regulering
 * **Klanttevredenheid**: verifieer jouw klanttevredenheid
 
 ## Waarom gespreksopname?
 
-Soms blijken telefoongesprekken achteraf van groot belang te zijn geweest. Voor training, maar vaker nog over gedane mondelinge uitspraken en afspraken en toezeggingen. Is het niet ideaal als je de zekerheid hebt dat dit gesprek is terug te luisteren?   
-**Callvoip biedt gespreksopname met één druk op de knop**: zet opname aan, bepaal het aantal bewaar-dagen (30, 180 of 365), en klaar. Gesprekken worden opgenomen, u kunt ze terugluisteren en downloaden.   
+Soms blijken telefoongesprekken achteraf van groot belang te zijn geweest. Voor training, maar vaker nog over gedane mondelinge uitspraken en afspraken en toezeggingen. Is het niet ideaal als je de zekerheid hebt dat dit gesprek is terug te luisteren?  
+Callvoip biedt gespreksopname met één druk op de knop: zet opname aan, bepaal het aantal bewaar-dagen (30, 180 of 365), en klaar. Gesprekken worden opgenomen, u kunt ze terugluisteren en downloaden.  
 **Handig**: je kunt ze nu als batch per dag, week of maand downloaden! Wél zo efficiënt.
 
 ## Wat zijn de kosten?
