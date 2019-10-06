@@ -11,7 +11,7 @@ categories:
 hideinsearch: true
 
 ---
-Als klant van CallvoipTelefonie brengen wij u graag onder de aandacht dat wij wijzigingen hebben aangebracht in de <a href="https://www.callvoip.nl/voorwaarden/" rel="noopener" target="_blank">Algemene Voorwaarden</a> en de <a href="https://www.callvoip.nl/privacy/" rel="noopener" target="_blank_>Privacyverklaring</a>. Dit in verband met de Algemene verordening gegevensbescherming (AVG) die per 25 mei geldt_.
+Als klant van Callvoip informeren we je graag dat wij wijzigingen hebben aangebracht in de <a href="https://www.callvoip.nl/voorwaarden/" rel="noopener" target="_blank">Algemene Voorwaarden</a> en de <a href="https://www.callvoip.nl/privacy/" rel="noopener" target="_blank_>_Privacyverklaring</a>. Dit in verband met de Algemene verordening gegevensbescherming (AVG) die per 25 mei geldt.
 <!--more-->
 
 ### Meest gestelde vragen omtrent de privacyverklaring
@@ -64,7 +64,7 @@ Wij hebben vragen gekregen of de data (telefoonnummers & namen) ook worden opges
 
 Onze website maakt gebruik van cookies. Wanneer u onze website voor het eerst bezoekt, wordt er een melding onderaan uw scherm getoond waarin wij uitleggen waarom wij cookies vragen. U kunt bij uw eerste bezoek aangeven of u akkoord gaat. Tevens gebruiken wij Google Analytics om bij te houden hoe bezoekers onze website gebruiken. Wij hebben een bewerkersovereenkomst met Google gesloten om afspraken te maken over de omgang met onze data. Verder hebben wij Google niet toegestaan de verkregen Analytics informatie te gebruiken voor andere Google diensten. Tot slot laten wij de IP-adressen anonimiseren.
 
-### Waarom krijgt u e-mails van CallvoipTelefonie?
+### Waarom krijgt u e-mails van Callvoip?
 
 Onze telefooncentrale is altijd in ontwikkeling en wij houden u daar graag van op de hoogte. Als er dus functionaliteiten op de online telefooncentrale zijn toegevoegd, dan hoort u dit van ons via een mailing. Ook brengen wij u graag op de hoogte hoe u uw belroute kunt aanpassen (bijvoorbeeld tijdens feestdagen). U kunt zich natuurlijk ten alle tijden uitschrijven via de uitschrijflink in de footer van de mailing.
 
