@@ -18,7 +18,7 @@ hideinsearch: false
 
 prijzen:
 - title: Meldteksten en Audio
-  content: 'Deze functionaliteit is onderdeel van het basispakket (waar u €7,50 excl. BTW voor betaalt).'
+  content: 'Deze functionaliteiten zijn onderdeel van het basispakket (waar u €7,50 excl. BTW voor betaalt).'
   button:
     title: Bereken uw kosten
     link: "/calculator/"
