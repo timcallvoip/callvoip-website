@@ -36,7 +36,7 @@ team:
   content: Porteert je waar je bij staat, na grondige check. Draagt zorg voor alle
     processen zodra je klant wordt. Maakt meer lawaai dan je denkt. Heeft iets met
     Griekenland. Vindt het leuk om op een paard te zitten.
-  linkedin: https://www.linkedin.com/in/lynn-de-goede-074158b3/
+  linkedin: ''
 - content: Maakt graag klanten van leads. Denkt en veert mee maar geeft ook advies.
     Eet vermoedelijk een doos eieren per dag. ’t Is een raadsel hoe, maar kijkt zowel
     golf als Formule 1.
