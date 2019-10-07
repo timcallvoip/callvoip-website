@@ -40,10 +40,10 @@ p a:hover {
   transition: all .15s ease;
 }
 
-.button::after {
+/* .button::after {
   content: "\02192";
   @apply ml-2;
-}
+} */
 
 .button-small {
   @apply py-2 px-4;
