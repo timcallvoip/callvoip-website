@@ -9,9 +9,7 @@ images:
 slug: 
 hero:
   title: Busy Lamp Field | BLF
-  content: 'Handig! Met Busy Lamp Field ziet u in één oogopslag of uw collega's beschikbaar zijn, in gesprek, óf dat ze gebeld worden.
-Op uw toestel ziet u de sneltoets dan groen of rood branden, of knipperen als de collega gebeld wordt. Druk op de toets en neem het
-gesprek zelf aan.'
+  content: 'Handig! Met Busy Lamp Field ziet u in één oogopslag of uw collega's beschikbaar zijn, in gesprek, óf dat ze gebeld worden.'
   image: "/v1561535634/callvoip-website-blf.png"
   image_position: start
 layout: default
