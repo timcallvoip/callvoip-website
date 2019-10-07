@@ -10,7 +10,7 @@ hero:
   title: Meldteksten en Audio
   content: Eén klik en klaar: altijd de juiste meldtekst voor de juiste begroeting van jouw klant.
      Handig voor iedereen; van medische praktijk tot advocatenkantoor, van sportschool tot Sushibar.
-    Schakel jouw teksten of andere acties automatisch of handmatig in, vanaf je computer, telefoon of onze Smartphone app!t
+     Schakel jouw teksten of andere acties automatisch of handmatig in, vanaf je computer, telefoon of onze Smartphone app!t
   image: "/v1560261248/callingman_ajc14t.png"
   image_position: start
 layout: default
