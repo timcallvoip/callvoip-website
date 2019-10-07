@@ -30,9 +30,6 @@ prijzen:
     - title: Eenmalig
       price: '0.00'
 ---
-Eén klik en klaar: altijd de juiste meldtekst voor de juiste begroeting van jouw klant. Handig voor iedereen; van medische praktijk tot advocatenkantoor, van sportschool tot Sushibar. Schakel jouw teksten of andere acties automatisch of handmatig in, vanaf je computer, telefoon of onze Smartphone app!
-
-
 ## De voordelen:
 
 * **_Bibliotheek_**: Bewaar de geluidsbestanden en vind ze gemakkelijk terug
