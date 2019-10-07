@@ -19,7 +19,7 @@ prijzen:
     title: Bereken uw kosten
     link: "/calculator/"
   tarieven:
-    title: Kosten
+    title: Wat zijn de kosten?
     items:
     - title: Maandelijks
       price: '0.00'
