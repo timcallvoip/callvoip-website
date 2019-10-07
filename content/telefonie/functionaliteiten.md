@@ -92,7 +92,7 @@ usps:
     content: Met meerdere mensen op afstand telefonisch vergaderen.
   - image: "/v1566559951/gespreksopname_icon_dymfas.png"
     title: Gespreksopname
-    link: "/telefonie/gespreksopname"
+    link: "/telefonie/functionaliteiten/gespreksopname"
     content: Luister uw telefoongesprekken terug of neem ze op.
 
 ---
