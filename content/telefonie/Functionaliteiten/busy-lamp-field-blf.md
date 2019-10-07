@@ -6,7 +6,7 @@ gesprek, óf dat ze gebeld worden. En dan kunt u het gesprek zelfs overnemen. NB
 BLF-functionaliteit ondersteunt.'
 images:
 - "/v1566559930/busy_lamp_field_icon_s9ixjo.png"
-slug: 
+slug: blf
 hero:
   title: Busy Lamp Field | BLF
   content: 'Handig! Met Busy Lamp Field ziet u in één oogopslag of uw collegas beschikbaar zijn, in gesprek, 
