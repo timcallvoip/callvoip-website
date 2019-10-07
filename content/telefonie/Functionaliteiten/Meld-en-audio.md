@@ -13,23 +13,19 @@ layout: default
 hideinsearch: false
 
 prijzen:
-- title: Ziggo Zakelijk Internet
-  content: 'Supersnel en betrouwbaar zakelijk internet tot wel 600 Mbit/s. Het is
-    voor u de basis om succesvol te ondernemen. Ziggo Zakelijk Internet wordt kosteloos
-    geïnstalleerd door een monteur en wordt geleverd zonder vaste IP-adressen. '
+- title: Meldteksten en Audio
+  content: 'Deze functionaliteit is onderdeel van het basispakket (waar u €7,50 excl. BTW voor betaalt).'
   button:
-    title: Aanvragen
-    link: http://files.callvoip.nl/downloads/ZIGGO-Zakelijk-Internet_variabel-IP.pdf
+    title: Bereken uw kosten
+    link: "/calculator/"
   tarieven:
-    title: Maandelijkse kosten
+    title: Kosten
     footer: 3 verschillende pakketten om tussen te kiezen
     items:
-    - title: Start (60-om-10)
-      price: '40.00'
-    - title: Complete (300-om-40)
-      price: '47.50'
-    - title: Max (600-om-50)
-      price: '65.00'
+    - title: Maandelijks
+      price: '00.00'
+     - title: Eenmalig
+      price: '00.00'
 ---
 Eén klik en klaar: altijd de juiste meldtekst voor de juiste begroeting van jouw klant. Handig voor iedereen; van medische praktijk tot advocatenkantoor, van sportschool tot Sushibar. Schakel jouw teksten of andere acties automatisch of handmatig in, vanaf je computer, telefoon of onze Smartphone app!
 
