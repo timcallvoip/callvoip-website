@@ -20,12 +20,11 @@ prijzen:
     link: "/calculator/"
   tarieven:
     title: Kosten
-    footer: 3 verschillende pakketten om tussen te kiezen
     items:
     - title: Maandelijks
-      price: '00.00'
+      price: '0.00'
     - title: Eenmalig
-      price: '00.00'
+      price: '0.00'
 ---
 Eén klik en klaar: altijd de juiste meldtekst voor de juiste begroeting van jouw klant. Handig voor iedereen; van medische praktijk tot advocatenkantoor, van sportschool tot Sushibar. Schakel jouw teksten of andere acties automatisch of handmatig in, vanaf je computer, telefoon of onze Smartphone app!
 
