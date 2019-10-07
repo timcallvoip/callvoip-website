@@ -39,7 +39,7 @@ usps:
     content: Met één druk op de knop een doorschakeling activeren.
   - image: "/v1566995670/tijdsconditie_round_szsrmf.png"
     title: Tijdsconditie
-    link: "/functionaliteiten/tijdsconditien"
+    link: "/telefonie/functionaliteiten/tijdsconditie/"
     content: Stel uw openingstijden eenvoudig in en zorg dat u optimaal bereikbaar
       bent.
   - image: "/v1566559951/email_icon_duhhwa.png"
