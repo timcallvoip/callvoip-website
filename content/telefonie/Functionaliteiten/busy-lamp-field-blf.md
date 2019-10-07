@@ -1,7 +1,7 @@
 ---
 type: page
 title: Busy Lamp Field | BLF | VoIP-Functionaliteit | Beschikbaarheid van collega's
-description: 'Handig! Met Busy Lamp Field ziet u in één oogopslag aan de lampjes op uw toestel of uw collega''s beschikbaar zijn, in
+description: 'Met Busy Lamp Field ziet u in één oogopslag aan de lampjes op uw toestel of uw collega''s beschikbaar zijn, in
 gesprek, óf dat ze gebeld worden. En dan kunt u het gesprek zelfs overnemen. NB: wel belangrijk dat uw VoIP-toestel de 
 BLF-functionaliteit ondersteunt.'
 images:
