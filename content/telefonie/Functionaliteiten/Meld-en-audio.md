@@ -12,21 +12,8 @@ hero:
 layout: default
 hideinsearch: false
 
-prijzen:
-- title: Meldteksten en Audio
-  content: 'Deze functionaliteit is onderdeel van het basispakket (waar u €7,50 excl. BTW voor betaalt).'
-  button:
-    title: Bereken uw kosten
-    link: "/calculator/"
-  tarieven:
-    title: Wat zijn de kosten?
-    items:
-    - title: Maandelijks
-      price: '0.00'
-    - title: Eenmalig
-      price: '0.00'
 intro:
-  title: Wat kost internet via de kabel van Ziggo?
+  title: Meldteksten en Audio
   content: 
     'Eén klik en klaar: altijd de juiste meldtekst voor de juiste begroeting van jouw klant. Handig voor iedereen; van medische praktijk     tot advocatenkantoor, van sportschool tot Sushibar. Schakel jouw teksten of andere acties automatisch of handmatig in, vanaf je
     computer, telefoon of onze Smartphone app!
@@ -42,14 +29,19 @@ intro:
     
     ## Waarom een meldtekst?
     
-    Met meldteksten maakt u al veel duidelijk aan de beller voordat u de beller aan de lijn hebt. De beller weet bijvoorbeeld of hij/zij     het juiste nummer heeft gebeld. Ook kunt u bijvoorbeeld belletjes filteren met een keuzemenu i.c.m. verschillende meldteksten.
-    
-    ## Wat zijn de kosten?
-    
-    Maandelijks: **€ 0,00** excl. BTW  
-    Eenmalig: **€ 0,00** excl. BTW
-    
-    Deze functionaliteit is onderdeel van het basispakket (waar u €7,50 excl. BTW voor betaalt).
-    
-    <a href="/telefonie/functionaliteiten/" class="button">Overzicht van alle functionaliteiten</a>'
+    Met meldteksten maakt u al veel duidelijk aan de beller voordat u de beller aan de lijn hebt. De beller weet bijvoorbeeld of hij/zij     het juiste nummer heeft gebeld. Ook kunt u bijvoorbeeld belletjes filteren met een keuzemenu i.c.m. verschillende meldteksten.'
+
+prijzen:
+- title: Meldteksten en Audio
+  content: 'Deze functionaliteit is onderdeel van het basispakket (waar u €7,50 excl. BTW voor betaalt).'
+  button:
+    title: Bereken uw kosten
+    link: "/calculator/"
+  tarieven:
+    title: Wat zijn de kosten?
+    items:
+    - title: Maandelijks
+      price: '0.00'
+    - title: Eenmalig
+      price: '0.00'
 ---
