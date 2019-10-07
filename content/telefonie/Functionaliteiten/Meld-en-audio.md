@@ -1,5 +1,5 @@
 ---
-type: default
+type: page
 title: Meldteksten en Audio | VoIP-Functionaliteit | Ingesproken meldingen
 description: Voorzie uw VoIP-oplossing met een meldtekst of andere geluidsbestanden.
   Met meldteksten maakt u uw telefonie een stuk professioneler.
