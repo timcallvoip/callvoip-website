@@ -9,7 +9,7 @@ slug:
 hero:
   image: "/v1560261248/callingman_ajc14t.png"
   title: 'Meldteksten + audio:'
-layout: ''
+layout: default
 hideinsearch: false
 
 prijzen:
