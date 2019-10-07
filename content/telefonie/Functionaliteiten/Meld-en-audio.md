@@ -12,10 +12,7 @@ hero:
     Het uitgebreide coax-kabelnetwerk bestaat voor 98% uit glasvezel en tot maximaal
     300 meter van uw voordeur uit coaxkabel. Hierdoor krijgt u supersnel internet
     van een betrouwbare leverancier.
-  button:
-    content: Benieuwd naar de mogelijkheden?
-    link: "/internet/postcodecheck/"
-  image: "/v1565000079/callvoip-website-internet-kabel2_n2llz0.png"
+  image: "/v1560261248/callingman_ajc14t.png"
   image_position: start
 layout: default
 hideinsearch: false
