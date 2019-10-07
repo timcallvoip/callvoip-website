@@ -8,10 +8,9 @@ images:
 slug: 
 hero:
   title: Meldteksten en Audio
-  content: VodafoneZiggo is de grootste leverancier van zakelijk internet via de kabel.
+  content: 
+    VodafoneZiggo is de grootste leverancier van zakelijk internet via de kabel.
     Het uitgebreide coax-kabelnetwerk bestaat voor 98% uit glasvezel en tot maximaal
-    300 meter van uw voordeur uit coaxkabel. Hierdoor krijgt u supersnel internet
-    van een betrouwbare leverancier.
   image: "/v1560261248/callingman_ajc14t.png"
   image_position: start
 layout: default
