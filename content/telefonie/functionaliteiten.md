@@ -52,7 +52,7 @@ usps:
     content: Bepaal welke telefoons moeten rinkelen en in welke volgorde.
   - image: "/v1566996057/soundapp_round_n733tu.png"
     title: Meldtekst
-    link: "/functionaliteiten/meldtekst/"
+    link: "/telefonie/functionaliteiten/meldtekst/"
     content: Stuur een geschreven tekst naar uw toestellen.
   - image: "/v1559743416/prefix_round.png"
     title: Prefix
