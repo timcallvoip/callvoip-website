@@ -38,7 +38,7 @@ prijzen:
 * **_Terugluisteren_**: Luister de bestanden online af
 
 ## Waarom een meldtekst?
-
+</br>
 Met meldteksten maakt u al veel duidelijk aan de beller voordat u de beller aan de lijn hebt. De beller weet bijvoorbeeld of hij/zij het juiste nummer heeft gebeld. Ook kunt u bijvoorbeeld belletjes filteren met een keuzemenu i.c.m. verschillende meldteksten.
 
 <a href="/telefonie/functionaliteiten/" class="button">Overzicht van alle functionaliteiten</a>
