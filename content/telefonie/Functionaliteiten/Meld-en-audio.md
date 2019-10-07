@@ -7,11 +7,16 @@ images:
 - "/v1566996057/soundapp_round_n733tu.png"
 slug: 
 hero:
-  title: Meldteksten en Audio
-  content: Eén klik en klaar: altijd de juiste meldtekst voor de juiste begroeting van jouw klant. Handig voor iedereen; van medische
-    praktijk tot advocatenkantoor, van sportschool tot Sushibar. Schakel jouw teksten of andere acties automatisch of handmatig in,vanaf
-    je computer, telefoon of onze Smartphone app!
-  image: "/v1560261248/callingman_ajc14t.png"
+  title: Kabelinternet
+  content: VodafoneZiggo is de grootste leverancier van zakelijk internet via de kabel.
+    Het uitgebreide coax-kabelnetwerk bestaat voor 98% uit glasvezel en tot maximaal
+    300 meter van uw voordeur uit coaxkabel. Hierdoor krijgt u supersnel internet
+    van een betrouwbare leverancier.
+  button:
+    content: Benieuwd naar de mogelijkheden?
+    link: "/internet/postcodecheck/"
+  image: "/v1565000079/callvoip-website-internet-kabel2_n2llz0.png"
+  image_position: start
 layout: default
 hideinsearch: false
 
