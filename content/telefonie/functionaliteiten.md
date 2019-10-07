@@ -48,7 +48,7 @@ usps:
     content: Ontvang een notificatie van alle (gemiste) gesprekken.
   - image: "/v1566996064/Huntgroup_round_yunto8.png"
     title: Belgroep
-    link: "/telefonie/functionaliteiten/email/"
+    link: "/telefonie/functionaliteiten/belgroep/"
     content: Bepaal welke telefoons moeten rinkelen en in welke volgorde.
   - image: "/v1566996057/soundapp_round_n733tu.png"
     title: Meldtekst
