@@ -8,6 +8,7 @@ images:
 slug: 
 hero:
   image: "/v1560261248/callingman_ajc14t.png"
+  title: ''
 layout: default
 hideinsearch: false
 
