@@ -9,7 +9,9 @@ images:
 slug: 
 hero:
   title: Busy Lamp Field | BLF
-  content: 'Handig! Met Busy Lamp Field ziet u in één oogopslag of uw collega's beschikbaar zijn, in gesprek, óf dat ze gebeld worden.'
+  content: 'Eén klik en klaar: altijd de juiste meldtekst voor de juiste begroeting van jouw klant. Handig voor iedereen; van medische
+  praktijk tot advocatenkantoor, van sportschool tot Sushibar. Schakel jouw teksten of andere acties automatisch of handmatig in, vanaf 
+  je computer, telefoon of onze Smartphone app!'
   image: "/v1561535634/callvoip-website-blf.png"
   image_position: start
 layout: default
