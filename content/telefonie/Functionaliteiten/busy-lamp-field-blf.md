@@ -12,7 +12,7 @@ hero:
   content: 'Handig! Met Busy Lamp Field ziet u in één oogopslag of uw collegas beschikbaar zijn, in gesprek, 
   óf dat ze gebeld worden. Op uw toestel ziet u de sneltoets dan groen of rood branden, of knipperen als de collega gebeld wordt. 
   Druk op de toets en neem het gesprek zelf aan.'
-  image: "/v1561535634/callvoip-website-blf.png"
+  image: "/v1561535634/yealink-blf-options_eick50.png
   image_position: start
 layout: default
 hideinsearch: false
