@@ -40,8 +40,8 @@ fields:
   hidden: true
 pages:
 - content/telefonie/Functionaliteiten/gespreksopname.md
-- content/telefonie/Functionaliteiten/busy-lamp-field-blf.md
 - content/telefonie/functionaliteiten.md
+- content/telefonie/Functionaliteiten/busy-lamp-field-blf.md
 - content/telefonie/Functionaliteiten/fax.md
 - content/telefonie/Functionaliteiten/omleiding-flow-control.md
 - content/telefonie/Functionaliteiten/tijdsconditie.md
