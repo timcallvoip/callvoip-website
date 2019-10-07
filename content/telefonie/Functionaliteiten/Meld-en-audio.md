@@ -12,6 +12,29 @@ hero:
 layout: ''
 hideinsearch: false
 
+intro:
+  title: Abonnementen
+  content: Callvoip biedt drie verschillende Glasvezel-abonnementen.
+prijzen:
+- title: 60-om-60 Mbit/s
+  content: De eenmalige kosten verschillen per situatie. Wij informeren u graag!
+  button:
+    title: Direct bestellen
+    link: https://www.simmpl.nl/downloads/callvoip_ftth_aanvraagformulier.pdf
+  tarieven:
+    footer: Prijzen zijn excl. BTW
+    items:
+    - title: Maandelijks
+      price: '45.00'
+    - title: Eenmalig
+      price: '50.00'
+    title: 'U bent klant van Callvoip:'
+- title: 100-om-100 Mbit/s
+  content: De eenmalige kosten verschillen per situatie. Wij informeren u graag!
+  button:
+    title: Direct bestellen
+    link: https://www.simmpl.nl/downloads/callvoip_ftth_aanvraagformulier.pdf
+
 ---
 Eén klik en klaar: altijd de juiste meldtekst voor de juiste begroeting van jouw klant. Handig voor iedereen; van medische praktijk tot advocatenkantoor, van sportschool tot Sushibar. Schakel jouw teksten of andere acties automatisch of handmatig in, vanaf je computer, telefoon of onze Smartphone app!
 
