@@ -35,7 +35,7 @@ usps:
     content: Verbind door naar een intern- of extern nummer.
   - image: "/v1566995669/omleiding_round_k0vqxz.png"
     title: Omleiding
-    link: "/telefonie/functionaliteiten/doorverbinden"
+    link: "/telefonie/functionaliteiten/omleiding/"
     content: Met één druk op de knop een doorschakeling activeren.
   - image: "/v1566995670/tijdsconditie_round_szsrmf.png"
     title: Tijdsconditie
