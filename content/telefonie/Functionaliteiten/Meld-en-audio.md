@@ -31,7 +31,6 @@ prijzen:
       price: '0.00'
 ---
 ## De voordelen:
-</br>
 * **_Bibliotheek_**: Bewaar de geluidsbestanden en vind ze gemakkelijk terug
 * **_Professioneel_**: Professionele look dankzij bijvoorbeeld een welkomst-meldtekst
 * **_Onbeperkt_**: Plaats zoveel audio-bestanden in uw belroute/keuzemenu als u nodig heeft
