@@ -8,7 +8,7 @@ items:
 - title: Trunk
   status: true
 - title: Inkomende gesprekken
-  status: false
+  status: true
 - title: Uitgaande gesprekken
   status: true
 - title: "(Extern) Doorschakelen"
