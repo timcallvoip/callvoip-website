@@ -21,11 +21,13 @@ blocks:
   position: image_left
   title: Bedien de telefooncentrale (Qaller)
   image_position: center
-- content: "Met de <b>betaalde</b> variant van Qaller:<br>\n{{< usps >}}  \n* Vedient
-    u de telefooncentrale\n* Belt u vanaf uw smartphone met uw zakelijke telefoonnummer\n*
-    Zien relaties uw mobiele telefoonnummer niet\n* Loopt zakelijk belverkeer via
-    de telefooncentrale\n* Bent u inkomend bereikbaar, zowel intern als extern\n{{</
-    usps >}}"
+- content: |-
+    Met de <b>betaalde</b> variant van Qaller:<br>
+    * Vedient u de telefooncentrale
+    * Belt u vanaf uw smartphone met uw zakelijke telefoonnummer
+    * Zien relaties uw mobiele telefoonnummer niet
+    * Loopt zakelijk belverkeer via de telefooncentrale
+    * Bent u inkomend bereikbaar, zowel intern als extern
   image: "/v1566556835/mock_up_phone_oneplus3_i8lww0.png"
   position: ''
   title: Bel met uw zakelijke telefoonnummer (Qaller Plus)
