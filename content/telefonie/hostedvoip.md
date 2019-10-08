@@ -2,6 +2,7 @@
 title: Hosted VoIP | modernste online telefooncentrale
 type: page
 layout: default
+aliases: '/voip'
 logos: true
 hero:
   title: Hosted VoIP
