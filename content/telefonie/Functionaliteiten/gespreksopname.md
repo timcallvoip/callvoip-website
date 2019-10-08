@@ -43,7 +43,7 @@ prijzen:
 - title: Gespreksopname 365 dagen
   content: 'Wordt berekend op het aantal gebruikers en op basis van de ingestelde bewaarperiode'
   button:
-    title: Bereken uw kosten<
+    title: Bereken uw kosten
     link: "/calculator/"
   tarieven:
     title: 365 dagen bewaren
