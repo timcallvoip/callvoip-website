@@ -2,6 +2,7 @@
 title: Integratie met uw CRM-pakket (VoIP CTI)
 type: page
 layout: default
+aliases: '/cti'
 logos: false
 hero:
   title: VoIP CTI
