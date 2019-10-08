@@ -52,7 +52,7 @@ prijzen:
       price: '12.50'
     - title: Eenmalig
       price: '5.00'
-    - title: "<b>incl. Bulk Download</b>"
+    - title: incl. Bulk Download
 ---
 ## De voordelen:
 
