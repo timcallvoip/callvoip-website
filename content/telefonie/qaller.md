@@ -3,6 +3,7 @@ title: Qaller | de mobiele app voor uw Simmpl telefooncentrale
 type: page
 layout: default
 logos: true
+aliases: '/qaller'
 hero:
   title: Qaller (mobiele app)
   content: |-
@@ -22,7 +23,7 @@ blocks:
   title: Bedien de telefooncentrale (Qaller)
   image_position: center
 - content: |-
-    Met de <b>betaalde</b> variant van Qaller:<br>
+    Met de <b>betaalde</b> variant van Qaller:<br> 
     * Vedient u de telefooncentrale
     * Belt u vanaf uw smartphone met uw zakelijke telefoonnummer
     * Zien relaties uw mobiele telefoonnummer niet
