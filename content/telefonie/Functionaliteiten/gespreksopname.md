@@ -15,7 +15,7 @@ layout: default
 hideinsearch: false
 
 prijzen:
-- title: Gespreksopname
+- title: Gespreksopname 30 dagen
   content: 'Wordt berekend op het aantal gebruikers en op basis van de ingestelde bewaarperiode'
   button:
     title: Bereken uw kosten
@@ -27,6 +27,32 @@ prijzen:
       price: '5.00'
     - title: Eenmalig
       price: '5.00'
+- title: Gespreksopname 180 dagen
+  content: 'Wordt berekend op het aantal gebruikers en op basis van de ingestelde bewaarperiode'
+  button:
+    title: Bereken uw kosten
+    link: "/calculator/"
+  tarieven:
+    title: 180 dagen bewaren
+    items:
+    - title: p/mnd per gebruiker
+      price: '10.00'
+    - title: Eenmalig
+      price: '5.00'
+    - title: incl. Bulk Download
+- title: Gespreksopname 365 dagen
+  content: 'Wordt berekend op het aantal gebruikers en op basis van de ingestelde bewaarperiode'
+  button:
+    title: Bereken uw kosten
+    link: "/calculator/"
+  tarieven:
+    title: 365 dagen bewaren
+    items:
+    - title: p/mnd per gebruiker
+      price: '12.50'
+    - title: Eenmalig
+      price: '5.00'
+    - title: incl. Bulk Download
 ---
 ## De voordelen:
 
