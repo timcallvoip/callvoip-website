@@ -2,6 +2,7 @@
 title: Vast Mobiel Integratie (Vamos) | altijd & overal bereikbaar
 type: page
 layout: default
+aliases: '/vamos'
 blocks:
 - content: "Welke vorm van vast mobiel past bij u?\n\n<b>1. Ik wil mijn vaste nummer
     kunnen doorschakelen naar mobiel</b><br>\nDan is een <a href=\"/telefonie/functionaliteiten/doorverbinden/\">doorschakeling</a>
