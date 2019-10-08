@@ -2,6 +2,7 @@
 title: FTTH Glasvezel | U heeft uw eigen lijn en een stabiele snelheid
 type: page
 layout: default
+aliases: '/glasvezel'
 logos: false
 hero:
   title: FTTH Glasvezel
