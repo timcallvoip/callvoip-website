@@ -39,9 +39,10 @@ fields:
   label: layout
   hidden: true
 pages:
-- content/telefonie/Functionaliteiten/gespreksopname.md
-- content/telefonie/functionaliteiten.md
 - content/telefonie/Functionaliteiten/busy-lamp-field-blf.md
+- content/telefonie/Functionaliteiten/belgroep-huntgroup.md
+- content/telefonie/functionaliteiten.md
+- content/telefonie/Functionaliteiten/gespreksopname.md
 - content/telefonie/Functionaliteiten/fax.md
 - content/telefonie/Functionaliteiten/omleiding-flow-control.md
 - content/telefonie/Functionaliteiten/tijdsconditie.md
@@ -61,7 +62,6 @@ pages:
 - content/telefonie/Functionaliteiten/doorverbinden.md
 - content/telefonie/Functionaliteiten/call-pickup.md
 - content/telefonie/Functionaliteiten/voicemail.md
-- content/telefonie/Functionaliteiten/belgroep-huntgroup.md
 - content/telefonie/realtime-api.md
 - content/oplossingen/Branches/reisbureau.md
 - content/oplossingen/Branches/kapsalon.md
