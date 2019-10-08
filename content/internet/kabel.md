@@ -2,6 +2,7 @@
 title: Kabel | Supersnel internet van een betrouwbare leverancier
 type: page
 layout: default
+aliases: '/kabel'
 logos: false
 hero:
   title: Kabelinternet
