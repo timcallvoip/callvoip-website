@@ -4,6 +4,7 @@ description: Met de managed 4G-oplossing van Callvoip bent u altijd en overal be
   Bekijk hier snel de mogelijkheden en de bijbehorende tarieven.
 images: []
 type: page
+aliases: '/4g'
 layout: default
 logos: false
 hero:
