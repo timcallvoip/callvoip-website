@@ -27,20 +27,6 @@ prijzen:
       price: '5.00'
     - title: Eenmalig
       price: '5.00'
-  tarieven:
-    title: 180 dagen bewaren incl. Bulk Download
-    items:
-    - title: p/mnd per gebruiker
-      price: '10.00'
-    - title: Eenmalig
-      price: '5.00'
-  tarieven:
-    title: 365 dagen bewaren incl. Bulk Download
-    items:
-    - title: p/mnd per gebruiker
-      price: '12.50'
-    - title: Eenmalig
-      price: '5.00'
 ---
 ## De voordelen:
 
