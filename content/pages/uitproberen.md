@@ -13,35 +13,36 @@ images:
 layout: landing
 hideinsearch: false
 textblocks:
-- content1: "<div>
+- content1:'
+    <div>
     <p>Laat je naam en email achter en we gaan direct.. </p>
     <div>
-        <form class='mb-6' name='gratis-uitproberen' action='/bedank/uitproberen' accept-charset='UTF-8' method='POST'>
-            <input type='hidden' name='form-name' value='gratis-uitproberen' />
-            <p class='hidden'> <label>Don’t fill this out if human: <input name='bot-field'> </label> </p>
-            <p> <input type='hidden' id='formlayout' name='formlayout' value='d-5f1602c68c8a42919ddf340e285386e3'
-                    class='hidden'> </p>
-            <p> <input type='hidden' id='formto' name='formto' value='aanvraag' class='hidden'> </p>
-            <div class='layout-split'>
-                <div class='mb-4'> <label for='naam' class='block'>Voor- en achternaam</label> <input type='text'
-                        id='naam' name='naam' class='w-full border border-grey-light bg-white px-3 py-2 text-base'>
+        <form class="mb-6" name="gratis-uitproberenv2" action="/bedank/uitproberen" accept-charset="UTF-8" method="POST">
+            <input type="hidden" name="form-name" value="gratis-uitproberen" />
+            <p class="hidden"> <label>Don’t fill this out if human <input name="bot-field"> </label> </p>
+            <p> <input type="hidden" id="formlayout" name="formlayout" value="d-5f1602c68c8a42919ddf340e285386e3"
+                    class="hidden"> </p>
+            <p> <input type="hidden" id="formto" name="formto" value="aanvraag" class="hidden"> </p>
+            <div class="layout-split">
+                <div class="mb-4"> <label for="naam" class="block">Voor- en achternaam</label> <input type="text"
+                        id="naam" name="naam" class="w-full border border-grey-light bg-white px-3 py-2 text-base">
                 </div>
-                <div class='mb-4'> <label for='email' class='block'>Email <span class='text-red'>*</span></label> <input
-                        type='email' id='email' name='email'
-                        class='w-full border border-grey-light bg-white px-3 py-2 text-base' required=''> </div>
+                <div class="mb-4"> <label for="email" class="block">Email <span class="text-red">*</span></label> <input
+                        type="email" id="email" name="email"
+                        class="w-full border border-grey-light bg-white px-3 py-2 text-base" required=""> </div>
             </div>
-            <div class='layout-split'>
-                <div class='mb-4'> <label for='bedrijfsnaam' class='block'>Bedrijfsnaam</label> <input type='text'
-                        id='bedrijfsnaam' name='bedrijfsnaam'
-                        class='w-full border border-grey-light bg-white px-3 py-2 text-base'> </div>
-                <div class='mb-4'> <label for='telefoonnummer' class='block'>Telefoonnummer</label> <input type='text'
-                        id='telefoonnummer' name='telefoonnummer'
-                        class='w-full border border-grey-light bg-white px-3 py-2 text-base'> </div>
+            <div class="layout-split">
+                <div class="mb-4"> <label for="bedrijfsnaam" class="block">Bedrijfsnaam</label> <input type="text"
+                        id="bedrijfsnaam" name="bedrijfsnaam"
+                        class="w-full border border-grey-light bg-white px-3 py-2 text-base"> </div>
+                <div class="mb-4"> <label for="telefoonnummer" class="block">Telefoonnummer</label> <input type="text"
+                        id="telefoonnummer" name="telefoonnummer"
+                        class="w-full border border-grey-light bg-white px-3 py-2 text-base"> </div>
             </div>
-            <p> <button type='submit' class='button button-secondary'>Aan de slag</button> </p>
+            <p> <button type="submit" class="button button-secondary">Aan de slag</button> </p>
         </form>
     </div>
-</div>"
+</div>'
   title1: ''
   title2: 'Dit is hoe we het gaan doen:'
   content2: <div class="usp-list"><ul><li>Pak een kop koffie en wacht op ons telefoontje</li><li>Je
