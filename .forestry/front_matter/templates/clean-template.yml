@@ -24,6 +24,10 @@ fields:
   - type: file
     name: image
     label: image
+  - name: disable_image_on_mobile
+    type: boolean
+    label: Disable image on mobile
+    default: false
   - name: title
     type: text
     config:

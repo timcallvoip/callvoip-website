@@ -27,6 +27,10 @@ fields:
   - type: text
     name: link
     label: Link
+  - name: disable_image_on_mobile
+    type: boolean
+    label: Disable image on mobile
+    default: false
 - type: text
   name: author
   label: Author

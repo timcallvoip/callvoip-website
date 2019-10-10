@@ -68,6 +68,7 @@ fields:
   - name: disable_image_on_mobile
     type: boolean
     label: Disable image on mobile
+    default: false
 - type: field_group_list
   name: blocks
   label: Blocks

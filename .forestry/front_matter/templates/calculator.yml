@@ -19,6 +19,10 @@ fields:
   - type: file
     name: image
     label: image
+  - name: disable_image_on_mobile
+    type: boolean
+    label: Disable image on mobile
+    default: false
 - type: list
   name: outputs
   label: outputs
