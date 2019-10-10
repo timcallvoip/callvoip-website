@@ -1,6 +1,6 @@
 {{ with .Params.textblocks }}
 {{ range $index, $item := . }}
-<div class="{{if (modBool $index 2)}} bg-grey-lightest {{ end }} py-12 lg:pt-20  lg:pb-12">
+<div class="{{if (modBool $index 2)}} bg-grey-lightest {{ end }} py-12 lg:pt-20  {{ if .show_vshape}} lg:pb-0 {{ else }} lg:pb-12  {{ end }}">
     <div class="container px-4">
         <div class="flex flex-col-reverse md:flex-row items-start  md:-mx-8  ">
             <div class="md:w-1/2 md:px-8">
@@ -26,5 +26,10 @@
         </div>
     </div>
 </div>
+{{ if .show_vshape}}
+    <div class="bg-white  flex justify-center overflow-hidden">
+        <div class="triangle-down"></div>
+    </div>
+{{ end }}
 {{ end }}
 {{ end }}

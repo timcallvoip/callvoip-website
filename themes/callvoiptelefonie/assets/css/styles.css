@@ -254,3 +254,12 @@ html {
   background-size: 20px 20px;
   background-position: 0 5px;
 }
+
+
+.triangle-down {
+	width: 0;
+	height: 0;
+	border-left: 50vw solid transparent;
+	border-right: 50vw solid transparent;
+	border-top: 64px solid #ebf2f7;
+}
