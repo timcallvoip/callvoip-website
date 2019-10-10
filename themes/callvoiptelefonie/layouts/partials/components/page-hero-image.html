@@ -1,6 +1,8 @@
 {{ with .Params.hero }}
 {{ $title := .Title }}
 {{ $link := .link }}
+{{ $disableImageOnMobile := .hero.disable_image_on_mobile }}
+
 <div class="bg-grey-lightest clearfix">
   <header class="clearfix ">
 
@@ -18,7 +20,7 @@
         </div>
       </div>
       {{ with .image }}
-        <a href="{{ $link }} " target="_blank">
+        <a href="{{ $link }} " target="_blank" class="{{ if $disableImageOnMobile }} hidden md:block {{ end }}"> 
         <img data-src="{{ $.Site.Params.cloudinary_base_url }}/w_auto,dpr_auto,c_scale,f_auto,q_auto/{{.}}"
           class="w-full cld-responsive max-h-screen" style="object-fit: cover;" alt="{{ $title }}" />
         </a>

@@ -3,6 +3,7 @@ title: Werken bij Callvoip
 layout: werkenbij
 hero:
   image: "/v1566566520/banner_formaat_xqptws.jpg"
+  disable_image_on_mobile: true
 intro:
   title: Werken bij Callvoip
   content: Ben je op zoek naar een echte uitdaging en een leuk team? <br> Bekijk dan

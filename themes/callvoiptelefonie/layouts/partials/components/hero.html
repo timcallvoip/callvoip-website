@@ -1,8 +1,10 @@
 {{$title := .Title }}
 {{$link := .Params.hero.link }}
+{{$disableImageOnMobile := .Params.hero.disable_image_on_mobile}}
+
 {{ with .Params.hero.image}}
 
-<header class="h-64 md:h-80 xxl:h-96 bg-grey-lightest">
+<header class="h-64 md:h-80 xxl:h-96 bg-grey-lightest {{ if $disableImageOnMobile }} hidden md:block {{ end }}">
     {{ if $link}}
     <a href="{{$link}}">
     {{ end}}
