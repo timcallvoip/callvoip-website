@@ -13,8 +13,8 @@ images:
 layout: landing
 hideinsearch: false
 textblocks:
-- content1: ' <div> <p>Laat je naam en email achter en we gaan direct.. </p> <div>
-    <form class="mb-6" name="proberenformulier" action="/bedank/uitproberen/" accept-charset="UTF-8"
+- content1: ' <div> <p>Laat je gegevens achter en we gaan direct.. </p> <div> <form
+    class="mb-6" name="proberenformulier" action="/bedank/uitproberen/" accept-charset="UTF-8"
     method="POST" data-netlify="true" netlify-honeypot="bot-field> <input type="hidden"
     name="form-name" value="proberenformulier" /> <p class="hidden"> <label>Don’t
     fill this out if human <input name="bot-field"> </label> </p> <p> <input type="hidden"
