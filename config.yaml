@@ -1,5 +1,5 @@
 ---
-baseURL: /
+baseURL: ""
 LanguageCode: nl
 title: Callvoip
 theme: callvoiptelefonie
