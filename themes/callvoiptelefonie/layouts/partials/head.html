@@ -9,6 +9,11 @@
 <meta name="msapplication-config" content="/favicons/browserconfig.xml" />
 <meta name="theme-color" content="#ffffff" />
 <meta name="description" content="{{ if .IsHome }}{{ $.Site.Params.description }}{{ else }}{{ .Description }}{{ end }}">
+
+{{ if .Params.hideinsearch }}
+	<meta name="robots" content="noindex">
+{{ end }}
+
 {{- with .Keywords -}}
 <meta name="keywords" content="{{ . }}" />
 {{- end -}}
