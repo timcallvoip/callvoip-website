@@ -44,10 +44,7 @@ fields:
   - name: disable_image_on_mobile
     type: boolean
     label: Disable image on mobile
-<<<<<<< HEAD
     default: false
-=======
->>>>>>> e8d72026bca8d636cfa44e074f809c9b7df4505b
   hidden: false
   default: ''
 - name: layout
