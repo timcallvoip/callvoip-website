@@ -5,12 +5,16 @@ description: ''
 images: []
 pdf: ''
 hideinsearch: false
-aliases: '/hulp'
+aliases: "/hulp"
 Nieuw: false
 Update: false
 
 ---
 Heeft u hulp nodig bij het instellen van uw telefoons of andere apparatuur? Laat de Callvoip medewerker dan met u meekijken via onze remote software. Wij nemen dan uw scherm en muis over.
+
+<br>
+
+<a href="[http://support.callvoip.nl:8040/](http://support.callvoip.nl:8040/ "http://support.callvoip.nl:8040/")" target=_blank class="button">Start de sessie</a>
 
 ### Hoe werkt het?
 
@@ -25,7 +29,3 @@ Stap 4: De medewerker van Callvoip gaat aan de slag!
 ### Wat kost het?
 
 Dit verschilt per situatie. U wordt altijd vooraf geïnformeerd als deze actie kosten met zich meebrengt. De kosten van 'Hulp op Afstand **€25,- excl. BTW per kwartier**.
-
-<br>
-
-<a href="http://support.callvoip.nl:8040/" target=_blank class="button">Remote software</a>
