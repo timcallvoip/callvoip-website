@@ -41,6 +41,9 @@ fields:
     type: file
     hidden: false
     default: ''
+  - name: disable_image_on_mobile
+    type: boolean
+    label: Disable image on mobile
   hidden: false
   default: ''
 - name: layout

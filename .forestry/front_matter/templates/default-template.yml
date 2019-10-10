@@ -65,6 +65,9 @@ fields:
         file: 
         path: 
     label: Image position
+  - name: disable_image_on_mobile
+    type: boolean
+    label: Disable image on mobile
 - type: field_group_list
   name: blocks
   label: Blocks
