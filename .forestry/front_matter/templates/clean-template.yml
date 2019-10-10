@@ -39,8 +39,8 @@ fields:
   label: layout
   hidden: true
 pages:
-- content/telefonie/functionaliteiten.md
 - content/telefonie/Functionaliteiten/gespreksopname.md
+- content/telefonie/functionaliteiten.md
 - content/telefonie/Functionaliteiten/busy-lamp-field-blf.md
 - content/telefonie/Functionaliteiten/belgroep-huntgroup.md
 - content/telefonie/Functionaliteiten/fax.md
