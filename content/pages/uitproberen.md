@@ -40,6 +40,8 @@ textblocks:
                 <input type="email" id="email" name="email"
                     class="w-full border border-grey-light bg-white px-3 py-2 text-base" required="">
             </div>
+          </div>
+          <div class="layout-split">
             <div class="mb-4">
                 <label for="bedrijfsnaam" class="block">Bedrijfsnaam</label>
                 <input type="text" id="bedrijfsnaam" name="bedrijfsnaam"
