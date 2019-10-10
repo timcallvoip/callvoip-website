@@ -1,5 +1,5 @@
 ---
-url: uitproberenv2
+url: proberenformulier
 type: page
 hero:
   image: "/v1570097106/header_proberen_uj5wta.png"
@@ -17,8 +17,8 @@ textblocks:
       <div>
       <p>Laat je naam en email achter en we gaan direct.. </p>
       <div>
-          <form class="mb-6" name="gratis-uitproberenv2" action="/" accept-charset="UTF-8" method="POST">
-              <input type="hidden" name="form-name" value="gratis-uitproberen2" />
+          <form class="mb-6" name="proberenformulier" action="/bedank/uitproberen/" accept-charset="UTF-8" method="POST">
+              <input type="hidden" name="form-name" value="proberenformulier" />
               <p class="hidden"> <label>Don’t fill this out if human <input name="bot-field"> </label> </p>
               <p> <input type="hidden" id="formlayout" name="formlayout" value="d-5f1602c68c8a42919ddf340e285386e3"
                       class="hidden"> </p>
