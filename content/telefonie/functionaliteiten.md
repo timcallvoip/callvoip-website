@@ -7,6 +7,7 @@ images:
 url: /telefonie/functionaliteiten/
 type: page
 layout: functionaliteiten
+aliases: '/functionaliteiten'
 hero:
   image: "/v1566566520/banner_formaat_xqptws.jpg"
   title: ''
