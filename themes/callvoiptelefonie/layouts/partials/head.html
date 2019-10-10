@@ -22,6 +22,7 @@
 {{- partial "seo/schema" . -}}
 {{- partial "seo/twitterCards" . -}}
 
+<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900&display=swap" rel="stylesheet">
 
 {{ if .Site.IsServer }}
   {{ $style := resources.Get "css/styles.css" | postCSS (dict "config" "./themes/callvoiptelefonie/assets/css/dev/postcss.config.js") | fingerprint }}

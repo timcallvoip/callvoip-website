@@ -19,6 +19,10 @@ let colors = {
 module.exports = {
   theme: {
 
+    fontFamily: {
+      'sans': ['roboto', 'apple-system', 'BlinkMacSystemFont', "Segoe UI", 'Roboto', "Helvetica Neue", 'Arial', "Noto Sans", 'sans-serif', "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"]
+    },
+
     colors: colors,
     screens: {
       'sm': '476px',

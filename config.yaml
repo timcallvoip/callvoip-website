@@ -1,5 +1,5 @@
 ---
-baseURL: https://www.callvoip.nl
+baseURL: https://roboto.callvoip-website.netlify.com/
 LanguageCode: nl
 title: Callvoip
 theme: callvoiptelefonie
