@@ -1,5 +1,5 @@
 ---
-title: Qaller-app
+title: Qaller app
 weight: 1
 description: ''
 images: []
