@@ -1,6 +1,6 @@
 ---
 type: post
-title: Qaller Blog | Vast mobiel bereikbaar? Of je lunchbandje op afstand bedienen?
+title: Qaller Blog | Download de nieuwste Qaller app
 description: Qaller is een mobiele Smartphone App voor uw telefooncentrale in de cloud
   waarmee je altijd en overal bereikbaar bent.
 images: []
