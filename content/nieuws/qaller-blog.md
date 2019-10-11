@@ -17,6 +17,9 @@ tags: []
 hideinsearch: false
 
 ---
+<a href="https://play.google.com/store/apps/details?id=com.digifoon.qaller&hl=nl"><img src="https://res.cloudinary.com/callvoip/image/upload/v1570785365/googleplay_a46nvl.png"></a>
+<a href="https://apps.apple.com/nl/app/qaller/id1140548146"><img src="https://res.cloudinary.com/callvoip/image/upload/v1570785374/appstore_vtczlz.png"></a>
+
 ### Welke nieuwe functionaliteiten zijn er bij gekomen?
 
 Qaller 3.0 is jouw slimme Smartphone App om altijd en overal mobiel bereikbaar te zijn. Want wij weten dat sommige telefoontjes net even te belangrijk zijn om te missen.
@@ -48,9 +51,6 @@ Wijzigingen in Qaller 3.0 (gratis):**
 * Je kunt voortaan ook doorverbinden
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1568875791/phone_new_rkvuby.png)
-
-<a href="https://play.google.com/store/apps/details?id=com.digifoon.qaller&hl=nl"><img src="https://res.cloudinary.com/callvoip/image/upload/v1570785365/googleplay_a46nvl.png"></a>
-<a href="https://apps.apple.com/nl/app/qaller/id1140548146"><img src="https://res.cloudinary.com/callvoip/image/upload/v1570785374/appstore_vtczlz.png"></a>
 
 ### Goed, en dan nog even dit..?
 
