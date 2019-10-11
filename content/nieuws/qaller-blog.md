@@ -6,8 +6,9 @@ description: Qaller is een mobiele Smartphone App voor uw telefooncentrale in de
 images: []
 featured: false
 hero:
-  image: "/v1570097106/header_proberen_uj5wta.png"
-  link: https://www.callvoip.nl
+  image: "/v1570788691/email_qaller_bao4vr.png"
+  link: ''
+  disable_image_on_mobile: true
 author: ''
 date: 2019-09-17T22:00:00.000+00:00
 url: "/qaller-blog"
