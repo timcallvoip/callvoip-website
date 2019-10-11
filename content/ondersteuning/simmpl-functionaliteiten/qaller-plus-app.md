@@ -23,7 +23,7 @@ Met de Qaller Plus smartphone app kan de Simmpl telefooncentrale vanaf de smartp
 
 {{< layout/columns >}}  
 {{< layout/column2 >}}  
-1\. **Download de App** in de [Appstore (Apple)](https://apps.apple.com/nl/app/qaller/id1140548146) of [Google Play (Android)](https://apps.apple.com/nl/app/qaller/id1140548146)
+1\. **Download de App** in de [Appstore (Apple)](https://apps.apple.com/nl/app/qaller/id1140548146) of [Google Play (Android)](https://play.google.com/store/apps/details?id=com.digifoon.qaller&hl=nl)
 
 2\. **Login als beheerder op Simmpl en zet Qaller Plus aan**. Qaller Plus voegt de mogelijkheid tot in/uitgaand bellen toe aan Qaller. NB : Qaller Plus wordt als toestelaccount berekend.
 
