@@ -34,7 +34,7 @@ textblocks:
     <p> <button type="submit" class="button button-secondary">Aan de slag</button>
     </p> </form> </div> </div>'
   title2: ''
-  title1: 'Slim zakelijk internet & telefonie regelen<br>Dit is hoe we het gaan doen:'
+  title1: 'Slim zakelijk internet & telefonie regelen </br> Dit is hoe we het gaan doen:'
   content1: <div class="usp-list"><ul><li>Pak een kop koffie en wacht op ons telefoontje</li><li>Je
     krijgt toegang tot de volledige versie van de online centrale...</li><li>... én
     een gratis testnummer gedurende jouw testweek</li><li>Een Callvoip teamlid leidt
