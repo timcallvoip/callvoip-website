@@ -7,14 +7,14 @@ images: []
 featured: false
 hero:
   image: "/v1568809489/Untitled-1_dkgdgj.png"
-  link: "https://www.callvoip.nl"
+  link: https://www.callvoip.nl
 author: ''
 date: 2019-09-17T22:00:00.000+00:00
 url: "/qaller-blog"
 contactpersoon: []
 categories: []
 tags: []
-hideinsearch: true
+hideinsearch: false
 
 ---
 ### Welke nieuwe functionaliteiten zijn er bij gekomen?
@@ -48,6 +48,8 @@ Wijzigingen in Qaller 3.0 (gratis):**
 * Je kunt voortaan ook doorverbinden
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1568875791/phone_new_rkvuby.png)
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1570785365/googleplay_a46nvl.png)![](https://res.cloudinary.com/callvoip/image/upload/v1570785374/appstore_vtczlz.png)
 
 ### Goed, en dan nog even dit..?
 
