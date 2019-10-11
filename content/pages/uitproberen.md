@@ -5,6 +5,7 @@ type: page
 hero:
   image: "/v1570097106/header_proberen_uj5wta.png"
   title: Gratis uitproberen
+  disable_image_on_mobile: true
   link: ''
 description: Ben je op zoek naar de beste zakelijke telefonie? Wil je dit gratis uitproberen?
   Vraag dan een rondleiding aan bij Callvoip en ontvang binnen 1 dag een uitnodiging.
