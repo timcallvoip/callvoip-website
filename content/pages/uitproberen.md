@@ -13,7 +13,7 @@ images:
 layout: landing
 hideinsearch: false
 textblocks:
-- content1: ' <div> <p>Laat je gegevens achter en we gaan direct.. </p> <div> <form
+- content2: ' <div> <p>Laat je gegevens achter en we gaan direct.. </p> <div> <form
     class="mb-6" name="proberenformulier" action="/bedank/uitproberen/" accept-charset="UTF-8"
     method="POST" data-netlify="true" netlify-honeypot="bot-field> <input type="hidden"
     name="form-name" value="proberenformulier" /> <p class="hidden"> <label>Don’t
@@ -33,9 +33,9 @@ textblocks:
     class="w-full border border-grey-light bg-white px-3 py-2 text-base"> </div> </div>
     <p> <button type="submit" class="button button-secondary">Aan de slag</button>
     </p> </form> </div> </div>'
-  title1: ''
-  title2: 'Dit is hoe we het gaan doen:'
-  content2: <div class="usp-list"><ul><li>Pak een kop koffie en wacht op ons telefoontje</li><li>Je
+  title2: ''
+  title1: 'Dit is hoe we het gaan doen:'
+  content1: <div class="usp-list"><ul><li>Pak een kop koffie en wacht op ons telefoontje</li><li>Je
     krijgt toegang tot de volledige versie van de online centrale...</li><li>... én
     een gratis testnummer gedurende jouw testweek</li><li>Een Callvoip teamlid leidt
     je rond in de online centrale ...</li><li>... en helpt jou de testomgeving testklaar
