@@ -52,8 +52,8 @@ Wijzigingen in Qaller 3.0 (gratis):**
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1568875791/phone_new_rkvuby.png)
 
-<a href="https://play.google.com/store/apps/details?id=com.digifoon.qaller&hl=nl"><img src="https://res.cloudinary.com/callvoip/image/upload/v1570785365/googleplay_a46nvl.png"></a>
-<a href="https://apps.apple.com/nl/app/qaller/id1140548146"><img src="https://res.cloudinary.com/callvoip/image/upload/v1570785374/appstore_vtczlz.png"></a>
+<a href="https://play.google.com/store/apps/details?id=com.digifoon.qaller&hl=nl" target="_blank"><img src="https://res.cloudinary.com/callvoip/image/upload/v1570785365/googleplay_a46nvl.png"></a>
+<a href="https://apps.apple.com/nl/app/qaller/id1140548146" target="_blank"><img src="https://res.cloudinary.com/callvoip/image/upload/v1570785374/appstore_vtczlz.png"></a>
 
 ### Goed, en dan nog even dit..?
 
