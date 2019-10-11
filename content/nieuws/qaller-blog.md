@@ -44,12 +44,14 @@ Wijzigingen in Qaller 3.0.1 (gratis):**
 * verbeterde performance en betrouwbaarheid
 * gemakkelijker bediening
 * bookmark belplannen voor meer overzicht
+* Meerdere bugs zijn opgelost
 
 **Wijzigingen in Qaller 3.0.1 Plus (betaald)?**
 
 * telefoonboek met realtime belstatus
 * keuze uitgaand nummer / anoniem
 * Je kunt voortaan ook doorverbinden
+* Meerdere bugs zijn opgelost
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1568875791/phone_new_rkvuby.png)
 
