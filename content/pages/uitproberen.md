@@ -53,7 +53,7 @@ blocks:
     Je kunt de centrale ontdekken en gratis uitproberen.
   image_position: center
   position: image_left
-  image: "/v1570098498/wolk_gsaliz.png"
+  image: "/v1570098498/wolk_fcgzja.png"
 - title: Altijd bereikbaar met Qaller
   content: "Qaller is jouw slimme Smartphone App om altijd en overal mobiel bereikbaar
     te zijn. Want wij weten dat sommige telefoontjes net even te belangrijk zijn om
