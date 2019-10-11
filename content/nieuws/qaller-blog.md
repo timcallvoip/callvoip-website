@@ -18,12 +18,9 @@ tags: []
 hideinsearch: false
 
 ---
-<a href="https://play.google.com/store/apps/details?id=com.digifoon.qaller&hl=nl"><img src="https://res.cloudinary.com/callvoip/image/upload/v1570785365/googleplay_a46nvl.png"></a>
-<a href="https://apps.apple.com/nl/app/qaller/id1140548146"><img src="https://res.cloudinary.com/callvoip/image/upload/v1570785374/appstore_vtczlz.png"></a>
-
 ### Welke nieuwe functionaliteiten zijn er bij gekomen?
 
-Qaller 3.0.1 is jouw slimme Smartphone App om altijd en overal mobiel bereikbaar te zijn. Want wij weten dat sommige telefoontjes net even te belangrijk zijn om te missen.
+Qaller 3.0 is jouw slimme Smartphone App om altijd en overal mobiel bereikbaar te zijn. Want wij weten dat sommige telefoontjes net even te belangrijk zijn om te missen.
 
 **Jij weet nog van niks? Geen probleem want..?**
 Je **logt simpel éénmalig opnieuw in** en je kan direct even wennen aan de nieuwe 'look & feel' en bovenal het gemak! Alsof je lekker achterover ligt en je haren vakkundig gewassen worden. Ehm,..juist ja en weer door!
@@ -37,7 +34,7 @@ Psst..hier rechts onderaan de pagina zit één van onze MacGyver's achter de cha
 [Klik hier voor de Qaller handleiding](https://www.callvoip.nl/ondersteuning/simmpl-functionaliteiten/qaller-app/)
 
 **![](https://res.cloudinary.com/callvoip/image/upload/v1568809641/quote_y5hx0z.png)  
-Wijzigingen in Qaller 3.0.1 (gratis):**
+Wijzigingen in Qaller 3.0 (gratis):**
 
 * prachtige nieuwe look!
 * nieuwe technische basis
@@ -46,7 +43,7 @@ Wijzigingen in Qaller 3.0.1 (gratis):**
 * bookmark belplannen voor meer overzicht
 * Meerdere bugs zijn opgelost
 
-**Wijzigingen in Qaller 3.0.1 Plus (betaald)?**
+**Wijzigingen in Qaller 3.0 Plus (betaald)?**
 
 * telefoonboek met realtime belstatus
 * keuze uitgaand nummer / anoniem
@@ -54,6 +51,9 @@ Wijzigingen in Qaller 3.0.1 (gratis):**
 * Meerdere bugs zijn opgelost
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1568875791/phone_new_rkvuby.png)
+
+<a href="https://play.google.com/store/apps/details?id=com.digifoon.qaller&hl=nl"><img src="https://res.cloudinary.com/callvoip/image/upload/v1570785365/googleplay_a46nvl.png"></a>
+<a href="https://apps.apple.com/nl/app/qaller/id1140548146"><img src="https://res.cloudinary.com/callvoip/image/upload/v1570785374/appstore_vtczlz.png"></a>
 
 ### Goed, en dan nog even dit..?
 
