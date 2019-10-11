@@ -1,5 +1,5 @@
 ---
-title: Gratis uitproberen
+title: ''
 url: uitproberen
 type: page
 hero:
@@ -35,15 +35,14 @@ textblocks:
     <p> <button type="submit" class="button button-secondary">Aan de slag</button>
     </p> </form> </div> </div>'
   title2: ''
-  title1: 'Slim zakelijk internet & telefonie regelen'
-  content1: <h3>Dit is hoe we het gaan doen:</h3>
-    <div class="usp-list"><ul><li>Pak een kop koffie en wacht op ons telefoontje</li><li>Je
-    krijgt toegang tot de volledige versie van de online centrale...</li><li>... én
-    een gratis testnummer gedurende jouw testweek</li><li>Een Callvoip teamlid leidt
-    je rond in de online centrale ...</li><li>... en helpt jou de testomgeving testklaar
-    te maken</li><li>Jij kunt 7 dagen gaan testen! Gratis en stopt automatisch</li></ul></div>
+  title1: Slim zakelijk internet & telefonie regelen
+  content1: <h3>Dit is hoe we het gaan doen:</h3> <div class="usp-list"><ul><li>Pak
+    een kop koffie en wacht op ons telefoontje</li><li>Je krijgt toegang tot de volledige
+    versie van de online centrale...</li><li>... én een gratis testnummer gedurende
+    jouw testweek</li><li>Een Callvoip teamlid leidt je rond in de online centrale
+    ...</li><li>... en helpt jou de testomgeving testklaar te maken</li><li>Jij kunt
+    7 dagen gaan testen! Gratis en stopt automatisch</li></ul></div>
   show_vshape: true
-title: ''
 blocks:
 - title: Dé modernste Telefooncentrale
   content: |-
@@ -54,7 +53,7 @@ blocks:
     Je kunt de centrale ontdekken en gratis uitproberen.
   image_position: center
   position: image_left
-  image: "/v1570098498/wolk_irnpmn.png"
+  image: "/v1570098498/wolk_gsaliz.png"
 - title: Altijd bereikbaar met Qaller
   content: "Qaller is jouw slimme Smartphone App om altijd en overal mobiel bereikbaar
     te zijn. Want wij weten dat sommige telefoontjes net even te belangrijk zijn om
