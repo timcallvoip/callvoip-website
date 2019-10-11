@@ -53,11 +53,12 @@ blocks:
   position: image_left
   image: "/v1570098498/wolk_irnpmn.png"
 - title: Altijd bereikbaar met Qaller
-  content: Qaller is jouw slimme Smartphone App om altijd en overal mobiel bereikbaar
+  content: "Qaller is jouw slimme Smartphone App om altijd en overal mobiel bereikbaar
     te zijn. Want wij weten dat sommige telefoontjes net even te belangrijk zijn om
     te missen. Qaller is jouw gratis ‘afstandsbediening’ in de centrale. Enkel de
     app installeren en jouw vaste kantoortoestel is ineens geïntegreerd met je smartphone.
-    Mooi werk toch?
+    Mooi werk toch?\n<br>\n<a href=\"/uitproberen\" class=\"button\">Dit wil ik</a>
+    \ "
   image_position: center
   position: image_right
   image: "/v1570106000/arm_met_qaller_zfdh3x.png"
