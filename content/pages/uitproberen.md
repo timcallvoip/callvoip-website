@@ -34,8 +34,9 @@ textblocks:
     <p> <button type="submit" class="button button-secondary">Aan de slag</button>
     </p> </form> </div> </div>'
   title2: ''
-  title1: 'Slim zakelijk internet & telefonie regelen Dit is hoe we het gaan doen:'
-  content1: <div class="usp-list"><ul><li>Pak een kop koffie en wacht op ons telefoontje</li><li>Je
+  title1: 'Slim zakelijk internet & telefonie regelen'
+  content1: <p>LDit is hoe we het gaan doen:</p>
+    <div class="usp-list"><ul><li>Pak een kop koffie en wacht op ons telefoontje</li><li>Je
     krijgt toegang tot de volledige versie van de online centrale...</li><li>... én
     een gratis testnummer gedurende jouw testweek</li><li>Een Callvoip teamlid leidt
     je rond in de online centrale ...</li><li>... en helpt jou de testomgeving testklaar
@@ -67,7 +68,5 @@ intro:
   title: Concreet is dit wat je van ons krijgt
   content: Een eigen omgeving op de Callvoip centrale én de Qaller Smartphone App
     met een testnummer, en alle assistentie die nodig is
-intro_top:
- title: Druk met leven, en toch zakelijk alles onder controle?
 
 ---
