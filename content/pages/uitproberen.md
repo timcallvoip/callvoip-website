@@ -5,9 +5,8 @@ hero:
   image: "/v1570097106/header_proberen_uj5wta.png"
   title: Gratis uitproberen
   link: ''
-description: Ben je op zoek naar de beste zakelijke telefonie? Wil je dit gratis
-  uitproberen? Vraag dan een rondleiding aan bij Callvoip en ontvang binnen 1 dag
-  een uitnodiging.
+description: Ben je op zoek naar de beste zakelijke telefonie? Wil je dit gratis uitproberen?
+  Vraag dan een rondleiding aan bij Callvoip en ontvang binnen 1 dag een uitnodiging.
 images:
 - "/v1567165784/icon_hwk0eh.png"
 layout: landing
@@ -52,7 +51,7 @@ blocks:
     Je kunt de centrale ontdekken en gratis uitproberen.
   image_position: center
   position: image_left
-  image: "/v1570098498/Untitled-1_zfgmrq.png"
+  image: "/v1570098498/wolk_irnpmn.png"
 - title: Altijd bereikbaar met Qaller
   content: Qaller is jouw slimme Smartphone App om altijd en overal mobiel bereikbaar
     te zijn. Want wij weten dat sommige telefoontjes net even te belangrijk zijn om
