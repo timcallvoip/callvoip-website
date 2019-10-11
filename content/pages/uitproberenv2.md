@@ -11,7 +11,7 @@ description: Bent u op zoek naar de beste zakelijke telefonie? Wilt je dit grati
 images:
 - "/v1567165784/icon_hwk0eh.png"
 layout: landing
-hideinsearch: false
+hideinsearch: true
 textblocks:
 - content1: '
       <div>
