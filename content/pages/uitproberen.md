@@ -57,8 +57,8 @@ blocks:
     te zijn. Want wij weten dat sommige telefoontjes net even te belangrijk zijn om
     te missen. Qaller is jouw gratis ‘afstandsbediening’ in de centrale. Enkel de
     app installeren en jouw vaste kantoortoestel is ineens geïntegreerd met je smartphone.
-    Mooi werk toch?\n<br>\n<a href=\"/uitproberen\" class=\"button\">Dit wil ik</a>
-    \ "
+    Mooi werk toch?\n<br>\n</br>\n<a href=\"/uitproberen\" class=\"button\">Dit wil
+    ik</a>  "
   image_position: center
   position: image_right
   image: "/v1570106000/arm_met_qaller_zfdh3x.png"
