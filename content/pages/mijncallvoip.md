@@ -105,7 +105,7 @@ usps:
     items:
     - title: Belbundel
       link: "/opzeggen/belbundel/"
-    - title: 'SRTP (Vesleutelde gesprekken) '
+    - title: 'SRTP (Versleutelde gesprekken) '
       link: "/opzeggen/srtp/"
     - title: ServicePlus
       link: "/opzeggen/serviceplus/"
