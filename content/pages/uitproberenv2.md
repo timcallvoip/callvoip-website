@@ -51,7 +51,6 @@ textblocks:
     je rond in de online centrale ...</li><li>... en helpt jou de testomgeving testklaar
     te maken</li><li>Jij kunt 7 dagen gaan testen! Gratis en stopt automatisch</li></ul></div>
   show_vshape: true
-title: ''
 blocks:
 - title: Dé modernste Telefooncentrale
   content: |-

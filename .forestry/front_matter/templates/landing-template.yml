@@ -91,6 +91,12 @@ fields:
     label: Show vshape
     default: false
   - type: text
+    name: top_title
+    label: Top Title
+  - type: textarea
+    name: top_content
+    label: Top Content
+  - type: text
     name: title1
     label: Title 1
   - type: textarea
