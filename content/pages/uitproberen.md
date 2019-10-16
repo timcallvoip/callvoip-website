@@ -12,9 +12,9 @@ description: Ben je op zoek naar de beste zakelijke telefonie? Wil je dit gratis
 images:
 - "/v1567165784/icon_hwk0eh.png"
 layout: landing
-top_title: Druk met leven, en toch zakelijk alles onder controle?
 hideinsearch: false
 textblocks:
+  top_title: Druk met leven, en toch zakelijk alles onder controle?
 - content2: '<div>
       <p>Laat je gegevens achter en we gaan direct...</p>
       <div>
