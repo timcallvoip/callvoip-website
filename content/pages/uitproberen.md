@@ -15,7 +15,7 @@ layout: landing
 hideinsearch: false
 textblocks:
 - content2: '<div>
-      <p>Laat je naam en email achter en we gaan direct..</p>
+      <p>Laat je gegevens achter en we gaan direct...</p>
       <div>
           <form class="mb-6" name="proberenformulier" action="/bedank/uitproberen/" accept-charset="UTF-8" method="POST" data-netlify="true">
               <input type="hidden" name="form-name" value="proberenformulier" />
