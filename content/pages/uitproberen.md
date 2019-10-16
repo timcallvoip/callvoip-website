@@ -14,7 +14,6 @@ images:
 layout: landing
 hideinsearch: false
 textblocks:
-  top_title: Druk met leven, en toch zakelijk alles onder controle?
 - content2: '<div>
       <p>Laat je gegevens achter en we gaan direct...</p>
       <div>
@@ -53,6 +52,7 @@ textblocks:
     ...</li><li>... en helpt jou de testomgeving testklaar te maken</li><li>Jij kunt
     7 dagen gaan testen! Gratis en stopt automatisch</li></ul></div>
   show_vshape: true
+  top_title: Druk met leven, en toch zakelijk alles onder controle?
 blocks:
 - title: Dé modernste Telefooncentrale
   content: |-
