@@ -57,7 +57,13 @@ team:
     Vermoedelijk een gamer. Typt in vreemde talen. '
   function: Marketingmedewerker
   linkedin: ''
-description: 'Maak kennis met het team van Callvoip: Tim, Ralph, Dion, Remco, Lynn,
+- name: Roy Liezen
+  image: "/v1567149481/roy_seqvec.png"
+  content: 'Een door we wol geverfde marketing man met ideeën. Praat graag over deze ideeën maar ook over andere dingen. Haalt hier
+    zichtbaar plezier uit. Zit weleens op de racefiets. En voedt ook nog een dochter op. '
+  function: Interim Marketing Manager
+  linkedin: ''
+description: 'Maak kennis met het team van Callvoip: Tim, Roy, Dion, Remco, Lynn,
   Herman, Marieke & Robert.'
 images: []
 hideinsearch: false
