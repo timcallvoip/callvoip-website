@@ -77,5 +77,6 @@ intro:
   title: Concreet is dit wat je van ons krijgt
   content: Een eigen omgeving op de Callvoip centrale én de Qaller Smartphone App
     met een testnummer, en alle assistentie die nodig is
+top_title: Druk met leven, en toch zakelijk alles onder controle?
 
 ---
