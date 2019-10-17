@@ -1,5 +1,5 @@
 ---
-title: IS ER EEN STORING?
+title: Is er een storing
 weight: 1
 onderdelen:
 - Algemeen
@@ -11,6 +11,7 @@ hideinsearch: false
 Nieuw: false
 Update: false
 pdf: ''
+hideingoogle: false
 
 ---
 Voor actuele storingen en meldingen moet u op onze status-pagina zijn:

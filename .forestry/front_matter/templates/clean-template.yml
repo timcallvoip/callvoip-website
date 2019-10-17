@@ -46,6 +46,9 @@ fields:
   label: layout
   hidden: true
 pages:
+- content/bedank/offerte-aanvraag-ontvangen.md
+- content/bedank/wijziging-verzonden.md
+- content/bedank/opzegging-verzonden.md
 - content/telefonie/Functionaliteiten/gespreksopname.md
 - content/telefonie/functionaliteiten.md
 - content/telefonie/Functionaliteiten/busy-lamp-field-blf.md
@@ -81,7 +84,4 @@ pages:
 - content/oplossingen/Branches/marketingbureau.md
 - content/oplossingen/Branches/webshop.md
 - content/oplossingen/Branches/ict.md
-- content/bedank/offerte-aanvraag-ontvangen.md
-- content/bedank/wijziging-verzonden.md
-- content/bedank/opzegging-verzonden.md
 - content/telefonie/Functionaliteiten/test.md

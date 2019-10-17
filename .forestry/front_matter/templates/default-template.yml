@@ -190,6 +190,7 @@ fields:
         name: price
         label: Price
 pages:
+- content/telefonie/qaller.md
 - content/telefonie/hostedvoip.md
 - content/telefonie/integratiemetcrm.md
 - content/internet/glasvezel.md
@@ -198,7 +199,6 @@ pages:
 - content/telefonie/vastmobielintegratie.md
 - content/internet/dsl.md
 - content/telefonie/clicktodial.md
-- content/telefonie/qaller.md
 - content/telefonie/operator-console.md
 - content/oplossingen/trunk.md
 - content/oplossingen/mkb.md
