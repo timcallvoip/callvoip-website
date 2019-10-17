@@ -2,6 +2,7 @@
 title: Nummer opzeggen
 url: "/opzeggen/nummer/"
 hideinsearch: true
+hideingoogle: true
 
 ---
 Wilt u een of meer nummers opzeggen? Vult u dan onderstaand formulier in zodat wij dit administratief kunnen verwerken. 

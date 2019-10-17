@@ -11,6 +11,7 @@ categories:
 images: []
 description: Wilt u met één druk op de knop uw belverkeer aanpassen?
 hideinsearch: true
+hideingoogle: true
 
 ---
 **Nieuw: one-touch omleidings-app!**

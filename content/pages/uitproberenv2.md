@@ -12,6 +12,7 @@ images:
 - "/v1567165784/icon_hwk0eh.png"
 layout: landing
 hideinsearch: true
+hideingoogle: true
 textblocks:
 - content1: '
       <div>

@@ -2,6 +2,7 @@
 title: Mijn Callvoip
 url: "/mijncallvoipoud/"
 hideinsearch: true
+hideingoogle: true
 draft: true
 
 ---

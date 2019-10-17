@@ -8,6 +8,7 @@ hero:
   image: ''
 layout: ''
 hideinsearch: true
+hideingoogle: true
 ---
 Je aanvraag is succesvol verzonden. We nemen zo snel mogelijk contact met je op.
 

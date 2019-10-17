@@ -2,6 +2,7 @@
 title: Wijzigen (overzicht)
 url: "/wijzigen/"
 hideinsearch: true
+hideingoogle: true
 
 ---
 <br>

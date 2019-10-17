@@ -2,6 +2,7 @@
 title: Aanvragen (overzicht)
 url: "/aanvragen/"
 hideinsearch: true
+hideingoogle: true
 
 ---
 {{< layout/columns >}}

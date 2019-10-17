@@ -2,6 +2,7 @@
 title: Belbundel opzeggen
 url: "/opzeggen/belbundel/"
 hideinsearch: true
+hideingoogle: true
 
 ---
 Dit formulier is bedoeld om uw Callvoip Belbundel te beëindigen. Voor belbundels geldt een opzegtermijn van één maand. Vul hieronder het formulier in met de gewenste einddatum om uw belbundel te beëindigen; vanaf dat moment worden de reguliere belkosten weer berekend.

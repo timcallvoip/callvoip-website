@@ -9,6 +9,7 @@ contactpersoon:
 categories:
 - Updates
 hideinsearch: true
+hideingoogle: true
 
 ---
 CallvoipTelefonie is erg trots om te melden dat wij als eerste provider in Nederland in staat zijn om versleutelde gesprekken (encrypted calls) te leveren! De gesprekken zijn beveiligd dankzij de technieken **SRTP** en **TLS**.

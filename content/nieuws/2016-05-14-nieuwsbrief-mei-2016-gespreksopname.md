@@ -9,6 +9,7 @@ contactpersoon:
 categories:
 - Nieuwsbrieven
 hideinsearch: true
+hideingoogle: true
 
 ---
 Stel: u heeft net een telefoongesprek gehad en u wilt terugluisteren wat er allemaal besproken of afgesproken is. Hoe kunt u dit instellen?

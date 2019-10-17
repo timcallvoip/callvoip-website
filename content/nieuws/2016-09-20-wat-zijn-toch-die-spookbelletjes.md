@@ -9,6 +9,7 @@ contactpersoon:
 categories:
 - Meldingen
 hideinsearch: true
+hideingoogle: true
 
 ---
 De laatste tijd horen wij van klanten dat zij gebeld worden door vreemde nummers.

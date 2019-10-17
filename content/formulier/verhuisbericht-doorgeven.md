@@ -2,6 +2,7 @@
 title: Verhuisbericht doorgeven
 url: "/wijzigen/verhuisbericht/"
 hideinsearch: true
+hideingoogle: true
 
 ---
 Gaat u verhuizen? Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akkoord per mail, naar ons ter bevestiging van uw opdracht. Wij nemen dan z.s.m. met u contact op!

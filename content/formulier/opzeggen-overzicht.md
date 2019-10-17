@@ -2,6 +2,7 @@
 title: Opzeggen (overzicht)
 url: "/opzeggen/"
 hideinsearch: true
+hideingoogle: true
 
 ---
 <br>

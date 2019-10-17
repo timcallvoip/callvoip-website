@@ -13,6 +13,7 @@ contactpersoon: []
 categories: []
 tags: []
 hideinsearch: true
+hideingoogle: true
 
 ---
 Afgelopen weekend (in de nacht van 5 juli 2019) heeft er een update plaatsgevonden op Simmpl. <!--more-->

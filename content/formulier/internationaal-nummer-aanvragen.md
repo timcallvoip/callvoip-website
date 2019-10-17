@@ -2,6 +2,7 @@
 title: Internationaal nummer aanvragen
 url: "/aanvragen/internationaal-nummer/"
 hideinsearch: true
+hideingoogle: true
 
 ---
 Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akkoord per mail, naar ons ter bevestiging van uw opdracht.

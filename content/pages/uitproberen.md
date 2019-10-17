@@ -14,7 +14,7 @@ images:
 layout: landing
 hideinsearch: false
 textblocks:
-- content2: '<div>
+- content2: '<div id="aandeslag">
       <p>Laat je gegevens achter en we gaan direct...</p>
       <div>
           <form class="mb-6" name="proberenformulier" action="/bedank/uitproberen/" accept-charset="UTF-8" method="POST" data-netlify="true">
@@ -69,7 +69,7 @@ blocks:
     te zijn. Want wij weten dat sommige telefoontjes net even te belangrijk zijn om
     te missen. Qaller is jouw gratis ‘afstandsbediening’ in de centrale. Enkel de
     app installeren en jouw vaste kantoortoestel is ineens geïntegreerd met je smartphone.
-    Mooi werk toch?\n<br>\n</br>\n<a href=\"/uitproberen\" class=\"button\">Dit wil
+    Mooi werk toch?\n<br>\n</br>\n<a href=\"#aandeslag\" class=\"button\">Dit wil
     ik</a>  "
   image_position: center
   position: image_right

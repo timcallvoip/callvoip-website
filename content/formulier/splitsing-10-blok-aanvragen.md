@@ -2,6 +2,7 @@
 title: Splitsing 10-blok aanvragen
 url: "/aanvragen/splitsing-10-blok/"
 hideinsearch: true
+hideingoogle: true
 
 ---
 Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akkoord per mail, naar ons ter bevestiging van uw opdracht.

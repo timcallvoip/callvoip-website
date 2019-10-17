@@ -9,6 +9,7 @@ contactpersoon:
 categories:
 - Nieuwsbrieven
 hideinsearch: true
+hideingoogle: true
 
 ---
 Meldteksten zijn een belangrijk onderdeel geworden van menig online telefooncentrale op Simmpl. Dankzij de functionaliteit ‘geluid’ is het mogelijk om deze gesproken teksten te plaatsen in belplannen of keuzemenu’s.

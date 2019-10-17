@@ -7,6 +7,7 @@ url: "/nieuw-email-app/"
 categories:
 - Nieuwsbrieven
 hideinsearch: true
+hideingoogle: true
 
 ---
 Ontvang emailnotificaties van inkomende telefoongesprekken met het nummer van de beller en de datum en tijd van het gesprek.</p>

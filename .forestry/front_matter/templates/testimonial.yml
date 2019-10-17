@@ -24,7 +24,10 @@ fields:
   hidden: true
 - type: boolean
   name: hideinsearch
-  label: hideinsearch
+  label: Hide in Search
+- type: boolean
+  name: hideingoogle
+  label: Hide in Google
 - type: text
   name: link
   label: link

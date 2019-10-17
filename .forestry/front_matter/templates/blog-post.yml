@@ -16,7 +16,10 @@ fields:
   label: Featured
 - type: boolean
   name: hideinsearch
-  label: hideinsearch
+  label: Hide in Search
+- type: boolean
+  name: hideingoogle
+  label: Hide in Google
 - type: field_group
   name: hero
   label: Hero

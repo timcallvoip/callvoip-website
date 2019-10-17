@@ -9,6 +9,7 @@ contactpersoon:
 categories:
 - Nieuwsbrieven
 hideinsearch: true
+hideingoogle: true
 
 ---
 De telefoon van een collega rinkelt en u wilt dit gesprek op uw toestel aannemen. Hoe kunt u dit gesprek aannemen?

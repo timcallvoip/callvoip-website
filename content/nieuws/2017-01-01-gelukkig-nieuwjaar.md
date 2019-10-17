@@ -9,6 +9,7 @@ contactpersoon:
 categories:
 - Nieuwsbrieven
 hideinsearch: true
+hideingoogle: true
 
 ---
 Namens ons gehele team: een heel gelukkig 2017 toegewenst!

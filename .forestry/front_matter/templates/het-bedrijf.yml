@@ -15,7 +15,10 @@ fields:
   description: SEO
 - type: boolean
   name: hideinsearch
-  label: hideinsearch
+  label: Hide in Search
+- type: boolean
+  name: hideingoogle
+  label: Hide in Google
 - name: intro
   label: Intro
   type: field_group

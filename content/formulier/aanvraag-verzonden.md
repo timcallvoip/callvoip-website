@@ -2,7 +2,9 @@
 title: Aanvraag verzonden
 url: "/aanvragen/verzonden/"
 hideinsearch: true
+hideingoogle: true
 hideinsearch: true
+hideingoogle: true
 
 ---
 U ontvangt een e-mail met uw aanvraaggegevens. Controleert u deze gegevens goed en bij **akkoord ontvangen wij graag een reply.**

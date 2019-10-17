@@ -5,6 +5,7 @@ hero:
   image: "/v1566566520/banner_formaat_xqptws.jpg"
 slug: "/offerte/verzonden/"
 hideinsearch: true
+hideingoogle: true
 
 ---
 Je aanvraag is succesvol verzonden. We nemen zo snel mogelijk contact met je op.

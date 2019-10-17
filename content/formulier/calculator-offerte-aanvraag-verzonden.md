@@ -1,6 +1,7 @@
 ---
 title: Calculator offerte aanvraag verzonden
 hideinsearch: true
+hideingoogle: true
 url: "/calculator/verzonden/"
 
 ---

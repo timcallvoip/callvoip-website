@@ -9,6 +9,7 @@ contactpersoon:
 categories:
 - Updates
 hideinsearch: true
+hideingoogle: true
 
 ---
 De Simmpl telefooncentrale van CallvoipTelefonie heeft de Gigaset Maxwell Basic en Maxwell 3 IP-toestellen officieel gecertificeerd.

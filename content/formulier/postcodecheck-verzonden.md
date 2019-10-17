@@ -1,6 +1,7 @@
 ---
 title: Postcodecheck verzonden
 hideinsearch: true
+hideingoogle: true
 url: "/internet/postcodecheck/verzonden/"
 
 ---
