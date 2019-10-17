@@ -7,10 +7,12 @@ hideinsearch: false
 Nieuw: false
 Update: false
 pdf: ''
+hideingoogle: false
 
 ---
 <h3>2019</h3>
 
+* <a href="[https://mailchi.mp/callvoip/sep19-nieuweqaller_callvoipdsl-317153](https://mailchi.mp/callvoip/sep19-nieuweqaller_callvoipdsl-317153 "https://mailchi.mp/callvoip/sep19-nieuweqaller_callvoipdsl-317153")" target="_blank">CallvoipTelefonie nieuwsbrief 11-10-19 | Lekker werken met de Qaller App</a>
 * <a href="https://mailchi.mp/callvoip/sep19-nieuweqaller_callvoipdsl" target="_blank">CallvoipTelefonie nieuwsbrief 15-09-19 | Qaller geupdate | gratis internetcheck!</a>
 * <a href="https://mailchi.mp/callvoip/sep19-qallergeupdate" target="_blank">CallvoipTelefonie nieuwsbrief 14-08-19 | Aankondiging: Qaller update!</a>
 * <a href="https://mailchi.mp/callvoip/sep19-nieuwewebsite" target="_blank">CallvoipTelefonie nieuwsbrief 09-09-19 | Yes! Nieuw logo, nieuwe website!</a>
