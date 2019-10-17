@@ -62,7 +62,7 @@ team:
   content: 'Een door de wol geverfde marketingman met oneindig veel ideeën. Deelt deze ideeën graag naast vele andere zaken. Haalt
     zichtbaar plezier uit inspireren en motiveren. Zit weleens op de racefiets. En voedt ook nog een dochter op. '
   function: Interim Marketing Manager
-  linkedin: ''
+  linkedin: 'https://www.linkedin.com/in/roy-liezen-83675952/'
 description: 'Maak kennis met het team van Callvoip: Tim, Roy, Dion, Remco, Lynn,
   Herman, Marieke & Robert.'
 images: []
