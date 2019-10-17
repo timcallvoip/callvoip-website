@@ -59,7 +59,7 @@ team:
   linkedin: ''
 - name: Roy Liezen
   image: "/v1567149481/roy_seqvec.png"
-  content: 'Een door we wol geverfde marketing man met ideeën. Praat graag over deze ideeën maar ook over andere dingen. Haalt hier
+  content: 'Een door de wol geverfde marketing man met ideeën. Praat graag over deze ideeën maar ook over andere dingen. Haalt hier
     zichtbaar plezier uit. Zit weleens op de racefiets. En voedt ook nog een dochter op. '
   function: Interim Marketing Manager
   linkedin: ''
