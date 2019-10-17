@@ -24,7 +24,7 @@ blocks:
   image_position: center
 - content: |-
     Met de <b>betaalde</b> variant van Qaller:<br> 
-    * Vedient u de telefooncentrale</br>
+    * Bedient u de telefooncentrale</br>
     * Belt u vanaf uw smartphone met uw zakelijke telefoonnummer</br>
     * Zien relaties uw mobiele telefoonnummer niet</br>
     * Loopt zakelijk belverkeer via de telefooncentrale</br>
