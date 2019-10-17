@@ -58,7 +58,7 @@ team:
   function: Marketingmedewerker
   linkedin: ''
 - name: Roy Liezen
-  image: "/v1567149481/roy_seqvec.png"
+  image: "/v1567149481/roy_ugofnc.png"
   content: 'Een door de wol geverfde marketingman met oneindig veel ideeën. Deelt deze ideeën graag naast vele andere zaken. Haalt
     zichtbaar plezier uit inspireren en motiveren. Zit weleens op de racefiets. En voedt ook nog een dochter op. '
   function: Interim Marketing Manager
