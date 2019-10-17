@@ -132,6 +132,10 @@ p a:hover {
   @apply text-grey-medium;
 }
 
+.user-content strong {
+  @apply text-grey-dark;
+}
+
 .user-content h1, .user-content h2, .user-content h3, .user-content h4, .user-content h5 {
   @apply text-grey-dark;
 }
@@ -141,7 +145,7 @@ p a:hover {
 }
 
 .user-content li {
-  @apply mb-2;
+  @apply mb-3 leading-normal;
 }
 
 .user-content h2 {
