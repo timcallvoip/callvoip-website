@@ -1,5 +1,4 @@
 ---
-enableEmoji: true
 title: Callvoip - de modernste zakelijke telefonieprovider van Nederland
 hero:
   title: Regel je bereikbaarheid zoals jij dat wilt
@@ -12,7 +11,7 @@ hero:
   items:
   - icon: fa-cloud
     title: Maatwerk op de plank voor slimme ondernemers
-    content: 'Hosted telefonie vanaf 1 tot 100+ :office: gebruikers'
+    content: 'Hosted telefonie vanaf 1 tot 100+ gebruikers'
     link: telefonie/hostedvoip/
     id: cta-mkb
   - icon: fa-tty
