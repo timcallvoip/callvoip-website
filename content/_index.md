@@ -37,8 +37,8 @@ intro:
     content: Tot wel 50% voordeliger dan traditionele telefonie.
 usps:
 - title: Callvoip is er voor de ondernemers
-  content: <p>Callvoip levert met Simmpl een telefooncentrale dat zorgt voor optimale
-    bereikbaarheid én een professionele uitstraling naar uw klanten. <br></br> In
+  content: <p>Callvoip levert met Simmpl een telefooncentrale die zorgt voor optimale
+    bereikbaarheid én een professionele uitstraling naar je klanten. <br></br> In
     het basispakket zitten al veel functionaliteiten. Benieuwd naar alle functionaliteiten
     die zich in het basispakket bevinden?</p>  <a href="/telefonie/functionaliteiten/"
     class="button">Overzicht functionaliteiten</a>
@@ -46,8 +46,8 @@ usps:
   - icon: fa-clock
     title: Tijdscondities
     content: Met de <a href="/telefonie/functionaliteiten/tijdsconditie/">tijdsconditie-app</a>
-      definieert u vooraf tijden waarop één of meerdere acties in de belroute plaatsvinden.
-      Bijvoorbeeld tijdens de Feestdagen.
+      definieer je vooraf tijden waarop één of meerdere acties in de belroute plaatsvinden.
+      Bijvoorbeeld tijdens de feestdagen.
   - icon: fa-arrows-h
     title: Doorverbinden
     content: Met de <a href="/telefonie/functionaliteiten/doorverbinden/">doorverbinden-app</a>
@@ -160,7 +160,7 @@ testimonial:
   content: Al <strong>meer dan 10 jaar</strong> levert Callvoip ons de benodigde oplossingen
     voor vaste telefonie. Van beginnende ondernemer tot en met personeel; ze denken
     altijd met je mee.
-description: Callvoip is de zakelijke telefonieprovider in Nederland. Bespaar op uw
+description: Callvoip is de zakelijke telefonieprovider in Nederland. Bespaar op je
   telefonie met de modernste oplossingen van Callvoip.
 images: []
 hideinsearch: false
