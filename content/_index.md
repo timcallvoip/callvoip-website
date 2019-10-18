@@ -1,4 +1,5 @@
 ---
+enableEmoji: true
 title: Callvoip - de modernste zakelijke telefonieprovider van Nederland
 hero:
   title: Regel je bereikbaarheid zoals jij dat wilt
