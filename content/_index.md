@@ -21,9 +21,9 @@ hero:
 intro:
   image: "/v1567005839/home_nieuwe_site_versie2_gksupd.png"
   title: Voordelig bellen vanuit de cloud
-  content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent op één
-    en hetzelfde nummer. Op kantoor via een vast toestel of onderweg via uw eigen
-    mobiel. Én dat tegen scherpe tarieven!
+  content: Callvoip zorgt ervoor dat jij als ondernemer altijd bereikbaar bent op één
+    en hetzelfde nummer. Op kantoor via een vast toestel of onderweg via je eigen
+    mobiel. En dat tegen scherpe tarieven!
   button:
     content: Benieuwd hoeveel je kan besparen?
     link: "/calculator"
