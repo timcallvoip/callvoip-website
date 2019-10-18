@@ -1,22 +1,21 @@
 ---
 title: Callvoip - de modernste zakelijke telefonieprovider van Nederland
 hero:
-  title: Altijd bereikbaar zijn voor je klanten
-  content: Kies voor zakelijke telefonie van Callvoip en ervaar het gebruiks- gemak
-    van de modernste online telefooncentrale! Bellen via internet, op kantoor en onderweg.
-    Dat is de kracht van bellen met Callvoip. 
+  title: Regel je bereikbaarheid zoals jij dat wilt
+  content: Met de hosted telefonieoplossing van Callvoip doe je dat met één druk op de knop. Ervaar het gebruiksgemak van de modernste
+    telefooncentrale in de cloud! Regel alles zelf of laat je begeleiden door ons enthousiaste supportteam.
   button:
     content: Bekijk ons aanbod
     link: "/aanbod"
   items:
   - icon: fa-cloud
-    title: Kleine en middelgrote bedrijven
-    content: Kies voor de Hosted VoIP oplossing
+    title: Maatwerk op de plank voor slimme ondernemers
+    content: Hosted telefonie vanaf 1 tot 100+ gebruikers
     link: telefonie/hostedvoip/
     id: cta-mkb
   - icon: fa-tty
-    title: Mobiele telefoon als onderdeel van de zakelijke telefonieoplossing?
-    content: Gebruik de Vast Mobiel Integratie (Vamos)
+    title: Grenzeloos bereikbaar op het vaste telefoonnummer
+    content: De smartphone als basis voor zakelijke bereikbaarheid
     link: telefonie/vastmobielintegratie/
     id: cta-vamos
 intro:
