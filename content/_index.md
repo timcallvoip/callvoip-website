@@ -2,8 +2,9 @@
 title: Callvoip - de modernste zakelijke telefonieprovider van Nederland
 hero:
   title: Regel je bereikbaarheid zoals jij dat wilt
-  content: Met de hosted telefonieoplossing van Callvoip doe je dat met één druk op de knop. Ervaar het gebruiksgemak van de modernste
-    telefooncentrale in de cloud! Regel alles zelf of laat je begeleiden door ons enthousiaste supportteam.
+  content: Met de hosted telefonieoplossing van Callvoip doe je dat met één druk op
+    de knop. Ervaar het gebruiksgemak van de modernste telefooncentrale in de cloud!
+    Regel alles zelf of laat je begeleiden door ons enthousiaste supportteam.
   button:
     content: Bekijk ons aanbod
     link: "/aanbod"
@@ -19,10 +20,10 @@ hero:
     link: telefonie/vastmobielintegratie/
     id: cta-vamos
 intro:
-  image: "/v1567005839/home_nieuwe_site_versie2_gksupd.png"
+  image: "/v1571394215/homepage_design.png_eyywer.jpg"
   title: Voordelig bellen vanuit de cloud
-  content: Callvoip zorgt ervoor dat jij als ondernemer altijd bereikbaar bent op één
-    en hetzelfde nummer. Op kantoor via een vast toestel of onderweg via je eigen
+  content: Callvoip zorgt ervoor dat jij als ondernemer altijd bereikbaar bent op
+    één en hetzelfde nummer. Op kantoor via een vast toestel of onderweg via je eigen
     mobiel. En dat tegen scherpe tarieven!
   button:
     content: Benieuwd hoeveel je kan besparen?
@@ -163,5 +164,6 @@ description: Callvoip is de zakelijke telefonieprovider in Nederland. Bespaar op
   telefonie met de modernste oplossingen van Callvoip.
 images: []
 hideinsearch: false
+hideingoogle: false
 
 ---
