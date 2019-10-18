@@ -122,7 +122,7 @@ usps:
 options:
   image: "/v1565688921/test-home3_xea1m2.png"
   title: Lekker gemakkelijk, alles onder één dak!
-  content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent, dat
+  content: Callvoip zorgt ervoor dat jij als ondernemer altijd bereikbaar bent, dat
     gaat verder dan alleen maar telefonie. Betrouwbaar internet en goede apparatuur
     mogen daarbij niet ontbreken.
   items:
