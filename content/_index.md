@@ -20,7 +20,7 @@ hero:
     link: telefonie/vastmobielintegratie/
     id: cta-vamos
 intro:
-  image: "/v1571400615/homepage_design-rounded_t9v7uw.png"
+  image: "/v1571400615/home_omkizz.png"
   title: Voordelig bellen vanuit de cloud
   content: Callvoip zorgt ervoor dat jij als ondernemer altijd bereikbaar bent op
     één en hetzelfde nummer. Op kantoor via een vast toestel of onderweg via je eigen
