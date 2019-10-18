@@ -21,7 +21,6 @@ hero:
     id: cta-vamos
 intro:
   image: "/v1571397410/homepage_design-rounded_nnlggw.png"
-    box-shadow: 0px 0px 14px rgba(16, 16, 16, 0.22);
   title: Voordelig bellen vanuit de cloud
   content: Callvoip zorgt ervoor dat jij als ondernemer altijd bereikbaar bent op
     één en hetzelfde nummer. Op kantoor via een vast toestel of onderweg via je eigen
