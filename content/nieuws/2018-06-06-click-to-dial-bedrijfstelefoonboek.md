@@ -1,5 +1,5 @@
 ---
-title: 'Weer een functie toegevoegd aan Click-to-Dial: het (bedijfs)telefoonboek'
+title: 'Weer een functie toegevoegd aan Click-to-Dial: het (bedrijfs)telefoonboek'
 author: Robert Tijdhof
 type: post
 date: 2018-06-06T10:14:53.000+00:00
@@ -9,7 +9,7 @@ contactpersoon:
 categories:
 - Nieuwsbrieven
 hideinsearch: true
-hideingoogle: true
+hideingoogle: false
 
 ---
 De Click-to-Dial functie van Simmpl is verder uitgebreid: de contactpersonen die kunnen nu in een bedrijfstelefoonboek worden opgeslagen. U kunt telefoonnummers van uw contacten zowel zakelijk- als privé opslaan.
