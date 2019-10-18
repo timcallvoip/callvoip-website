@@ -54,15 +54,15 @@ usps:
       zet u eenvoudig inkomende belletjes door naar een toestel bij u op kantoor of
       naar een extern nummer.
   - icon: fa-users
-    title: Belgroep (Huntgroup)
+    title: Belgroep | Huntgroup
     content: De <a href="/telefonie/functionaliteiten/belgroep/">belgroep-app</a>
-      biedt u de mogelijkheid om een inkomend gesprek naar interne of externe nummers
+      biedt je de mogelijkheid om een inkomend gesprek naar interne of externe nummers
       door te schakelen.
   - icon: fa-random
-    title: Omleiding (Flow Control)
+    title: Omleiding |  Flow Control
     content: Een <a href="/telefonie/functionaliteiten/omleiding/">omleiding</a> is
-      een schakelaar waarmee u eenvoudig acties aan- of uitzet. U kunt voor elk nummer
-      omleidingen aanmaken.
+      een schakelaar waarmee je eenvoudig acties aan- of uitzet. Je kunt voor elk
+      nummer omleidingen aanmaken.
   - icon: fa-bell
     title: Meldteksten
     content: Met deze functionaliteit kunt u verschillende <a href="/telefonie/functionaliteiten/meldtekst/">meldteksten</a>
