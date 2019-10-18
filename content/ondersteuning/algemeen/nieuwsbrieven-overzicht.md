@@ -15,7 +15,7 @@ hideingoogle: false
 * <a href="https://mailchi.mp/callvoip/sep19-nieuweqaller_callvoipdsl-317153" target="_blank">Nieuwsbrief 11-10-19 | Het is lekker werken met de Qaller App</a>
 * <a href="https://mailchi.mp/callvoip/sep19-nieuweqaller_callvoipdsl" target="_blank">Nieuwsbrief 15-09-19 | Qaller geupdate | gratis internetcheck!</a>
 * <a href="https://mailchi.mp/callvoip/sep19-qallergeupdate" target="_blank">Nieuwsbrief 14-08-19 | Aankondiging: Qaller update!</a>
-* <a href="https://mailchi.mp/callvoip/sep19-nieuwewebsite" target="_blank">Nieuwsbrief 09-09-19 | Yes! Nieuw logo, nieuwe website!</a>>
+* <a href="https://mailchi.mp/callvoip/sep19-nieuwewebsite" target="_blank">Nieuwsbrief 09-09-19 | Yes! Nieuw logo, nieuwe website!</a>
 * <a href="https://www.simmpl.nl/downloads/Simmpl_feature-update_juli-2019.pdf" target="_blank">Simmpl Feature Update - juli 2019</a>
 * <a href="https://mailchi.mp/callvoip/simmpl-juli19-bereikbaarheid" target="_blank">Nieuwsbrief 17-07-19: Uw bereikbaarheid in beeld</a>
 * <a href="https://mailchi.mlvoip/simmpl-juli19-aankondiging" target="_blank">Nieuwsbrief 04-07-19: aankondiging onderhoud en nieuwe features!</a>
