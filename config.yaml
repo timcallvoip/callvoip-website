@@ -3,6 +3,7 @@ baseURL: https://www.callvoip.nl
 LanguageCode: nl
 title: Callvoip
 theme: callvoiptelefonie
+enableEmoji: true
 enableRobotsTXT: true
 MetaDataFormat: yaml
 params:
