@@ -4,7 +4,7 @@ hero:
   title: Succes begint met goede communicatie
   content: Met de hosted telefonieoplossing van Callvoip bereik je dat met één druk
     op de knop. Ervaar het gebruiksgemak van de modernste telefooncentrale in de cloud!
-    Bedien de centrale zelf of laat je begeleiden door ons enthousiaste supportteam.
+    Neem zelf plaats achter het stuur of laat je rijden door ons enthousiaste supportteam.
   button:
     content: Bekijk ons aanbod
     link: "/aanbod"
