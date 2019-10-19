@@ -36,7 +36,7 @@ intro:
   - icon: fa-piggy-bank
     content: Tot wel 50% voordeliger dan traditionele telefonie.
 usps:
-- title: Voor ondernemers vanaf 1 tot 100+ gebruikers
+- title: Vanaf 1 tot 100+ gebruikers
   content: <p>De hosted telefooncentrale van Callvoip biedt standaard alle belangrijke
     functies voor optimale bereikbaarheid én een professionele uitstraling. En dat
     met een ongekend bedieningsgemak. <br></br> Van automatische meldteksten tot slimme
