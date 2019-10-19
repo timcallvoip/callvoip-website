@@ -14,7 +14,7 @@ hero:
     content: Hosted telefonie vanaf 1 tot 100+ gebruikers
     link: telefonie/hostedvoip/
     id: cta-mkb
-  - icon: fa-mobile
+  - icon: fa-tty
     title: Grenzeloos bereikbaar op het vaste telefoonnummer
     content: De smartphone als basis voor zakelijke bereikbaarheid
     link: telefonie/vastmobielintegratie/
