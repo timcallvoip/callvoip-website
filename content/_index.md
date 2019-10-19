@@ -10,7 +10,7 @@ hero:
     link: "/aanbod"
   items:
   - icon: fa-cloud
-    title: Maatwerk op de plank voor slimme ondernemers
+    title: Maatwerk op de plank voor elke branch
     content: Hosted telefonie vanaf 1 tot 100+ gebruikers
     link: telefonie/hostedvoip/
     id: cta-mkb
