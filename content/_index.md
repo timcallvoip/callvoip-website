@@ -11,7 +11,7 @@ hero:
   items:
   - icon: fa-cloud
     title: Maatwerk op de plank voor slimme ondernemers
-    content: 'Hosted telefonie vanaf 1 tot 100+ gebruikers'
+    content: Hosted telefonie vanaf 1 tot 100+ gebruikers
     link: telefonie/hostedvoip/
     id: cta-mkb
   - icon: fa-tty
@@ -36,12 +36,13 @@ intro:
   - icon: fa-piggy-bank
     content: Tot wel 50% voordeliger dan traditionele telefonie.
 usps:
-- title: Callvoip is er voor de ondernemers
-  content: <p>Callvoip levert met Simmpl een telefooncentrale die zorgt voor optimale
-    bereikbaarheid én een professionele uitstraling naar je klanten. <br></br> In
-    het basispakket zitten al veel functionaliteiten. Benieuwd naar alle functionaliteiten
-    die zich in het basispakket bevinden?</p>  <a href="/telefonie/functionaliteiten/"
-    class="button">Overzicht functionaliteiten</a>
+- title: Voor ondernemers vanaf 1 tot 100+ gebruikers
+  content: <p>De hosted telefooncentrale van Callvoip biedt standaard alle belangrijke
+    functies voor optimale bereikbaarheid én een professionele uitstraling. En dat
+    met een ongekend bedieningsgemak. <br></br> Van automatische meldteksten tot slimme
+    doorschakelingen, instelling hiervan is een fluitje van een cent. Benieuwd naar
+    alle mogelijkheden?</p>  <a href="/telefonie/functionaliteiten/" class="button">Overzicht
+    functionaliteiten</a>
   items:
   - icon: fa-clock
     title: Tijdscondities
