@@ -1,10 +1,10 @@
 ---
 title: Callvoip - de modernste zakelijke telefonieprovider van Nederland
 hero:
-  title: Regel je bereikbaarheid zoals jij dat wilt
+  title: Bereikbaar zoals jij dat wilt
   content: Met de hosted telefonieoplossing van Callvoip doe je dat met één druk op
     de knop. Ervaar het gebruiksgemak van de modernste telefooncentrale in de cloud!
-    Regel alles zelf of laat je begeleiden door ons enthousiaste supportteam.
+    Bedien de centrale zelf of laat je begeleiden door ons enthousiaste supportteam.
   button:
     content: Bekijk ons aanbod
     link: "/aanbod"
