@@ -15,7 +15,7 @@ hero:
     link: telefonie/hostedvoip/
     id: cta-mkb
   - icon: fa-tty
-    title: Grenzeloos bereikbaar op het vaste telefoonnummer
+    title: Grenzeloos bereikbaar op het vaste nummer
     content: De smartphone als basis voor zakelijke bereikbaarheid
     link: telefonie/vastmobielintegratie/
     id: cta-vamos
