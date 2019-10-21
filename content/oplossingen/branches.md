@@ -8,8 +8,8 @@ hero:
   content: 'De leukste uitdaging voor ons is het optimaal inzetten van onze kennis
     op het gebied van hosted telefonie bij onze klanten. Met ruim 10 jaar ervaring
     en inmiddels duizenden klanten, zijn we actief in nagenoeg elke branch. Die ervaring
-    delen we graag zodat jij optimaal gebruik kan maken van alle mogelijkheden die
-    we bieden.
+    delen we graag zodat ook jij optimaal gebruik kunt maken van alle mogelijkheden
+    die we bieden.
 
 '
   button:
