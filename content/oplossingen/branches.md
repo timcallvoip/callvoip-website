@@ -4,17 +4,17 @@ type: page
 layout: default
 logos: true
 hero:
-  title: Kennis van de branch
+  title: Kennis van jouw branch
   content: 'De leukste uitdaging voor ons is het optimaal inzetten van onze kennis
     op het gebied van hosted telefonie bij onze klanten. Met ruim 10 jaar ervaring
-    en inmiddels duizenden klanten, zijn we actief in nagenoeg elke branche. Die ervaring
+    en inmiddels duizenden klanten, zijn we actief in nagenoeg elke branch. Die ervaring
     delen we graag zodat jij optimaal gebruik kan maken van alle mogelijkheden die
     we bieden.
 
 '
   button:
-    content: Bereken je kosten
-    link: "/calculator"
+    content: Ik ben benieuwd naar de mogelijkheden voor mij
+    link: "/offerte"
   image: "/v1566554471/laptop_650px_lbzvro.png"
   image_position: center
   disable_image_on_mobile: false
