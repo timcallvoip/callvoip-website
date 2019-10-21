@@ -146,8 +146,8 @@ options:
     link: https://callvoip.shop/
     tab: true
   - icon: fa-headset
-    title: Hulp nodig? Wij staan voor u klaar
-    content: Geen lange wachttijden of doorverbinden. Bij Callvoip spreek u altijd
+    title: Hulp nodig? We staan voor je klaar
+    content: Geen lange wachttijden of doorverbinden. Bij Callvoip spreek je altijd
       direct met een specialist.
     link: "/ondersteuning/"
     tab: true
