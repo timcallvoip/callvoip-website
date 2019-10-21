@@ -52,7 +52,7 @@ textblocks:
     ...</li><li>... en helpt jou de testomgeving testklaar te maken</li><li>Jij kunt
     7 dagen gaan testen! Gratis en stopt automatisch</li></ul></div>
   show_vshape: true
-  top_title: '<div id="aandeslag"> Druk met leven, en toch zakelijk alles onder controle?'
+  top_title: '<div id="aandeslag"> Druk met leven, en toch zakelijk alles onder controle?</div>'
 blocks:
 - title: Dé modernste Telefooncentrale
   content: |-
