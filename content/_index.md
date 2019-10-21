@@ -73,7 +73,7 @@ usps:
     content: Met de <a href="/telefonie/functionaliteiten/voicemail/">voicemailbox</a>
       kunt u gemiste gesprekken opvangen. De beller kan, na de door u ingestelde melding,
       een bericht inspreken.
-- title: Nog meer functies!
+- title: Nog meer functies
   content: 'Elke telefoniesituatie is anders. Het zou dus kunnen dat u de basis telefooncentrale
     wenst uit te breiden met één van de volgende betaalde functionaliteiten:'
   items:
