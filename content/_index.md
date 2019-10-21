@@ -99,8 +99,9 @@ usps:
       gebruiker in- en uitschakelen. '
   - icon: fa-unlock
     title: Versleutelde gesprekken
-    content: Wij bieden de mogelijkheid om uw telefonie te versleutelen en zo uw privacy
-      te waarborgen. Dit doen we door middel van <a href="/telefonie/versleutelde-telefoongesprekken/">SRTP</a>
+    content: Privacy is belangrijk bij ons, hier kun je op vertrouwen. Wij bieden
+      de mogelijkheid om gesprekken te versleutelen en zo uw privacy te waarborgen.
+      Dit doen we door middel van <a href="/telefonie/versleutelde-telefoongesprekken/">SRTP</a>
       en TLS.
   - icon: fa-mobile
     title: VoIP via de smartphone
