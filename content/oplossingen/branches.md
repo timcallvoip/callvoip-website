@@ -15,7 +15,7 @@ hero:
   button:
     content: Ik ben benieuwd naar de mogelijkheden voor mij
     link: "/offerte"
-  image: "/v1571647738/2471461_qtyjw1.png"
+  image: "/v1571648924/2471461_mdufkk.png"
   image_position: center
   disable_image_on_mobile: false
 blocks:
