@@ -121,9 +121,10 @@ usps:
       ook de naam van de beller.
   - icon: fa-window-restore
     title: VoIP CTI
-    content: <a href="/telefonie/integratiemetcrm/">VoIP CTI</a> biedt gemak en bespaart
-      tijd bij het bellen naar klanten, en als de klant u belt verschijnt een pop-up
-      met klantinformatie op uw scherm.
+    content: <a href="/telefonie/integratiemetcrm/">VoIP CTI</a> biedt de mogelijkheid
+      om honderden pakketten te koppelen met Callvoip. Bedenk eens hoe fijn het zou
+      zijn als de gegevens van de beller direct in beeld verschijnen bij een inkomende
+      oproep.
 options:
   image: "/v1565688921/test-home3_xea1m2.png"
   title: Lekker gemakkelijk, alles onder één dak!
