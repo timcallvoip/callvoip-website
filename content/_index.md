@@ -73,7 +73,7 @@ usps:
     content: Met de <a href="/telefonie/functionaliteiten/voicemail/">voicemailbox</a>
       kunt u gemiste gesprekken opvangen. De beller kan, na de door u ingestelde melding,
       een bericht inspreken.
-- title: Breid uw telefooncentrale eenvoudig uit
+- title: Nog meer functies!
   content: 'Elke telefoniesituatie is anders. Het zou dus kunnen dat u de basis telefooncentrale
     wenst uit te breiden met één van de volgende betaalde functionaliteiten:'
   items:
@@ -103,10 +103,10 @@ usps:
       te waarborgen. Dit doen we door middel van <a href="/telefonie/versleutelde-telefoongesprekken/">SRTP</a>
       en TLS.
   - icon: fa-mobile
-    title: Qaller Plus (mobiele app)
-    content: Met <a href="/telefonie/qaller/">Qaller</a> wordt uw mobiele telefoon
-      onderdeel van de telefooncentrale (bediening) én belt u in- & uitgaand met het
-      nummer van de zaak.
+    title: VoIP via de smartphone
+    content: 'Met onze app <a href="/telefonie/qaller/">Qaller Plus</a> kun je onze
+      centrale overal bedienen en wordt jouw smartphone onderdeel van de telefooncentrale.
+      Bel uit met het zakelijke nummer en bepaal zelf wanneer je bereikbaar wilt zijn. '
 - title: Behoefte aan integratie
   content: Leuk al die functionaliteiten van de telefooncentrale, maar integratie
     met CRM-, ERP en klantsysteempakketten wordt steeds belangrijker!
