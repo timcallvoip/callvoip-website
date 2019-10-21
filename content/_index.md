@@ -114,17 +114,17 @@ usps:
     inkomend gesprek? Het is allemaal mogelijk met onze slimme oplossingen.
   items:
   - icon: fa-mouse-pointer
-    title: Click-to-Dial plugin
-    content: Met de gratis <a href="/telefonie/clicktodial/">Click-to-Dial plugin</a>  van
-      Callvoip maak je in een handomdraai alle telefoonnummers in de Chrome browser
+    title: Click-to-Dial
+    content: Met de gratis <a href="/telefonie/clicktodial/">Click-to-Dial</a> plugin
+      van Callvoip maak je in een handomdraai alle telefoonnummers in de Chrome browser
       klikbaar, creëer je een bedrijfstelefoonboek en verschijnt naast het telefoonnummer
       ook de naam van de beller in beeld.
   - icon: fa-window-restore
     title: VoIP CTI
-    content: <a href="/telefonie/integratiemetcrm/">VoIP CTI</a> biedt de mogelijkheid
-      om honderden pakketten te koppelen met Callvoip. Bedenk eens hoe fijn het zou
-      zijn als de gegevens van de beller direct in beeld verschijnen bij een inkomende
-      oproep.
+    content: Onze <a href="/telefonie/integratiemetcrm/">VoIP CTI</a> plugin biedt
+      de mogelijkheid om honderden pakketten te koppelen met Callvoip. Bedenk eens
+      hoe fijn het zou zijn als de gegevens van de beller direct in beeld verschijnen
+      bij een inkomende oproep.
 options:
   image: "/v1565688921/test-home3_xea1m2.png"
   title: Lekker gemakkelijk, alles onder één dak!
