@@ -107,7 +107,7 @@ usps:
     title: VoIP via de smartphone
     content: 'Met onze app <a href="/telefonie/qaller/">Qaller Plus</a> kun je onze
       centrale overal bedienen en wordt jouw smartphone onderdeel van de telefooncentrale.
-      Bel uit met het zakelijke nummer en bepaal zelf wanneer je bereikbaar wilt zijn. '
+      Bel uit met het zakelijke nummer en bepaal zèlf wanneer je bereikbaar wilt zijn. '
 - title: Behoefte aan integratie
   content: Leuk al die functionaliteiten van de telefooncentrale, maar integratie
     met CRM-, ERP en klantsysteempakketten wordt steeds belangrijker!
