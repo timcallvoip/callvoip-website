@@ -109,9 +109,10 @@ usps:
     content: 'Met onze app <a href="/telefonie/qaller/">Qaller Plus</a> kun je onze
       centrale overal bedienen en wordt jouw smartphone onderdeel van de telefooncentrale.
       Bel uit met het zakelijke nummer en bepaal zèlf wanneer je bereikbaar wilt zijn. '
-- title: Behoefte aan integratie
-  content: Leuk al die functionaliteiten van de telefooncentrale, maar integratie
-    met CRM-, ERP en klantsysteempakketten wordt steeds belangrijker!
+- title: Integratie met software
+  content: Telefonie maakt integraal onderdeel uit van het bedrijfsproces. Leuk al
+    die functionaliteiten van de telefooncentrale, maar integratie met CRM-, ERP en
+    klantsysteempakketten wordt steeds belangrijker!
   items:
   - icon: fa-mouse-pointer
     title: Click-to-Dial plugin
