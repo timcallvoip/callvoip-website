@@ -111,7 +111,7 @@ usps:
       Bel uit met het zakelijke nummer en bepaal zèlf wanneer je bereikbaar wilt zijn. '
 - title: Integratie met software
   content: Bellen via de een muisklik en automatisch de juiste gegevens tonen bij
-    een inkomend gesprek? Het is mogelijk met ons oplossing!
+    een inkomend gesprek? Het is allemaal mogelijk met onze slimme oplossingen!
   items:
   - icon: fa-mouse-pointer
     title: Click-to-Dial plugin
