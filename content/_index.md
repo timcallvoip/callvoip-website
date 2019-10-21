@@ -12,12 +12,12 @@ hero:
   - icon: fa-cloud
     title: Maatwerk op de plank voor elke branch
     content: Hosted telefonie vanaf 1 tot 100+ gebruikers
-    link: telefonie/hostedvoip/
+    link: oplossingen/branches/
     id: cta-mkb
   - icon: fa-tty
     title: Overal bereikbaar op het vaste nummer
     content: De smartphone als basis voor zakelijke bereikbaarheid
-    link: telefonie/vastmobielintegratie/
+    link: telefonie/qaller/
     id: cta-vamos
 intro:
   image: "/v1571400615/home_omkizz.png"
