@@ -3,7 +3,7 @@ title: Qaller | de mobiele app voor uw Simmpl telefooncentrale
 type: page
 layout: default
 logos: true
-aliases: '/qaller'
+aliases: "/qaller"
 hero:
   title: Qaller (mobiele app)
   content: |-
@@ -12,8 +12,9 @@ hero:
   button:
     content: Qaller Handleiding
     link: https://www.callvoip.nl/ondersteuning/simmpl-functionaliteiten/qaller-app/
-  image: "/v1566556616/mock_up_phone_oneplus_icmuae.png"
+  image: "/v1571655384/qaller_nieuw_mobiel_laptop_mock_up_rgz8nt.png"
   image_position: start
+  disable_image_on_mobile: false
 blocks:
 - content: Met de <b>gratis</b> variant van Qaller kunt u uw telefooncentrale beheren
     en bedienen via uw smartphone. Wanneer dan ook, waar dan ook. Snel en gemakkelijk.
@@ -22,13 +23,10 @@ blocks:
   position: image_left
   title: Bedien de telefooncentrale (Qaller)
   image_position: center
-- content: |-
-    Met de <b>betaalde</b> variant van Qaller:<br> 
-    * Bedient u de telefooncentrale</br>
-    * Belt u vanaf uw smartphone met uw zakelijke telefoonnummer</br>
-    * Zien relaties uw mobiele telefoonnummer niet</br>
-    * Loopt zakelijk belverkeer via de telefooncentrale</br>
-    * Bent u inkomend bereikbaar, zowel intern als extern</br>
+- content: "Met de <b>betaalde</b> variant van Qaller:<br> \n* Bedient u de telefooncentrale</br>\n*
+    Belt u vanaf uw smartphone met uw zakelijke telefoonnummer</br>\n* Zien relaties
+    uw mobiele telefoonnummer niet</br>\n* Loopt zakelijk belverkeer via de telefooncentrale</br>\n*
+    Bent u inkomend bereikbaar, zowel intern als extern</br>"
   image: "/v1566556835/mock_up_phone_oneplus3_i8lww0.png"
   position: ''
   title: Bel met uw zakelijke telefoonnummer (Qaller Plus)
@@ -94,5 +92,6 @@ description: Met Qaller bent u inkomend bereikbaar op- en belt u uit met het zak
   nummer. Tevens bedient u eenvoudig de online telefooncentrale.
 images: []
 hideinsearch: false
+hideingoogle: false
 
 ---
