@@ -110,9 +110,8 @@ usps:
       centrale overal bedienen en wordt jouw smartphone onderdeel van de telefooncentrale.
       Bel uit met het zakelijke nummer en bepaal zèlf wanneer je bereikbaar wilt zijn. '
 - title: Integratie met software
-  content: Telefonie maakt integraal onderdeel uit van het bedrijfsproces. Leuk al
-    die functionaliteiten van de telefooncentrale, maar integratie met CRM-, ERP en
-    klantsysteempakketten wordt steeds belangrijker!
+  content: Bellen via de een muisklik en automatisch de juiste gegevens tonen bij
+    een inkomend gesprek? Het is mogelijk met ons oplossing!
   items:
   - icon: fa-mouse-pointer
     title: Click-to-Dial plugin
