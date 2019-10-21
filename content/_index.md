@@ -115,9 +115,10 @@ usps:
   items:
   - icon: fa-mouse-pointer
     title: Click-to-Dial plugin
-    content: Met de Simmpl <a href="/telefonie/clicktodial/">Click-to-Dial plugin</a>  van
-      Callvoip maakt u in een hand- omdraai alle telefoonnummers in uw Chrome browser
-      klikbaar én meer!
+    content: Met de gratis <a href="/telefonie/clicktodial/">Click-to-Dial plugin</a>  van
+      Callvoip maak je in een handomdraai alle telefoonnummers in uw Chrome browser
+      klikbaar, creëer je een bedrijfstelefoonboek en zie je naast het telefoonnummer
+      ook de naam van de beller.
   - icon: fa-window-restore
     title: VoIP CTI
     content: <a href="/telefonie/integratiemetcrm/">VoIP CTI</a> biedt gemak en bespaart
