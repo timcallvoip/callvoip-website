@@ -4,14 +4,20 @@ type: page
 layout: default
 logos: true
 hero:
-  title: Branches
-  content: Met Hosted VoIP bespaart u voortaan op uw kosten en bent u voortaan overal
-    en altijd bereikbaar. Omdat uw zakelijke telefonie over het internet gaat.
+  title: Kennis van de branch
+  content: 'De leukste uitdaging voor ons is het optimaal inzetten van onze kennis
+    op het gebied van hosted telefonie bij onze klanten. Met ruim 10 jaar ervaring
+    en inmiddels duizenden klanten, zijn we actief in nagenoeg elke branche. Die ervaring
+    delen we graag zodat jij optimaal gebruik kan maken van alle mogelijkheden die
+    we bieden.
+
+'
   button:
     content: Bereken je kosten
     link: "/calculator"
   image: "/v1566554471/laptop_650px_lbzvro.png"
   image_position: center
+  disable_image_on_mobile: false
 blocks:
 - title: Advocatuur
   image: "/v1565855183/advocatuur_yju56e.png"
@@ -77,6 +83,7 @@ link: ''
 logo: ''
 name: ''
 hideinsearch: false
+hideingoogle: false
 menu:
   main:
     name: Branches
