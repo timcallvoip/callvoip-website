@@ -152,7 +152,7 @@ options:
     link: "/ondersteuning/"
     tab: true
 prefooter:
-  title: Wilt u ook zorgeloos bereikbaar zijn?
+  title: Wil jij ook zorgeloos bereikbaar zijn?
   content: 95% van onze klanten beveelt ons aan bij collega's en vrienden. Bekijk
     de <a href="/testimonials/">testimonials</a> van onze klanten.
 testimonial:
